@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-accent: #1A56DB;
+  --color-accent-hover: #1544B0;
+}
+
+body {
+  background: #FAFAFA;
+  color: #111111;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* Sticky column for comparison table on mobile */
+.comparison-table td:first-child,
+.comparison-table th:first-child {
+  position: sticky;
+  left: 0;
+  background: white;
+  z-index: 1;
+}

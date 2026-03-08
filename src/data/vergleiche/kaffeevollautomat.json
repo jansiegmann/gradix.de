@@ -1,0 +1,125 @@
+{
+  "slug": "kaffeevollautomat",
+  "kategorie": "kueche",
+  "titel": "Kaffeevollautomat",
+  "beschreibung": "Die besten Kaffeevollautomaten im Vergleich – für perfekten Kaffeegenuss zu Hause.",
+  "keywords": [
+    "kaffeevollautomat",
+    "kaffeemaschine",
+    "espressomaschine",
+    "vollautomat",
+    "kaffee"
+  ],
+  "einleitung": "Ein Kaffeevollautomat verwandelt deine Küche in ein kleines Café. Von Espresso über Cappuccino bis Latte Macchiato – auf Knopfdruck. Wir vergleichen die beliebtesten Modelle in verschiedenen Preisklassen.",
+  "kaufberatung": "## Worauf achten beim Kauf eines Kaffeevollautomaten?\n\n### Mahlwerk\nKeramikmahlwerke sind leiser und langlebiger als Stahlmahlwerke. Die Anzahl der Mahlgradstufen bestimmt, wie fein du den Kaffee einstellen kannst.\n\n### Milchsystem\nAutomatische Milchsysteme mit integriertem Schlauch oder Karaffe sind am komfortabelsten. Manuelle Aufschäumdüsen bieten mehr Kontrolle.\n\n### Wassertank\nFür einen Haushalt mit mehreren Kaffeetrinkern empfehlen sich mindestens 1,5 Liter Fassungsvermögen.\n\n### Reinigung\nModelle mit automatischem Reinigungsprogramm sparen viel Aufwand. Achte auf herausnehmbare Brühgruppen für die manuelle Reinigung.",
+  "vergleichsKategorien": [
+    {
+      "key": "bruehgruppe",
+      "label": "Brühgruppe",
+      "sortierung": 1
+    },
+    {
+      "key": "mahlwerk",
+      "label": "Mahlwerk",
+      "sortierung": 2
+    },
+    {
+      "key": "milchsystem",
+      "label": "Milchsystem",
+      "sortierung": 3
+    },
+    {
+      "key": "wassertank",
+      "label": "Wassertank",
+      "einheit": "L",
+      "sortierung": 4
+    },
+    {
+      "key": "bohnenfach",
+      "label": "Bohnenbehälter",
+      "einheit": "g",
+      "sortierung": 5
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 6
+    },
+    {
+      "key": "programme",
+      "label": "Getränkeprogramme",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft muss ich einen Kaffeevollautomaten entkalken?",
+      "antwort": "Je nach Wasserhärte solltest du deinen Kaffeevollautomaten alle 2–3 Monate entkalken. Die meisten Geräte haben eine automatische Entkalkungserinnerung."
+    },
+    {
+      "frage": "Welcher Kaffeevollautomat eignet sich für kleine Küchen?",
+      "antwort": "Kompakte Modelle wie der DeLonghi Magnifica S sind ideal für kleine Küchen. Sie bieten trotz geringer Stellfläche alle wichtigen Funktionen."
+    },
+    {
+      "frage": "Lohnt sich ein Kaffeevollautomat gegenüber Kapseln?",
+      "antwort": "Ja, langfristig ist ein Vollautomat günstiger. Pro Tasse zahlst du etwa 5–10 Cent statt 25–40 Cent bei Kapseln. Zudem schmeckt frisch gemahlener Kaffee besser."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "DeLonghi Magnifica S ECAM 22.110.B",
+      "amazonLink": "https://www.amazon.de/dp/B004SPCFK8?tag=janxsiegmann-21",
+      "werte": {
+        "bruehgruppe": "Herausnehmbar",
+        "mahlwerk": "Kegelmahlwerk, 13 Stufen",
+        "milchsystem": "Manuelle Aufschäumdüse",
+        "wassertank": "1.8",
+        "bohnenfach": "250",
+        "lautstaerke": "62",
+        "programme": "Espresso, Kaffee, Dampf"
+      }
+    },
+    {
+      "name": "Siemens EQ.6 Plus s700 TE657503DE",
+      "amazonLink": "https://www.amazon.de/dp/B07FK9Y5R4?tag=janxsiegmann-21",
+      "werte": {
+        "bruehgruppe": "Herausnehmbar",
+        "mahlwerk": "Keramikmahlwerk, leisePlus",
+        "milchsystem": "Automatisch mit Milchkaraffe",
+        "wassertank": "1.7",
+        "bohnenfach": "300",
+        "lautstaerke": "55",
+        "programme": "Espresso, Kaffee, Cappuccino, Latte Macchiato, Flat White, Milchkaffee"
+      }
+    },
+    {
+      "name": "Philips EP2220/10 Serie 2200",
+      "amazonLink": "https://www.amazon.de/dp/B07XKXRQ2Z?tag=janxsiegmann-21",
+      "werte": {
+        "bruehgruppe": "Herausnehmbar",
+        "mahlwerk": "Keramikmahlwerk, 12 Stufen",
+        "milchsystem": "Klassischer Aufschäumer",
+        "wassertank": "1.8",
+        "bohnenfach": "275",
+        "lautstaerke": "60",
+        "programme": "Espresso, Kaffee"
+      }
+    },
+    {
+      "name": "Jura E8 (EB) 2024",
+      "amazonLink": "https://www.amazon.de/dp/B0C1234567?tag=janxsiegmann-21",
+      "werte": {
+        "bruehgruppe": "Fest verbaut, automatische Reinigung",
+        "mahlwerk": "Aroma G3 Mahlwerk, 6 Stufen",
+        "milchsystem": "Automatisch, Fine Foam Technologie",
+        "wassertank": "1.9",
+        "bohnenfach": "280",
+        "lautstaerke": "54",
+        "programme": "17 Spezialitäten inkl. Flat White, Cortado, Cold Brew"
+      }
+    }
+  ],
+  "erstelltAm": "2026-01-20",
+  "aktualisiertAm": "2026-02-28"
+}

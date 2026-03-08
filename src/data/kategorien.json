@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "handwerk",
+    "name": "Handwerk",
+    "beschreibung": "Vergleiche für Werkzeuge und Handwerksgeräte",
+    "icon": "🔧",
+    "sortierung": 1
+  },
+  {
+    "slug": "kueche",
+    "name": "Küche",
+    "beschreibung": "Vergleiche für Küchengeräte und Küchenhelfer",
+    "icon": "🍳",
+    "sortierung": 2
+  },
+  {
+    "slug": "garten",
+    "name": "Garten",
+    "beschreibung": "Vergleiche für Gartengeräte und Gartenzubehör",
+    "icon": "🌱",
+    "sortierung": 3
+  },
+  {
+    "slug": "elektronik",
+    "name": "Elektronik",
+    "beschreibung": "Vergleiche für Elektronikgeräte und Zubehör",
+    "icon": "💻",
+    "sortierung": 4
+  },
+  {
+    "slug": "haushalt",
+    "name": "Haushalt",
+    "beschreibung": "Vergleiche für Haushaltsgeräte",
+    "icon": "🏠",
+    "sortierung": 5
+  },
+  {
+    "slug": "sport",
+    "name": "Sport & Fitness",
+    "beschreibung": "Vergleiche für Sportgeräte und Fitnessgeräte",
+    "icon": "💪",
+    "sortierung": 6
+  },
+  {
+    "slug": "buero",
+    "name": "Büro",
+    "beschreibung": "Vergleiche für Büroausstattung und Bürogeräte",
+    "icon": "🪑",
+    "sortierung": 7
+  }
+]

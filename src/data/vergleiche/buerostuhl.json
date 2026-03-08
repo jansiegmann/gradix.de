@@ -1,0 +1,116 @@
+{
+  "slug": "buerostuhl",
+  "kategorie": "buero",
+  "titel": "Bürostuhl",
+  "beschreibung": "Die besten Bürostühle im Vergleich – ergonomisch sitzen für gesundes Arbeiten.",
+  "keywords": [
+    "bürostuhl",
+    "schreibtischstuhl",
+    "ergonomischer stuhl",
+    "gaming stuhl",
+    "drehstuhl"
+  ],
+  "einleitung": "Wer täglich mehrere Stunden am Schreibtisch sitzt, braucht einen guten Bürostuhl. Ergonomie, Verstellbarkeit und Materialqualität entscheiden über Komfort und Gesundheit. Wir vergleichen empfehlenswerte Modelle.",
+  "kaufberatung": "## Worauf achten beim Kauf eines Bürostuhls?\n\n### Ergonomie\nAchte auf eine verstellbare Lordosenstütze und eine anpassbare Sitzhöhe. Die Sitzfläche sollte tief genug sein, damit du bequem sitzt, ohne dass die Kante in die Kniekehlen drückt.\n\n### Armlehnen\n4D-Armlehnen (höhen-, breiten-, tiefen- und winkelverstellbar) bieten die beste Anpassbarkeit. Mindestens höhenverstellbare Armlehnen sollten vorhanden sein.\n\n### Belastbarkeit\nPrüfe die maximale Belastbarkeit, besonders wenn du größer oder schwerer bist. Die meisten Stühle tragen 100–120 kg, Premium-Modelle bis 150 kg.\n\n### Material\nMesh-Rücken sind besonders atmungsaktiv. Polsterung bietet mehr Komfort, kann aber bei Hitze unangenehm werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "belastbarkeit",
+      "label": "Max. Belastbarkeit",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "sitztiefe",
+      "label": "Sitztiefe",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "armlehnen",
+      "label": "Armlehnen",
+      "sortierung": 3
+    },
+    {
+      "key": "lordose",
+      "label": "Lordosenstütze",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "sortierung": 5
+    },
+    {
+      "key": "garantie",
+      "label": "Garantie",
+      "einheit": "Jahre",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie stelle ich meinen Bürostuhl richtig ein?",
+      "antwort": "Die Sitzhöhe sollte so eingestellt sein, dass deine Füße flach auf dem Boden stehen und die Oberschenkel waagerecht sind. Die Rückenlehne sollte den unteren Rücken stützen, und die Armlehnen sollten auf Schreibtischhöhe sein."
+    },
+    {
+      "frage": "Lohnt sich ein teurer Bürostuhl?",
+      "antwort": "Ja, wenn du mehr als 4 Stunden täglich sitzt. Hochwertige Bürostühle bieten bessere Ergonomie und halten oft 10+ Jahre. Auf die Nutzungsdauer gerechnet ist der Preis pro Tag sehr gering."
+    },
+    {
+      "frage": "Was ist besser: Mesh oder Polsterung?",
+      "antwort": "Mesh (Netzstoff) ist atmungsaktiver und ideal bei Wärme. Polsterung bietet anfangs mehr Komfort, kann aber schneller durchsitzen. Für lange Arbeitstage empfehlen viele Experten Mesh-Rückenlehnen mit gepolsterter Sitzfläche."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Herman Miller Aeron (Remastered)",
+      "amazonLink": "https://www.amazon.de/dp/B01N0ZTDIO?tag=janxsiegmann-21",
+      "werte": {
+        "belastbarkeit": "136",
+        "sitztiefe": "42–47",
+        "armlehnen": "4D, voll verstellbar",
+        "lordose": "PostureFit SL, verstellbar",
+        "material": "Pellicle Mesh (Sitz + Rücken)",
+        "garantie": "12"
+      }
+    },
+    {
+      "name": "Secretlab Titan Evo 2024",
+      "amazonLink": "https://www.amazon.de/dp/B0BSECRETL?tag=janxsiegmann-21",
+      "werte": {
+        "belastbarkeit": "130",
+        "sitztiefe": "49",
+        "armlehnen": "4D, CloudSwap-Technologie",
+        "lordose": "Integriert, 4-Wege verstellbar",
+        "material": "Neo Hybrid Leatherette oder SoftWeave Plus",
+        "garantie": "5"
+      }
+    },
+    {
+      "name": "Autonomous ErgoChair Pro",
+      "amazonLink": "https://www.amazon.de/dp/B09ERGO123?tag=janxsiegmann-21",
+      "werte": {
+        "belastbarkeit": "136",
+        "sitztiefe": "46–51",
+        "armlehnen": "3D, höhen- und winkelverstellbar",
+        "lordose": "Verstellbar, stufenlos",
+        "material": "Mesh-Rücken, Schaumstoff-Sitz",
+        "garantie": "2"
+      }
+    },
+    {
+      "name": "IKEA MARKUS",
+      "amazonLink": "https://www.amazon.de/dp/B00IKEAMAR?tag=janxsiegmann-21",
+      "werte": {
+        "belastbarkeit": "110",
+        "sitztiefe": "46",
+        "armlehnen": "Fest, nicht verstellbar",
+        "lordose": "Fest integriert",
+        "material": "Mesh-Rücken, Stoffpolster-Sitz",
+        "garantie": "10"
+      }
+    }
+  ],
+  "erstelltAm": "2026-02-01",
+  "aktualisiertAm": "2026-03-05"
+}
