@@ -13,16 +13,16 @@ export default function VergleichsTabelle({
 
   return (
     <div className="overflow-x-auto">
-      <table className="comparison-table w-full min-w-[600px] border-collapse">
+      <table className="comparison-table w-full min-w-[480px] border-collapse">
         <thead>
           <tr>
-            <th className="w-36 border-b border-gray-200 p-3 text-left text-sm font-normal text-gray-500">
+            <th className="w-28 sm:w-36 border-b border-gray-200 p-2 sm:p-3 text-left text-xs sm:text-sm font-normal text-gray-500">
               Produkt
             </th>
             {produkte.map((p) => (
               <th
                 key={p.name}
-                className="min-w-[180px] border-b border-gray-200 p-3 text-center text-sm font-semibold text-gray-900"
+                className="min-w-[140px] sm:min-w-[180px] border-b border-gray-200 p-2 sm:p-3 text-center text-xs sm:text-sm font-semibold text-gray-900"
               >
                 {p.name}
               </th>
@@ -33,7 +33,7 @@ export default function VergleichsTabelle({
           {/* Dynamic comparison rows */}
           {sortedKategorien.map((kat) => (
             <tr key={kat.key}>
-              <td className="border-b border-gray-100 p-3 text-sm text-gray-700">
+              <td className="border-b border-gray-100 p-2 sm:p-3 text-xs sm:text-sm text-gray-700">
                 {kat.label}
                 {kat.einheit && (
                   <span className="ml-1 text-xs text-gray-400">
@@ -44,7 +44,7 @@ export default function VergleichsTabelle({
               {produkte.map((p) => (
                 <td
                   key={p.name}
-                  className="border-b border-gray-100 p-3 text-center text-sm text-gray-700"
+                  className="border-b border-gray-100 p-2 sm:p-3 text-center text-xs sm:text-sm text-gray-700"
                 >
                   {p.werte[kat.key] || "–"}
                 </td>
@@ -54,9 +54,9 @@ export default function VergleichsTabelle({
 
           {/* Affiliate button row */}
           <tr>
-            <td className="p-3"></td>
+            <td className="p-2 sm:p-3"></td>
             {produkte.map((p) => (
-              <td key={p.name} className="p-3 text-center">
+              <td key={p.name} className="p-2 sm:p-3 text-center">
                 <AffiliateButton name={p.name} link={p.amazonLink} />
               </td>
             ))}

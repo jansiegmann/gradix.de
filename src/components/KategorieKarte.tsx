@@ -14,7 +14,7 @@ export default function KategorieKarte({
   return (
     <Link
       href={`/${slug}`}
-      className="block rounded border border-gray-200 bg-white px-6 py-5 hover:border-accent"
+      className="block rounded border border-gray-200 bg-white px-5 py-4 sm:px-6 sm:py-5 hover:border-accent active:scale-[0.98] transition-transform"
     >
       {icon && <span className="text-2xl">{icon}</span>}
       <p className="mt-2 font-semibold text-gray-900">{name}</p>

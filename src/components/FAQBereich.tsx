@@ -12,7 +12,7 @@ export default function FAQBereich({ faqs }: { faqs: FAQ[] }) {
         <div key={i} className="border-b border-gray-200">
           <button
             onClick={() => setOpenIndex(openIndex === i ? null : i)}
-            className="flex w-full items-center justify-between py-3 text-left text-sm font-medium text-gray-900"
+            className="flex w-full items-center justify-between py-4 text-left text-sm font-medium text-gray-900"
           >
             {faq.frage}
             <span className="ml-2 text-gray-400">

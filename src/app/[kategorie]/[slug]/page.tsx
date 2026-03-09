@@ -60,7 +60,7 @@ export default async function VergleichSeite({
   const faqSchema = generateFAQSchema(vergleich);
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-8">
+    <div className="mx-auto max-w-6xl px-4 py-6 sm:py-8">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -79,10 +79,10 @@ export default async function VergleichSeite({
         ]}
       />
 
-      <h1 className="mb-3 text-2xl font-bold text-gray-900">
+      <h1 className="mb-2 sm:mb-3 text-xl sm:text-2xl font-bold text-gray-900">
         Die besten {vergleich.titel} im Vergleich
       </h1>
-      <p className="mb-6 text-gray-600">{vergleich.einleitung}</p>
+      <p className="mb-4 sm:mb-6 text-sm sm:text-base text-gray-600">{vergleich.einleitung}</p>
 
       <VergleichsTabelle vergleich={vergleich} />
 

@@ -9,6 +9,7 @@ body {
   background: #FAFAFA;
   color: #111111;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* Sticky column for comparison table on mobile */
@@ -18,4 +19,32 @@ body {
   left: 0;
   background: white;
   z-index: 1;
+  border-right: 1px solid #e5e7eb;
+}
+
+/* Shadow hint on sticky column for scroll indication */
+.comparison-table td:first-child::after,
+.comparison-table th:first-child::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -6px;
+  bottom: 0;
+  width: 6px;
+  background: linear-gradient(to right, rgba(0,0,0,0.06), transparent);
+  pointer-events: none;
+}
+
+/* Smooth scrolling for table */
+.overflow-x-auto {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+
+/* Larger touch targets on mobile */
+@media (max-width: 640px) {
+  .comparison-table td,
+  .comparison-table th {
+    padding: 10px 8px;
+  }
 }
