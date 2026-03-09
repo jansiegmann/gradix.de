@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CookieBanner from "@/components/CookieBanner";
 import { generateWebsiteSchema } from "@/lib/schema";
+import { getKategorien } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: {
@@ -31,7 +32,7 @@ export default function RootLayout({
         />
       </head>
       <body className="flex min-h-screen flex-col antialiased">
-        <Header />
+        <Header kategorien={getKategorien().map((k) => ({ slug: k.slug, name: k.name }))} />
         <main className="flex-1">{children}</main>
         <Footer />
         <CookieBanner />

@@ -47,5 +47,166 @@
     "beschreibung": "Vergleiche für Büroausstattung und Bürogeräte",
     "icon": "🪑",
     "sortierung": 7
+  },
+  {
+    "slug": "fotografie",
+    "name": "Fotografie",
+    "beschreibung": "Vergleiche für Kameras, Objektive und Fotozubehör",
+    "icon": "📷",
+    "sortierung": 8
+  },
+  {
+    "slug": "e-mobilitaet",
+    "name": "E-Mobilität",
+    "beschreibung": "Vergleiche für E-Bikes, E-Scooter und Ladegeräte",
+    "icon": "🔋",
+    "sortierung": 9
+  },
+  {
+    "slug": "musik",
+    "name": "Musik",
+    "beschreibung": "Vergleiche für Musikinstrumente und Audio-Equipment",
+    "icon": "🎵",
+    "sortierung": 10
+  },
+  {
+    "slug": "heimwerken",
+    "name": "Heimwerken",
+    "beschreibung": "Vergleiche für Heimwerker-Werkzeuge und Baumaterial",
+    "icon": "🪚",
+    "sortierung": 11
+  },
+  {
+    "slug": "heizen-klima",
+    "name": "Heizen & Klima",
+    "beschreibung": "Vergleiche für Heizgeräte, Klimaanlagen und Lüfter",
+    "icon": "🌡️",
+    "sortierung": 12
+  },
+  {
+    "slug": "bad",
+    "name": "Bad",
+    "beschreibung": "Vergleiche für Badezimmerausstattung und Sanitärbedarf",
+    "icon": "🚿",
+    "sortierung": 13
+  },
+  {
+    "slug": "schlafen",
+    "name": "Schlafen",
+    "beschreibung": "Vergleiche für Matratzen, Kissen und Schlafzubehör",
+    "icon": "🛏️",
+    "sortierung": 14
+  },
+  {
+    "slug": "gaming",
+    "name": "Gaming",
+    "beschreibung": "Vergleiche für Gaming-Hardware und Zubehör",
+    "icon": "🎮",
+    "sortierung": 15
+  },
+  {
+    "slug": "auto",
+    "name": "Auto",
+    "beschreibung": "Vergleiche für Autozubehör und KFZ-Technik",
+    "icon": "🚗",
+    "sortierung": 16
+  },
+  {
+    "slug": "outdoor",
+    "name": "Outdoor",
+    "beschreibung": "Vergleiche für Outdoor-Ausrüstung und Wanderzubehör",
+    "icon": "🏔️",
+    "sortierung": 17
+  },
+  {
+    "slug": "werkstatt",
+    "name": "Werkstatt",
+    "beschreibung": "Vergleiche für Werkstattausrüstung und Profi-Werkzeug",
+    "icon": "🛠️",
+    "sortierung": 18
+  },
+  {
+    "slug": "sicherheit",
+    "name": "Sicherheit",
+    "beschreibung": "Vergleiche für Alarmanlagen, Kameras und Sicherheitstechnik",
+    "icon": "🔒",
+    "sortierung": 19
+  },
+  {
+    "slug": "kinder",
+    "name": "Kinder",
+    "beschreibung": "Vergleiche für Kinderausstattung und Spielzeug",
+    "icon": "👶",
+    "sortierung": 20
+  },
+  {
+    "slug": "kochen",
+    "name": "Kochen",
+    "beschreibung": "Vergleiche für Kochgeschirr, Grills und Kochzubehör",
+    "icon": "👨‍🍳",
+    "sortierung": 21
+  },
+  {
+    "slug": "reinigung",
+    "name": "Reinigung",
+    "beschreibung": "Vergleiche für Staubsauger, Dampfreiniger und Reinigungsgeräte",
+    "icon": "🧹",
+    "sortierung": 22
+  },
+  {
+    "slug": "beleuchtung",
+    "name": "Beleuchtung",
+    "beschreibung": "Vergleiche für Lampen, LED-Leuchten und Lichtsysteme",
+    "icon": "💡",
+    "sortierung": 23
+  },
+  {
+    "slug": "wohnen",
+    "name": "Wohnen",
+    "beschreibung": "Vergleiche für Möbel, Dekoration und Wohnaccessoires",
+    "icon": "🛋️",
+    "sortierung": 24
+  },
+  {
+    "slug": "koerperpflege",
+    "name": "Körperpflege",
+    "beschreibung": "Vergleiche für Rasierer, Zahnbürsten und Pflegegeräte",
+    "icon": "🪥",
+    "sortierung": 25
+  },
+  {
+    "slug": "camping",
+    "name": "Camping",
+    "beschreibung": "Vergleiche für Zelte, Schlafsäcke und Campingausrüstung",
+    "icon": "⛺",
+    "sortierung": 26
+  },
+  {
+    "slug": "aquaristik",
+    "name": "Aquaristik",
+    "beschreibung": "Vergleiche für Aquarien, Filter und Aquaristik-Zubehör",
+    "icon": "🐠",
+    "sortierung": 27
+  },
+  {
+    "slug": "textil",
+    "name": "Textil",
+    "beschreibung": "Vergleiche für Nähmaschinen, Bügeleisen und Textilpflege",
+    "icon": "🧵",
+    "sortierung": 28
+  },
+  {
+    "slug": "energie",
+    "name": "Energie",
+    "beschreibung": "Vergleiche für Solaranlagen, Batteriespeicher und Energietechnik",
+    "icon": "⚡",
+    "sortierung": 29
+  },
+  {
+    "slug": "wintersport",
+    "name": "Wintersport",
+    "beschreibung": "Vergleiche für Ski, Snowboards und Wintersportausrüstung",
+    "icon": "⛷️",
+    "sortierung": 30
   }
 ]

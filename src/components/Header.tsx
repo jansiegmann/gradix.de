@@ -4,7 +4,11 @@ import Link from "next/link";
 import { useState } from "react";
 import Suchleiste from "./Suchleiste";
 
-export default function Header() {
+export default function Header({
+  kategorien,
+}: {
+  kategorien: { slug: string; name: string }[];
+}) {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
@@ -51,56 +55,17 @@ export default function Header() {
       {menuOpen && (
         <div className="border-t border-gray-200 px-4 py-3 md:hidden">
           <Suchleiste />
-          <nav className="mt-3 flex flex-col gap-1">
-            <Link
-              href="/handwerk"
-              className="py-2.5 text-gray-700 active:text-accent"
-              onClick={() => setMenuOpen(false)}
-            >
-              Handwerk
-            </Link>
-            <Link
-              href="/kueche"
-              className="py-2.5 text-gray-700 active:text-accent"
-              onClick={() => setMenuOpen(false)}
-            >
-              Küche
-            </Link>
-            <Link
-              href="/garten"
-              className="py-2.5 text-gray-700 active:text-accent"
-              onClick={() => setMenuOpen(false)}
-            >
-              Garten
-            </Link>
-            <Link
-              href="/elektronik"
-              className="py-2.5 text-gray-700 active:text-accent"
-              onClick={() => setMenuOpen(false)}
-            >
-              Elektronik
-            </Link>
-            <Link
-              href="/haushalt"
-              className="py-2.5 text-gray-700 active:text-accent"
-              onClick={() => setMenuOpen(false)}
-            >
-              Haushalt
-            </Link>
-            <Link
-              href="/sport"
-              className="py-2.5 text-gray-700 active:text-accent"
-              onClick={() => setMenuOpen(false)}
-            >
-              Sport & Fitness
-            </Link>
-            <Link
-              href="/buero"
-              className="py-2.5 text-gray-700 active:text-accent"
-              onClick={() => setMenuOpen(false)}
-            >
-              Büro
-            </Link>
+          <nav className="mt-3 grid grid-cols-2 gap-x-4 gap-y-1">
+            {kategorien.map((k) => (
+              <Link
+                key={k.slug}
+                href={`/${k.slug}`}
+                className="py-2.5 text-gray-700 active:text-accent"
+                onClick={() => setMenuOpen(false)}
+              >
+                {k.name}
+              </Link>
+            ))}
           </nav>
         </div>
       )}
