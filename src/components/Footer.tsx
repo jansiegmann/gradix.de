@@ -36,7 +36,7 @@ export default function Footer() {
 
         <div className="mt-8 border-t border-gray-200 pt-6 text-center text-xs text-gray-500">
           <p>Gradix.de ist Teilnehmer des Amazon PartnerNet-Programms.</p>
-          <p className="mt-1">Mit ♥ aus Deutschland</p>
+          <p className="mt-1">Website von <a href="https://zentrasoftware.com" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-900">Zentrasoftware</a></p>
         </div>
       </div>
     </footer>
