@@ -64,19 +64,21 @@
   ],
   "produkte": [
     {
-      "name": "Bosch PFS 5000 E",
-      "amazonLink": "https://www.amazon.de/dp/B00HX70J5Y?tag=janxsiegmann-21",
+      "name": "Einhell TC-SY 700 S",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B06XTPWJD8?tag=janxsiegmann-21",
       "werte": {
-        "leistung": "1200",
-        "behaelter": "1000",
-        "spruehmenge": "500",
-        "gewicht": "4.8",
-        "duesen": "3 Stück (Wandfarbe, Lack, Lasur)",
-        "reinigung": "SDS-System, einfache Demontage"
+        "leistung": "700",
+        "behaelter": "800",
+        "spruehmenge": "350",
+        "gewicht": "3.1",
+        "duesen": "1 Stück (universal)",
+        "reinigung": "Manuelle Reinigung"
       }
     },
     {
       "name": "Bosch PFS 3000-2 E",
+      "preisklasse": "Mittelklasse",
       "amazonLink": "https://www.amazon.de/dp/B00HX70IIM?tag=janxsiegmann-21",
       "werte": {
         "leistung": "650",
@@ -89,6 +91,7 @@
     },
     {
       "name": "Wagner W 590 FLEXiO",
+      "preisklasse": "Premium",
       "amazonLink": "https://www.amazon.de/dp/B01BUDJ6TG?tag=janxsiegmann-21",
       "werte": {
         "leistung": "630",
@@ -100,15 +103,16 @@
       }
     },
     {
-      "name": "Einhell TC-SY 700 S",
-      "amazonLink": "https://www.amazon.de/dp/B06XTPWJD8?tag=janxsiegmann-21",
+      "name": "Bosch PFS 5000 E",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00HX70J5Y?tag=janxsiegmann-21",
       "werte": {
-        "leistung": "700",
-        "behaelter": "800",
-        "spruehmenge": "350",
-        "gewicht": "3.1",
-        "duesen": "1 Stück (universal)",
-        "reinigung": "Manuelle Reinigung"
+        "leistung": "1200",
+        "behaelter": "1000",
+        "spruehmenge": "500",
+        "gewicht": "4.8",
+        "duesen": "3 Stück (Wandfarbe, Lack, Lasur)",
+        "reinigung": "SDS-System, einfache Demontage"
       }
     }
   ],

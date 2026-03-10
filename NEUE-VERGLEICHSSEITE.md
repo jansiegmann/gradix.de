@@ -37,30 +37,51 @@ Beispiel:
 5. Reinigung
 ```
 
-## 4. Produkte (3-5 Stück)
+## 4. Produkte (genau 4 Stück)
+
+Es werden immer genau 4 Produkte verglichen, eines pro Preisklasse:
+
+| Preisklasse | Beschreibung |
+|-------------|-------------|
+| **Budget** | Günstiges Einsteigermodell, gutes Preis-Leistungs-Verhältnis |
+| **Mittelklasse** | Solides Allrounder-Modell für die meisten Nutzer |
+| **Premium** | Hochwertiges Modell mit erweiterten Features |
+| **Profi** | Top-Modell für Profis oder Enthusiasten |
 
 Pro Produkt brauche ich:
 
 | Feld | Beschreibung |
 |------|-------------|
 | **Name** | Voller Produktname (z.B. "Bosch PFS 5000 E") |
+| **Preisklasse** | Eine der 4 Preisklassen: Budget, Mittelklasse, Premium, Profi |
 | **Amazon-ASIN** | Die 10-stellige ASIN von amazon.de (findest du in der URL: `amazon.de/dp/XXXXXXXXXX`) |
 | **Werte** | Für jedes Vergleichskriterium den konkreten Wert |
 
 Beispiel:
 ```
-Produkt: Bosch PFS 5000 E
+Produkt 1 (Budget): Einhell TC-SY 700 S
+ASIN: B06XTPWJD8
+- Leistung: 700
+- Behältervolumen: 800
+- Gewicht: 3.1
+
+Produkt 2 (Mittelklasse): Bosch PFS 3000-2 E
+ASIN: B00HX70IIM
+- Leistung: 650
+- ...
+
+Produkt 3 (Premium): Wagner W 590 FLEXiO
+ASIN: B01BUDJ6TG
+- ...
+
+Produkt 4 (Profi): Bosch PFS 5000 E
 ASIN: B00HX70J5Y
-- Leistung: 1200
-- Behältervolumen: 1000
-- Gewicht: 4.8
-- Düsenarten: 3 Stück (Wandfarbe, Lack, Lasur)
-- Reinigung: SDS-System, einfache Demontage
+- ...
 ```
 
 **Wichtig bei der Produktauswahl:**
+- Immer genau 4 Produkte, Reihenfolge: Budget → Mittelklasse → Premium → Profi
 - Nur Produkte die aktuell auf amazon.de verfügbar sind
-- Mix aus verschiedenen Preisklassen (günstig, mittel, premium)
 - Nur bekannte Marken, keine No-Name-Produkte
 - ASIN muss korrekt sein (prüfe die URL `amazon.de/dp/[ASIN]`)
 
@@ -97,11 +118,28 @@ Bitte gib alles in diesem JSON-Format zurück (copy-paste-ready):
   ],
   "produkte": [
     {
-      "name": "Produktname",
+      "name": "Budget-Produktname",
+      "preisklasse": "Budget",
       "amazonLink": "https://www.amazon.de/dp/ASIN?tag=janxsiegmann-21",
-      "werte": {
-        "kriterium_key": "Wert"
-      }
+      "werte": { "kriterium_key": "Wert" }
+    },
+    {
+      "name": "Mittelklasse-Produktname",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/ASIN?tag=janxsiegmann-21",
+      "werte": { "kriterium_key": "Wert" }
+    },
+    {
+      "name": "Premium-Produktname",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/ASIN?tag=janxsiegmann-21",
+      "werte": { "kriterium_key": "Wert" }
+    },
+    {
+      "name": "Profi-Produktname",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/ASIN?tag=janxsiegmann-21",
+      "werte": { "kriterium_key": "Wert" }
     }
   ],
   "erstelltAm": "YYYY-MM-DD",
@@ -112,6 +150,7 @@ Bitte gib alles in diesem JSON-Format zurück (copy-paste-ready):
 **Regeln für das JSON:**
 - `slug`: Kleinbuchstaben, Bindestriche, keine Umlaute (ue statt ü)
 - `kategorie`: Muss exakt einer der Werte sein: `handwerk`, `kueche`, `garten`, `elektronik`, `haushalt`, `sport`, `buero`, `fotografie`, `e-mobilitaet`, `musik`, `heimwerken`, `heizen-klima`, `bad`, `schlafen`, `gaming`, `auto`, `outdoor`, `werkstatt`, `sicherheit`, `kinder`, `kochen`, `reinigung`, `beleuchtung`, `wohnen`, `koerperpflege`, `camping`, `aquaristik`, `textil`, `energie`, `wintersport`
+- `preisklasse`: Muss exakt einer der Werte sein: `Budget`, `Mittelklasse`, `Premium`, `Profi` — immer genau 4 Produkte, eines pro Preisklasse
 - `amazonLink`: Immer mit `?tag=janxsiegmann-21` am Ende
 - `werte`-Keys müssen exakt den `key`-Werten aus `vergleichsKategorien` entsprechen
 - Alle Texte auf Deutsch

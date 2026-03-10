@@ -69,6 +69,7 @@
   "produkte": [
     {
       "name": "DeLonghi Magnifica S ECAM 22.110.B",
+      "preisklasse": "Budget",
       "amazonLink": "https://www.amazon.de/dp/B00400OMU0?tag=janxsiegmann-21",
       "werte": {
         "bruehgruppe": "Herausnehmbar",
@@ -81,20 +82,8 @@
       }
     },
     {
-      "name": "Siemens EQ.6 Plus s700 TE657503DE",
-      "amazonLink": "https://www.amazon.de/dp/B074QL4W4K?tag=janxsiegmann-21",
-      "werte": {
-        "bruehgruppe": "Herausnehmbar",
-        "mahlwerk": "Keramikmahlwerk, leisePlus",
-        "milchsystem": "Automatisch mit Milchkaraffe",
-        "wassertank": "1.7",
-        "bohnenfach": "300",
-        "lautstaerke": "55",
-        "programme": "Espresso, Kaffee, Cappuccino, Latte Macchiato, Flat White, Milchkaffee"
-      }
-    },
-    {
       "name": "Philips EP2220/10 Serie 2200",
+      "preisklasse": "Mittelklasse",
       "amazonLink": "https://www.amazon.de/dp/B07MMSHC4R?tag=janxsiegmann-21",
       "werte": {
         "bruehgruppe": "Herausnehmbar",
@@ -107,7 +96,22 @@
       }
     },
     {
+      "name": "Siemens EQ.6 Plus s700 TE657503DE",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B074QL4W4K?tag=janxsiegmann-21",
+      "werte": {
+        "bruehgruppe": "Herausnehmbar",
+        "mahlwerk": "Keramikmahlwerk, leisePlus",
+        "milchsystem": "Automatisch mit Milchkaraffe",
+        "wassertank": "1.7",
+        "bohnenfach": "300",
+        "lautstaerke": "55",
+        "programme": "Espresso, Kaffee, Cappuccino, Latte Macchiato, Flat White, Milchkaffee"
+      }
+    },
+    {
       "name": "Jura E8 (EB) 2024",
+      "preisklasse": "Profi",
       "amazonLink": "https://www.amazon.de/dp/B0CPM5MNNY?tag=janxsiegmann-21",
       "werte": {
         "bruehgruppe": "Fest verbaut, automatische Reinigung",

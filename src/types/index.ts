@@ -13,8 +13,13 @@ export interface VergleichsKategorie {
   sortierung: number;
 }
 
+export type Preisklasse = "Budget" | "Mittelklasse" | "Premium" | "Profi";
+
+export const PREISKLASSEN: Preisklasse[] = ["Budget", "Mittelklasse", "Premium", "Profi"];
+
 export interface Produkt {
   name: string;
+  preisklasse: Preisklasse;
   amazonLink: string;
   werte: Record<string, string>;
 }

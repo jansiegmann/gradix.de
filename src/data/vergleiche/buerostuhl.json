@@ -63,31 +63,21 @@
   ],
   "produkte": [
     {
-      "name": "Herman Miller Aeron (Remastered)",
-      "amazonLink": "https://www.amazon.de/dp/B0C72TB7LL?tag=janxsiegmann-21",
+      "name": "IKEA MARKUS",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BW8V39SS?tag=janxsiegmann-21",
       "werte": {
-        "belastbarkeit": "136",
-        "sitztiefe": "42–47",
-        "armlehnen": "4D, voll verstellbar",
-        "lordose": "PostureFit SL, verstellbar",
-        "material": "Pellicle Mesh (Sitz + Rücken)",
-        "garantie": "12"
-      }
-    },
-    {
-      "name": "Secretlab Titan Evo 2024",
-      "amazonLink": "https://www.amazon.de/dp/B0B3RH59X8?tag=janxsiegmann-21",
-      "werte": {
-        "belastbarkeit": "130",
-        "sitztiefe": "49",
-        "armlehnen": "4D, CloudSwap-Technologie",
-        "lordose": "Integriert, 4-Wege verstellbar",
-        "material": "Neo Hybrid Leatherette oder SoftWeave Plus",
-        "garantie": "5"
+        "belastbarkeit": "110",
+        "sitztiefe": "46",
+        "armlehnen": "Fest, nicht verstellbar",
+        "lordose": "Fest integriert",
+        "material": "Mesh-Rücken, Stoffpolster-Sitz",
+        "garantie": "10"
       }
     },
     {
       "name": "Autonomous ErgoChair Pro",
+      "preisklasse": "Mittelklasse",
       "amazonLink": "https://www.amazon.de/dp/B01N3O6RDT?tag=janxsiegmann-21",
       "werte": {
         "belastbarkeit": "136",
@@ -99,15 +89,29 @@
       }
     },
     {
-      "name": "IKEA MARKUS",
-      "amazonLink": "https://www.amazon.de/dp/B0BW8V39SS?tag=janxsiegmann-21",
+      "name": "Secretlab Titan Evo 2024",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0B3RH59X8?tag=janxsiegmann-21",
       "werte": {
-        "belastbarkeit": "110",
-        "sitztiefe": "46",
-        "armlehnen": "Fest, nicht verstellbar",
-        "lordose": "Fest integriert",
-        "material": "Mesh-Rücken, Stoffpolster-Sitz",
-        "garantie": "10"
+        "belastbarkeit": "130",
+        "sitztiefe": "49",
+        "armlehnen": "4D, CloudSwap-Technologie",
+        "lordose": "Integriert, 4-Wege verstellbar",
+        "material": "Neo Hybrid Leatherette oder SoftWeave Plus",
+        "garantie": "5"
+      }
+    },
+    {
+      "name": "Herman Miller Aeron (Remastered)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C72TB7LL?tag=janxsiegmann-21",
+      "werte": {
+        "belastbarkeit": "136",
+        "sitztiefe": "42–47",
+        "armlehnen": "4D, voll verstellbar",
+        "lordose": "PostureFit SL, verstellbar",
+        "material": "Pellicle Mesh (Sitz + Rücken)",
+        "garantie": "12"
       }
     }
   ],

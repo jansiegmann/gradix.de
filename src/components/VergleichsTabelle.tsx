@@ -22,9 +22,14 @@ export default function VergleichsTabelle({
             {produkte.map((p) => (
               <th
                 key={p.name}
-                className="min-w-[140px] sm:min-w-[180px] border-b border-gray-200 p-2 sm:p-3 text-center text-xs sm:text-sm font-semibold text-gray-900"
+                className="min-w-[140px] sm:min-w-[180px] border-b border-gray-200 p-2 sm:p-3 text-center"
               >
-                {p.name}
+                <span className="block text-[10px] sm:text-xs font-medium uppercase tracking-wide text-accent">
+                  {p.preisklasse}
+                </span>
+                <span className="block text-xs sm:text-sm font-semibold text-gray-900">
+                  {p.name}
+                </span>
               </th>
             ))}
           </tr>
