@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     template: "%s – Gradix.de",
   },
   description:
-    "Unabhängige Vergleiche nach klaren Parametern für Alltags-Produkte aller Art. Finde das beste Produkt für deine Bedürfnisse.",
+    "Unabhängige Vergleiche nach klaren und praxisnahen Kriterien für Alltags-Produkte aller Art. Finde das beste Produkt für deine Bedürfnisse.",
   metadataBase: new URL("https://gradix.de"),
   icons: {
     icon: [
