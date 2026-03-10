@@ -119,13 +119,6 @@
     "sortierung": 17
   },
   {
-    "slug": "werkstatt",
-    "name": "Werkstatt",
-    "beschreibung": "Vergleiche für Werkstattausrüstung und Profi-Werkzeug",
-    "icon": "🛠️",
-    "sortierung": 18
-  },
-  {
     "slug": "sicherheit",
     "name": "Sicherheit",
     "beschreibung": "Vergleiche für Alarmanlagen, Kameras und Sicherheitstechnik",

@@ -39,3 +39,19 @@ export function getVergleich(
 export function getVergleichCount(kategorie: string): number {
   return getVergleicheByKategorie(kategorie).length;
 }
+
+export function getAehnlicheVergleiche(
+  kategorie: string,
+  ausschlussSlug: string,
+  anzahl = 3
+): Vergleich[] {
+  const alle = getVergleicheByKategorie(kategorie).filter(
+    (v) => v.slug !== ausschlussSlug
+  );
+  // Shuffle and take first n
+  for (let i = alle.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [alle[i], alle[j]] = [alle[j], alle[i]];
+  }
+  return alle.slice(0, anzahl);
+}

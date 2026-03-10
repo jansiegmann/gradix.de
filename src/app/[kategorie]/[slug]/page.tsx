@@ -4,7 +4,9 @@ import {
   getKategorie,
   getVergleich,
   getAlleVergleiche,
+  getAehnlicheVergleiche,
 } from "@/lib/data";
+import Link from "next/link";
 import {
   generateBreadcrumbSchema,
   generateProductSchema,
@@ -120,6 +122,34 @@ export default async function VergleichSeite({
           <FAQBereich faqs={vergleich.faq} />
         </section>
       )}
+
+      {(() => {
+        const aehnliche = getAehnlicheVergleiche(kategorieSlug, slug);
+        if (aehnliche.length === 0) return null;
+        return (
+          <section className="mt-10">
+            <h2 className="mb-4 text-xl font-semibold text-gray-900">
+              Ähnliche Vergleiche
+            </h2>
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+              {aehnliche.map((v) => (
+                <Link
+                  key={v.slug}
+                  href={`/${v.kategorie}/${v.slug}`}
+                  className="rounded-lg border border-gray-200 p-4 transition-colors hover:border-accent hover:bg-blue-50"
+                >
+                  <span className="block text-sm font-semibold text-gray-900">
+                    {v.titel}
+                  </span>
+                  <span className="mt-1 block text-xs text-gray-500">
+                    {v.produkte.length} Produkte im Vergleich
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        );
+      })()}
 
       <p className="mt-10 text-xs text-gray-400">
         * Affiliate-Links: Bei einem Kauf über unsere Links erhalten wir eine
