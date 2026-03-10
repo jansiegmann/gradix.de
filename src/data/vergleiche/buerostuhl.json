@@ -2,119 +2,99 @@
   "slug": "buerostuhl",
   "kategorie": "buero",
   "titel": "Bürostuhl",
-  "beschreibung": "Die besten Bürostühle im Vergleich – ergonomisch sitzen für gesundes Arbeiten.",
-  "keywords": [
-    "bürostuhl",
-    "schreibtischstuhl",
-    "ergonomischer stuhl",
-    "gaming stuhl",
-    "drehstuhl"
-  ],
-  "einleitung": "Wer täglich mehrere Stunden am Schreibtisch sitzt, braucht einen guten Bürostuhl. Ergonomie, Verstellbarkeit und Materialqualität entscheiden über Komfort und Gesundheit. Wir vergleichen empfehlenswerte Modelle.",
-  "kaufberatung": "## Worauf achten beim Kauf eines Bürostuhls?\n\n### Ergonomie\nAchte auf eine verstellbare Lordosenstütze und eine anpassbare Sitzhöhe. Die Sitzfläche sollte tief genug sein, damit du bequem sitzt, ohne dass die Kante in die Kniekehlen drückt.\n\n### Armlehnen\n4D-Armlehnen (höhen-, breiten-, tiefen- und winkelverstellbar) bieten die beste Anpassbarkeit. Mindestens höhenverstellbare Armlehnen sollten vorhanden sein.\n\n### Belastbarkeit\nPrüfe die maximale Belastbarkeit, besonders wenn du größer oder schwerer bist. Die meisten Stühle tragen 100–120 kg, Premium-Modelle bis 150 kg.\n\n### Material\nMesh-Rücken sind besonders atmungsaktiv. Polsterung bietet mehr Komfort, kann aber bei Hitze unangenehm werden.",
+  "beschreibung": "Bürostuhl Test 2026: Die 4 besten ergonomischen Bürostühle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": ["bürostuhl", "ergonomischer bürostuhl", "bürostuhl test", "schreibtischstuhl ergonomisch", "bürostuhl homeoffice"],
+  "einleitung": "Du suchst einen Bürostuhl, der deinen Rücken auch nach acht Stunden am Schreibtisch nicht im Stich lässt? In diesem Vergleich findest du vier ergonomische Bürostühle — vom soliden Einsteigermodell bis zum Profi-Stuhl — die wir anhand praxisnaher Kriterien gegenüberstellen, damit du die richtige Wahl für dein Budget und deine Bedürfnisse triffst.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nNicht jeder braucht den teuersten Stuhl. Wer nur gelegentlich im Homeoffice sitzt, fährt mit dem CLOUVOU CleverSeat für unter 250 € hervorragend. Der Ergotopia NextBack ist der Sweet Spot für die meisten Vollzeit-Schreibtischtäter — hier stimmt das Verhältnis aus Ergonomie, Komfort und Preis einfach. Der Dauphin to-Strike Comfort Pro lohnt sich, wenn du Wert auf gepolsterte Rückenlehne und deutsche Wertarbeit mit TÜV-Zertifikat legst. Und der Herman Miller Aeron? Der ist eine Investition fürs Berufsleben — wer täglich acht Stunden oder mehr sitzt und den Stuhl über ein Jahrzehnt nutzen will, bekommt hier unerreichte Qualität.\n\n### Worauf kommt es bei der Ergonomie wirklich an?\nDie drei wichtigsten Funktionen sind: eine verstellbare Lordosenstütze (stützt den unteren Rücken), eine Synchronmechanik (Sitz und Lehne bewegen sich mit dir) und verstellbare Armlehnen (entlasten Schultern und Nacken). Sitztiefenverstellung ist ein Bonus, den nicht jeder günstige Stuhl bietet. Faustregel: Je mehr Verstellmöglichkeiten, desto besser kannst du den Stuhl an deinen Körper anpassen.\n\n### Mesh oder Polster — was ist besser?\nMesh-Rückenlehnen (Netzstoff) sind atmungsaktiv und ideal, wenn du schnell schwitzt oder in warmen Räumen arbeitest. Gepolsterte Lehnen fühlen sich beim Anlehnen weicher an und bieten ein klassischeres Sitzgefühl. Der Dauphin setzt auf Polster, die anderen drei auf Mesh. Beides hat seine Berechtigung — es ist letztlich Geschmackssache.\n\n### Häufige Fehler beim Bürostuhlkauf\nDer größte Fehler: Nur nach dem Preis gehen. Ein 80-€-Stuhl von Amazon ohne Synchronmechanik und Lordosenstütze ist langfristig teurer als ein ordentlicher ergonomischer Stuhl — nämlich durch Arztbesuche. Zweiter Fehler: Den Stuhl nicht richtig einstellen. Selbst ein 1.300-€-Stuhl bringt nichts, wenn Sitzhöhe und Armlehnen nicht an deinen Körper angepasst sind. Dritter Fehler: Nur auf Testsiegel vertrauen, ohne die eigene Körpergröße zu prüfen — ein Stuhl für 160–190 cm passt nicht für jemanden mit 195 cm.\n\n### Brauche ich wirklich einen Stuhl für über 1.000 €?\nKurze Antwort: Nein, nicht unbedingt. Für die meisten Nutzer bietet die Mittelklasse um 400 € alles, was ergonomisch nötig ist. Der Sprung zum Herman Miller Aeron lohnt sich vor allem, wenn du den Stuhl wirklich jeden Tag viele Stunden nutzt, ein Aluminiumgestell und 12 Jahre Garantie willst, und bereit bist, langfristig zu denken. Das Pellicle-Mesh des Aeron ist nach wie vor Maßstab in der Branche — aber der Ergotopia NextBack kommt für ein Drittel des Preises bemerkenswert nah ran.\n\n### Pflege und Wartung\nBürostühle mit Mesh-Lehne kannst du einfach mit einem feuchten Tuch abwischen. Bei Polsterstoffen empfiehlt sich gelegentliches Absaugen. Prüfe alle sechs Monate, ob alle Schrauben fest sitzen, und tausche die Rollen aus, wenn sie anfangen zu quietschen oder Kratzer auf dem Boden hinterlassen. Die meisten Hersteller bieten Ersatzteile an — beim Dauphin und Herman Miller sogar über viele Jahre nach dem Kauf.",
   "vergleichsKategorien": [
-    {
-      "key": "belastbarkeit",
-      "label": "Max. Belastbarkeit",
-      "einheit": "kg",
-      "sortierung": 1
-    },
-    {
-      "key": "sitztiefe",
-      "label": "Sitztiefe",
-      "einheit": "cm",
-      "sortierung": 2
-    },
-    {
-      "key": "armlehnen",
-      "label": "Armlehnen",
-      "sortierung": 3
-    },
-    {
-      "key": "lordose",
-      "label": "Lordosenstütze",
-      "sortierung": 4
-    },
-    {
-      "key": "material",
-      "label": "Material",
-      "sortierung": 5
-    },
-    {
-      "key": "garantie",
-      "label": "Garantie",
-      "einheit": "Jahre",
-      "sortierung": 6
-    }
+    { "key": "max_belastbarkeit", "label": "Max. Belastbarkeit", "einheit": "kg", "sortierung": 1 },
+    { "key": "koerpergroesse", "label": "Empf. Körpergröße", "einheit": "cm", "sortierung": 2 },
+    { "key": "armlehnen", "label": "Armlehnen", "einheit": "", "sortierung": 3 },
+    { "key": "sitztiefenverstellung", "label": "Sitztiefenverstellung", "einheit": "", "sortierung": 4 },
+    { "key": "rueckenlehne", "label": "Rückenlehne", "einheit": "", "sortierung": 5 },
+    { "key": "verarbeitungsqualitaet", "label": "Verarbeitungsqualität", "einheit": "", "sortierung": 6 },
+    { "key": "garantie", "label": "Garantie", "einheit": "Jahre", "sortierung": 7 }
   ],
   "faq": [
     {
-      "frage": "Wie stelle ich meinen Bürostuhl richtig ein?",
-      "antwort": "Die Sitzhöhe sollte so eingestellt sein, dass deine Füße flach auf dem Boden stehen und die Oberschenkel waagerecht sind. Die Rückenlehne sollte den unteren Rücken stützen, und die Armlehnen sollten auf Schreibtischhöhe sein."
+      "frage": "Welcher ergonomische Bürostuhl ist für Anfänger im Homeoffice geeignet?",
+      "antwort": "Für den Einstieg ins Homeoffice empfehlen wir den CLOUVOU CleverSeat. Er bietet für unter 250 € bereits 4D-Armlehnen, eine verstellbare Lordosenstütze und eine Synchronmechanik — Funktionen, die bei vielen günstigeren Stühlen fehlen. Wer etwas mehr investieren will, greift zum Ergotopia NextBack, der zusätzlich eine Sitztiefenverstellung und eine patentierte Synchronmechanik mitbringt."
     },
     {
-      "frage": "Lohnt sich ein teurer Bürostuhl?",
-      "antwort": "Ja, wenn du mehr als 4 Stunden täglich sitzt. Hochwertige Bürostühle bieten bessere Ergonomie und halten oft 10+ Jahre. Auf die Nutzungsdauer gerechnet ist der Preis pro Tag sehr gering."
+      "frage": "Bürostuhl Mesh oder Polster — was ist besser für langes Sitzen?",
+      "antwort": "Mesh-Rückenlehnen sind atmungsaktiver und ideal für Menschen, die schnell schwitzen. In warmen Büros oder im Sommer ist das ein klarer Vorteil. Gepolsterte Lehnen wie beim Dauphin to-Strike Comfort Pro bieten ein weicheres Anlehngefühl. Für reinen Sitzkomfort über acht Stunden sind beide Varianten geeignet, solange die Ergonomie stimmt."
     },
     {
-      "frage": "Was ist besser: Mesh oder Polsterung?",
-      "antwort": "Mesh (Netzstoff) ist atmungsaktiver und ideal bei Wärme. Polsterung bietet anfangs mehr Komfort, kann aber schneller durchsitzen. Für lange Arbeitstage empfehlen viele Experten Mesh-Rückenlehnen mit gepolsterter Sitzfläche."
+      "frage": "Lohnt sich der Herman Miller Aeron wirklich?",
+      "antwort": "Der Aeron ist eine langfristige Investition. Mit 12 Jahren Garantie, dem einzigartigen 8Z Pellicle-Mesh und einer Verarbeitung, die auch nach einem Jahrzehnt täglicher Nutzung überzeugt, rechnet sich der hohe Preis für Vielnutzer. Wer allerdings weniger als sechs Stunden täglich sitzt, bekommt mit dem Ergotopia NextBack für ein Drittel des Preises eine sehr gute Alternative."
+    },
+    {
+      "frage": "Welcher Bürostuhl ist Testsieger bei Stiftung Warentest?",
+      "antwort": "Der Dauphin to-Strike Comfort Pro (Trendoffice) erhielt im Test 09/2021 der Stiftung Warentest die Note 2,0 und ist damit der bestbewertete Bürostuhl der letzten Jahre. Im Test 2024 wurde der Höffner Home Worx Office 95 mit Note 2,5 Testsieger, allerdings mit deutlich schwächerem Sitzkomfort. Der Dauphin bleibt daher die bessere Wahl."
+    },
+    {
+      "frage": "Kann ich einen Bürostuhl für unter 300 € kaufen, der wirklich ergonomisch ist?",
+      "antwort": "Ja, der CLOUVOU CleverSeat beweist das. Er bietet 4D-Armlehnen, Synchronmechanik, Lordosenstütze und eine Kopfstütze für rund 250 €. Abstriche gibt es beim Fußkreuz (kein Aluminium) und beim Material der Kopfstütze (Kunstleder statt Mesh). Für den Preis ist das Gesamtpaket aber bemerkenswert gut — vorausgesetzt, du bist zwischen 160 und 200 cm groß."
     }
   ],
   "produkte": [
     {
-      "name": "IKEA MARKUS",
+      "name": "CLOUVOU CleverSeat",
       "preisklasse": "Budget",
-      "amazonLink": "https://www.amazon.de/dp/B0BW8V39SS?tag=janxsiegmann-21",
+      "amazonLink": "https://www.amazon.de/dp/B0BGZB6VZM?tag=janxsiegmann-21",
       "werte": {
-        "belastbarkeit": "110",
-        "sitztiefe": "46",
-        "armlehnen": "Fest, nicht verstellbar",
-        "lordose": "Fest integriert",
-        "material": "Mesh-Rücken, Stoffpolster-Sitz",
-        "garantie": "10"
-      }
-    },
-    {
-      "name": "Autonomous ErgoChair Pro",
-      "preisklasse": "Mittelklasse",
-      "amazonLink": "https://www.amazon.de/dp/B01N3O6RDT?tag=janxsiegmann-21",
-      "werte": {
-        "belastbarkeit": "136",
-        "sitztiefe": "46–51",
-        "armlehnen": "3D, höhen- und winkelverstellbar",
-        "lordose": "Verstellbar, stufenlos",
-        "material": "Mesh-Rücken, Schaumstoff-Sitz",
+        "max_belastbarkeit": "150",
+        "koerpergroesse": "160–200",
+        "armlehnen": "4D (Höhe, Tiefe, Breite, Winkel)",
+        "sitztiefenverstellung": "Ja",
+        "rueckenlehne": "Mesh (Nylon)",
+        "verarbeitungsqualitaet": "gut",
         "garantie": "2"
       }
     },
     {
-      "name": "Secretlab Titan Evo 2024",
-      "preisklasse": "Premium",
-      "amazonLink": "https://www.amazon.de/dp/B0B3RH59X8?tag=janxsiegmann-21",
+      "name": "Ergotopia NextBack",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07DCMVBMM?tag=janxsiegmann-21",
       "werte": {
-        "belastbarkeit": "130",
-        "sitztiefe": "49",
-        "armlehnen": "4D, CloudSwap-Technologie",
-        "lordose": "Integriert, 4-Wege verstellbar",
-        "material": "Neo Hybrid Leatherette oder SoftWeave Plus",
+        "max_belastbarkeit": "150",
+        "koerpergroesse": "160–190",
+        "armlehnen": "3D (Höhe, Tiefe, Breite)",
+        "sitztiefenverstellung": "Ja",
+        "rueckenlehne": "Mesh (Polyester)",
+        "verarbeitungsqualitaet": "sehr gut",
         "garantie": "5"
       }
     },
     {
-      "name": "Herman Miller Aeron (Remastered)",
-      "preisklasse": "Profi",
-      "amazonLink": "https://www.amazon.de/dp/B0C72TB7LL?tag=janxsiegmann-21",
+      "name": "Dauphin to-Strike Comfort Pro SK 9248",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08M93SBLL?tag=janxsiegmann-21",
       "werte": {
-        "belastbarkeit": "136",
-        "sitztiefe": "42–47",
-        "armlehnen": "4D, voll verstellbar",
-        "lordose": "PostureFit SL, verstellbar",
-        "material": "Pellicle Mesh (Sitz + Rücken)",
+        "max_belastbarkeit": "125",
+        "koerpergroesse": "160–190",
+        "armlehnen": "4F (Höhe, Breite, Tiefe, beidseitig)",
+        "sitztiefenverstellung": "Ja",
+        "rueckenlehne": "Polster (Stoff)",
+        "verarbeitungsqualitaet": "sehr gut",
+        "garantie": "5"
+      }
+    },
+    {
+      "name": "Herman Miller Aeron Remastered",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B06Y46Z775?tag=janxsiegmann-21",
+      "werte": {
+        "max_belastbarkeit": "136",
+        "koerpergroesse": "158–188 (Größe B)",
+        "armlehnen": "4D (Höhe, Tiefe, Breite, Pivot)",
+        "sitztiefenverstellung": "Ja",
+        "rueckenlehne": "8Z Pellicle Mesh",
+        "verarbeitungsqualitaet": "herausragend",
         "garantie": "12"
       }
     }
   ],
-  "erstelltAm": "2026-02-01",
-  "aktualisiertAm": "2026-03-05"
+  "erstelltAm": "2026-03-10",
+  "aktualisiertAm": "2026-03-10"
 }
