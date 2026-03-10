@@ -12,8 +12,16 @@ export const metadata: Metadata = {
     template: "%s – Gradix.de",
   },
   description:
-    "Unabhängige Produktvergleiche für Produkte von 100 € bis 2.500 €. Finde das beste Produkt für deine Bedürfnisse.",
+    "Unabhängige Vergleiche nach klaren Parametern für Alltags-Produkte aller Art. Finde das beste Produkt für deine Bedürfnisse.",
   metadataBase: new URL("https://gradix.de"),
+  icons: {
+    icon: [
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
