@@ -70,13 +70,6 @@
     "sortierung": 10
   },
   {
-    "slug": "heimwerken",
-    "name": "Heimwerken",
-    "beschreibung": "Vergleiche für Heimwerker-Werkzeuge und Baumaterial",
-    "icon": "🪚",
-    "sortierung": 11
-  },
-  {
     "slug": "heizen-klima",
     "name": "Heizen & Klima",
     "beschreibung": "Vergleiche für Heizgeräte, Klimaanlagen und Lüfter",

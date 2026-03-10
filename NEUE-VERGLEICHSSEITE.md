@@ -9,7 +9,7 @@ Bitte recherchiere die folgenden Informationen für einen neuen Produktvergleich
 | Feld | Beschreibung | Beispiel |
 |------|-------------|---------|
 | **Produkttyp** | Was wird verglichen? | Farbsprühsystem |
-| **Kategorie** | Eine der folgenden: `handwerk`, `kueche`, `garten`, `elektronik`, `haushalt`, `sport`, `buero`, `fotografie`, `e-mobilitaet`, `musik`, `heimwerken`, `heizen-klima`, `bad`, `schlafen`, `gaming`, `auto`, `outdoor`, `sicherheit`, `kinder`, `kochen`, `reinigung`, `beleuchtung`, `wohnen`, `koerperpflege`, `camping`, `aquaristik`, `textil`, `energie`, `wintersport` | handwerk |
+| **Kategorie** | Eine der folgenden: `handwerk`, `kueche`, `garten`, `elektronik`, `haushalt`, `sport`, `buero`, `fotografie`, `e-mobilitaet`, `musik`, `heizen-klima`, `bad`, `schlafen`, `gaming`, `auto`, `outdoor`, `sicherheit`, `kinder`, `kochen`, `reinigung`, `beleuchtung`, `wohnen`, `koerperpflege`, `camping`, `aquaristik`, `textil`, `energie`, `wintersport` | handwerk |
 | **SEO-Keywords** | 5 deutsche Suchbegriffe die Leute bei Google eingeben würden | farbsprühsystem, farbspritzpistole, airless sprühgerät, ... |
 
 ## 2. Texte (auf Deutsch, SEO-optimiert)
@@ -149,7 +149,7 @@ Bitte gib alles in diesem JSON-Format zurück (copy-paste-ready):
 
 **Regeln für das JSON:**
 - `slug`: Kleinbuchstaben, Bindestriche, keine Umlaute (ue statt ü)
-- `kategorie`: Muss exakt einer der Werte sein: `handwerk`, `kueche`, `garten`, `elektronik`, `haushalt`, `sport`, `buero`, `fotografie`, `e-mobilitaet`, `musik`, `heimwerken`, `heizen-klima`, `bad`, `schlafen`, `gaming`, `auto`, `outdoor`, `sicherheit`, `kinder`, `kochen`, `reinigung`, `beleuchtung`, `wohnen`, `koerperpflege`, `camping`, `aquaristik`, `textil`, `energie`, `wintersport`
+- `kategorie`: Muss exakt einer der Werte sein: `handwerk`, `kueche`, `garten`, `elektronik`, `haushalt`, `sport`, `buero`, `fotografie`, `e-mobilitaet`, `musik`, `heizen-klima`, `bad`, `schlafen`, `gaming`, `auto`, `outdoor`, `sicherheit`, `kinder`, `kochen`, `reinigung`, `beleuchtung`, `wohnen`, `koerperpflege`, `camping`, `aquaristik`, `textil`, `energie`, `wintersport`
 - `preisklasse`: Muss exakt einer der Werte sein: `Budget`, `Mittelklasse`, `Premium`, `Profi` — immer genau 4 Produkte, eines pro Preisklasse
 - `amazonLink`: Immer mit `?tag=janxsiegmann-21` am Ende
 - `werte`-Keys müssen exakt den `key`-Werten aus `vergleichsKategorien` entsprechen
