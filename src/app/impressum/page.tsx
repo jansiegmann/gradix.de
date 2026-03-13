@@ -29,6 +29,17 @@ export default function ImpressumPage() {
         </section>
 
         <section>
+          <h2 className="mb-2 text-lg font-semibold text-gray-900">
+            Umsatzsteuer-Identifikationsnummer
+          </h2>
+          <p>
+            Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
+            <br />
+            DE332336223
+          </p>
+        </section>
+
+        <section>
           <h2 className="mb-2 text-lg font-semibold text-gray-900">Kontakt</h2>
           <p>
             E-Mail: jan@jansiegmann.de
