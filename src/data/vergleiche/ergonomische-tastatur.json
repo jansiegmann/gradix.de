@@ -1,0 +1,128 @@
+{
+  "slug": "ergonomische-tastatur",
+  "kategorie": "buero",
+  "titel": "Ergonomische Tastatur",
+  "beschreibung": "Ergonomische Tastatur Test 2026: Die 4 besten ergonomischen Tastaturen ✓ Split-Design ✓ Gegen RSI ✓ Für Vielschreiber",
+  "keywords": [
+    "ergonomische tastatur",
+    "ergonomische tastatur test",
+    "split tastatur",
+    "ergonomische tastatur vergleich",
+    "logitech ergonomische tastatur",
+    "tastatur handgelenkschmerzen",
+    "ergonomische tastatur 2026",
+    "microsoft ergonomic keyboard",
+    "tastatur ergonomisch",
+    "tastatur rsi"
+  ],
+  "einleitung": "Viel tippen und Schmerzen in Handgelenken oder Schultern? Eine ergonomische Tastatur bringt deine Hände in eine natürlichere Position. Wir vergleichen vier Modelle und zeigen, welche Tastatur am besten für Vielschreiber geeignet ist.",
+  "kaufberatung": "### Split, gebogen oder geteilte Tastatur?\nGebogene Tastaturen (wie die Microsoft Ergonomic) haben eine leichte Wölbung und ein geteiltes Layout — der leichteste Einstieg. Voll geteilte Tastaturen (Split-Keyboards) erlauben individuelle Positionierung beider Hälften — maximale Flexibilität, aber die größte Umgewöhnung. Ergonomische Standard-Tastaturen mit Handballenauflage sind der Kompromiss.\n\n### Handballenauflage — wichtig oder nicht?\nEine Handballenauflage entlastet die Handgelenke deutlich. Die Auflage sollte die Handballen stützen, nicht die Handgelenke. Memory-Foam ist am bequemsten. Viele ergonomische Tastaturen haben sie bereits integriert.\n\n### Kabel oder kabellos?\nFür den Büro-Schreibtisch ist kabellos komfortabler und aufgeräumter. Bluetooth mit Multi-Device-Funktion ist ideal, wenn du zwischen PC und Laptop wechselst. Kabel stört nicht, wenn die Tastatur fest am Platz steht.\n\n### Umgewöhnungszeit\nBei gebogenen Tastaturen dauert es 1-3 Tage. Bei Split-Keyboards rechne mit 1-3 Wochen, bis du wieder deine volle Tippgeschwindigkeit erreichst. Der langfristige Komfortgewinn lohnt sich.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "handballenauflage",
+      "label": "Handballenauflage",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "layout",
+      "label": "Layout",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "beleuchtung",
+      "label": "Beleuchtung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Hilft eine ergonomische Tastatur gegen RSI?",
+      "antwort": "Ja, ergonomische Tastaturen können RSI-Symptome lindern und vorbeugen. Das geteilte oder gebogene Layout reduziert die Ulnarabduktion (seitliches Abknicken der Handgelenke) — eine Hauptursache für RSI bei Vielschreibern."
+    },
+    {
+      "frage": "Welche ergonomische Tastatur ist für Programmierer geeignet?",
+      "antwort": "Programmierer profitieren von geteilten Tastaturen wie dem Logitech ERGO K860, weil sie die Schulterbreite beibehalten können. Noch besser: Die Logitech MX Keys S mit Combo-Nutzung mit einer ergonomischen Maus."
+    },
+    {
+      "frage": "Kann ich eine ergonomische Tastatur mit Mac nutzen?",
+      "antwort": "Ja, die meisten ergonomischen Tastaturen funktionieren per Bluetooth auch mit Mac. Die Logitech ERGO K860 und Microsoft Ergonomic Keyboard haben Multidevice-Support und funktionieren mit Windows, Mac und Linux."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Microsoft Ergonomic Keyboard",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07GRXDPF3?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Gebogen (Split-Design)",
+        "verbindung": "Kabel (USB)",
+        "handballenauflage": "Ja (integriert)",
+        "layout": "QWERTZ (Deutsch)",
+        "akkulaufzeit": "k.A. (Kabel)",
+        "beleuchtung": "Nein"
+      }
+    },
+    {
+      "name": "Logitech Wave Keys",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CL5LBK2W?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Gebogen (Wave-Design)",
+        "verbindung": "Bluetooth + USB-Dongle",
+        "handballenauflage": "Ja (gepolstert)",
+        "layout": "QWERTZ (Deutsch)",
+        "akkulaufzeit": "36 Monate (2× AAA)",
+        "beleuchtung": "Nein"
+      }
+    },
+    {
+      "name": "Logitech ERGO K860",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07ZWK2MWG?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Gebogen (Split + Curved)",
+        "verbindung": "Bluetooth + USB-Dongle",
+        "handballenauflage": "Ja (Memory-Foam)",
+        "layout": "QWERTZ (Deutsch)",
+        "akkulaufzeit": "24 Monate (2× AAA)",
+        "beleuchtung": "Nein"
+      }
+    },
+    {
+      "name": "Kinesis Freestyle Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07CXJ1B8D?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Voll geteilt (Split)",
+        "verbindung": "USB-Kabel",
+        "handballenauflage": "Optional (separat)",
+        "layout": "QWERTZ (Deutsch)",
+        "akkulaufzeit": "k.A. (Kabel)",
+        "beleuchtung": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

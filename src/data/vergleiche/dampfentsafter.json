@@ -1,0 +1,118 @@
+{
+  "slug": "dampfentsafter",
+  "kategorie": "kueche",
+  "titel": "Dampfentsafter",
+  "beschreibung": "Dampfentsafter Test 2026: Die 4 besten Entsafter im Vergleich ✓ Für Obst & Beeren ✓ Große Mengen ✓ Kaufberatung",
+  "keywords": [
+    "dampfentsafter test",
+    "dampfentsafter vergleich",
+    "dampfentsafter edelstahl",
+    "dampfentsafter obst",
+    "dampfentsafter elektrisch",
+    "bester dampfentsafter",
+    "dampfentsafter test 2026",
+    "dampfentsafter kaufberatung",
+    "entsafter dampf",
+    "dampfentsafter beeren"
+  ],
+  "einleitung": "Ein Dampfentsafter verwandelt Kiloweise Beeren, Äpfel oder Trauben in köstlichen Saft — ganz ohne Strom (auf dem Herd) oder elektrisch. Im Vergleich zum Slow Juicer verarbeitet er große Mengen auf einmal. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Wie funktioniert ein Dampfentsafter?\nWasser wird im unteren Topf erhitzt, der Dampf steigt auf und löst den Saft aus dem Obst im Fruchtkorb. Der Saft sammelt sich im mittleren Auffangbehälter und läuft über einen Schlauch ab. Einfach, effektiv und für große Mengen ideal.\n\n### Herd oder elektrisch?\nHerd-Modelle (Edelstahltöpfe) sind vielseitiger und langlebiger — du kannst sie auch als normalen Kochtopf nutzen. Elektrische Dampfentsafter sind bequemer (einfach einschalten), aber nur zum Entsaften nutzbar.\n\n### Volumen: Wie viel Obst passt rein?\nStandard-Modelle fassen 8–10 Liter im Fruchtkorb. Das reicht für ca. 3–5 kg Obst pro Durchgang. Für große Erntemengen (Gartenobst) lohnen sich 12-Liter-Modelle.\n\n### Saftausbeute\nDie Saftausbeute hängt vom Obst ab: Beeren geben 60–80 %, Äpfel 40–60 %. Der Dampfentsafter ist besonders effizient bei weichem Obst wie Johannisbeeren, Holunder und Trauben.\n\n### Haltbarkeit des Safts\nHeiß abgefüllter Dampfsaft ist bei sauberer Arbeit 6–12 Monate haltbar — ohne Konservierungsstoffe. Direkt in sterilisierte Flaschen abfüllen und sofort verschließen.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "volumen_fruchtkorb",
+      "label": "Volumen Fruchtkorb",
+      "einheit": "Liter",
+      "sortierung": 2
+    },
+    {
+      "key": "volumen_saftbehaelter",
+      "label": "Volumen Saftbehälter",
+      "einheit": "Liter",
+      "sortierung": 3
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "durchmesser",
+      "label": "Durchmesser",
+      "einheit": "cm",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Obst eignet sich für den Dampfentsafter?",
+      "antwort": "Besonders gut geeignet: Johannisbeeren, Holunder, Trauben, Kirschen, Brombeeren und Äpfel. Weniger geeignet: Bananen, Avocados und sehr trockenes Obst. Auch Tomaten lassen sich hervorragend dampfentsaften."
+    },
+    {
+      "frage": "Wie lange dauert das Dampfentsaften?",
+      "antwort": "Je nach Obstsorte 45–90 Minuten. Weiche Beeren sind schneller fertig als harte Äpfel. Den Saft zwischendurch über den Schlauch ablassen."
+    },
+    {
+      "frage": "Kann ich den Dampfentsafter auch auf einem Induktionsherd nutzen?",
+      "antwort": "Nur wenn er einen magnetischen Boden hat. Edelstahl-Modelle mit ferritischem Boden sind induktionsfähig — prüfe die Herstellerangabe. Reine Aluminium-Modelle funktionieren nicht auf Induktion."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "TW Notes Dampfentsafter 8L Edelstahl",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0D44LD33G?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Herd (alle Herdarten inkl. Induktion)",
+        "volumen_fruchtkorb": "8",
+        "volumen_saftbehaelter": "4",
+        "material": "Edelstahl 18/10",
+        "durchmesser": "26"
+      }
+    },
+    {
+      "name": "WMF Dampfentsafter",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00O0JKTHO?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Herd (alle Herdarten inkl. Induktion)",
+        "volumen_fruchtkorb": "k.A.",
+        "volumen_saftbehaelter": "5",
+        "material": "Cromargan Edelstahl",
+        "durchmesser": "25"
+      }
+    },
+    {
+      "name": "Kochstar Dampfentsafter",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B002W0QRDA?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Herd (alle Herdarten inkl. Induktion)",
+        "volumen_fruchtkorb": "10",
+        "volumen_saftbehaelter": "5,5",
+        "material": "Edelstahl",
+        "durchmesser": "26"
+      }
+    },
+    {
+      "name": "Rommelsbacher EE 1505/E",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01ICT8T6K?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Elektrisch (1.500 W)",
+        "volumen_fruchtkorb": "10",
+        "volumen_saftbehaelter": "4",
+        "material": "Edelstahl",
+        "durchmesser": "26"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "crosstrainer",
+  "kategorie": "sport",
+  "titel": "Crosstrainer / Ellipsentrainer",
+  "beschreibung": "Crosstrainer Test 2026: Die 4 besten Ellipsentrainer im Vergleich ✓ Kaufberatung",
+  "keywords": [
+    "crosstrainer test",
+    "ellipsentrainer vergleich",
+    "crosstrainer kaufberatung",
+    "bester crosstrainer 2026",
+    "crosstrainer klappbar"
+  ],
+  "einleitung": "Du suchst einen Crosstrainer oder Ellipsentrainer, der Ausdauer und Muskelaufbau kombiniert — gelenkschonend und für den ganzen Körper? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Crosstrainer oder Ellipsentrainer — der Unterschied\nBeim Crosstrainer sitzt das Schwungrad hinten, beim Ellipsentrainer vorne. Ellipsentrainer bieten eine flachere, natürlichere Bewegung und schonen die Gelenke besser. Für die meisten Nutzer ist der Unterschied im Alltag gering.\n\n### Schrittlänge — das wichtigste Kriterium\nDie Schrittlänge (Stride Length) bestimmt den Bewegungsradius. Unter 35 cm fühlt sich das Training verkürzt an. 40-50 cm ist ideal für die meisten Nutzer (160-185 cm). Ab 50 cm wird es richtig komfortabel. Zu kurze Schrittlänge = unnatürliche Bewegung.\n\n### Wie schwer sollte die Schwungmasse sein?\n12-15 kg bieten einen runden Lauf. Ab 20 kg wird das Fahrgefühl premium. Leichte Schwungmassen (unter 10 kg) führen zu einem ruckeligen Bewegungsablauf.",
+  "vergleichsKategorien": [
+    {
+      "key": "schwungmasse",
+      "label": "Schwungmasse",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "schrittlaenge",
+      "label": "Schrittlänge",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "widerstandsstufen",
+      "label": "Widerstandsstufen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Benutzergewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "programme",
+      "label": "Programme",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "pulsmessung",
+      "label": "Pulsmessung",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "stellflaeche",
+      "label": "Stellfläche",
+      "einheit": "cm",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist ein Crosstrainer besser als ein Laufband?",
+      "antwort": "Crosstrainer sind gelenkschonender als Laufbänder, da es keinen Aufprall gibt. Laufbänder verbrennen bei gleicher Intensität etwas mehr Kalorien. Für Menschen mit Knie- oder Hüftproblemen ist der Crosstrainer die bessere Wahl."
+    },
+    {
+      "frage": "Wie viele Kalorien verbrennt man auf dem Crosstrainer?",
+      "antwort": "Bei moderater Intensität verbrennt eine 75 kg Person ca. 450-550 kcal pro Stunde. Durch Intervalltraining und Nutzung der Armbewegung lässt sich der Verbrauch auf bis zu 700 kcal steigern."
+    },
+    {
+      "frage": "Ist ein Crosstrainer für Anfänger geeignet?",
+      "antwort": "Sehr gut sogar — die Bewegung ist intuitiv und gelenkschonend. Die meisten Einsteiger finden sich nach 2-3 Minuten zurecht. Starte mit niedrigem Widerstand und 20 Minuten, steigere dann langsam."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Sportstech CX608",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01LZ32PGA?tag=janxsiegmann-21",
+      "preis": 300,
+      "bewertung": 3.5,
+      "werte": {
+        "schwungmasse": "12",
+        "schrittlaenge": "31",
+        "widerstandsstufen": "32",
+        "max_gewicht": "120",
+        "programme": "Nein (App-kompatibel)",
+        "pulsmessung": "Handpulssensoren",
+        "stellflaeche": "127 × 62"
+      },
+      "vorteile": [
+        "Günstig",
+        "32 Widerstandsstufen",
+        "App-kompatibel"
+      ],
+      "nachteile": [
+        "Kurze Schrittlänge (31 cm)",
+        "Nur 120 kg belastbar",
+        "Kein Wattmessung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sportstech CX625",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08JLPS6MX?tag=janxsiegmann-21",
+      "preis": 550,
+      "bewertung": 4.0,
+      "werte": {
+        "schwungmasse": "24",
+        "schrittlaenge": "51",
+        "widerstandsstufen": "24",
+        "max_gewicht": "130",
+        "programme": "Kinomap-kompatibel",
+        "pulsmessung": "Handpulssensoren + Brustgurt",
+        "stellflaeche": "137 × 65"
+      },
+      "vorteile": [
+        "24 kg Schwungmasse — sehr flüssig",
+        "51 cm Schrittlänge",
+        "Kinomap-kompatibel",
+        "Flüsterleise"
+      ],
+      "nachteile": [
+        "Kein Touchscreen",
+        "130 kg Grenze",
+        "Aufbau aufwendig"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Hammer Finnlo Ellypsis SX1",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BK3JYHBR?tag=janxsiegmann-21",
+      "preis": 800,
+      "bewertung": 4.5,
+      "werte": {
+        "schwungmasse": "20",
+        "schrittlaenge": "52",
+        "widerstandsstufen": "16",
+        "max_gewicht": "150",
+        "programme": "12 + HRC-Programme",
+        "pulsmessung": "Handpulssensoren + Brustgurt",
+        "stellflaeche": "163 × 68"
+      },
+      "vorteile": [
+        "52 cm Schrittlänge",
+        "Wattgesteuertes Training",
+        "150 kg Belastbarkeit",
+        "Leise und stabil"
+      ],
+      "nachteile": [
+        "Höherer Preis",
+        "Groß und schwer",
+        "Kein App-Anbindung ab Werk"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "NordicTrack FS14i",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BM9K4NKR?tag=janxsiegmann-21",
+      "preis": 2000,
+      "bewertung": 4.5,
+      "werte": {
+        "schwungmasse": "13 (Induktion)",
+        "schrittlaenge": "Automatisch anpassbar (bis 81 cm!)",
+        "widerstandsstufen": "24",
+        "max_gewicht": "136",
+        "programme": "iFit (10\" HD-Touchscreen)",
+        "pulsmessung": "Bluetooth-Brustgurt-kompatibel",
+        "stellflaeche": "168 × 72"
+      },
+      "vorteile": [
+        "Automatisch anpassbare Schrittlänge",
+        "10\" HD-Touchscreen",
+        "iFit mit tausenden Workouts",
+        "3-in-1: Ellipsentrainer + Stepper + Laufband-Feeling"
+      ],
+      "nachteile": [
+        "Sehr teuer",
+        "iFit-Abo nötig (39€/Monat)",
+        "136 kg Gewichtsgrenze"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

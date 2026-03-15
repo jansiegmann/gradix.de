@@ -1,0 +1,118 @@
+{
+  "slug": "fenstersauger",
+  "kategorie": "reinigung",
+  "titel": "Fenstersauger (Kärcher etc.)",
+  "beschreibung": "Fenstersauger Test 2026: Die 4 besten Akku-Fenstersauger im Vergleich ✓ Streifenfrei ✓ Kaufberatung",
+  "keywords": [
+    "fenstersauger test",
+    "fenstersauger vergleich",
+    "kärcher fenstersauger",
+    "fenstersauger akku",
+    "bester fenstersauger",
+    "fenstersauger test 2026",
+    "fenstersauger kaufberatung",
+    "fenstersauger leifheit",
+    "fensterreiniger elektrisch",
+    "fenstersauger streifenfrei"
+  ],
+  "einleitung": "Streifenfreie Fenster ohne mühsames Nachpolieren — Akku-Fenstersauger machen es möglich. Doch die Unterschiede bei Saugleistung, Akku und Düsenbreite sind größer als gedacht. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Wie funktioniert ein Fenstersauger?\nDu sprühst Reinigungsmittel auf die Scheibe und wischst mit dem mitgelieferten Mikrofasertuch. Dann ziehst du den Fenstersauger über die Scheibe — er saugt das Schmutzwasser streifenfrei ab. Das Ergebnis: saubere Fenster in der Hälfte der Zeit.\n\n### Düsenbreite: 170 mm oder 280 mm?\nSchmalere Düsen (170–200 mm) sind für kleine Fenster und Autoscheiben. Breite Düsen (280 mm) sind effizient bei großen Fensterflächen. Manche Modelle liefern beide Düsen mit.\n\n### Akkulaufzeit\nDie meisten Fenstersauger schaffen 25–40 Minuten pro Ladung. Das reicht für 10–15 Fenster. Für große Wohnungen brauchst du 35+ Minuten Laufzeit oder einen Wechselakku.\n\n### Tankvolumen\nDer Schmutzwassertank fasst 100–200 ml. Bei großen Fensterflächen muss er zwischendurch geleert werden. Größere Tanks (150+ ml) reduzieren die Unterbrechungen.\n\n### Auch für Fliesen und Spiegel\nFenstersauger eignen sich auch für Duschkabinen, Spiegel und Fliesen — überall wo Wasser auf glatten Oberflächen abgesaugt werden muss.",
+  "vergleichsKategorien": [
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 1
+    },
+    {
+      "key": "duesenbreite",
+      "label": "Düsenbreite",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "tankvolumen",
+      "label": "Schmutzwassertank",
+      "einheit": "ml",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Fenstersauger ist der beste?",
+      "antwort": "Der Kärcher WV 6 Plus bietet die beste Kombination aus Akkulaufzeit (100 min), Saugleistung und Verarbeitung. Für ein gutes Preis-Leistungs-Verhältnis empfehlen wir den Leifheit Dry & Clean."
+    },
+    {
+      "frage": "Kann ich einen Fenstersauger auch für die Duschkabine nutzen?",
+      "antwort": "Ja, das ist sogar eine der beliebtesten Anwendungen. Nach dem Duschen schnell die Glaswände absaugen — kein Kalkflecken mehr. Den Sauger dafür nicht unter Wasser halten."
+    },
+    {
+      "frage": "Hinterlässt ein Fenstersauger Streifen?",
+      "antwort": "Bei richtiger Anwendung nicht. Wichtig: Gleichmäßig und ohne abzusetzen ziehen. Reste am Fensterrand mit einem trockenen Tuch nachwischen. Bei Sonnenschein trocknet das Reinigungsmittel schneller — dann können Streifen entstehen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Leifheit Dry & Clean",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00PHJL98E?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "35",
+        "duesenbreite": "280",
+        "tankvolumen": "100",
+        "gewicht": "0,5",
+        "zubehoer": "Schmale + breite Düse"
+      }
+    },
+    {
+      "name": "Kärcher WV 2 Plus",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07N1KXQ6P?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "25",
+        "duesenbreite": "280",
+        "tankvolumen": "100",
+        "gewicht": "0,6",
+        "zubehoer": "Sprühflasche + Mikrofasertuch"
+      }
+    },
+    {
+      "name": "Kärcher WV 5 Plus",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07ZYS9LXK?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "35",
+        "duesenbreite": "280 + 170",
+        "tankvolumen": "100",
+        "gewicht": "0,6",
+        "zubehoer": "2 Düsen + Sprühflasche + Konzentrat"
+      }
+    },
+    {
+      "name": "Kärcher WV 6 Plus",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B081NR47J8?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "100",
+        "duesenbreite": "280 + 170",
+        "tankvolumen": "150",
+        "gewicht": "0,7",
+        "zubehoer": "2 Düsen + KV 4 Sprühwischer + Wechselakku"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

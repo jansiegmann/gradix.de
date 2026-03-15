@@ -1,0 +1,128 @@
+{
+  "slug": "deckenventilator-mit-licht",
+  "kategorie": "haushalt",
+  "titel": "Deckenventilator (mit Licht)",
+  "beschreibung": "Deckenventilator mit Licht Test 2026: Die 4 besten Deckenventilatoren ✓ Leise ✓ Mit LED ✓ Fernbedienung ✓ Sommer & Winter",
+  "keywords": [
+    "deckenventilator",
+    "deckenventilator mit licht",
+    "deckenventilator test",
+    "deckenventilator leise",
+    "deckenventilator vergleich",
+    "deckenventilator mit fernbedienung",
+    "deckenventilator led",
+    "deckenventilator test 2026",
+    "deckenventilator schlafzimmer",
+    "ventilator decke"
+  ],
+  "einleitung": "Ein Deckenventilator kühlt im Sommer, verteilt Wärme im Winter und spendet Licht — alles in einem Gerät. Wir vergleichen vier Deckenventilatoren mit integrierter LED-Beleuchtung.",
+  "kaufberatung": "### Raumgröße und Flügeldurchmesser\nFür Räume bis 15 m² reicht ein Ventilator mit 100-120 cm Durchmesser. 15-25 m² brauchen 120-140 cm. Ab 25 m² empfehlen sich 140+ cm oder mehrere Ventilatoren. In Räumen unter 2,50 m Deckenhöhe auf flache Modelle achten.\n\n### Rückwärtslauf — warum ist das wichtig?\nIm Winter dreht der Ventilator rückwärts (Uhrzeigersinn) und drückt warme Luft von der Decke nach unten. Das spart Heizkosten und verbessert das Raumklima. Im Sommer dreht er vorwärts (gegen den Uhrzeigersinn) und erzeugt Windchill.\n\n### Lautstärke — das wichtigste Kriterium fürs Schlafzimmer\nDC-Motoren sind deutlich leiser als AC-Motoren — ideal fürs Schlafzimmer. Unter 35 dB auf niedriger Stufe gilt als flüsterleise. Die Flügelform und -anzahl beeinflusst ebenfalls die Geräuschentwicklung.\n\n### Montage — was beachten?\nDeckenventilatoren werden an der Decke montiert und brauchen eine stabile Befestigung (Betondecke oder spezielle Dübel). Die Mindest-Deckenhöhe beträgt 2,30 m. Bei niedrigen Decken gibt es Hugger-Modelle, die direkt an der Decke anliegen.",
+  "vergleichsKategorien": [
+    {
+      "key": "durchmesser",
+      "label": "Flügeldurchmesser",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "motor",
+      "label": "Motortyp",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "geschwindigkeiten",
+      "label": "Geschwindigkeitsstufen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 4
+    },
+    {
+      "key": "rueckwaertslauf",
+      "label": "Rückwärtslauf",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "led",
+      "label": "LED-Licht",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie laut ist ein Deckenventilator?",
+      "antwort": "DC-Motor-Ventilatoren sind mit 30-40 dB auf niedrigster Stufe kaum hörbar — vergleichbar mit Flüstern. AC-Motor-Modelle können 40-50 dB erreichen. Fürs Schlafzimmer empfehlen wir unbedingt einen DC-Motor."
+    },
+    {
+      "frage": "Spart ein Deckenventilator Heizkosten?",
+      "antwort": "Ja, im Rückwärtslauf drückt der Ventilator warme Luft von der Decke nach unten. Das kann die gefühlte Raumtemperatur um 2-3°C erhöhen und so 10-15% Heizkosten sparen."
+    },
+    {
+      "frage": "Wie montiere ich einen Deckenventilator?",
+      "antwort": "Die Montage erfolgt an einem Deckenanschluss (wie eine Deckenlampe). In der Regel brauchst du eine stabile Deckenbefestigung und einen Stromanschluss. Wenn du den Anschluss nicht selbst machst, beauftrage einen Elektriker."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Cecotec EnergySilence Aero 4260",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0C6FBBWLH?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "106",
+        "motor": "AC-Motor",
+        "geschwindigkeiten": "3",
+        "lautstaerke": "ca. 45",
+        "rueckwaertslauf": "Ja",
+        "led": "18W LED (dimmbar)"
+      }
+    },
+    {
+      "name": "Faro Barcelona Amelia",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07SRRX6XQ?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "122",
+        "motor": "AC-Motor",
+        "geschwindigkeiten": "3",
+        "lautstaerke": "ca. 40",
+        "rueckwaertslauf": "Ja",
+        "led": "15W LED (3 Farbtemperaturen)"
+      }
+    },
+    {
+      "name": "Westinghouse Bendan",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B009D2PCNK?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "132",
+        "motor": "AC-Motor",
+        "geschwindigkeiten": "3",
+        "lautstaerke": "ca. 38",
+        "rueckwaertslauf": "Ja",
+        "led": "80W (R7s, LED-kompatibel)"
+      }
+    },
+    {
+      "name": "Fanimation Spitfire DC",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07ND5G8RD?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "152",
+        "motor": "DC-Motor",
+        "geschwindigkeiten": "6",
+        "lautstaerke": "< 35",
+        "rueckwaertslauf": "Ja",
+        "led": "18W LED (dimmbar, CCT)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "hundebox-faltbar",
+  "kategorie": "kinder",
+  "titel": "Hundebox (faltbar)",
+  "beschreibung": "Faltbare Hundebox Test 2026: Die 4 besten Transportboxen im Vergleich ✓ Auto & Reise ✓ Kaufberatung",
+  "keywords": [
+    "hundebox faltbar test",
+    "hundebox auto",
+    "transportbox hund",
+    "hundebox faltbar vergleich",
+    "hundetransportbox auto",
+    "hundebox test 2026",
+    "hundebox kaufberatung",
+    "hundebox reise",
+    "faltbare hundebox auto",
+    "hundebox größe"
+  ],
+  "einleitung": "Eine faltbare Hundebox ist unverzichtbar für sichere Autofahrten und Reisen mit deinem Hund. Die Unterschiede bei Stabilität, Belüftung und Größe sind groß. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Welche Größe brauche ich?\nDein Hund sollte sich im Stehen und Liegen bequem bewegen können. Miss die Schulterhöhe und Körperlänge und addiere jeweils 10 cm. Für einen mittelgroßen Hund (z.B. Beagle) reicht meist L (76×53×48 cm).\n\n### Für Auto oder Wohnung?\nFür das Auto brauchst du eine stabile Box, die mit dem Gurt gesichert wird. Für die Wohnung (Rückzugsort, Training) reicht eine leichtere Variante. Manche Boxen sind beides — faltbar für die Reise, stabil genug fürs Auto.\n\n### Belüftung und Einstiege\nGute Boxen haben Mesh-Fenster auf mindestens 3 Seiten für Luftzirkulation. Mehrere Einstiege (oben + seitlich) erleichtern das Ein- und Aussteigen. Gerade ängstliche Hunde bevorzugen den Einstieg von oben.\n\n### Material: Oxford-Gewebe oder Stoff?\n600D-Oxford-Gewebe ist robust, wasserabweisend und leicht zu reinigen. Dünnere Stoffe reißen schneller, besonders wenn der Hund kratzt. Für Welpen oder nagernde Hunde empfehlen wir eine Metallbox.\n\n### Faltmechanismus\nEine gute faltbare Hundebox lässt sich in unter 30 Sekunden auf- und abbauen. Im zusammengefalteten Zustand sollte sie flach genug sein, um hinter dem Autositz oder im Kofferraum verstaut zu werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "groesse",
+      "label": "Größe (L×B×H)",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "einstiege",
+      "label": "Einstiege",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "max_tiergewicht",
+      "label": "Max. Tiergewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "faltbar",
+      "label": "Faltbar",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist eine faltbare Hundebox fürs Auto sicher?",
+      "antwort": "Faltbare Boxen bieten weniger Schutz als Metall- oder Aluboxen bei einem Unfall. Für den Alltag und niedrige Geschwindigkeiten sind sie ausreichend. Für maximale Sicherheit bei Autobahn-Reisen empfehlen wir crashgetestete Alu-Boxen."
+    },
+    {
+      "frage": "Wie gewöhne ich meinen Hund an die Box?",
+      "antwort": "Stelle die Box offen hin und lege Leckerlis und eine Decke hinein. Lass den Hund freiwillig erkunden. Schließe die Tür erst, wenn er sich wohlfühlt. Nie die Box als Strafe nutzen — sie soll ein positiver Rückzugsort sein."
+    },
+    {
+      "frage": "Kann ich die Hundebox in der Waschmaschine waschen?",
+      "antwort": "Den Bezug ja — die meisten abnehmbaren Polster sind maschinenwaschbar bei 30°C. Das Gestell und die Mesh-Einsätze mit einem feuchten Tuch abwischen. Nie in den Trockner geben."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Dibea Faltbare Hundebox",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07Q1DZ5KF?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "76 × 53 × 48 (L)",
+        "material": "600D Oxford-Gewebe",
+        "einstiege": "3 (vorne + seitlich + oben)",
+        "gewicht": "4,5",
+        "max_tiergewicht": "20",
+        "faltbar": "Ja (flach)"
+      }
+    },
+    {
+      "name": "FEANDREA Hundebox faltbar",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B074MHWB3J?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "76 × 53 × 53 (L)",
+        "material": "600D Oxford + Stahlrahmen",
+        "einstiege": "3 (vorne + seitlich + oben)",
+        "gewicht": "5,4",
+        "max_tiergewicht": "23",
+        "faltbar": "Ja (Sekundenschnell)"
+      }
+    },
+    {
+      "name": "Trixie Vario Transportbox",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B009EQ6AJG?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "91 × 58 × 61 (M-L)",
+        "material": "Polyester + Stahlrahmen",
+        "einstiege": "4 (alle Seiten + oben)",
+        "gewicht": "5,9",
+        "max_tiergewicht": "30",
+        "faltbar": "Ja (kompakt)"
+      }
+    },
+    {
+      "name": "4Pets Caree Transportbox",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07BTFXQP5?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "73 × 41 × 51",
+        "material": "Formstabil + Crashtest-geprüft",
+        "einstiege": "1 (vorne)",
+        "gewicht": "5,0",
+        "max_tiergewicht": "12",
+        "faltbar": "Nein (ADAC-crashgetestet)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

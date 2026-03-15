@@ -1,0 +1,128 @@
+{
+  "slug": "fieberthermometer-kontaktlos",
+  "kategorie": "koerperpflege",
+  "titel": "Fieberthermometer (kontaktlos)",
+  "beschreibung": "Kontaktloses Fieberthermometer Test 2026: Die 4 besten Infrarot-Thermometer ✓ Sekundenschnell ✓ Kaufberatung",
+  "keywords": [
+    "fieberthermometer kontaktlos test",
+    "infrarot thermometer stirn",
+    "fieberthermometer baby",
+    "fieberthermometer test",
+    "kontaktloses fieberthermometer",
+    "fieberthermometer vergleich",
+    "stirnthermometer test",
+    "fieberthermometer test 2026",
+    "braun thermometer",
+    "fieberthermometer kaufberatung"
+  ],
+  "einleitung": "Kontaktlose Fieberthermometer messen die Temperatur per Infrarot in nur 1 Sekunde — ohne das schlafende Kind zu wecken. Wir vergleichen vier Modelle und zeigen, wie genau sie wirklich sind.",
+  "kaufberatung": "### Stirn- oder Ohrmessung?\nStirnmessung ist kontaktlos und hygienisch, aber etwas weniger genau (±0,2°C). Ohrmessung ist präziser (±0,1°C), erfordert aber Kontakt. Kombi-Geräte können beides. Für Babys unter 6 Monaten empfehlen Ärzte die rektale Messung.\n\n### Genauigkeit: Wie präzise messen Infrarot-Thermometer?\nKontaktlose Thermometer haben typisch eine Genauigkeit von ±0,2–0,3°C. Für die klinische Diagnose reicht das — aber bei Grenzwerten (37,5°C) lieber nochmal mit einem Kontaktthermometer gegenmessen.\n\n### Fieberalarm\nDie meisten Infrarot-Thermometer haben einen farbcodierten Alarm: Grün (normal), Gelb (erhöht), Rot (Fieber). Die Schwellenwerte sind bei den meisten Geräten voreingestellt und passen für Kinder und Erwachsene.\n\n### Speicher für mehrere Messungen\nPraktisch bei Krankheitsverläufen: Geräte mit Speicher zeichnen die letzten 10–40 Messungen auf. So siehst du den Temperaturverlauf auf einen Blick.\n\n### Auch für Objekte nutzbar\nViele Infrarot-Thermometer können auch die Temperatur von Babyfläschchen, Badewasser oder Räumen messen — eine nützliche Zusatzfunktion.",
+  "vergleichsKategorien": [
+    {
+      "key": "messart",
+      "label": "Messart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "messzeit",
+      "label": "Messzeit",
+      "einheit": "Sek.",
+      "sortierung": 2
+    },
+    {
+      "key": "genauigkeit",
+      "label": "Genauigkeit",
+      "einheit": "°C",
+      "sortierung": 3
+    },
+    {
+      "key": "speicher",
+      "label": "Messspeicher",
+      "einheit": "Messungen",
+      "sortierung": 4
+    },
+    {
+      "key": "fieberalarm",
+      "label": "Fieberalarm",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "objektmessung",
+      "label": "Objektmessung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie genau sind kontaktlose Fieberthermometer?",
+      "antwort": "Die meisten Geräte messen mit ±0,2–0,3°C Genauigkeit. Das reicht für den Hausgebrauch. Für exakte Diagnosen empfehlen Ärzte weiterhin die rektale Messung — besonders bei Säuglingen."
+    },
+    {
+      "frage": "Ab welcher Temperatur hat mein Kind Fieber?",
+      "antwort": "Bei Kindern gilt ab 38,5°C (rektal gemessen) als Fieber. Stirnmessungen können 0,3–0,5°C niedriger ausfallen. Ab 38,0°C auf der Stirn solltest du aufmerksam werden."
+    },
+    {
+      "frage": "Kann ich ein kontaktloses Thermometer auch bei Erwachsenen nutzen?",
+      "antwort": "Ja, alle Modelle in unserem Vergleich sind für Kinder und Erwachsene geeignet. Achte darauf, den Abstand von 1–5 cm zur Stirn einzuhalten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Femometer Infrarot-Fieberthermometer",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08GFHTL45?tag=janxsiegmann-21",
+      "werte": {
+        "messart": "Stirn (kontaktlos)",
+        "messzeit": "1",
+        "genauigkeit": "±0,2",
+        "speicher": "40",
+        "fieberalarm": "Ja (3-farbig + Piep)",
+        "objektmessung": "Ja"
+      }
+    },
+    {
+      "name": "Braun BNT400",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B6GSSFRT?tag=janxsiegmann-21",
+      "werte": {
+        "messart": "Stirn (kontaktlos)",
+        "messzeit": "2",
+        "genauigkeit": "±0,2",
+        "speicher": "10",
+        "fieberalarm": "Ja (Age Precision™)",
+        "objektmessung": "Ja (Lebensmittel)"
+      }
+    },
+    {
+      "name": "Braun ThermoScan 7+ IRT6525",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0B6GP9PFF?tag=janxsiegmann-21",
+      "werte": {
+        "messart": "Ohr (Infrarot)",
+        "messzeit": "1",
+        "genauigkeit": "±0,1 (Ohr)",
+        "speicher": "9",
+        "fieberalarm": "Ja (Age Precision™)",
+        "objektmessung": "Nein"
+      }
+    },
+    {
+      "name": "Withings Thermo",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B06Y4DFM5R?tag=janxsiegmann-21",
+      "werte": {
+        "messart": "Schläfe (16 IR-Sensoren)",
+        "messzeit": "2",
+        "genauigkeit": "±0,2",
+        "speicher": "Unbegrenzt (App)",
+        "fieberalarm": "Ja (farbig + App)",
+        "objektmessung": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "loetstationsset",
+  "kategorie": "handwerk",
+  "titel": "Lötstationsset",
+  "beschreibung": "Lötstation Test 2026: Die 4 besten Lötstationen im Vergleich ✓ Elektronik & Hobby ✓ Kaufberatung",
+  "keywords": [
+    "lötstation",
+    "lötstation test",
+    "lötkolben",
+    "lötstation set",
+    "lötstation vergleich",
+    "beste lötstation",
+    "lötstation elektronik",
+    "lötstation anfänger",
+    "weller lötstation",
+    "lötstation 2026"
+  ],
+  "einleitung": "Ob Elektronik-Reparaturen, Arduino-Projekte oder SMD-Löten — eine gute Lötstation liefert die richtige Temperatur mit Präzision. Wir vergleichen vier Modelle vom Einsteigerset bis zur Profi-Station.",
+  "kaufberatung": "### Lötstation vs. einfacher Lötkolben\nEin einfacher Lötkolben heizt auf eine feste Temperatur — kein Regelung, kein Display. Eine Lötstation hat einen Regeltrafo, exakte Temperaturkontrolle und tauschbare Lötspitzen. Für Elektronik-Arbeiten ist eine Station deutlich besser.\n\n### Temperaturbereich und -stabilität\n200-480°C decken alle gängigen Anwendungen ab. Wichtiger als der Bereich ist die Temperaturstabilität: Die Station sollte die eingestellte Temperatur auch unter Last (beim Löten großer Flächen) stabil halten.\n\n### Lötspitzen-Vielfalt\nVerschiedene Arbeiten brauchen verschiedene Spitzen: Meißelspitze für breite Lötstellen, feine Kegelspitze für SMD, Schneidspitze für Entlöten. Achte auf ein System mit breitem Spitzenangebot.\n\n### Zusatzfunktionen\nStandby-Modus (senkt Temperatur bei Nichtbenutzung), Kalibrierung, Lötspitzenreiniger, dritte Hand mit Lupe — nützliche Extras für komfortables Arbeiten.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "temperaturbereich",
+      "label": "Temperaturbereich",
+      "einheit": "°C",
+      "sortierung": 2
+    },
+    {
+      "key": "aufheizzeit",
+      "label": "Aufheizzeit",
+      "einheit": "Sek.",
+      "sortierung": 3
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "spitzen",
+      "label": "Lötspitzen inkl.",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Lötstation eignet sich für SMD-Löten?",
+      "antwort": "Für SMD brauchst du eine Station mit feiner Spitze, präziser Temperaturregelung und schneller Aufheizzeit. Die Ersa i-CON Pico und die Weller WE 1010 eignen sich hervorragend. Achte auf ESD-Schutz (elektrostatische Entladung)."
+    },
+    {
+      "frage": "Bei welcher Temperatur sollte ich löten?",
+      "antwort": "Bleifreies Lötzinn (Standard in der EU): 350-370°C. Verbleites Lötzinn (für Hobby/Reparatur): 300-330°C. Höhere Temperaturen beschleunigen die Arbeit, verkürzen aber die Lebensdauer der Lötspitze."
+    },
+    {
+      "frage": "Brauche ich eine Entlötstation?",
+      "antwort": "Für gelegentliches Entlöten reicht eine Entlötpumpe (Lötsaugpumpe) oder Entlötlitze. Eine separate Entlötstation lohnt sich erst, wenn du regelmäßig Bauteile auslöten musst — z.B. bei Reparaturen von Platinen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Fixpoint AP2 Lötstation 48W",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0069MG7HA?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "48",
+        "temperaturbereich": "200-480",
+        "aufheizzeit": "60",
+        "display": "Analog (Drehregler)",
+        "spitzen": "1 (Meißel)",
+        "zubehoer": "Ablageständer + Schwamm"
+      }
+    },
+    {
+      "name": "Ersa i-CON Pico",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00C0M4T6M?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "80",
+        "temperaturbereich": "150-450",
+        "aufheizzeit": "10",
+        "display": "Digital LED",
+        "spitzen": "1 (Bleistift)",
+        "zubehoer": "Ablage + Schwamm + Kalibrierfähig"
+      }
+    },
+    {
+      "name": "Weller WE 1010",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B079RZZH2C?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "70",
+        "temperaturbereich": "100-450",
+        "aufheizzeit": "15",
+        "display": "Digital LCD",
+        "spitzen": "1 (ET-Spitze)",
+        "zubehoer": "Ablage + Messing-Schwamm + Standby"
+      }
+    },
+    {
+      "name": "JBC CD-2BE Lötstation",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08CRTDKD6?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "75",
+        "temperaturbereich": "90-450",
+        "aufheizzeit": "2",
+        "display": "Digital LCD",
+        "spitzen": "1 (C245 Serie)",
+        "zubehoer": "Ablage + Sleep/Hibernate + Kalibrierung"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

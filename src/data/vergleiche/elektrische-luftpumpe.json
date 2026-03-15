@@ -1,0 +1,118 @@
+{
+  "slug": "elektrische-luftpumpe",
+  "kategorie": "outdoor",
+  "titel": "Elektrische Luftpumpe",
+  "beschreibung": "Elektrische Luftpumpe Test 2026: Die 4 besten Akku-Pumpen im Vergleich ✓ Für Luftmatratze & Pool ✓ Kaufberatung",
+  "keywords": [
+    "elektrische luftpumpe test",
+    "luftpumpe elektrisch",
+    "akku luftpumpe",
+    "elektrische pumpe luftmatratze",
+    "luftpumpe camping",
+    "elektrische luftpumpe vergleich",
+    "elektrische luftpumpe pool",
+    "luftpumpe elektrisch test 2026",
+    "elektrische pumpe aufblasbar",
+    "elektrische luftpumpe kaufberatung"
+  ],
+  "einleitung": "Ob Luftmatratze, Planschbecken oder Schlauchboot — eine elektrische Luftpumpe spart Puste und Zeit. Doch die Unterschiede bei Leistung, Ventilaufsätzen und Akkulaufzeit sind beachtlich. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Aufblasen und Absaugen\nGute elektrische Luftpumpen können nicht nur aufblasen, sondern auch Luft absaugen — praktisch zum kompakten Verstauen von Luftmatratzen und Vakuumbeuteln.\n\n### Ventilaufsätze\nVerschiedene Luftmatratzen und Pools haben verschiedene Ventile. Achte darauf, dass deine Pumpe die passenden Aufsätze mitbringt — Standard sind 3–5 verschiedene Düsen.\n\n### Akku oder Strom?\nAkku-Pumpen sind flexibel (Camping, Strand), aber die Leistung ist begrenzt. Netzbetriebene Pumpen sind stärker, brauchen aber eine Steckdose. Für Camping empfehlen wir Akku, für zuhause Netzstrom.\n\n### Leistung und Geschwindigkeit\nFür eine Luftmatratze reichen 500–600 l/min. Für ein großes Planschbecken brauchst du 1.000+ l/min. Je höher die Pumpleistung, desto schneller ist alles aufgeblasen.\n\n### Lautstärke\nElektrische Luftpumpen sind laut (60–75 dB). Nachts auf dem Campingplatz kann das stören. Es gibt leisere Modelle, aber grundsätzlich sind sie nicht leise.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Pumpleistung",
+      "einheit": "l/min",
+      "sortierung": 1
+    },
+    {
+      "key": "stromquelle",
+      "label": "Stromquelle",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "aufblasen_absaugen",
+      "label": "Aufblasen + Absaugen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "ventilaufsaetze",
+      "label": "Ventilaufsätze",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie schnell pumpt eine elektrische Luftpumpe eine Luftmatratze auf?",
+      "antwort": "Eine Standard-Luftmatratze ist in 1–3 Minuten aufgepumpt. Ein großes Planschbecken kann 5–10 Minuten dauern. Die Dauer hängt von der Pumpleistung und dem Volumen ab."
+    },
+    {
+      "frage": "Kann ich eine elektrische Luftpumpe auch für Fahrradreifen nutzen?",
+      "antwort": "Nein, elektrische Luftpumpen erzeugen Volumen, aber kaum Druck. Für Fahrrad- und Autoreifen brauchst du einen Kompressor, der hohen Druck aufbaut. Luftpumpen sind für Niederdruck-Anwendungen (Matratzen, Pools, Bälle)."
+    },
+    {
+      "frage": "Geht die Akku-Luftpumpe am Strand kaputt (Sand)?",
+      "antwort": "Sand in der Pumpe kann den Motor beschädigen. Achte darauf, die Pumpe nicht im Sand abzulegen und die Ansaugöffnung frei zu halten. Nach dem Strandbesuch kurz auspusten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Deeplee Elektrische Luftpumpe",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B079FTHK5Y?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "430",
+        "stromquelle": "230V Netzstrom",
+        "aufblasen_absaugen": "Ja (beides)",
+        "ventilaufsaetze": "3",
+        "gewicht": "350"
+      }
+    },
+    {
+      "name": "Joycoo Elektrische Luftpumpe",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08KFSS1BG?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "600",
+        "stromquelle": "Akku (USB-C) + 230V",
+        "aufblasen_absaugen": "Ja (beides)",
+        "ventilaufsaetze": "4",
+        "gewicht": "380"
+      }
+    },
+    {
+      "name": "Bluefin SUP Elektrische Pumpe",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07GBVVZJJ?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "k.A. (bis 20 PSI)",
+        "stromquelle": "12V Auto",
+        "aufblasen_absaugen": "Ja (beides)",
+        "ventilaufsaetze": "5 (inkl. SUP-Ventil)",
+        "gewicht": "1.500"
+      }
+    },
+    {
+      "name": "Flextail Tiny Pump 2X",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BYVSYBMY?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "3,5 kPa",
+        "stromquelle": "Akku (USB-C, 74g!)",
+        "aufblasen_absaugen": "Ja (beides)",
+        "ventilaufsaetze": "5",
+        "gewicht": "74"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

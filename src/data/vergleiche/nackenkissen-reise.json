@@ -1,0 +1,118 @@
+{
+  "slug": "nackenkissen-reise",
+  "kategorie": "outdoor",
+  "titel": "Nackenkissen (Reise)",
+  "beschreibung": "Reise-Nackenkissen Test 2026: Die 4 besten Nackenhörnchen im Vergleich ✓ Memory-Foam ✓ Kompakt ✓ Kaufberatung",
+  "keywords": [
+    "nackenkissen reise test",
+    "reise nackenkissen",
+    "nackenhörnchen",
+    "nackenkissen flugzeug",
+    "nackenkissen test",
+    "nackenkissen vergleich",
+    "nackenkissen memory foam",
+    "bestes nackenkissen reise",
+    "nackenkissen test 2026",
+    "reisekissen kaufberatung"
+  ],
+  "einleitung": "Ob im Flugzeug, Zug oder Auto — ein gutes Reise-Nackenkissen verhindert Nackenschmerzen und ermöglicht erholsamen Schlaf unterwegs. Die Unterschiede bei Material, Stützkraft und Packmaß sind enorm. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Memory-Foam, Aufblasbar oder Mikroperlen?\nMemory-Foam passt sich optimal an und stützt den Nacken hervorragend — aber er ist schwer und sperrig. Aufblasbare Kissen sind ultra-kompakt, bieten aber weniger Komfort. Mikroperlen-Kissen sind ein Mittelweg.\n\n### Packmaß und Gewicht\nFür Flugreisen zählt jedes Gramm. Aufblasbare Kissen wiegen unter 100g und passen in die Hosentasche. Memory-Foam-Kissen wiegen 300–500g und brauchen eine Tasche. Entscheide nach Reisestil.\n\n### Stützkraft\nDas Kissen muss den Kopf auch im Schlaf in einer neutralen Position halten. Zu weich und der Kopf kippt zur Seite. Zu hart und es wird unbequem. Memory-Foam bietet die beste Balance.\n\n### Bezug waschbar?\nReisekissen werden schmutzig und verschwitzt. Ein abnehmbarer, waschbarer Bezug ist Pflicht. Achte auf einen Reißverschluss und maschinenwaschbaren Stoff.\n\n### Verschluss und Passform\nKissen mit Knopf- oder Klettverschluss vorne verhindern, dass sie nach vorne aufklappen. Für schmale Hälse gibt es verstellbare Modelle.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 2
+    },
+    {
+      "key": "packmass",
+      "label": "Packmaß",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "bezug_waschbar",
+      "label": "Bezug waschbar",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "verschluss",
+      "label": "Verschluss",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Nackenkissen ist am besten fürs Flugzeug?",
+      "antwort": "Das TRTL Pillow Plus ist die beste Wahl für Flugreisen: leicht, kompakt und hervorragende Stützkraft. Wer Memory-Foam bevorzugt, greift zum Cabeau Evolution S3 — aber der ist sperriger."
+    },
+    {
+      "frage": "Kann ich ein Nackenkissen auch im Auto verwenden?",
+      "antwort": "Ja, aber im Auto stützt die Kopfstütze bereits den Hinterkopf. Ein Nackenkissen ist hier vor allem für Beifahrer sinnvoll, die im Sitzen schlafen möchten. Achte darauf, dass es den Sicherheitsgurt nicht behindert."
+    },
+    {
+      "frage": "Wie reinige ich ein Memory-Foam-Nackenkissen?",
+      "antwort": "Den Bezug in der Waschmaschine waschen. Den Memory-Foam-Kern nie in die Waschmaschine geben — er saugt sich voll und verformt sich. Bei Bedarf mit einem feuchten Tuch abwischen und an der Luft trocknen lassen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ZAMAT Memory-Foam Nackenkissen",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BX9B1QRX?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Memory-Foam",
+        "gewicht": "350",
+        "packmass": "Komprimierbar (mit Tasche)",
+        "bezug_waschbar": "Ja",
+        "verschluss": "Druckknopf"
+      }
+    },
+    {
+      "name": "TRTL Pillow Plus",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07MYV19BZ?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Kunststoff-Stütze + Fleece",
+        "gewicht": "240",
+        "packmass": "Ultra-kompakt (Schal-Format)",
+        "bezug_waschbar": "Ja",
+        "verschluss": "Klettverschluss (verstellbar)"
+      }
+    },
+    {
+      "name": "Cabeau Evolution S3",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07K6FQB1D?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Memory-Foam (ergonomisch)",
+        "gewicht": "340",
+        "packmass": "Komprimierbar (in Tasche)",
+        "bezug_waschbar": "Ja",
+        "verschluss": "Frontverschluss + Gurtsicherung"
+      }
+    },
+    {
+      "name": "Ostrichpillow Go",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07S1TMCZJ?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Visco-Elastischer Schaum",
+        "gewicht": "300",
+        "packmass": "Komprimierbar",
+        "bezug_waschbar": "Ja",
+        "verschluss": "Magnet-Verschluss"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "gymnastikmatte",
+  "kategorie": "sport",
+  "titel": "Gymnastikmatte (dick)",
+  "beschreibung": "Gymnastikmatte (dick) Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "gymnastikmatte test",
+    "fitnessmatte dick vergleich",
+    "yogamatte kaufberatung",
+    "gymnastikmatte 2026"
+  ],
+  "einleitung": "Du suchst eine dicke Gymnastikmatte für Bodenübungen, Yoga, Pilates oder Physiotherapie? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Wie dick sollte eine Gymnastikmatte sein?\n6-8 mm: Standard für Yoga — genug Dämpfung, aber noch Bodenkontakt für Balance. 10-15 mm: Ideal für Bodengymnastik, Pilates, Physiotherapie — schützt Knie und Ellbogen. 20+ mm: Für Reha oder Menschen mit empfindlichen Gelenken. Zu dick = instabil bei Balance-Übungen.\n\n### NBR, PVC oder TPE — welches Material?\nNBR (Nitrilkautschuk): Weich, günstig, gut dämpfend — Standard für dicke Gymnastikmatten. Nachteil: Kann chemisch riechen (ausgasen lassen). PVC: Langlebig, rutschfest, guter Grip — Standard für Yoga. Aber nicht umweltfreundlich. TPE: Umweltfreundlichere Alternative zu PVC, geruchsneutral. Teurer.\n\n### Rutschfestigkeit — das unterschätzte Kriterium\nEine Matte, die beim Downward Dog wegrutscht, ist wertlos. NBR-Matten rutschen auf glatten Böden leicht — Abhilfe: Yogahandtuch unterlegen. PVC und TPE bieten den besten Grip. Bei geschlossenzeiligem Schaum (Airex) ist die Rutschfestigkeit am höchsten.\n\n### Schadstoffgeprüft — warum ist das wichtig?\nDu liegst mit Gesicht und Haut direkt auf der Matte. Günstige Matten können Weichmacher (Phthalate) oder andere Schadstoffe enthalten. Achte auf OEKO-TEX Standard 100 oder SGS-Prüfung. Matten aus Naturkautschuk oder TPE sind in der Regel schadstoffärmer.",
+  "vergleichsKategorien": [
+    {
+      "key": "dicke",
+      "label": "Dicke",
+      "einheit": "mm",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "masse",
+      "label": "Maße (L×B)",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "rutschfest",
+      "label": "Rutschfest",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "schadstoffe",
+      "label": "Schadstoffgeprüft",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "verschluss",
+      "label": "Verschluss/Transport",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Gymnastikmatte ist die beste für Yoga?",
+      "antwort": "Für Yoga empfehlen wir 4-6 mm dicke Matten mit gutem Grip — die Manduka PRO (6mm, Lifetime-Garantie) ist der Goldstandard. Wer weniger ausgeben will, greift zur POWRX (15mm) für Bodenübungen oder einer TPE-Yogamatte für 30-40 Euro."
+    },
+    {
+      "frage": "Wie reinige ich eine Gymnastikmatte?",
+      "antwort": "Nach jedem Training mit einem feuchten Tuch und mildem Reiniger abwischen. Für Tiefenreinigung: Matte in der Badewanne mit lauwarmem Wasser und wenig Spülmittel abwaschen, danach aufhängen und trocknen lassen. Nie in der Waschmaschine waschen."
+    },
+    {
+      "frage": "Airex oder Manduka — was ist besser?",
+      "antwort": "Airex (Coronella) ist aus geschlossenzelligem Schaum — extrem langlebig, hygienisch und rutschfest, ideal für Physiotherapie und Bodengymnastik. Manduka PRO ist aus hochdichtem PVC — der Standard für Yoga mit unschlagbarem Grip. Für Yoga: Manduka. Für alles andere: Airex."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "MOVIT Gymnastikmatte",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B009PHLRTU?tag=janxsiegmann-21",
+      "preis": 25,
+      "bewertung": 3.5,
+      "werte": {
+        "dicke": "15",
+        "material": "NBR-Schaumstoff",
+        "masse": "190 × 60 oder 190 × 100",
+        "gewicht": "1,2",
+        "rutschfest": "Unterseite rutschfest",
+        "schadstoffe": "SGS-geprüft, schadstofffrei",
+        "verschluss": "Tragegurt"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "POWRX Gymnastikmatte",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07KR6TRFK?tag=janxsiegmann-21",
+      "preis": 40,
+      "bewertung": 4.0,
+      "werte": {
+        "dicke": "15",
+        "material": "NBR-Schaumstoff",
+        "masse": "190 × 60",
+        "gewicht": "1,0",
+        "rutschfest": "Beidseitig rutschfest",
+        "schadstoffe": "OEKO-TEX Standard 100",
+        "verschluss": "Tragegurt + Tasche"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Airex Coronella",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000LFJBSY?tag=janxsiegmann-21",
+      "preis": 70,
+      "bewertung": 4.5,
+      "werte": {
+        "dicke": "15",
+        "material": "Geschlossenzelliger Schaum",
+        "masse": "185 × 60",
+        "gewicht": "1,7",
+        "rutschfest": "Beidseitig",
+        "schadstoffe": "Swiss Made, schadstofffrei",
+        "verschluss": "Optional (separat)"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Manduka PRO 6mm",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01M0HQRFU?tag=janxsiegmann-21",
+      "preis": 120,
+      "bewertung": 4.5,
+      "werte": {
+        "dicke": "6 (hochdicht)",
+        "material": "Closed-Cell PVC (Lifetime-Garantie)",
+        "masse": "180 × 66",
+        "gewicht": "3,4",
+        "rutschfest": "Extrem rutschfest (nach Einlaufphase)",
+        "schadstoffe": "OEKO-TEX, emissionsarm",
+        "verschluss": "Optional"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

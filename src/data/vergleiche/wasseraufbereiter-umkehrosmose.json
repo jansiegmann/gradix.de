@@ -1,0 +1,128 @@
+{
+  "slug": "wasseraufbereiter-umkehrosmose",
+  "kategorie": "kueche",
+  "titel": "Wasseraufbereiter (Umkehrosmose)",
+  "beschreibung": "Umkehrosmose-Anlage Test 2026: Die 4 besten Wasserfilter im Vergleich ✓ Kalk & Schadstoffe ✓ Kaufberatung",
+  "keywords": [
+    "umkehrosmoseanlage test",
+    "wasserfilter umkehrosmose",
+    "wasseraufbereiter test",
+    "osmoseanlage küche",
+    "trinkwasserfilter",
+    "umkehrosmose vergleich",
+    "wasserfilter untertisch",
+    "umkehrosmose test 2026",
+    "osmoseanlage kaufberatung",
+    "wasserfilter kalk"
+  ],
+  "einleitung": "Umkehrosmose-Anlagen filtern bis zu 99 % aller Schadstoffe, Kalk und Medikamentenrückstände aus dem Leitungswasser. Ob Untertisch-Anlage oder Auftisch-Gerät — wir vergleichen vier Modelle für sauberes Trinkwasser.",
+  "kaufberatung": "### Wie funktioniert Umkehrosmose?\nWasser wird durch eine semipermeable Membran gepresst, die fast alle gelösten Stoffe zurückhält: Kalk, Nitrat, Schwermetalle, Pestizide und sogar Mikroplastik. Das Ergebnis ist nahezu reines Wasser.\n\n### Untertisch oder Auftisch?\nUntertisch-Anlagen werden fest an die Wasserleitung angeschlossen — unsichtbar und komfortabel. Auftisch-Geräte sind mobil und brauchen keinen Installateur, müssen aber manuell befüllt werden.\n\n### Tanklos oder mit Tank?\nTanklose Systeme (Direct Flow) liefern gefiltertes Wasser auf Knopfdruck — frischer und platzsparender. Tank-Systeme speichern gefiltertes Wasser, liefern aber sofort einen höheren Durchfluss.\n\n### Filterkosten beachten\nDie laufenden Kosten für Filterwechsel (alle 6–12 Monate) liegen bei 30–80 € pro Jahr. Das Osmose-Membran hält 2–3 Jahre. Berechne die Gesamtkosten über die Nutzungsdauer.\n\n### Wasserverschwendung\nKlassische Osmose-Anlagen erzeugen Abwasser (Verhältnis 1:3 bis 1:1). Moderne Anlagen haben ein deutlich besseres Verhältnis von 1:1 oder sogar 2:1. Achte auf die Angabe im Datenblatt.",
+  "vergleichsKategorien": [
+    {
+      "key": "bauart",
+      "label": "Bauart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "filterstufen",
+      "label": "Filterstufen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "durchfluss",
+      "label": "Durchfluss",
+      "einheit": "l/min",
+      "sortierung": 3
+    },
+    {
+      "key": "abwasserverhaeltnis",
+      "label": "Rein:Abwasser",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "tds_entfernung",
+      "label": "TDS-Entfernung",
+      "einheit": "%",
+      "sortierung": 5
+    },
+    {
+      "key": "filterkosten_jahr",
+      "label": "Filterkosten/Jahr",
+      "einheit": "ca. €",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist Umkehrosmose-Wasser gesund?",
+      "antwort": "Ja, Umkehrosmose entfernt Schadstoffe zuverlässig. Kritiker bemängeln, dass auch Mineralien entfernt werden — diese nimmt man jedoch hauptsächlich über die Nahrung auf. Wer möchte, kann einen Remineralisierungsfilter nachschalten."
+    },
+    {
+      "frage": "Wie oft muss ich die Filter wechseln?",
+      "antwort": "Vorfilter alle 6 Monate, Aktivkohle-Nachfilter alle 6–12 Monate, Osmose-Membran alle 2–3 Jahre. Die meisten Anlagen haben eine Filterwechsel-Anzeige."
+    },
+    {
+      "frage": "Lohnt sich eine Osmoseanlage bei hartem Wasser?",
+      "antwort": "Absolut. Umkehrosmose entfernt Kalk zu 99 %. Dein Wasserkocher bleibt kalkfrei, Tee und Kaffee schmecken besser. Bei sehr hartem Wasser (über 20°dH) amortisiert sich die Anlage schnell."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Waterdrop WD-G3P600",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08P4R76G3?tag=janxsiegmann-21",
+      "werte": {
+        "bauart": "Untertisch (tanklos)",
+        "filterstufen": "3",
+        "durchfluss": "1,6",
+        "abwasserverhaeltnis": "2:1",
+        "tds_entfernung": "94",
+        "filterkosten_jahr": "50"
+      }
+    },
+    {
+      "name": "Frizzlife PD600-TAM3",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0C9H42M7B?tag=janxsiegmann-21",
+      "werte": {
+        "bauart": "Untertisch (tanklos)",
+        "filterstufen": "7 + Remineralisierung",
+        "durchfluss": "1,6",
+        "abwasserverhaeltnis": "1,5:1",
+        "tds_entfernung": "99,9",
+        "filterkosten_jahr": "60"
+      }
+    },
+    {
+      "name": "Waterdrop G3P800",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09V38TDCK?tag=janxsiegmann-21",
+      "werte": {
+        "bauart": "Untertisch (tanklos)",
+        "filterstufen": "3 + UV-Sterilisation",
+        "durchfluss": "2,1",
+        "abwasserverhaeltnis": "3:1",
+        "tds_entfernung": "99",
+        "filterkosten_jahr": "60"
+      }
+    },
+    {
+      "name": "Grünbeck softliQ SD18",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B005HSUZIQ?tag=janxsiegmann-21",
+      "werte": {
+        "bauart": "Enthärtungsanlage (Ionentausch)",
+        "filterstufen": "Ionentausch + Steuerventil",
+        "durchfluss": "1,8 m³/h",
+        "abwasserverhaeltnis": "k.A. (Regeneration)",
+        "tds_entfernung": "Kalk zu 99 %",
+        "filterkosten_jahr": "30 (Regeneriersalz)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

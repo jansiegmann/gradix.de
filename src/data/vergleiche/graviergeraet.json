@@ -1,0 +1,114 @@
+{
+  "slug": "graviergeraet",
+  "kategorie": "handwerk",
+  "titel": "Graviergerät / Dremel",
+  "beschreibung": "Dremel & Graviergerät Test 2026: Die 4 besten Multischleifer ✓ Gravieren, Schleifen, Schneiden ✓",
+  "keywords": [
+    "dremel",
+    "graviergerät",
+    "dremel test",
+    "multischleifer",
+    "dremel vergleich",
+    "bester dremel",
+    "graviergerät test",
+    "rotationswerkzeug",
+    "dremel kaufberatung",
+    "dremel 2026"
+  ],
+  "einleitung": "Gravieren, schleifen, polieren, schneiden, bohren — Rotationswerkzeuge wie der Dremel sind die Schweizer Taschenmesser unter den Elektrowerkzeugen. Vier Modelle im Vergleich.",
+  "kaufberatung": "### Was kann ein Rotationswerkzeug?\nDurch die hohe Drehzahl (bis 35.000 U/min) und unzählige Aufsätze sind diese Werkzeuge extrem vielseitig: Gravieren in Metall und Glas, Schleifen in Ecken, Schneiden von Fliesen, Polieren, Bohren feiner Löcher und vieles mehr.\n\n### Drehzahlregelung: Pflicht\nVerschiedene Materialien und Aufsätze brauchen verschiedene Drehzahlen. Eine stufenlose Regelung von 5.000-35.000 U/min ist ideal.\n\n### Spannzangen und Aufnahme\nStandard: 3,2 mm Spannzange. Gute Geräte liefern 0,8, 1,6 und 3,2 mm Spannzangen mit. Dremel-Zubehör ist universell verbreitet.\n\n### Kabel oder Akku?\nFür Feinarbeiten (Gravieren, Modellbau) ist ein Kabelgerät besser — konstante Leistung, kein Gewicht durch Akku. Akku-Modelle sind flexibler, aber schwerer an der Spitze.",
+  "vergleichsKategorien": [
+    {
+      "key": "drehzahl",
+      "label": "Drehzahlbereich",
+      "einheit": "U/min",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "spannzange",
+      "label": "Spannzangen",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehörteile inkl.",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Dremel auch Metall schneiden?",
+      "antwort": "Ja, mit Trennscheiben. Dünnes Blech (bis 2 mm), Schrauben, Nägel und Rohre lassen sich gut durchtrennen. Für dickeres Metall ist ein Winkelschleifer besser geeignet. Tipp: Immer Schutzbrille tragen, es fliegen Funken."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen Dremel 3000 und 4300?",
+      "antwort": "Der 4300 hat ein werkzeugloses Spannfutter (Multi-Chuck), stärkeren Motor (175W vs. 130W), leiseren Lauf und bessere Ergonomie. Für gelegentliche Nutzung reicht der 3000, für regelmäßige Projekte lohnt sich der 4300."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Dremel 3000-15",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00IORL5S0?tag=janxsiegmann-21",
+      "werte": {
+        "drehzahl": "10.000-33.000",
+        "leistung": "130",
+        "spannzange": "0,8 + 1,6 + 3,2",
+        "zubehoer": "15 Zubehörteile",
+        "gewicht": "550"
+      }
+    },
+    {
+      "name": "Dremel 4300-3/45 EZ",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B01MDJF8GI?tag=janxsiegmann-21",
+      "werte": {
+        "drehzahl": "5.000-35.000",
+        "leistung": "175",
+        "spannzange": "EZ SpeedClic + Multi-Chuck",
+        "zubehoer": "45 Zubehörteile + 3 Aufsätze",
+        "gewicht": "660"
+      }
+    },
+    {
+      "name": "Proxxon Micromot FBS 240/E",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000NDCT0Q?tag=janxsiegmann-21",
+      "werte": {
+        "drehzahl": "5.000-20.000",
+        "leistung": "100",
+        "spannzange": "1,0-3,2 (Drehfutter)",
+        "zubehoer": "6 Spannzangen",
+        "gewicht": "380"
+      }
+    },
+    {
+      "name": "Dremel 8260-5/65 Akku",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BKGP8T6F?tag=janxsiegmann-21",
+      "werte": {
+        "drehzahl": "5.000-35.000",
+        "leistung": "12V Akku",
+        "spannzange": "EZ SpeedClic + Multi-Chuck",
+        "zubehoer": "65 Zubehörteile + Akku + Koffer",
+        "gewicht": "560"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

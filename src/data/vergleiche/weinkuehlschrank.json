@@ -1,0 +1,128 @@
+{
+  "slug": "weinkuehlschrank",
+  "kategorie": "kueche",
+  "titel": "Weinkühlschrank",
+  "beschreibung": "Weinkühlschrank Test 2026: Die 4 besten Weinklimaschränke im Vergleich ✓ 12–46 Flaschen ✓ Leise ✓ Kaufberatung",
+  "keywords": [
+    "weinkühlschrank test",
+    "weinkühlschrank vergleich",
+    "weinklimaschrank",
+    "weinkühlschrank klein",
+    "weinkühlschrank 2 zonen",
+    "weintemperierschrank",
+    "weinkühlschrank leise",
+    "weinkühlschrank kaufberatung",
+    "weinkühlschrank test 2026",
+    "weinkühlschrank freistehend"
+  ],
+  "einleitung": "Wein bei optimaler Temperatur lagern und servieren — ein Weinkühlschrank macht es möglich. Ob kompaktes Modell für die Küche oder großer Weinklimaschrank für den Keller: Wir vergleichen vier Modelle von 12 bis 46 Flaschen.",
+  "kaufberatung": "### Eine oder zwei Temperaturzonen?\nEinzonen-Modelle kühlen den gesamten Innenraum gleichmäßig — gut wenn du nur Weiß- oder nur Rotwein lagerst. Zweizonen-Modelle haben getrennte Bereiche für Rot (12–18°C) und Weißwein (6–12°C). Für Weinliebhaber sind zwei Zonen Pflicht.\n\n### Kompressor oder thermoelektrisch?\nKompressor-Modelle kühlen stärker und zuverlässiger, sind aber lauter. Thermoelektrische Kühlung ist nahezu lautlos, aber weniger leistungsfähig bei hoher Umgebungstemperatur. Für die Küche empfehlen wir thermoelektrisch, für den Keller Kompressor.\n\n### Vibrationsarm ist Pflicht\nVibrationen stören die Reifung des Weins. Kompressor-Modelle mit Anti-Vibrations-Technik und thermoelektrische Modelle sind hier im Vorteil.\n\n### UV-Schutz\nUV-Licht schadet dem Wein. Achte auf UV-geschütztes Glas oder eine massive Tür. Innen-Beleuchtung sollte LED sein — keine Glühbirne.\n\n### Luftfeuchtigkeit\nOptimal für Wein sind 50–80 % Luftfeuchtigkeit. Einfache Modelle regulieren die Feuchtigkeit nicht aktiv. Für Langzeitlagerung über Jahre brauchst du einen echten Weinklimaschrank mit Feuchtigkeitskontrolle.",
+  "vergleichsKategorien": [
+    {
+      "key": "kapazitaet",
+      "label": "Kapazität",
+      "einheit": "Flaschen",
+      "sortierung": 1
+    },
+    {
+      "key": "temperaturzonen",
+      "label": "Temperaturzonen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "temperaturbereich",
+      "label": "Temperaturbereich",
+      "einheit": "°C",
+      "sortierung": 3
+    },
+    {
+      "key": "kuehltechnik",
+      "label": "Kühltechnik",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 5
+    },
+    {
+      "key": "energieeffizienz",
+      "label": "Energieeffizienzklasse",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Temperatur ist optimal für Rotwein?",
+      "antwort": "Rotwein wird idealerweise bei 14–18°C serviert. Leichte Rotweine wie Pinot Noir eher bei 14°C, kräftige wie Cabernet Sauvignon bei 16–18°C. Die Lagertemperatur für langfristige Reifung liegt bei konstanten 12–14°C."
+    },
+    {
+      "frage": "Wie laut ist ein Weinkühlschrank?",
+      "antwort": "Thermoelektrische Modelle sind mit 25–35 dB nahezu unhörbar. Kompressor-Modelle liegen bei 35–42 dB — vergleichbar mit einem leisen Kühlschrank. Für Wohnräume empfehlen wir Modelle unter 40 dB."
+    },
+    {
+      "frage": "Kann ich einen Weinkühlschrank auch als Getränkekühlschrank nutzen?",
+      "antwort": "Grundsätzlich ja, aber Weinkühlschränke sind auf konstante Temperaturen und Vibrationsarmut optimiert. Für Bier und Softdrinks ist ein normaler Getränkekühlschrank günstiger und praktischer."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Klarstein Vinovilla Duo17",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07XZQX8BG?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "17",
+        "temperaturzonen": "2",
+        "temperaturbereich": "5–18",
+        "kuehltechnik": "Thermoelektrisch",
+        "lautstaerke": "26",
+        "energieeffizienz": "G"
+      }
+    },
+    {
+      "name": "Kalamera KRC-33BSS",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07Y8LZG7H?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "33",
+        "temperaturzonen": "2",
+        "temperaturbereich": "5–18",
+        "kuehltechnik": "Kompressor",
+        "lautstaerke": "39",
+        "energieeffizienz": "F"
+      }
+    },
+    {
+      "name": "Caso WineComfort 66",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B004E4EBDQ?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "66",
+        "temperaturzonen": "2",
+        "temperaturbereich": "5–20",
+        "kuehltechnik": "Kompressor (vibrationsarm)",
+        "lautstaerke": "40",
+        "energieeffizienz": "G"
+      }
+    },
+    {
+      "name": "Liebherr WKes 653",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B003BQWJCI?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "12",
+        "temperaturzonen": "1",
+        "temperaturbereich": "6–18",
+        "kuehltechnik": "Kompressor (Premium, vibrationsarm)",
+        "lautstaerke": "38",
+        "energieeffizienz": "G"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

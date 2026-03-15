@@ -1,0 +1,176 @@
+{
+  "slug": "spielturm",
+  "kategorie": "kinder",
+  "titel": "Spielturm / Klettergerüst",
+  "beschreibung": "Spielturm / Klettergerüst Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "spielturm test",
+    "klettergerüst vergleich",
+    "spielturm garten kaufberatung",
+    "spielturm 2026"
+  ],
+  "einleitung": "Du suchst einen Spielturm oder Klettergerüst für den Garten? Wir vergleichen vier Modelle — vom kompakten Turm bis zum Abenteuer-Komplex.",
+  "kaufberatung": "### Welche Podesthöhe ist altersgerecht?\n90-100 cm: Für Kinder ab 2-3 Jahren (mit kurzer Rutsche). 120 cm: Standard für Kinder ab 3-4 Jahren. 150 cm: Für ältere Kinder ab 5-6 Jahren — höhere Rutschen und Kletterwände. Höher als 150 cm nur mit entsprechendem Fallschutz.\n\n### KDI-Imprägnierung — was bedeutet das?\nKDI (Kesseldruckimprägniert) bedeutet, dass das Holz unter Druck mit Schutzmitteln getränkt wurde — es ist dadurch witterungsbeständig und gegen Fäulnis und Insekten geschützt. Nicht-imprägniertes Holz muss regelmäßig lasiert oder geölt werden.\n\n### Fallschutz — was sagt die Norm?\nDIN EN 1176 (öffentliche Spielplätze) und DIN EN 71 (Spielzeug) regeln Sicherheitsanforderungen. Im privaten Bereich gelten diese Normen nicht zwingend, aber: Fallschutzmatten, Rindenmulch oder Sand unter und um den Spielturm reduzieren Verletzungen bei Stürzen erheblich. Empfohlene Fallhöhe: Podesthöhe + 1 Meter Sicherheitszone.\n\n### Aufbau — schaffe ich das allein?\nDie meisten Spieltürme brauchen 2 Personen und 6-10 Stunden Aufbauzeit. Gutes Werkzeug (Akku-Bohrschrauber, Wasserwaage) ist Pflicht. Die Anleitungen von WICKEY und FATMOOSE sind gut, bei ISIDOR etwas knapper. Im Zweifelsfall: Aufbauservice buchen (oft 200-400 Euro).",
+  "vergleichsKategorien": [
+    {
+      "key": "hoehe",
+      "label": "Podesthöhe",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "grundflaeche",
+      "label": "Grundfläche (ca.)",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "rutsche",
+      "label": "Rutsche",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "schaukel",
+      "label": "Schaukel",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "kletterwand",
+      "label": "Kletterwand",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "altersempfehlung",
+      "label": "Alter",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich eine Baugenehmigung für einen Spielturm?",
+      "antwort": "In den meisten Bundesländern nicht, solange der Spielturm unter 3 Meter hoch ist und im eigenen Garten steht. Grenzbebauungsvorschriften (Abstand zum Nachbargrundstück) beachten — meist mind. 3 Meter. Im Zweifelsfall beim Bauamt nachfragen."
+    },
+    {
+      "frage": "Wie pflege ich einen Holzspielturm?",
+      "antwort": "KDI-Holz braucht wenig Pflege. Jährlich prüfen: Schrauben nachziehen, Holz auf Risse und Splitter kontrollieren, Rutsche reinigen. Alle 2-3 Jahre eine Holzschutzlasur auftragen. Nicht-imprägniertes Holz braucht jährliche Lasur oder Ölung."
+    },
+    {
+      "frage": "WICKEY, FATMOOSE oder ISIDOR — welcher Hersteller?",
+      "antwort": "WICKEY und FATMOOSE bieten das beste Preis-Leistungs-Verhältnis mit großer Auswahl und KDI-Holz. ISIDOR ist hochwertiger verarbeitet (allseitig gehobeltes Holz) und langlebiger, aber auch deutlich teurer. Für den normalen Garten: WICKEY oder FATMOOSE. Für Premium: ISIDOR."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Wickey MultiFlyer",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01AYKRR3W?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 3.5,
+      "werte": {
+        "hoehe": "120",
+        "grundflaeche": "3,4 × 3,1",
+        "material": "Holz (KDI-imprägniert)",
+        "rutsche": "Ja (Wellenrutsche)",
+        "schaukel": "Ja (Doppelschaukel)",
+        "kletterwand": "Ja",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "FATMOOSE Spielturm JazzyJungle",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B01A5DQI7W?tag=janxsiegmann-21",
+      "preis": 600,
+      "bewertung": 4.0,
+      "werte": {
+        "hoehe": "120",
+        "grundflaeche": "3,7 × 3,3",
+        "material": "Holz (KDI)",
+        "rutsche": "Ja (Wellenrutsche)",
+        "schaukel": "Ja (Doppelschaukel)",
+        "kletterwand": "Ja + Kletternetz",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "WICKEY Spielturm Smart Cave",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08MF8ZFC8?tag=janxsiegmann-21",
+      "preis": 900,
+      "bewertung": 4.5,
+      "werte": {
+        "hoehe": "150",
+        "grundflaeche": "4,4 × 3,5",
+        "material": "Holz (massiv, KDI)",
+        "rutsche": "Ja (Wellenrutsche)",
+        "schaukel": "Ja (Doppelschaukel)",
+        "kletterwand": "Ja + Kletterleiter",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Spielhaus Stelzenhaus ISIDOR",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07D36BFYP?tag=janxsiegmann-21",
+      "preis": 1500,
+      "bewertung": 4.5,
+      "werte": {
+        "hoehe": "150",
+        "grundflaeche": "5,5 × 3,5",
+        "material": "Holz (Fichte/Kiefer, allseitig gehobelt)",
+        "rutsche": "Ja (Wellenrutsche lang)",
+        "schaukel": "Ja (Doppelschaukel)",
+        "kletterwand": "Ja + Kletterstangen",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "sandstrahlpistole",
+  "kategorie": "handwerk",
+  "titel": "Sandstrahlpistole",
+  "beschreibung": "Sandstrahlpistole Test 2026: Die 4 besten Sandstrahler im Vergleich ✓ Rost entfernen ✓ Kaufberatung",
+  "keywords": [
+    "sandstrahlpistole",
+    "sandstrahlpistole test",
+    "sandstrahler",
+    "sandstrahlgerät",
+    "sandstrahlpistole kompressor",
+    "sandstrahlen",
+    "rost entfernen sandstrahlen",
+    "sandstrahlpistole vergleich",
+    "sandstrahlpistole kaufberatung",
+    "sandstrahler 2026"
+  ],
+  "einleitung": "Rost, alte Farbe und Verschmutzungen schonend entfernen — mit einer Sandstrahlpistole geht das schnell und effektiv. Wir vergleichen vier Modelle für Kompressor-Betrieb vom Hobby bis zum Semi-Profi.",
+  "kaufberatung": "### Wie funktioniert Sandstrahlen?\nEin Kompressor presst Luft durch die Pistole und reißt dabei ein Strahlmittel (Sand, Glasperlen, Korund) mit. Der Strahl trifft auf die Oberfläche und trägt Rost, Farbe und Schmutz ab. Die Stärke hängt vom Luftdruck und Strahlmittel ab.\n\n### Kompressor-Anforderungen\nDie meisten Sandstrahlpistolen brauchen mindestens 6 bar und 150-200 l/min Luftmenge. Kleine Hobby-Kompressoren (50 Liter) reichen für kurze Einsätze, für längeres Arbeiten brauchst du einen größeren Kessel oder einen Schraubenkompressor.\n\n### Strahlmittel: Nicht nur Sand\nTrotz des Namens gibt es verschiedene Strahlmittel: Korund (Aluminiumoxid) für aggressiven Abtrag, Glasperlen für schonende Reinigung, Soda für empfindliche Oberflächen. Sand wird wegen Gesundheitsrisiken (Silikose) immer seltener verwendet.\n\n### Sicherheit: Schutzausrüstung Pflicht\nSandstrahlen erzeugt Feinstaub — Atemschutzmaske (P3), Schutzbrille und Handschuhe sind unverzichtbar. Idealerweise in einer Sandstrahlkabine oder im Freien arbeiten.",
+  "vergleichsKategorien": [
+    {
+      "key": "behaeltervolumen",
+      "label": "Behältervolumen",
+      "einheit": "L",
+      "sortierung": 1
+    },
+    {
+      "key": "arbeitsdruck",
+      "label": "Arbeitsdruck",
+      "einheit": "bar",
+      "sortierung": 2
+    },
+    {
+      "key": "luftverbrauch",
+      "label": "Luftverbrauch",
+      "einheit": "l/min",
+      "sortierung": 3
+    },
+    {
+      "key": "duesen",
+      "label": "Düsen im Lieferumfang",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "anschluss",
+      "label": "Kompressor-Anschluss",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welchen Kompressor brauche ich zum Sandstrahlen?",
+      "antwort": "Mindestens 50 Liter Kessel, besser 100 Liter. Der Kompressor sollte mindestens 150 l/min Abgabeleistung bei 6 bar liefern. Kleine 24-Liter-Kompressoren reichen nur für sehr kurze Einsätze mit ständigen Pausen."
+    },
+    {
+      "frage": "Kann ich mit einer Sandstrahlpistole auch Holz bearbeiten?",
+      "antwort": "Ja, mit Soda oder feinen Glasperlen als Strahlmittel. Damit lassen sich alte Farbanstriche von Holzmöbeln entfernen, ohne das Holz zu beschädigen. Mit Korund oder Sand würde das Holz zu stark aufgeraut."
+    },
+    {
+      "frage": "Ist Sandstrahlen umweltfreundlich?",
+      "antwort": "Das hängt vom Strahlmittel und dem abgetragenen Material ab. Verbrauchtes Strahlmittel mit Farb- oder Rostresten muss fachgerecht entsorgt werden. Glasperlen und Soda sind umweltfreundlicher als chemische Alternativen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Güde Sandstrahlpistole 40020",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B001IYC1CE?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "0,9",
+        "arbeitsdruck": "3-8",
+        "luftverbrauch": "150-250",
+        "duesen": "4 (verschieden)",
+        "anschluss": "1/4 Zoll Schnellkupplung"
+      }
+    },
+    {
+      "name": "Aircraft Sandstrahlpistole SBP-Pro",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B078HKMJHQ?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "1,0",
+        "arbeitsdruck": "4-8",
+        "luftverbrauch": "200-350",
+        "duesen": "4 Keramikdüsen",
+        "anschluss": "1/4 Zoll Schnellkupplung"
+      }
+    },
+    {
+      "name": "Dragster DBS 20 Druckstrahlkessel",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0017JXJNS?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "19",
+        "arbeitsdruck": "4-8",
+        "luftverbrauch": "200-400",
+        "duesen": "3 (versch. Größen)",
+        "anschluss": "1/4 Zoll + Schlauch"
+      }
+    },
+    {
+      "name": "Holzmann SSK2.5 Sandstrahlkabine",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00B06FMYA?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "k.A. (Kabine)",
+        "arbeitsdruck": "4-8",
+        "luftverbrauch": "200-400",
+        "duesen": "Integrierte Düse + Handschuhe",
+        "anschluss": "Kompressor-Anschluss"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

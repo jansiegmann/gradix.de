@@ -1,0 +1,176 @@
+{
+  "slug": "vibrationsplatte",
+  "kategorie": "sport",
+  "titel": "Vibrationsplatte",
+  "beschreibung": "Vibrationsplatte Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "vibrationsplatte test",
+    "vibrationsplatte vergleich",
+    "vibrationstrainer kaufberatung",
+    "vibrationsplatte 2026"
+  ],
+  "einleitung": "Du suchst eine Vibrationsplatte fürs effiziente Ganzkörpertraining — zum Muskelaufbau, Abnehmen oder für die Regeneration? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Oszillierend, 3D oder triplanar — was ist der Unterschied?\nOszillierende Platten wippen seitlich wie eine Wippe — gut für Einsteiger und Durchblutung. 3D-Platten vibrieren vertikal und horizontal gleichzeitig — intensiver für Muskelaufbau. Triplanare Platten (wie Power Plate) vibrieren in allen drei Achsen mit hoher Frequenz — der Goldstandard, aber auch am teuersten.\n\n### Hilft eine Vibrationsplatte wirklich beim Abnehmen?\nAllein durch Draufstehen nicht. Aber in Kombination mit aktiven Übungen (Kniebeugen, Planks, Ausfallschritte) steigert die Vibration den Kalorienverbrauch um 20-30% gegenüber derselben Übung ohne Platte. Für Muskeltonus und Durchblutung ist der Effekt wissenschaftlich belegt.\n\n### Welche Frequenz brauche ich?\nFür Muskeltraining: 25-35 Hz. Für Durchblutung und Massage: 15-25 Hz. Für Knochengesundheit (Osteoporose-Prävention): 30-40 Hz mit niedriger Amplitude. Einsteiger starten bei 20 Hz und steigern langsam.\n\n### Wie oft und wie lange trainieren?\n10-15 Minuten, 3-4 Mal pro Woche reichen für spürbare Effekte. Nicht länger als 20 Minuten am Stück — die Vibrationen belasten Gelenke und Wirbelsäule. Menschen mit Gelenkproblemen, Herzschrittmacher oder Schwangere sollten vorher einen Arzt konsultieren.",
+  "vergleichsKategorien": [
+    {
+      "key": "vibrationsart",
+      "label": "Vibrationsart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "frequenz",
+      "label": "Frequenzbereich",
+      "einheit": "Hz",
+      "sortierung": 2
+    },
+    {
+      "key": "amplitude",
+      "label": "Amplitude",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Benutzergewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "motorleistung",
+      "label": "Motorleistung",
+      "einheit": "W",
+      "sortierung": 5
+    },
+    {
+      "key": "programme",
+      "label": "Programme",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "stellflaeche",
+      "label": "Stellfläche",
+      "einheit": "cm",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist eine Vibrationsplatte für Senioren geeignet?",
+      "antwort": "Ja, bei richtiger Nutzung sogar sehr empfehlenswert. Niedrige Frequenzen (15-20 Hz) verbessern Durchblutung, Balance und Knochengesundheit. Wichtig: Festhalten an Haltegriffen oder -bändern, niedrige Stufe wählen und langsam steigern. Personen mit Gelenkersatz sollten vorher einen Arzt fragen."
+    },
+    {
+      "frage": "Kann ich mit einer Vibrationsplatte Cellulite reduzieren?",
+      "antwort": "Die Vibration verbessert die Durchblutung und kann das Hautbild kurzfristig verbessern. Eine langfristige Cellulite-Reduktion erfordert aber zusätzlich Krafttraining und eine ausgewogene Ernährung. Die Vibrationsplatte allein ist kein Wundermittel."
+    },
+    {
+      "frage": "Wie laut ist eine Vibrationsplatte?",
+      "antwort": "Oszillierende Platten sind leiser als 3D-Modelle. Die meisten liegen bei 50-65 dB — vergleichbar mit normaler Gesprächslautstärke. In Mietwohnungen kann die Vibration aber durch den Boden übertragen werden — eine dicke Gymnastikmatte darunter hilft."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Bluefin Fitness Ultra Slim",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01N0GCESP?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 3.5,
+      "werte": {
+        "vibrationsart": "Oszillierend",
+        "frequenz": "5-40",
+        "amplitude": "k.A.",
+        "max_gewicht": "150",
+        "motorleistung": "1.000",
+        "programme": "5",
+        "stellflaeche": "79 × 44"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sportstech VP250",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0C9BFXD4H?tag=janxsiegmann-21",
+      "preis": 300,
+      "bewertung": 4.0,
+      "werte": {
+        "vibrationsart": "Oszillierend + 3D",
+        "frequenz": "5-40",
+        "amplitude": "0-10",
+        "max_gewicht": "120",
+        "motorleistung": "400",
+        "programme": "99 Stufen",
+        "stellflaeche": "78 × 45"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Miweba Sports MV200",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07D3LDCGX?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 4.5,
+      "werte": {
+        "vibrationsart": "3D + Oszillierend",
+        "frequenz": "5-40",
+        "amplitude": "0-12",
+        "max_gewicht": "150",
+        "motorleistung": "2 × 200",
+        "programme": "99 Stufen + 3 Modi",
+        "stellflaeche": "80 × 46"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Power Plate MOVE",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BX1VFCBR?tag=janxsiegmann-21",
+      "preis": 2500,
+      "bewertung": 4.5,
+      "werte": {
+        "vibrationsart": "Tri-planar (Harmony)",
+        "frequenz": "25-50",
+        "amplitude": "0-2",
+        "max_gewicht": "136",
+        "motorleistung": "k.A.",
+        "programme": "Integrierte Workouts",
+        "stellflaeche": "70 × 56"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

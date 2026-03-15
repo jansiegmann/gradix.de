@@ -1,0 +1,128 @@
+{
+  "slug": "ergonomische-maus",
+  "kategorie": "buero",
+  "titel": "Ergonomische Maus",
+  "beschreibung": "Ergonomische Maus Test 2026: Die 4 besten ergonomischen Mäuse ✓ Gegen Handgelenkschmerzen ✓ Vertikal & Trackball ✓ Kaufberatung",
+  "keywords": [
+    "ergonomische maus",
+    "ergonomische maus test",
+    "vertikale maus",
+    "ergonomische maus vergleich",
+    "logitech ergonomische maus",
+    "maus handgelenkschmerzen",
+    "ergonomische maus test 2026",
+    "trackball maus",
+    "maus büro ergonomisch",
+    "maus sehnenscheidenentzündung"
+  ],
+  "einleitung": "Schmerzen im Handgelenk nach langem Arbeiten am PC? Eine ergonomische Maus bringt deine Hand in eine natürlichere Position und kann Beschwerden deutlich reduzieren. Wir vergleichen vier Modelle und zeigen, welche Maus am besten hilft.",
+  "kaufberatung": "### Vertikale Maus, Trackball oder Ergonomische Standardform?\nVertikale Mäuse drehen die Hand in eine Handschlag-Position — das entlastet den Unterarm. Trackball-Mäuse bewegen den Cursor ohne Armbewegung — ideal bei Schulter- und Ellbogenproblemen. Ergonomisch geformte Standard-Mäuse sind der leichteste Umstieg für Einsteiger.\n\n### Kabel oder Kabellos?\nKabellose Mäuse bieten mehr Freiheit und einen aufgeräumten Schreibtisch. Bluetooth ist universell, USB-Dongle hat weniger Latenz. Für Büroarbeit ist der Unterschied kaum spürbar — Kabellos ist komfortabler.\n\n### DPI und Sensor\nFür Büroarbeit reichen 800-1.600 DPI. Höhere DPI-Werte (bis 4.000) sind für präzise Grafikarbeit sinnvoll. Einstellbare DPI-Stufen sind ein Plus, aber kein Muss.\n\n### Umgewöhnung — wie lange dauert es?\nDie meisten Nutzer brauchen 1-2 Wochen, um sich an eine vertikale oder Trackball-Maus zu gewöhnen. Danach wollen die meisten nicht mehr zurück. Tipp: In der Übergangsphase beide Mäuse am Schreibtisch haben.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "dpi",
+      "label": "DPI (max.)",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "tasten",
+      "label": "Tasten",
+      "einheit": "Stück",
+      "sortierung": 4
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Hilft eine ergonomische Maus gegen Handgelenkschmerzen?",
+      "antwort": "Ja, viele Nutzer berichten von deutlicher Besserung nach dem Umstieg auf eine ergonomische Maus. Vertikale Mäuse entlasten den Unterarm, Trackball-Mäuse die Schulter. Bei bestehenden Beschwerden empfehlen wir zusätzlich eine ergonomische Tastatur und regelmäßige Pausen."
+    },
+    {
+      "frage": "Welche ergonomische Maus ist für große Hände geeignet?",
+      "antwort": "Die Logitech MX Vertical ist mit 79 mm Breite auch für große Hände bequem. Beim Logitech ERGO M575 Trackball spielt die Handgröße weniger eine Rolle, da nur der Daumen den Ball bewegt."
+    },
+    {
+      "frage": "Kann man mit einer vertikalen Maus auch spielen?",
+      "antwort": "Für anspruchsvolles Gaming sind vertikale Mäuse weniger geeignet — die Präzision bei schnellen Bewegungen ist geringer. Für Casual Gaming und Strategiespiele reicht es aber. Zum Arbeiten sind sie hervorragend."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Anker Vertikale Maus",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00BIFNTCC?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Vertikal",
+        "verbindung": "USB-Kabel",
+        "dpi": "1.600",
+        "tasten": "5",
+        "akkulaufzeit": "k.A. (Kabel)",
+        "gewicht": "135"
+      }
+    },
+    {
+      "name": "Logitech Lift Vertical",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09J1NTXBM?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Vertikal",
+        "verbindung": "Bluetooth + USB-Dongle",
+        "dpi": "4.000",
+        "tasten": "6",
+        "akkulaufzeit": "24 Monate (AA)",
+        "gewicht": "125"
+      }
+    },
+    {
+      "name": "Logitech MX Vertical",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07FNJB8TT?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Vertikal (57°)",
+        "verbindung": "Bluetooth + USB-C + Dongle",
+        "dpi": "4.000",
+        "tasten": "4",
+        "akkulaufzeit": "4 Monate (Akku)",
+        "gewicht": "135"
+      }
+    },
+    {
+      "name": "Logitech ERGO M575 Trackball",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BKG6LNQF?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Trackball",
+        "verbindung": "Bluetooth + USB-Dongle",
+        "dpi": "2.000",
+        "tasten": "5",
+        "akkulaufzeit": "24 Monate (AA)",
+        "gewicht": "145"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

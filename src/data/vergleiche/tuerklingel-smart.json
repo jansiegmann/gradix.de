@@ -1,0 +1,114 @@
+{
+  "slug": "tuerklingel-smart",
+  "kategorie": "sicherheit",
+  "titel": "Türklingel (smart / Video)",
+  "beschreibung": "Video-Türklingel Test 2026: Die 4 besten smarten Türklingeln ✓ Sehen wer klingelt ✓",
+  "keywords": [
+    "video türklingel",
+    "türklingel test",
+    "ring doorbell",
+    "eufy doorbell",
+    "smarte türklingel",
+    "video türklingel vergleich",
+    "türklingel kamera",
+    "türklingel 2026",
+    "smart doorbell",
+    "reolink doorbell"
+  ],
+  "einleitung": "Sehen wer klingelt — auch von unterwegs. Video-Türklingeln streamen Live-Video aufs Smartphone. Vier Modelle im Vergleich.",
+  "kaufberatung": "### Cloud oder lokal?\nRing/Google: Abo nötig. Eufy/Reolink: lokal ohne Abo.\n\n### Akku oder Kabel?\nAkku flexibler, Kabel wartungsfrei.\n\n### Auflösung\n1080p Minimum, 2K deutlich besser.",
+  "vergleichsKategorien": [
+    {
+      "key": "aufloesung",
+      "label": "Auflösung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "sichtfeld",
+      "label": "Sichtfeld",
+      "einheit": "°",
+      "sortierung": 2
+    },
+    {
+      "key": "strom",
+      "label": "Strom",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "speicher",
+      "label": "Speicher",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "sprache",
+      "label": "Sprachassistenten",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Legal in Deutschland?",
+      "antwort": "Ja, wenn nur eigenes Grundstück erfasst wird."
+    },
+    {
+      "frage": "Abo nötig?",
+      "antwort": "Ring/Google: ja. Eufy/Reolink: nein."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Reolink Doorbell WiFi",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B7S3JSG7?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "2K",
+        "sichtfeld": "180°",
+        "strom": "Kabel/Akku",
+        "speicher": "Lokal+Cloud",
+        "sprache": "Alexa, Google"
+      }
+    },
+    {
+      "name": "Ring Video Doorbell 4",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B2BYRL29?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "1080p",
+        "sichtfeld": "160°",
+        "strom": "Akku",
+        "speicher": "Cloud (Abo)",
+        "sprache": "Alexa"
+      }
+    },
+    {
+      "name": "eufy Video Doorbell 2K",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09LGKP76P?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "2K",
+        "sichtfeld": "160°",
+        "strom": "Akku",
+        "speicher": "Lokal (HomeBase)",
+        "sprache": "Alexa, Google"
+      }
+    },
+    {
+      "name": "Google Nest Doorbell",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09FCLBHVQ?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "1080p HDR",
+        "sichtfeld": "145°",
+        "strom": "Kabel",
+        "speicher": "Cloud (Nest Aware)",
+        "sprache": "Google"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

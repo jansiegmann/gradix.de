@@ -1,0 +1,128 @@
+{
+  "slug": "handstaubsauger-akku",
+  "kategorie": "reinigung",
+  "titel": "Handstaubsauger (Akku)",
+  "beschreibung": "Akku-Handstaubsauger Test 2026: Die 4 besten Handsauger im Vergleich ✓ Kompakt & stark ✓ Kaufberatung",
+  "keywords": [
+    "handstaubsauger akku test",
+    "akku handstaubsauger",
+    "handstaubsauger test",
+    "handstaubsauger vergleich",
+    "bester handstaubsauger",
+    "handstaubsauger test 2026",
+    "handstaubsauger auto",
+    "mini staubsauger akku",
+    "handsauger kabellos",
+    "handstaubsauger kaufberatung"
+  ],
+  "einleitung": "Für Krümel auf der Couch, Tierhaare im Auto oder schnelle Reinigung zwischendurch — ein Akku-Handstaubsauger ist ein unverzichtbarer Helfer. Wir vergleichen vier Modelle von kompakt bis leistungsstark.",
+  "kaufberatung": "### Saugleistung: Wie viel Watt?\nFür Krümel und Staub reichen 30–50W. Für Tierhaare und gröberen Schmutz brauchst du 80–120W. Die Saugleistung sinkt mit abnehmendem Akkustand — achte auf die Leistung am Ende der Laufzeit.\n\n### Akkulaufzeit\nKompakte Modelle laufen 10–15 Minuten, größere 20–30 Minuten. Für das Auto reichen 10 Minuten, für eine gründliche Sofa-Reinigung brauchst du mehr. Achte auch auf die Ladezeit — manche brauchen 5+ Stunden.\n\n### Nass-Trocken-Funktion\nEinige Handstaubsauger können auch Flüssigkeiten aufsaugen — praktisch für verschüttete Getränke. Nicht jedes Modell bietet das — prüfe die Beschreibung.\n\n### Filter und Hygiene\nHEPA-Filter halten Feinstaub und Allergene zurück — wichtig für Allergiker. Waschbare Filter sparen Folgekosten. Beutellose Modelle mit einem Staubbehälter sind heute Standard.\n\n### Zubehör\nFugendüse (für enge Spalten), Polsterdüse (für Sofa/Auto) und eine Ladestation sind das wichtigste Zubehör. Manche Modelle kommen mit einer Wandhalterung.",
+  "vergleichsKategorien": [
+    {
+      "key": "saugleistung",
+      "label": "Saugleistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 2
+    },
+    {
+      "key": "behaeltervolumen",
+      "label": "Behältervolumen",
+      "einheit": "ml",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "ladezeit",
+      "label": "Ladezeit",
+      "einheit": "h",
+      "sortierung": 5
+    },
+    {
+      "key": "nass_trocken",
+      "label": "Nass & Trocken",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Handstaubsauger ist am besten fürs Auto?",
+      "antwort": "Der Black+Decker Dustbuster mit Fugendüse und 12V-Ladeadapter ist ideal fürs Auto. Für mehr Power empfehlen wir den Dyson V8 Origin mit Handgriff-Modus — er ist aber auch deutlich teurer."
+    },
+    {
+      "frage": "Wie lange hält der Akku eines Handstaubsaugers?",
+      "antwort": "Die meisten Modelle laufen 10–20 Minuten auf höchster Stufe. Auf niedriger Stufe bis zu 30 Minuten. Für kurze Einsätze (Krümel, Auto) reicht das völlig."
+    },
+    {
+      "frage": "Sind Handstaubsauger für Tierhaare geeignet?",
+      "antwort": "Ja, Modelle mit rotierender Bürstenwalze und mindestens 80W Saugleistung entfernen Tierhaare von Polstern und Textilien effektiv. Achte auf einen leicht zu reinigenden Bürstenaufsatz."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Black+Decker DVJ325BF Dustbuster",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B075DFWCMJ?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "27",
+        "akkulaufzeit": "10",
+        "behaeltervolumen": "500",
+        "gewicht": "0,7",
+        "ladezeit": "5",
+        "nass_trocken": "Nein"
+      }
+    },
+    {
+      "name": "Bosch UniversalVac 18",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07CSLY1KZ?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "18V Akku (Bosch-System)",
+        "akkulaufzeit": "20",
+        "behaeltervolumen": "500",
+        "gewicht": "1,3 (ohne Akku)",
+        "ladezeit": "3,5",
+        "nass_trocken": "Nein"
+      }
+    },
+    {
+      "name": "Shark WandVac 2.0",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09VFLG3P3?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "k.A. (starke Saugkraft)",
+        "akkulaufzeit": "18",
+        "behaeltervolumen": "300",
+        "gewicht": "0,7",
+        "ladezeit": "3,5",
+        "nass_trocken": "Nein"
+      }
+    },
+    {
+      "name": "Dyson V8 Origin",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0D26P3G7Q?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "115 (Air Watts)",
+        "akkulaufzeit": "40 (Eco) / 7 (Max)",
+        "behaeltervolumen": "540",
+        "gewicht": "2,1 (als Stabsauger)",
+        "ladezeit": "5",
+        "nass_trocken": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

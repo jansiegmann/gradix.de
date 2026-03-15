@@ -1,0 +1,128 @@
+{
+  "slug": "zelt-2-4-personen",
+  "kategorie": "camping",
+  "titel": "Zelt (2-4 Personen)",
+  "beschreibung": "Zelt Test 2026: Die 4 besten Zelte für 2-4 Personen ✓ Wasserdicht ✓ Leicht aufzubauen ✓ Für Camping & Trekking",
+  "keywords": [
+    "zelt",
+    "zelt test",
+    "zelt 2 personen",
+    "zelt 4 personen",
+    "zelt vergleich",
+    "camping zelt",
+    "trekkingzelt test",
+    "zelt test 2026",
+    "zelt kaufen",
+    "zelt wasserdicht"
+  ],
+  "einleitung": "Ob Wochenend-Camping, Festival oder Trekkingtour — das richtige Zelt hält dich trocken und bietet genug Platz. Wir vergleichen vier Zelte für 2-4 Personen und zeigen, welches zu deinem Camping-Stil passt.",
+  "kaufberatung": "### Kuppelzelt, Tunnelzelt oder Geodät?\nKuppelzelte sind am einfachsten aufzubauen und freistehend — ideal für Einsteiger. Tunnelzelte bieten mehr Platz und Stauraum, brauchen aber Heringe. Geodätische Zelte sind am stabilsten bei Wind und Schnee — für anspruchsvolle Bedingungen.\n\n### Wassersäule — wie viel brauche ich?\nAb 1.500 mm gilt ein Zelt als wasserdicht. 3.000 mm reichen für die meisten Camping-Situationen. Für Trekking in regenreichen Regionen empfehlen wir 5.000 mm+. Der Boden sollte mindestens 5.000 mm haben.\n\n### Gewicht und Packmaß\nFür Autocamping ist das Gewicht egal — hier zählt Platz und Komfort. Für Trekking sollte das Zelt unter 3 kg wiegen und ein kompaktes Packmaß haben. Ultraleicht-Zelte unter 2 kg sind für Gramm-Zähler.\n\n### Aufbau — wie schnell geht es?\nPop-up-Zelte stehen in Sekunden, haben aber ein großes Packmaß. Klassische Kuppelzelte brauchen 5-15 Minuten. Tunnelzelte sind etwas aufwändiger. Für Festivals und Kurztrips sind Schnellaufbau-Zelte ideal.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Zelttyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "personen",
+      "label": "Personen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "wassersaeule",
+      "label": "Wassersäule",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "packmass",
+      "label": "Packmaß",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "aufbauzeit",
+      "label": "Aufbauzeit",
+      "einheit": "min",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel kostet ein gutes Zelt?",
+      "antwort": "Ein solides Einstiegerzelt gibt es ab 80-150 Euro. Gute Allrounder kosten 150-300 Euro. Premium-Trekkingzelte liegen bei 300-600 Euro. Für die meisten Camper bietet die Mittelklasse das beste Preis-Leistungs-Verhältnis."
+    },
+    {
+      "frage": "Was bedeutet 2-Personen-Zelt wirklich?",
+      "antwort": "Die Personenangabe bezieht sich auf die reine Schlaffläche — es passt rein, ist aber eng. Wenn du Gepäck im Zelt lagern willst, rechne eine Person weniger. Ein 3-Personen-Zelt ist für 2 Personen mit Gepäck komfortabel."
+    },
+    {
+      "frage": "Wie pflege ich mein Zelt richtig?",
+      "antwort": "Zelt nach jedem Einsatz trocknen lassen (nie nass einpacken). Lehmreste und Sand mit Wasser abspülen. Zelt nie in der Waschmaschine waschen. Reißverschlüsse regelmäßig mit Silikonspray pflegen. Trocken und locker lagern."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Coleman Sundome 3",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07GKPS95C?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kuppelzelt",
+        "personen": "3",
+        "wassersaeule": "3.000",
+        "gewicht": "4,4",
+        "packmass": "55 × 17",
+        "aufbauzeit": "10"
+      }
+    },
+    {
+      "name": "Vaude Campo Compact 2P",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B081FFHWZ4?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kuppelzelt",
+        "personen": "2",
+        "wassersaeule": "3.000",
+        "gewicht": "3,0",
+        "packmass": "52 × 17",
+        "aufbauzeit": "8"
+      }
+    },
+    {
+      "name": "MSR Hubba Hubba NX 2",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BVZN3YFP?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kuppelzelt (Trekking)",
+        "personen": "2",
+        "wassersaeule": "3.000+",
+        "gewicht": "1,72",
+        "packmass": "46 × 15",
+        "aufbauzeit": "5"
+      }
+    },
+    {
+      "name": "Hilleberg Anjan 3",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00LMMK2FA?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Tunnelzelt (4-Jahreszeiten)",
+        "personen": "3",
+        "wassersaeule": "5.000+",
+        "gewicht": "2,1",
+        "packmass": "50 × 17",
+        "aufbauzeit": "5"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

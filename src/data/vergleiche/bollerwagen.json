@@ -1,0 +1,176 @@
+{
+  "slug": "bollerwagen",
+  "kategorie": "kinder",
+  "titel": "Bollerwagen (faltbar)",
+  "beschreibung": "Bollerwagen (faltbar) Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "bollerwagen faltbar test",
+    "faltbollerwagen vergleich",
+    "bollerwagen kaufberatung",
+    "bollerwagen 2026"
+  ],
+  "einleitung": "Du suchst einen faltbaren Bollerwagen für Ausflüge, Strand oder Einkäufe? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Luftreifen oder PU-Reifen?\nLuftreifen federn besser ab — ideal für Wald, Strand und unebene Wege. Nachteil: Können platt werden. PU-Reifen (pannensicher) sind wartungsfrei, federn aber weniger ab — besser für Asphalt und gepflasterte Wege. Für den Strand unbedingt Breitreifen wählen.\n\n### Wie wichtig ist eine Bremse?\nSehr wichtig, besonders mit Kindern drin. Eine Feststellbremse verhindert, dass der Wagen am Hang wegrollt. Die meisten faltbaren Bollerwagen haben eine Hinterradbremse — achte darauf, dass sie leicht zu bedienen ist.\n\n### Sicherheitsgurte — brauche ich die?\nFür Kinder unter 3 Jahren empfehlenswert. 5-Punkt-Gurte (wie der Ulfbo Comfort) verhindern, dass Kinder bei Schlaglöchern oder Bremsen herausfallen. Modelle ohne Gurte sind als Lastenkarren OK, aber zum Kindertransport nur bedingt geeignet.\n\n### Packmaß — wie klein wird der Wagen?\nDie meisten faltbaren Bollerwagen lassen sich auf ca. 80 × 50 × 20 cm zusammenfalten. Das passt in die meisten Kofferräume. Achte auf das Gewicht (10-16 kg) — du musst ihn auch zum Auto tragen.",
+  "vergleichsKategorien": [
+    {
+      "key": "zuladung",
+      "label": "Max. Zuladung",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "masse_aufgebaut",
+      "label": "Maße (aufgebaut)",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "masse_gefaltet",
+      "label": "Packmaß (gefaltet)",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "eigengewicht",
+      "label": "Eigengewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "reifen",
+      "label": "Reifen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "sonnendach",
+      "label": "Sonnendach",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Darf man Kinder im Bollerwagen transportieren?",
+      "antwort": "Ja, viele faltbare Bollerwagen sind für den Kindertransport ausgelegt. Achte auf Sicherheitsgurte, stabile Konstruktion und TÜV-Prüfung. Ohne Gurte sollten nur Kinder ab 3-4 Jahren mitfahren, die sich festhalten können. Der Bollerwagen ist kein Kinderwagen-Ersatz für Babys."
+    },
+    {
+      "frage": "Welcher Bollerwagen ist der beste für den Strand?",
+      "antwort": "Modelle mit breiten PU- oder Luftreifen (KESSER GT9000, Ulfbo Comfort) rollen am besten über Sand. Schmale Räder graben sich ein. Achte auch auf ein Sonnendach — am Strand ist Sonnenschutz für Kinder essentiell."
+    },
+    {
+      "frage": "Wie stabil sind faltbare Bollerwagen?",
+      "antwort": "Gute Modelle (75-80 kg Zuladung) sind stabil genug für 2 Kinder + Gepäck. Auf unebenen Wegen kann ein beladener Wagen aber kippen, wenn er zu hoch beladen ist. Schwere Sachen unten, leichte oben. Feststellbremse immer nutzen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "FUXTEC FX-CT500",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0932RJP8G?tag=janxsiegmann-21",
+      "preis": 75,
+      "bewertung": 3.5,
+      "werte": {
+        "zuladung": "75",
+        "masse_aufgebaut": "100 × 50 × 60",
+        "masse_gefaltet": "80 × 50 × 20",
+        "eigengewicht": "12",
+        "reifen": "PU (pannensicher)",
+        "sonnendach": "Ja (abnehmbar)",
+        "extras": "Bremse, Hecktasche, Getränkehalter"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "KESSER Bollerwagen GT9000",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BDJNLZ5C?tag=janxsiegmann-21",
+      "preis": 100,
+      "bewertung": 4.0,
+      "werte": {
+        "zuladung": "80",
+        "masse_aufgebaut": "103 × 55 × 100",
+        "masse_gefaltet": "83 × 53 × 21",
+        "eigengewicht": "14",
+        "reifen": "PU Breitreifen",
+        "sonnendach": "Ja (abnehmbar)",
+        "extras": "Bremse, Seitentaschen, Regen-/Sonnendach"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Hauck Eco Mobil",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07PPBTV7K?tag=janxsiegmann-21",
+      "preis": 100,
+      "bewertung": 4.5,
+      "werte": {
+        "zuladung": "50",
+        "masse_aufgebaut": "100 × 50 × 57",
+        "masse_gefaltet": "76 × 52 × 22",
+        "eigengewicht": "11",
+        "reifen": "Luftreifen",
+        "sonnendach": "Ja",
+        "extras": "2 Sicherheitsgurte, Bremse, waschbarer Stoff"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Ulfbo Comfort Bollerwagen",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BR3QQ2V9?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 4.5,
+      "werte": {
+        "zuladung": "80",
+        "masse_aufgebaut": "105 × 55 × 115",
+        "masse_gefaltet": "80 × 55 × 25",
+        "eigengewicht": "16",
+        "reifen": "Luftreifen (kugelgelagert)",
+        "sonnendach": "Ja + Regenverdeck",
+        "extras": "Bremse, 5-Punkt-Gurte, Premium-Stoff, Federung"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

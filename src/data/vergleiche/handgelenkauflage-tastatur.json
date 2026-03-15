@@ -1,0 +1,128 @@
+{
+  "slug": "handgelenkauflage-tastatur",
+  "kategorie": "buero",
+  "titel": "Handgelenkauflage (Tastatur)",
+  "beschreibung": "Handgelenkauflage Test 2026: Die 4 besten Handballenauflagen ✓ Memory-Foam & Gel ✓ Für ergonomisches Tippen",
+  "keywords": [
+    "handgelenkauflage",
+    "handballenauflage tastatur",
+    "handgelenkauflage test",
+    "wrist rest",
+    "handgelenkauflage vergleich",
+    "handballenauflage test 2026",
+    "handgelenkstütze tastatur",
+    "tastatur auflage",
+    "handgelenkauflage gel",
+    "handgelenkauflage memory foam"
+  ],
+  "einleitung": "Schmerzende Handgelenke nach langem Tippen? Eine Handgelenkauflage entlastet deine Handgelenke und reduziert den Druck auf Nerven und Sehnen. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Memory-Foam oder Gel?\nMemory-Foam passt sich der Handform an und bietet gute Unterstützung. Gel ist kühler und federt mehr — angenehm im Sommer. Beide Materialien sind gut, die Wahl ist Geschmackssache.\n\n### Die richtige Länge\nStandard-Handgelenkauflagen (ca. 44 cm) passen zu normalen Tastaturen. Für Tenkeyless-Tastaturen (ohne Nummernblock) brauchst du eine kürzere Version. Achte auf die Breite deiner Tastatur.\n\n### Richtige Nutzung\nWichtig: Die Auflage stützt die Handballen, nicht die Handgelenke. Beim Tippen sollten die Handgelenke über der Auflage schweben und nur in Pausen abgelegt werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "laenge",
+      "label": "Länge",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "bezug",
+      "label": "Bezug",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "rutschfest",
+      "label": "Rutschfeste Unterseite",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "waschbar",
+      "label": "Bezug waschbar",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist eine Handgelenkauflage wirklich sinnvoll?",
+      "antwort": "Ja, wenn du viel tippst. Sie entlastet die Handgelenke und kann Beschwerden wie Karpaltunnelsyndrom vorbeugen. Wichtig: In Tipp-Pausen ablegen, nicht dauerhaft darauf aufstützen."
+    },
+    {
+      "frage": "Memory-Foam oder Gel — was ist besser?",
+      "antwort": "Memory-Foam passt sich der Handform an und ist ideal für kältere Umgebungen. Gel bleibt kühl und federt mehr — angenehm in warmen Büros. Beide sind gut, die Wahl ist persönliche Präferenz."
+    },
+    {
+      "frage": "Brauche ich auch eine Handgelenkauflage für die Maus?",
+      "antwort": "Wenn du viel mit der Maus arbeitest, ist eine separate Maus-Handgelenkauflage oder ein Mauspad mit integrierter Auflage sinnvoll. Die entlastet das Handgelenk genauso wie die Tastatur-Variante."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "HyperX Wrist Rest",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07GP7JXQY?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Memory-Foam",
+        "laenge": "45",
+        "hoehe": "2,2",
+        "bezug": "Cool-Gel-Stoff",
+        "rutschfest": "Ja (Gummi)",
+        "waschbar": "Nein"
+      }
+    },
+    {
+      "name": "Kensington ErgoSoft",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07CNCRGS2?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Gel + Schaumstoff",
+        "laenge": "48",
+        "hoehe": "2,5",
+        "bezug": "Kunstleder (leicht zu reinigen)",
+        "rutschfest": "Ja",
+        "waschbar": "Abwischbar"
+      }
+    },
+    {
+      "name": "Glorious PC Gaming Race Wrist Rest",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07BCS1YTF?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Memory-Foam (Stealth)",
+        "laenge": "43 (TKL) / 52 (Full)",
+        "hoehe": "2,5",
+        "bezug": "Stoff (genäht)",
+        "rutschfest": "Ja (Gummi)",
+        "waschbar": "Nein"
+      }
+    },
+    {
+      "name": "Fellowes PlushTouch",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B003KGB6CM?tag=janxsiegmann-21",
+      "werte": {
+        "material": "FoamFusion (Memory + Gel)",
+        "laenge": "46",
+        "hoehe": "2,5",
+        "bezug": "Mikrofaser (antimikrobiell)",
+        "rutschfest": "Ja",
+        "waschbar": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

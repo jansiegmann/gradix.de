@@ -1,0 +1,128 @@
+{
+  "slug": "werkzeugkoffer",
+  "kategorie": "handwerk",
+  "titel": "Werkzeugkoffer (bestückt)",
+  "beschreibung": "Werkzeugkoffer Test 2026: Die 4 besten bestückten Werkzeugsets ✓ Für Haus & Werkstatt ✓ Kaufberatung",
+  "keywords": [
+    "werkzeugkoffer",
+    "werkzeugkoffer bestückt",
+    "werkzeugkoffer test",
+    "werkzeugset",
+    "werkzeugkoffer vergleich",
+    "bester werkzeugkoffer",
+    "werkzeugkoffer komplett",
+    "profi werkzeugkoffer",
+    "werkzeugkoffer kaufberatung",
+    "werkzeugkoffer 2026"
+  ],
+  "einleitung": "Ein guter bestückter Werkzeugkoffer ist die Grundausstattung für jeden Haushalt. Aber die Qualitätsunterschiede sind enorm. Wir vergleichen vier Sets und zeigen, worauf es bei Steckschlüsseln, Zangen und Schraubendrehern ankommt.",
+  "kaufberatung": "### Qualität vor Quantität\n232 Teile klingt beeindruckend, aber wenn 200 davon minderwertige Bits sind, nützt das wenig. Achte auf die Qualität der Kernwerkzeuge: Schraubendreher, Zangen, Steckschlüssel und Hammer. Hier trennt sich die Spreu vom Weizen.\n\n### Welche Werkzeuge muss ein guter Koffer enthalten?\nPflicht: Schraubendreher-Set (Schlitz + Kreuz + Torx), Kombizange, Seitenschneider, Wasserpumpenzange, Hammer, Maßband, Cuttermesser, Steckschlüsselsatz, Inbusschlüssel-Set, Phasenprüfer.\n\n### Kofferqualität nicht vergessen\nEin robuster Koffer mit guter Sortierung ist wichtig. Kunststoffkoffer mit Metallschließen und geformten Einlagen halten die Werkzeuge an Ort und Stelle. Billige Koffer gehen schnell kaputt.\n\n### Chrom-Vanadium-Stahl erkennen\nHochwertiges Werkzeug ist aus Chrom-Vanadium-Stahl (Cr-V) gefertigt — härter und langlebiger als normaler Stahl. Steht es nicht drauf, ist es meist minderwertiges Material.",
+  "vergleichsKategorien": [
+    {
+      "key": "teileanzahl",
+      "label": "Teile",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "steckschluessel",
+      "label": "Steckschlüssel-Set",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "zangen",
+      "label": "Zangen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "schraubendreher",
+      "label": "Schraubendreher",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "koffertyp",
+      "label": "Koffertyp",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Lohnt sich ein bestückter Werkzeugkoffer oder besser einzeln kaufen?",
+      "antwort": "Für die Grundausstattung lohnt sich ein bestücktes Set — du sparst gegenüber Einzelkauf deutlich. Spezialwerkzeuge (z.B. Drehmomentschlüssel) kaufst du besser einzeln in guter Qualität dazu."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen günstigen und teuren Werkzeugkoffern?",
+      "antwort": "Die Materialqualität. Günstige Sets verwenden oft Werkzeug aus weichem Stahl, das schnell rundlutscht oder bricht. Premium-Sets (z.B. Knipex, Wera, Wiha) nutzen gehärteten Chrom-Vanadium-Stahl mit ergonomischen Griffen."
+    },
+    {
+      "frage": "Wie viele Teile brauche ich wirklich?",
+      "antwort": "Für den normalen Haushalt reichen 50-100 sinnvolle Teile. Alles darüber ist oft Füllmaterial (Bits, die man nie braucht). Lieber ein 80-teiliges Set mit guter Qualität als ein 200-teiliges mit schlechtem Werkzeug."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Meister Werkzeugkoffer 131-teilig",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00GR5GJ04?tag=janxsiegmann-21",
+      "werte": {
+        "teileanzahl": "131",
+        "steckschluessel": "1/4\" + 1/2\" Ratsche",
+        "zangen": "Kombi + Seiten + Wasserpumpe",
+        "schraubendreher": "Schlitz + Kreuz + Bit-Set",
+        "material": "Chrom-Vanadium",
+        "koffertyp": "Alu-Koffer"
+      }
+    },
+    {
+      "name": "Brüder Mannesmann M29085",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B001IOBXJ2?tag=janxsiegmann-21",
+      "werte": {
+        "teileanzahl": "89",
+        "steckschluessel": "1/4\" + 1/2\" Ratsche",
+        "zangen": "Kombi + Seiten + Wasserpumpe",
+        "schraubendreher": "Schlitz + Kreuz + Torx",
+        "material": "Chrom-Vanadium",
+        "koffertyp": "Metallkoffer"
+      }
+    },
+    {
+      "name": "Proxxon Industrial 23650",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B001ILGQTI?tag=janxsiegmann-21",
+      "werte": {
+        "teileanzahl": "65",
+        "steckschluessel": "1/4\" + 1/2\" Ratsche (72 Zähne)",
+        "zangen": "Kombi + Seiten + Spitzzange",
+        "schraubendreher": "Schlitz + Kreuz + Torx + Inbus",
+        "material": "Chrom-Vanadium (hochwertig)",
+        "koffertyp": "Kunststoffkoffer (Einlagen)"
+      }
+    },
+    {
+      "name": "Knipex/Wera Werkzeug-Set 15-teilig",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BJ8GYWZX?tag=janxsiegmann-21",
+      "werte": {
+        "teileanzahl": "15 (Kernwerkzeuge)",
+        "steckschluessel": "Nein",
+        "zangen": "3× Knipex (Kombi, Seiten, Cobra)",
+        "schraubendreher": "6× Wera Kraftform",
+        "material": "Premium Chrom-Vanadium",
+        "koffertyp": "Werkzeugbox"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "skihelm",
+  "kategorie": "wintersport",
+  "titel": "Skihelm",
+  "beschreibung": "Skihelm Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "skihelm test",
+    "skihelm vergleich",
+    "skihelm kaufberatung",
+    "bester skihelm 2026"
+  ],
+  "einleitung": "Du suchst einen Skihelm, der zuverlässig schützt, bequem sitzt und gut belüftet? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### MIPS — brauche ich das?\nMIPS (Multi-directional Impact Protection System) schützt bei Rotationskräften — die bei den meisten Stürzen auftreten. Die innere Schale gleitet minimal, um Drehkräfte vom Gehirn fernzuhalten. Für 20-30 Euro Aufpreis absolut empfehlenswert. Der Smith Level und POC Obex haben MIPS.\n\n### Inmould oder Hartschale?\nInmould: Leichter und besser belüftet — die EPS-Innenschale ist direkt mit der Außenschale verschmolzen. Standard bei Sport-Helmen. Hartschale: Robuster, schwerer — besser für Freeride und Park. Für Pistenfahrer ist Inmould die bessere Wahl.\n\n### Belüftung — warum wichtig?\nRegulierbare Belüftung (Schieber) ermöglicht, an kalten Tagen die Öffnungen zu schließen und an warmen Tagen zu öffnen. Ohne Regulierung beschlägt die Skibrille schneller. Achte auf 12+ Ventilationsöffnungen und einen funktionierenden Schiebemechanismus.\n\n### Helm mit oder ohne Visier?\nVisierhelme ersetzen die Skibrille — praktisch für Brillenträger. Nachteil: Bei Nebel oder schlechten Lichtverhältnissen fehlt die Flexibilität, schnell die Gläser zu wechseln. Separate Helm-Brillen-Kombination ist vielseitiger.",
+  "vergleichsKategorien": [
+    {
+      "key": "bauweise",
+      "label": "Bauweise",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 2
+    },
+    {
+      "key": "belueftung",
+      "label": "Belüftung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "visier",
+      "label": "Visier",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "groessen",
+      "label": "Größen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "zertifizierung",
+      "label": "Zertifizierung",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft muss ich einen Skihelm ersetzen?",
+      "antwort": "Nach einem Sturz mit Aufprall immer ersetzen — auch wenn äußerlich nichts sichtbar ist. Ohne Sturz alle 3-5 Jahre, da das EPS-Material altert und die Schutzwirkung nachlässt. UV-Strahlung und Temperaturschwankungen beschleunigen die Alterung."
+    },
+    {
+      "frage": "Welche Helmgröße brauche ich?",
+      "antwort": "Miss deinen Kopfumfang mit einem Maßband ca. 1 cm über den Augenbrauen. Die meisten Helme gibt es in S (52-55 cm), M (55-59 cm) und L (59-62 cm). Der Helm sollte eng sitzen, aber nicht drücken. Am besten im Laden probieren."
+    },
+    {
+      "frage": "Was bedeutet CE EN 1077?",
+      "antwort": "Das ist die europäische Sicherheitsnorm für Skihelme. Klasse A bietet vollen Schutz (auch Ohren und Schläfen), Klasse B schützt den Oberkopf. Alle Helme in unserem Vergleich erfüllen mindestens Klasse B. Für Freeride/Park empfehlen wir Klasse A."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Uvex p1us 2.0",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07GCRQ2H4?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 3.5,
+      "werte": {
+        "bauweise": "Inmould",
+        "gewicht": "380",
+        "belueftung": "Passive Belüftung",
+        "visier": "Nein",
+        "groessen": "52-62 cm",
+        "zertifizierung": "CE EN 1077 B",
+        "extras": "Abnehmbares Ohrpad"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Smith Level",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B9KNT2V9?tag=janxsiegmann-21",
+      "preis": 130,
+      "bewertung": 4.0,
+      "werte": {
+        "bauweise": "Inmould + EPS",
+        "gewicht": "360",
+        "belueftung": "Regulierbare Belüftung (22 Öffnungen)",
+        "visier": "Nein",
+        "groessen": "51-67 cm",
+        "zertifizierung": "CE EN 1077 B",
+        "extras": "MIPS, Fidlock-Verschluss"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "POC Obex MIPS",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BLMQTV3Y?tag=janxsiegmann-21",
+      "preis": 170,
+      "bewertung": 4.5,
+      "werte": {
+        "bauweise": "Inmould PC/EPS + MIPS",
+        "gewicht": "380",
+        "belueftung": "Regulierbar (Schieber)",
+        "visier": "Nein",
+        "groessen": "51-62 cm",
+        "zertifizierung": "CE EN 1077 B",
+        "extras": "MIPS, Recco-Reflektor, NFC Medical ID"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Sweet Protection Trooper 2Vi MIPS",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B98VBD78?tag=janxsiegmann-21",
+      "preis": 300,
+      "bewertung": 4.5,
+      "werte": {
+        "bauweise": "2Vi (VAPC+EPS) + MIPS",
+        "gewicht": "430",
+        "belueftung": "Regulierbar",
+        "visier": "Nein",
+        "groessen": "53-64 cm",
+        "zertifizierung": "CE EN 1077 B",
+        "extras": "2Vi-Technologie, MIPS, Recco"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

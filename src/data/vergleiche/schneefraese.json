@@ -1,0 +1,176 @@
+{
+  "slug": "schneefraese",
+  "kategorie": "garten",
+  "titel": "Schneeschaufel / Schneefräse",
+  "beschreibung": "Schneeschaufel / Schneefräse Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "schneefräse test",
+    "schneeschaufel vergleich",
+    "schneefräse kaufberatung",
+    "schneefräse 2026"
+  ],
+  "einleitung": "Du suchst eine Schneefräse oder robuste Schneeschaufel für den Winter? Wir vergleichen vier Modelle — von der Luxus-Schaufel bis zur leistungsstarken Fräse.",
+  "kaufberatung": "### Schneeschaufel, Akku-Fräse oder Benzin-Fräse?\nSchneeschaufel: Für kleine Flächen (Gehweg, Einfahrt bis 20 m²) und leichten Schnee bis 15 cm. Akku-Schneefräse: Für mittlere Flächen und regelmäßigen Schneefall bis 20 cm. Benzin-Schneefräse: Für große Flächen und Tiefschnee (30+ cm) — die einzige Option bei richtig viel Schnee.\n\n### Einstufig oder zweistufig?\nEinstufige Fräsen haben nur eine Fräswalze — reicht für Schnee bis 20 cm auf ebenen Flächen. Zweistufige Fräsen haben Fräswalze + Schleuderrad — für Tiefschnee, nassen Schnee und unebene Flächen. Honda HSS 760A ist zweistufig und schafft quasi jede Schneemenge.\n\n### Räumbreite — wie breit muss es sein?\n30-40 cm reichen für Gehwege und schmale Einfahrten. 50-60 cm für Standard-Einfahrten. 60+ cm für große Flächen und Parkplätze. Je breiter, desto weniger Bahnen musst du fahren — aber desto schwerer und sperriger ist die Fräse.\n\n### Akku vs. Benzin — was für den Privatgebrauch?\nFür die meisten Einfamilienhäuser reicht eine Akku-Fräse (wenn Schnee nicht tiefer als 20 cm). Vorteile: Leise, kein Benzin-Geruch, wartungsarm. Benzin-Fräsen sind stärker und ausdauernder, aber laut, wartungsintensiv und schwerer.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "raeumbreite",
+      "label": "Räumbreite",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "antrieb",
+      "label": "Antrieb",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "wurfweite",
+      "label": "Wurfweite",
+      "einheit": "m",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Lohnt sich eine Schneefräse für den Privatgebrauch?",
+      "antwort": "Wenn du regelmäßig 50+ m² Fläche räumen musst (Einfahrt, Gehweg) und in einer Region mit häufigem Schneefall lebst, definitiv. Für gelegentlichen Schnee in der Stadt reicht eine gute Schneeschaufel wie die Fiskars SnowXpert."
+    },
+    {
+      "frage": "Wie laut ist eine Benzin-Schneefräse?",
+      "antwort": "80-100 dB — wie ein Rasenmäher. In Wohngebieten gelten Ruhezeiten (meist 7-20 Uhr erlaubt). Akku-Fräsen sind mit 60-70 dB deutlich leiser. Gehörschutz tragen ist bei Benzin-Fräsen empfehlenswert."
+    },
+    {
+      "frage": "Kann ich eine Schneefräse auf Schotter oder Pflastersteinen nutzen?",
+      "antwort": "Einstufige Fräsen sollten nur auf ebenen, harten Flächen (Asphalt, Beton) genutzt werden — auf Schotter können Steine aufgewirbelt werden. Zweistufige Fräsen haben verstellbare Kufen und können an unebene Untergründe angepasst werden."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Fiskars SnowXpert Schneeschieber",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0064LRJ5A?tag=janxsiegmann-21",
+      "preis": 35,
+      "bewertung": 3.5,
+      "werte": {
+        "typ": "Schneeschieber",
+        "raeumbreite": "52",
+        "antrieb": "Manuell",
+        "leistung": "k.A.",
+        "wurfweite": "k.A.",
+        "gewicht": "1,5",
+        "extras": "Aluminiumkante, ergonomischer Griff"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "FUXTEC Akku-Schneefräse FX-E1ASF20",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BMPQV1Q8?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.0,
+      "werte": {
+        "typ": "Akku-Schneefräse",
+        "raeumbreite": "30",
+        "antrieb": "Akku (20V)",
+        "leistung": "k.A.",
+        "wurfweite": "6",
+        "gewicht": "12",
+        "extras": "2× 4Ah Akkus, Auswurfrichtung verstellbar"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Güde Schneefräse GESF 570",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00LKRNYCY?tag=janxsiegmann-21",
+      "preis": 400,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Benzin-Schneefräse (einstufig)",
+        "raeumbreite": "56",
+        "antrieb": "Benzin (4-Takt)",
+        "leistung": "3,6 kW",
+        "wurfweite": "8",
+        "gewicht": "32",
+        "extras": "E-Start, Auswurfrichtung 190°"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Honda HSS 760A",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B8MFN6K4?tag=janxsiegmann-21",
+      "preis": 2500,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Benzin-Schneefräse (zweistufig)",
+        "raeumbreite": "61",
+        "antrieb": "Benzin (4-Takt, Honda GX200)",
+        "leistung": "4,1 kW",
+        "wurfweite": "15",
+        "gewicht": "84",
+        "extras": "Radantrieb, Hydrostatlenkung, E-Start"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

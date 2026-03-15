@@ -1,0 +1,128 @@
+{
+  "slug": "stichsaege",
+  "kategorie": "handwerk",
+  "titel": "Stichsäge",
+  "beschreibung": "Stichsäge Test 2026: Die 4 besten Stichsägen im Vergleich ✓ Holz, Metall & Kurven ✓ Kaufberatung",
+  "keywords": [
+    "stichsäge",
+    "stichsäge test",
+    "stichsäge vergleich",
+    "beste stichsäge",
+    "pendelhubstichsäge",
+    "stichsäge kaufberatung",
+    "stichsäge holz",
+    "bosch stichsäge",
+    "makita stichsäge",
+    "stichsäge 2026"
+  ],
+  "einleitung": "Kurvenschnitte, Ausschnitte und präzise Geraden in Holz, Metall und Kunststoff — die Stichsäge ist das vielseitigste Sägewerkzeug in der Heimwerkstatt. Wir vergleichen vier Modelle und zeigen, worauf es bei Pendelhub, Sägeblattaufnahme und Präzision ankommt.",
+  "kaufberatung": "### Pendelhub: Was bringt das?\nDer Pendelhub bewegt das Sägeblatt nicht nur auf und ab, sondern zusätzlich vor und zurück. Ergebnis: Schnellerer Schnitt in Holz, aber gröbere Schnittkante. Für saubere Schnitte Pendelhub reduzieren oder abschalten, für schnelles Arbeiten aufdrehen. Gute Stichsägen bieten 3-4 Pendelhubstufen.\n\n### Sägeblattaufnahme: T-Schaft oder U-Schaft?\nT-Schaft (auch Bosch-Aufnahme genannt) hat sich als Standard durchgesetzt. Werkzeugloser Blattwechsel per Hebel — schnell und unkompliziert. U-Schaft-Blätter werden kaum noch verkauft. Achte beim Kauf auf T-Schaft-Kompatibilität.\n\n### Schnitttiefe: Wie dick darf das Material sein?\nStandardmäßig schneiden Stichsägen 60-70 mm in Holz und 6-10 mm in Stahl. Für dickere Materialien brauchst du eine stärkere Maschine oder eine Handkreissäge.\n\n### Gehrungsschnitt\nDie Grundplatte lässt sich bei den meisten Stichsägen um bis zu 45° neigen — damit sind Gehrungsschnitte möglich. Achte auf eine werkzeuglose Verstellung und eine Rastung bei 0° und 45°.\n\n### Staubabsaugung\nEin Anschluss für den Staubsauger hält den Arbeitsbereich sauber und die Schnittlinie sichtbar. Fast alle hochwertigen Stichsägen bieten das, aber nicht alle günstigen Modelle.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "hubzahl",
+      "label": "Max. Hubzahl",
+      "einheit": "Hub/min",
+      "sortierung": 2
+    },
+    {
+      "key": "schnitttiefe_holz",
+      "label": "Schnitttiefe Holz",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "schnitttiefe_stahl",
+      "label": "Schnitttiefe Stahl",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "pendelhub",
+      "label": "Pendelhubstufen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Sägeblatt brauche ich für welches Material?",
+      "antwort": "Für Holz: Blätter mit groben Zähnen (T-Schaft, z.B. Bosch T144D). Für Metall: Feinzahnige Blätter (z.B. Bosch T118A). Für Kurven: Schmale Blätter. Für saubere Kanten in Holz: Blätter mit Gegenverzahnung (schneiden nach unten, z.B. T101BR). Ein gutes Blattsortiment deckt 90% aller Aufgaben ab."
+    },
+    {
+      "frage": "Warum splittert das Holz beim Sägen mit der Stichsäge?",
+      "antwort": "Eine Stichsäge schneidet beim Aufwärtshub — daher splittert die Oberfläche. Abhilfe: Splitterschutz-Einlage verwenden, Holz mit der guten Seite nach unten legen, Kreppband auf die Schnittlinie kleben oder ein Sägeblatt mit Gegenverzahnung nutzen."
+    },
+    {
+      "frage": "Kann ich mit einer Stichsäge auch Fliesen schneiden?",
+      "antwort": "Ja, mit speziellen Hartmetall-Sägeblättern für Keramik und Fliesen. Die Schnitte sind allerdings langsamer und weniger präzise als mit einem Fliesenschneider. Für wenige Schnitte funktioniert es, für ganze Bäder ist ein Nassfliesenschneider besser."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-JS 80/1",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09M8QKY9C?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "600",
+        "hubzahl": "3.000",
+        "schnitttiefe_holz": "80",
+        "schnitttiefe_stahl": "10",
+        "pendelhub": "4 Stufen",
+        "gewicht": "1,7"
+      }
+    },
+    {
+      "name": "Bosch PST 900 PEL",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00FMM8466?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "620",
+        "hubzahl": "3.100",
+        "schnitttiefe_holz": "90",
+        "schnitttiefe_stahl": "8",
+        "pendelhub": "4 Stufen",
+        "gewicht": "2,2"
+      }
+    },
+    {
+      "name": "Bosch Professional GST 150 CE",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B016V1HU0Q?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "780",
+        "hubzahl": "3.100",
+        "schnitttiefe_holz": "150",
+        "schnitttiefe_stahl": "20",
+        "pendelhub": "4 Stufen",
+        "gewicht": "2,6"
+      }
+    },
+    {
+      "name": "Makita 4351FCTJ",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B003A2IFA4?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "720",
+        "hubzahl": "2.800",
+        "schnitttiefe_holz": "135",
+        "schnitttiefe_stahl": "10",
+        "pendelhub": "3 Stufen",
+        "gewicht": "2,4"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

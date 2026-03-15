@@ -1,0 +1,128 @@
+{
+  "slug": "taschenrechner-wissenschaftlich",
+  "kategorie": "buero",
+  "titel": "Taschenrechner (wissenschaftlich)",
+  "beschreibung": "Wissenschaftlicher Taschenrechner Test 2026: Die 4 besten Rechner ✓ Für Schule, Studium & Beruf ✓ Casio, TI & Sharp",
+  "keywords": [
+    "taschenrechner wissenschaftlich",
+    "taschenrechner test",
+    "wissenschaftlicher taschenrechner",
+    "casio taschenrechner",
+    "taschenrechner schule",
+    "taschenrechner studium",
+    "taschenrechner vergleich",
+    "taschenrechner casio fx",
+    "taschenrechner 2026",
+    "grafikrechner test"
+  ],
+  "einleitung": "Ob Mathe-Abi, Ingenieur-Studium oder Beruf — ein guter wissenschaftlicher Taschenrechner ist unverzichtbar. Wir vergleichen vier Modelle und zeigen dir, welcher Rechner für welchen Einsatz zugelassen und am besten geeignet ist.",
+  "kaufberatung": "### Für wen eignet sich welcher Taschenrechner?\nFür Schule und Abi ist der Casio fx-991DE CW der Standard — in den meisten Bundesländern zugelassen und prüfungstauglich. Für Studium und Technik reicht der Casio fx-991DE X ClassWiz mit erweitertem Display. Der Texas Instruments TI-30X Pro MathPrint bietet ähnliche Funktionen in anderem Design. Und für Grafik-Darstellung und Programmierung ist der Casio fx-CG50 die Referenz.\n\n### Prüfungszulassung — worauf achten?\nIn Deutschland gibt es je nach Bundesland unterschiedliche Regeln. Die meisten lassen nicht-programmierbare, nicht-grafische Rechner zu. Casio fx-991DE CW und TI-30X Pro MathPrint sind in fast allen Bundesländern für Abitur und Prüfungen zugelassen. Kläre die Zulassung vorher mit deiner Schule oder Uni.\n\n### Solar oder Batterie?\nDie meisten wissenschaftlichen Taschenrechner haben beides — Solarzelle + Knopfzelle als Backup. Reine Solar-Modelle können bei schlechtem Licht Probleme machen. Dual-Power ist die sicherste Wahl.\n\n### Natürliches Display — was ist der Vorteil?\nModerne Rechner zeigen Brüche, Wurzeln und Integrale so an, wie du sie auf Papier schreiben würdest. Das reduziert Eingabefehler drastisch. Achte auf die Bezeichnung Natural Display oder MathPrint.",
+  "vergleichsKategorien": [
+    {
+      "key": "funktionen",
+      "label": "Funktionen",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "zeilen",
+      "label": "Displayzeilen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "solar",
+      "label": "Energieversorgung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "pruefung",
+      "label": "Prüfungszugelassen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "programmierbar",
+      "label": "Programmierbar",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Taschenrechner ist fürs Abi erlaubt?",
+      "antwort": "In den meisten Bundesländern sind nicht-programmierbare, nicht-grafische Rechner erlaubt. Der Casio fx-991DE CW und der TI-30X Pro MathPrint sind fast überall zugelassen. Prüfe die genauen Regeln bei deiner Schule — in einigen Bundesländern sind auch Grafikrechner erlaubt."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen wissenschaftlichem Rechner und Grafikrechner?",
+      "antwort": "Ein wissenschaftlicher Rechner kann alle mathematischen Funktionen berechnen, hat aber kein Grafik-Display. Ein Grafikrechner kann zusätzlich Funktionsgraphen zeichnen und ist oft programmierbar. Grafikrechner sind in Prüfungen nicht überall erlaubt."
+    },
+    {
+      "frage": "Casio oder Texas Instruments — welcher ist besser?",
+      "antwort": "In Deutschland hat Casio den größten Marktanteil und die meisten Lehrer erklären mit Casio-Rechnern. TI ist in den USA populärer. Funktional sind beide gleichwertig. Empfehlung: Nimm das Modell, mit dem dein Lehrer erklärt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Casio fx-82DE CW",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BYDHS8WN?tag=janxsiegmann-21",
+      "werte": {
+        "funktionen": "ca. 300",
+        "display": "Natural Display (4 Zeilen)",
+        "zeilen": "4",
+        "solar": "Batterie",
+        "pruefung": "Ja (fast alle Bundesländer)",
+        "programmierbar": "Nein"
+      }
+    },
+    {
+      "name": "Casio fx-991DE CW",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BYDKDQ5S?tag=janxsiegmann-21",
+      "werte": {
+        "funktionen": "ca. 700",
+        "display": "Natural Display (4 Zeilen, hochauflösend)",
+        "zeilen": "4",
+        "solar": "Solar + Batterie",
+        "pruefung": "Ja (fast alle Bundesländer)",
+        "programmierbar": "Nein"
+      }
+    },
+    {
+      "name": "Texas Instruments TI-30X Pro MathPrint",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00D3OLUWC?tag=janxsiegmann-21",
+      "werte": {
+        "funktionen": "ca. 500",
+        "display": "MathPrint (4 Zeilen)",
+        "zeilen": "4",
+        "solar": "Solar + Batterie",
+        "pruefung": "Ja",
+        "programmierbar": "Nein"
+      }
+    },
+    {
+      "name": "Casio fx-CG50 Grafikrechner",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B06Y13S3DT?tag=janxsiegmann-21",
+      "werte": {
+        "funktionen": "2.900+",
+        "display": "Farb-LCD 216×384 Pixel",
+        "zeilen": "21+",
+        "solar": "4× AAA Batterien",
+        "pruefung": "Eingeschränkt (länderspezifisch)",
+        "programmierbar": "Ja (Python)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

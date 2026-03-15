@@ -1,0 +1,128 @@
+{
+  "slug": "bewegungsmelder-aussen",
+  "kategorie": "sicherheit",
+  "titel": "Bewegungsmelder (außen)",
+  "beschreibung": "Bewegungsmelder Test 2026: Die 4 besten Außen-Bewegungsmelder ✓ Wetterfest ✓ Für Licht & Alarm ✓ Zuverlässige Erkennung",
+  "keywords": [
+    "bewegungsmelder außen",
+    "bewegungsmelder test",
+    "bewegungsmelder aussen wetterfest",
+    "bewegungsmelder vergleich",
+    "bewegungsmelder mit licht",
+    "infrarot bewegungsmelder",
+    "bewegungsmelder außen test 2026",
+    "bester bewegungsmelder",
+    "bewegungsmelder garten",
+    "bewegungsmelder eingang"
+  ],
+  "einleitung": "Ein Bewegungsmelder für außen sorgt für Sicherheit und Komfort — Licht geht automatisch an, wenn du nach Hause kommst, und ungebetene Gäste werden abgeschreckt. Wir vergleichen vier Modelle und zeigen dir, welcher am zuverlässigsten erkennt.",
+  "kaufberatung": "### PIR, Mikrowelle oder Dual?\nPIR-Sensoren (Passiv-Infrarot) erkennen Wärmebewegung — günstig und energiesparend, aber windempfindlich. Mikrowellen-Sensoren durchdringen dünne Wände, sind aber teurer. Dual-Sensoren kombinieren beides und reduzieren Fehlauslösungen.\n\n### Erfassungswinkel und Reichweite\nFür Hauseingänge reichen 120° und 8-10 m Reichweite. Für Einfahrten und Gärten brauchst du 180° oder mehr und 12-15 m Reichweite. Achte auf die vertikale Neigung — manche Melder lassen sich nach unten schwenken.\n\n### IP-Schutzklasse für außen\nIP44 reicht für überdachte Bereiche. IP65 ist wetterfest und hält Regen und Schnee aus. Für exponierte Standorte empfehlen wir mindestens IP54.\n\n### Einstellung und Fehlauslösungen\nGute Bewegungsmelder haben einstellbare Empfindlichkeit, Nachlaufzeit (wie lange das Licht an bleibt) und Dämmerungsschwelle (ab welcher Dunkelheit sie aktivieren). Je mehr Einstellmöglichkeiten, desto weniger Fehlauslösungen.",
+  "vergleichsKategorien": [
+    {
+      "key": "sensortyp",
+      "label": "Sensortyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "erfassungswinkel",
+      "label": "Erfassungswinkel",
+      "einheit": "°",
+      "sortierung": 2
+    },
+    {
+      "key": "reichweite",
+      "label": "Reichweite",
+      "einheit": "m",
+      "sortierung": 3
+    },
+    {
+      "key": "schutzklasse",
+      "label": "Schutzklasse",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "nachlaufzeit",
+      "label": "Nachlaufzeit",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "schaltleistung",
+      "label": "Max. Schaltleistung",
+      "einheit": "W",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Warum löst mein Bewegungsmelder ständig aus?",
+      "antwort": "Häufige Ursachen: zu hohe Empfindlichkeit, Erfassung von Tieren oder Ästen, oder direkte Sonneneinstrahlung auf den Sensor. Lösung: Empfindlichkeit reduzieren, Erfassungsbereich einschränken (Abdeckblenden) und Montageposition prüfen."
+    },
+    {
+      "frage": "Wie hoch sollte ein Bewegungsmelder montiert werden?",
+      "antwort": "Optimal sind 2-2,50 m Höhe. Zu niedrig montiert erfasst er Tiere, zu hoch montiert verliert er an Reichweite. Die meisten Melder lassen sich leicht neigen, um den Erfassungsbereich anzupassen."
+    },
+    {
+      "frage": "Kann ein Bewegungsmelder Tiere von Menschen unterscheiden?",
+      "antwort": "Einfache PIR-Melder können das nicht — sie erkennen jede Wärmequelle in Bewegung. Hochwertige Modelle haben eine Tierimmunität (bis ca. 25 kg), die Kleintiere ignoriert. Dual-Sensoren mit Mikrowelle + PIR sind am zuverlässigsten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Steinel IS 130-2",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B000OU4R6G?tag=janxsiegmann-21",
+      "werte": {
+        "sensortyp": "PIR",
+        "erfassungswinkel": "130",
+        "reichweite": "12",
+        "schutzklasse": "IP54",
+        "nachlaufzeit": "5 Sek.-15 Min.",
+        "schaltleistung": "300 (LED)"
+      }
+    },
+    {
+      "name": "Steinel IS 240 DUO",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B008CLGTI4?tag=janxsiegmann-21",
+      "werte": {
+        "sensortyp": "PIR (2 Sensoren)",
+        "erfassungswinkel": "240",
+        "reichweite": "12",
+        "schutzklasse": "IP54",
+        "nachlaufzeit": "5 Sek.-15 Min.",
+        "schaltleistung": "1000"
+      }
+    },
+    {
+      "name": "Theben theLuxa S180 KNX",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07MHR6W1S?tag=janxsiegmann-21",
+      "werte": {
+        "sensortyp": "PIR",
+        "erfassungswinkel": "180",
+        "reichweite": "16",
+        "schutzklasse": "IP55",
+        "nachlaufzeit": "1 Sek.-30 Min.",
+        "schaltleistung": "2300"
+      }
+    },
+    {
+      "name": "Steinel IS 345 MX Highbay",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B084R6X3JR?tag=janxsiegmann-21",
+      "werte": {
+        "sensortyp": "PIR (iHF)",
+        "erfassungswinkel": "345",
+        "reichweite": "16",
+        "schutzklasse": "IP54",
+        "nachlaufzeit": "5 Sek.-60 Min.",
+        "schaltleistung": "2000"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

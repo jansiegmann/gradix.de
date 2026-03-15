@@ -1,0 +1,118 @@
+{
+  "slug": "hundebett",
+  "kategorie": "kinder",
+  "titel": "Hundebett / Hundekorb",
+  "beschreibung": "Hundebett Test 2026: Die 4 besten Hundebetten im Vergleich ✓ Orthopädisch & waschbar ✓ Kaufberatung",
+  "keywords": [
+    "hundebett test",
+    "hundekorb test",
+    "hundebett orthopädisch",
+    "hundebett waschbar",
+    "hundebett vergleich",
+    "hundebett groß",
+    "hundekissen test",
+    "hundebett kaufberatung",
+    "hundebett test 2026",
+    "orthopädisches hundebett"
+  ],
+  "einleitung": "Ein gutes Hundebett ist für die Gesundheit deines Vierbeiners genauso wichtig wie ein gutes Bett für dich. Besonders ältere Hunde und große Rassen profitieren von orthopädischen Liegeflächen. Wir vergleichen vier Hundebetten.",
+  "kaufberatung": "### Orthopädisch oder Standard?\nOrthopädische Hundebetten mit Memory-Foam stützen Gelenke und Wirbelsäule — wichtig für ältere Hunde, große Rassen und Hunde mit Gelenkproblemen. Junge, gesunde Hunde kommen auch mit Standard-Polsterung aus.\n\n### Größe richtig wählen\nDer Hund sollte sich im Bett komplett ausstrecken können. Miss deinen Hund von Nase bis Schwanzansatz und addiere 15–20 cm. Für einen Labrador brauchst du mindestens 100 × 70 cm.\n\n### Waschbarkeit ist Pflicht\nHundebetten werden schmutzig — ein abnehmbarer, maschinenwaschbarer Bezug spart viel Arbeit. Achte auf einen Reißverschluss und waschbaren Bezug (mindestens 30°C).\n\n### Rand oder flach?\nBetten mit erhöhtem Rand bieten Geborgenheit und eine Kopfauflage. Flache Matratzen sind besser für Hunde, die sich gerne ausbreiten. Beobachte, wie dein Hund am liebsten liegt.\n\n### Rutschfeste Unterseite\nBesonders auf Parkett oder Fliesen wichtig: eine rutschfeste Unterseite verhindert, dass das Bett beim Einsteigen wegrutscht.",
+  "vergleichsKategorien": [
+    {
+      "key": "groesse",
+      "label": "Größe (L×B)",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "fuellung",
+      "label": "Füllung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "bezug_waschbar",
+      "label": "Bezug waschbar",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "rutschfest",
+      "label": "Rutschfeste Unterseite",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "rand",
+      "label": "Erhöhter Rand",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Hundebett für große Hunde?",
+      "antwort": "Für große Rassen (Labrador, Schäferhund) empfehlen wir das Bedsure orthopädische Hundebett in XL (105×75 cm) oder das Knuffelwuff Orthopädisches Hundebett. Achte auf Memory-Foam und mindestens 10 cm Dicke."
+    },
+    {
+      "frage": "Ab wann braucht mein Hund ein orthopädisches Bett?",
+      "antwort": "Spätestens ab 7 Jahren oder bei ersten Anzeichen von Gelenkproblemen (steifes Aufstehen, Humpeln). Große Rassen profitieren schon früher davon. Prävention ist besser als Therapie."
+    },
+    {
+      "frage": "Wie oft sollte ich das Hundebett waschen?",
+      "antwort": "Den Bezug alle 1–2 Wochen waschen, besonders wenn der Hund draußen viel unterwegs ist. Die gesamte Füllung alle 3–6 Monate durchlüften. Bei Flöhen sofort bei 60°C waschen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Bedsure Hundebett L",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09B7DZMH8?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "89 × 63",
+        "fuellung": "Polyester-Füllung",
+        "bezug_waschbar": "Ja (maschinenwaschbar)",
+        "rutschfest": "Ja",
+        "rand": "Ja"
+      }
+    },
+    {
+      "name": "Bedsure Orthopädisches Hundebett L",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09NPBST2Q?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "89 × 63",
+        "fuellung": "Ei-Schaum (orthopädisch)",
+        "bezug_waschbar": "Ja (maschinenwaschbar)",
+        "rutschfest": "Ja",
+        "rand": "Ja"
+      }
+    },
+    {
+      "name": "Knuffelwuff Orthopädisches Hundebett Luisa",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01E3RB59A?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "105 × 75",
+        "fuellung": "Memory-Foam (10 cm)",
+        "bezug_waschbar": "Ja (mit Reißverschluss)",
+        "rutschfest": "Ja",
+        "rand": "Ja (gepolstert)"
+      }
+    },
+    {
+      "name": "tierlando Orthopädisches Hundebett Pluto",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B072PTQC3D?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "110 × 90",
+        "fuellung": "Visco-Matratze + HR-Kaltschaum",
+        "bezug_waschbar": "Ja (60°C, Kunstleder)",
+        "rutschfest": "Ja",
+        "rand": "Ja (stabil gepolstert)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "kinderwagen",
+  "kategorie": "kinder",
+  "titel": "Kinderwagen / Buggy",
+  "beschreibung": "Kinderwagen / Buggy Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "kinderwagen test",
+    "buggy vergleich",
+    "kinderwagen kaufberatung",
+    "kinderwagen 2026"
+  ],
+  "einleitung": "Du suchst einen Kinderwagen oder Buggy — als Kombikinderwagen ab Geburt oder leichten Buggy fürs Kleinkind? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Kombikinderwagen oder Buggy — was brauche ich?\nKombikinderwagen (3-in-1 oder 2-in-1) haben eine Babywanne für Neugeborene und einen Sportsitz für Kleinkinder — du brauchst nur ein Gestell von Geburt bis ca. 3-4 Jahre. Buggys sind leichter und kompakter, aber erst ab Sitzalter (ca. 6 Monate) nutzbar. Für Erstgeborene: Kombi. Als Zweitwagen: Buggy.\n\n### Luftreifen oder Schaumgummireifen?\nLuftreifen federn besser ab — ideal für Wald- und Feldwege. Nachteil: Können platt werden. Schaumgummireifen (Hartgummi) sind pannensicher und wartungsfrei — besser für die Stadt. Premium-Modelle (Bugaboo Fox 5) haben schaumgefüllte Reifen, die beides kombinieren.\n\n### Wie schwer darf ein Kinderwagen sein?\nStadtnutzung + ÖPNV: Unter 10 kg ideal (Bugaboo Fox 5: 10,9 kg). Für Auto + Kofferraum: Bis 13 kg OK. Über 14 kg wird das Tragen zur Qual — besonders über Treppen. Achte auch auf das Klappmaß: Passt er zusammengeklappt in deinen Kofferraum?\n\n### Ab welchem Preis bekommt man Qualität?\nUnter 200 Euro: Einfache Buggys, funktional aber nicht langlebig. 200-400 Euro: Solide Kombikinderwagen (Kinderkraft MOOV 2) — das Preis-Leistungs-Sweetspot. 400-700 Euro: Premium-Qualität (Cybex Balios S Lux) — langlebiger, bessere Materialien. Über 700 Euro: Luxus (Bugaboo Fox 5) — Designstück mit Top-Verarbeitung.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "alter",
+      "label": "Alter",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Eigengewicht",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "klappbar",
+      "label": "Klappbar",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "liegefunktion",
+      "label": "Liegefunktion",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "reifen",
+      "label": "Reifen",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Kinderwagen ist der beste für die Stadt?",
+      "antwort": "Der Cybex Balios S Lux bietet das beste Paket für die Stadt: kompaktes Klappmaß, Einhand-Faltung, selbststehend, pannensichere Reifen und gute Federung. Wer weniger ausgeben will, fährt mit dem Kinderkraft MOOV 2 ebenfalls gut."
+    },
+    {
+      "frage": "Kann ich eine Babyschale auf den Kinderwagen setzen?",
+      "antwort": "Bei den meisten Kombikinderwagen ja — mit passenden Adaptern. Cybex und Bugaboo bieten eigene Adapter für gängige Babyschalen (Maxi-Cosi, Cybex, Besafe). So wird der Kinderwagen zum Travel-System: Baby schläft in der Autobabyschale weiter, ohne umgebettet zu werden."
+    },
+    {
+      "frage": "Bugaboo Fox 5 — lohnt sich der Preis?",
+      "antwort": "Der Fox 5 ist objektiv einer der besten Kinderwagen: nur 10,9 kg, integrierte Babywanne, Allradfederung, kompaktes Klappmaß. Ob sich 1.100 Euro lohnen, hängt von deinem Budget ab. Funktional bietet der Cybex Balios S Lux für die Hälfte des Preises 80% der Qualität. Der Bugaboo ist ein Luxusprodukt — großartig, aber kein Muss."
+    },
+    {
+      "frage": "Wie lange kann man einen Kinderwagen nutzen?",
+      "antwort": "Kombikinderwagen: Von Geburt bis ca. 3-4 Jahre (max. 22 kg Zuladung). Buggys: Ab 6 Monate bis 3-4 Jahre. Danach steigen die meisten Kinder aufs Laufrad oder den Buggy-Board (Mitfahrbrett für ältere Geschwister). Hochwertige Modelle halten problemlos für 2 Kinder."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Hauck Rapid 4",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07K85J9RY?tag=janxsiegmann-21",
+      "preis": 130,
+      "bewertung": 3.5,
+      "werte": {
+        "typ": "Buggy",
+        "alter": "Ab 6 Monate bis 25 kg",
+        "gewicht": "9",
+        "klappbar": "Ja (kompakt)",
+        "liegefunktion": "Fast flach",
+        "reifen": "Schaumgummi (pannensicher)",
+        "zubehoer": "Regenverdeck, Getränkehalter"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Kinderkraft MOOV 2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CL3C8QJV?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 4.0,
+      "werte": {
+        "typ": "Kombikinderwagen (3-in-1)",
+        "alter": "Ab Geburt bis 22 kg",
+        "gewicht": "12,5",
+        "klappbar": "Ja",
+        "liegefunktion": "Ja (Babywanne)",
+        "reifen": "Luftreifen (Vorderräder schwenkbar)",
+        "zubehoer": "Babywanne, Sportsitz, Regenschutz, Moskitonetz"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Cybex Balios S Lux",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09ZTDFPRJ?tag=janxsiegmann-21",
+      "preis": 450,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Kombikinderwagen",
+        "alter": "Ab Geburt bis 22 kg",
+        "gewicht": "12,4",
+        "klappbar": "Ja (kompakt, selbststehend)",
+        "liegefunktion": "Fast flach (Sitz) + Babywanne (separat)",
+        "reifen": "Schaumgummi (pannensicher, gefedert)",
+        "zubehoer": "Regenverdeck, Adapter für Babyschale"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Bugaboo Fox 5",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CS7CTJMF?tag=janxsiegmann-21",
+      "preis": 1100,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Kombikinderwagen (Premium)",
+        "alter": "Ab Geburt bis 22 kg",
+        "gewicht": "10,9",
+        "klappbar": "Ja (kompakt, selbststehend)",
+        "liegefunktion": "Ja (integrierte Babywanne)",
+        "reifen": "Schaumgefüllte Reifen + Allradfederung",
+        "zubehoer": "Babywanne integriert, Regenverdeck, Adapter"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

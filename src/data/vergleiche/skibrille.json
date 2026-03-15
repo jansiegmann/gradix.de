@@ -1,0 +1,176 @@
+{
+  "slug": "skibrille",
+  "kategorie": "wintersport",
+  "titel": "Skibrille",
+  "beschreibung": "Skibrille Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "skibrille test",
+    "skibrille vergleich",
+    "goggle kaufberatung",
+    "skibrille 2026"
+  ],
+  "einleitung": "Du suchst eine Skibrille mit guter Sicht, Anti-Fog und UV-Schutz? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Zylindrische oder sphärische Gläser?\nZylindrische Gläser sind flach — günstiger, aber mehr Verzerrung am Rand. Sphärische Gläser sind gewölbt — größeres Sichtfeld, weniger Verzerrung, bessere Optik. Torische Gläser (Kompromiss) bieten gute Sicht zum mittleren Preis. Für ambitionierte Fahrer: sphärisch oder torisch.\n\n### Wechselglas-System — lohnt sich das?\nJa, wenn du bei verschiedenen Lichtverhältnissen fährst. Ein dunkles Glas für Sonnenschein und ein helles für Nebel/Schneefall machen einen riesigen Unterschied. Magnetische Wechselsysteme (Smith 4D MAG, Oakley Ridgelock) sind am schnellsten — Glaswechsel in 5 Sekunden.\n\n### Welche Glastönung für welches Wetter?\nKategorie S0-S1 (VLT 80-100%): Schlechtwetter, Nebel, Nachtskifahren. S2 (VLT 18-43%): Bewölkt, flaches Licht — am vielseitigsten. S3 (VLT 8-18%): Sonnenschein — der Standard für gute Tage. S4 (VLT <8%): Extrem sonnig, Gletscher.\n\n### Anti-Fog — das Schlüsselkriterium\nDoppelverglasung (Dual-Pane) ist Pflicht — eine Luftschicht zwischen zwei Gläsern verhindert Beschlagen. Zusätzliche Anti-Fog-Beschichtungen helfen. Trotzdem: Brille nie auf die Stirn schieben (Schweiß beschlägt die Innenseite) und Innenseite nie mit dem Handschuh abwischen.",
+  "vergleichsKategorien": [
+    {
+      "key": "glaeser",
+      "label": "Gläser",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "sichtfeld",
+      "label": "Sichtfeld",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "wechselglaeser",
+      "label": "Wechselgläser",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "anti_fog",
+      "label": "Anti-Fog",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "uv_schutz",
+      "label": "UV-Schutz",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "brillentraeger",
+      "label": "Brillenträger-kompatibel",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Skibrille ist für Brillenträger geeignet?",
+      "antwort": "OTG-Brillen (Over The Glasses) haben extra Platz für deine Brille — die Uvex downhill 2100 CV und die POC Zonula sind OTG-kompatibel. Alternative: Kontaktlinsen tragen oder einen Visierhelm nutzen."
+    },
+    {
+      "frage": "Lohnt sich eine Skibrille mit Wechselglas?",
+      "antwort": "Ja, besonders bei mehrtägigen Skiurlauben mit wechselhaftem Wetter. Der Unterschied zwischen dem richtigen und dem falschen Glas ist enorm — mit dem falschen Glas siehst du Bodenwellen nicht und riskierst Stürze. Smith 4D MAG und Oakley Flight Deck bieten die besten Wechselsysteme."
+    },
+    {
+      "frage": "Was bedeutet Prizm, ChromaPop und Colorvision?",
+      "antwort": "Das sind herstellereigene Kontrasttechnologien: Prizm (Oakley), ChromaPop (Smith), Colorvision (Uvex), Clarity (POC/Zeiss). Alle verbessern Kontraste und lassen Unebenheiten im Schnee besser erkennen. Die Unterschiede zwischen den Systemen sind gering — alle sind gut."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Uvex downhill 2100 CV",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BFM25MF3?tag=janxsiegmann-21",
+      "preis": 60,
+      "bewertung": 3.5,
+      "werte": {
+        "glaeser": "Colorvision (kontrastverstärkend)",
+        "sichtfeld": "Zylindrisch",
+        "wechselglaeser": "Nein",
+        "anti_fog": "Supravision (Anti-Fog)",
+        "uv_schutz": "UV 400 (100%)",
+        "brillentraeger": "OTG-kompatibel",
+        "extras": "Helmkompatibel"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Oakley Flight Deck M",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09HN2RMPH?tag=janxsiegmann-21",
+      "preis": 130,
+      "bewertung": 4.0,
+      "werte": {
+        "glaeser": "Prizm (kontrastverstärkend)",
+        "sichtfeld": "Sphärisch (groß)",
+        "wechselglaeser": "Ja (Ridgelock)",
+        "anti_fog": "Dual-Pane + F3 Anti-Fog",
+        "uv_schutz": "UV 400 (100%)",
+        "brillentraeger": "Nein (zu flach)",
+        "extras": "Ridgelock Wechselsystem"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Smith 4D MAG",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BHZ3KN1M?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 4.5,
+      "werte": {
+        "glaeser": "ChromaPop (kontrastverstärkend)",
+        "sichtfeld": "4D (Panorama + unten erweitert)",
+        "wechselglaeser": "Ja (MAG-System magnetisch)",
+        "anti_fog": "Dual-Pane + Anti-Fog",
+        "uv_schutz": "UV 400 (100%)",
+        "brillentraeger": "Nein",
+        "extras": "Magnetisches Wechselsystem, Bonus-Glas"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "POC Zonula Clarity",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BX3MPWV5?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.5,
+      "werte": {
+        "glaeser": "Clarity by Zeiss",
+        "sichtfeld": "Torisch (groß)",
+        "wechselglaeser": "Nein",
+        "anti_fog": "Dual-Pane + Triple-Layer-Schaum",
+        "uv_schutz": "UV 400 (100%)",
+        "brillentraeger": "Ja (OTG)",
+        "extras": "Zeiss-Optik, NFC Medical ID, Recco"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

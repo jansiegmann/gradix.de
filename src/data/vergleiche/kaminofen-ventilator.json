@@ -1,0 +1,128 @@
+{
+  "slug": "kaminofen-ventilator",
+  "kategorie": "heizen-klima",
+  "titel": "Kaminofen-Ventilator",
+  "beschreibung": "Kaminofen-Ventilator Test 2026: Die 4 besten Ofenventilatoren ✓ Ohne Strom ✓ Bessere Wärmeverteilung ✓ Ehrlicher Vergleich",
+  "keywords": [
+    "kaminofen ventilator",
+    "ofenventilator test",
+    "kaminventilator",
+    "kaminofen ventilator test",
+    "ofenventilator vergleich",
+    "kaminventilator ohne strom",
+    "ofenlüfter",
+    "kaminofen ventilator 2026",
+    "wärmeverteilung kamin",
+    "ofenventilator kaufen"
+  ],
+  "einleitung": "Ein Kaminofen-Ventilator verteilt die Wärme deines Ofens im ganzen Raum — ganz ohne Strom. Wir vergleichen vier Modelle und zeigen dir, welcher Ventilator die Wärme am effektivsten verteilt.",
+  "kaufberatung": "### Wie funktioniert ein Kaminofen-Ventilator?\nKaminofen-Ventilatoren nutzen den thermoelektrischen Effekt (Seebeck-Effekt): Die Hitze des Ofens erzeugt eine kleine Spannung, die den Motor antreibt. Je heißer der Ofen, desto schneller drehen die Flügel. Kein Strom, keine Batterien nötig.\n\n### Wie viele Flügel sind optimal?\nMehr Flügel bedeutet in der Regel mehr Luftumwälzung. 2-Blatt-Ventilatoren sind kompakt und günstig. 4-Blatt-Modelle bewegen deutlich mehr Luft. 5-6-Blatt-Ventilatoren sind am leistungsstärksten, aber auch größer. Für die meisten Öfen sind 4 Flügel der beste Kompromiss.\n\n### Ab welcher Temperatur starten Ofenventilatoren?\nDie meisten Modelle starten ab ca. 50-65°C Oberflächentemperatur. Bei Temperaturen über 300-350°C können sie beschädigt werden — dann den Ventilator vom Ofen nehmen. Hochwertige Modelle haben einen Überhitzungsschutz.\n\n### Wo platziere ich den Ventilator am besten?\nAuf der Oberseite des Ofens, möglichst weit hinten. So bläst er die warme Luft nach vorne in den Raum. Nicht direkt am Rauchrohranschluss platzieren — dort ist es oft zu heiß.",
+  "vergleichsKategorien": [
+    {
+      "key": "fluegel",
+      "label": "Flügel",
+      "einheit": "Stück",
+      "sortierung": 1
+    },
+    {
+      "key": "starttemperatur",
+      "label": "Starttemperatur",
+      "einheit": "°C",
+      "sortierung": 2
+    },
+    {
+      "key": "maxtemperatur",
+      "label": "Max. Temperatur",
+      "einheit": "°C",
+      "sortierung": 3
+    },
+    {
+      "key": "luftmenge",
+      "label": "Luftmenge",
+      "einheit": "CFM",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Braucht ein Kaminofen-Ventilator Strom?",
+      "antwort": "Nein, Kaminofen-Ventilatoren werden durch die Hitze des Ofens angetrieben (Seebeck-Effekt). Sie brauchen weder Strom noch Batterien."
+    },
+    {
+      "frage": "Lohnt sich ein Kaminofen-Ventilator?",
+      "antwort": "Ja, ein Ofenventilator kann die Wärmeverteilung im Raum um bis zu 30% verbessern. Statt dass die Wärme nur direkt am Ofen bleibt, wird sie im ganzen Raum verteilt. Besonders in großen oder L-förmigen Räumen macht das einen spürbaren Unterschied."
+    },
+    {
+      "frage": "Passt ein Ofenventilator auf jeden Kaminofen?",
+      "antwort": "Die meisten Ofenventilatoren passen auf alle Kaminöfen mit flacher Oberseite. Wichtig ist, dass die Oberfläche mindestens 50°C heiß wird und nicht über 350°C. Auf Specksteinöfen funktionieren sie oft weniger gut, weil die Oberfläche nicht heiß genug wird."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Tomersun 4-Blatt Ofenventilator",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B076FR2LKB?tag=janxsiegmann-21",
+      "werte": {
+        "fluegel": "4",
+        "starttemperatur": "50",
+        "maxtemperatur": "345",
+        "luftmenge": "200",
+        "lautstaerke": "leise (< 25 dB)",
+        "material": "Aluminium"
+      }
+    },
+    {
+      "name": "Voda 5-Blatt Ofenventilator",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BXFQZSMB?tag=janxsiegmann-21",
+      "werte": {
+        "fluegel": "5",
+        "starttemperatur": "50",
+        "maxtemperatur": "350",
+        "luftmenge": "250",
+        "lautstaerke": "leise (< 25 dB)",
+        "material": "Aluminium"
+      }
+    },
+    {
+      "name": "Valiant FIR361 Ventum III",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B071CGY818?tag=janxsiegmann-21",
+      "werte": {
+        "fluegel": "4",
+        "starttemperatur": "65",
+        "maxtemperatur": "340",
+        "luftmenge": "230",
+        "lautstaerke": "sehr leise",
+        "material": "Aluminium (hochwertig)"
+      }
+    },
+    {
+      "name": "Ecofan 812 AirMax",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B001ACBFSO?tag=janxsiegmann-21",
+      "werte": {
+        "fluegel": "2 (groß)",
+        "starttemperatur": "65",
+        "maxtemperatur": "345",
+        "luftmenge": "175",
+        "lautstaerke": "flüsterleise",
+        "material": "Aluminium (Kanada)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

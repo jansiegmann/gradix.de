@@ -1,0 +1,114 @@
+{
+  "slug": "schwingschleifer",
+  "kategorie": "handwerk",
+  "titel": "Schwingschleifer",
+  "beschreibung": "Schwingschleifer Test 2026: Die 4 besten Schwingschleifer ✓ Feiner Schliff ✓ Kaufberatung",
+  "keywords": [
+    "schwingschleifer",
+    "schwingschleifer test",
+    "exzenterschleifer",
+    "schwingschleifer vergleich",
+    "bester schwingschleifer",
+    "schleifmaschine",
+    "schwingschleifer kaufberatung",
+    "bosch schwingschleifer",
+    "makita schwingschleifer",
+    "schwingschleifer 2026"
+  ],
+  "einleitung": "Der Schwingschleifer ist dein Werkzeug für den Feinschliff — glatte Oberflächen vor dem Lackieren, Zwischenschliffe und Eckenbearbeitung. Wir vergleichen vier Modelle für perfekte Oberflächen.",
+  "kaufberatung": "### Schwingschleifer vs. Exzenterschleifer\nSchwingschleifer bewegen die Schleifplatte rechteckig-orbital und eignen sich für Flächen und Ecken. Exzenterschleifer haben eine runde Platte mit Exzenterbewegung — schnellerer Abtrag, aber keine Ecken. Für Allround-Arbeiten empfehlen sich Exzenterschleifer, für Ecken und Kanten der Schwingschleifer.\n\n### Schleifplattengröße\nStandard ist 93×185 mm (1/3 Bogen Schleifpapier). Handliche Mini-Schwingschleifer mit Deltaform eignen sich für Ecken und schmale Stellen.\n\n### Staubabsaugung\nBeim Schleifen entsteht extrem viel Feinstaub. Micro-Filter-System und Staubsaugeranschluss sind quasi Pflicht. Achte darauf, dass die Löcher im Schleifpapier mit denen in der Schleifplatte übereinstimmen.\n\n### Klettbelag oder Klemmsystem?\nKlettverschluss-Schleifpapier ist bequemer im Wechsel, aber teurer als Klemmpapier. Die meisten modernen Schwingschleifer nutzen Klettsystem.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "schwingzahl",
+      "label": "Schwingzahl",
+      "einheit": "Min.",
+      "sortierung": 2
+    },
+    {
+      "key": "schleifflaeche",
+      "label": "Schleiffläche",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "schwingkreis",
+      "label": "Schwingkreis",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wann nehme ich den Schwingschleifer und wann den Exzenterschleifer?",
+      "antwort": "Schwingschleifer für Ecken, Kanten und flache Flächen vor dem Lackieren. Exzenterschleifer für größere Flächen mit mehr Abtrag. Für die meisten Heimwerker ist ein Exzenterschleifer vielseitiger."
+    },
+    {
+      "frage": "Welche Körnung für welchen Zweck?",
+      "antwort": "Grobabtrag: 60-80. Vorschliff: 120. Zwischenschliff Lack: 180-240. Feinschliff: 320+. Arbeite dich immer von grob nach fein durch — überspringe keine Stufe."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-OS 18/187 Li Solo",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09RQ2QYQF?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "18V Akku",
+        "schwingzahl": "11.000",
+        "schleifflaeche": "93 × 187",
+        "schwingkreis": "2",
+        "gewicht": "1,5"
+      }
+    },
+    {
+      "name": "Bosch GSS 23 AE Professional",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00DQAWPWC?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "190",
+        "schwingzahl": "12.000",
+        "schleifflaeche": "93 × 185",
+        "schwingkreis": "2",
+        "gewicht": "1,7"
+      }
+    },
+    {
+      "name": "Festool RTS 400 REQ-Plus",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B001Q3KMV4?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "250",
+        "schwingzahl": "12.000",
+        "schleifflaeche": "93 × 175",
+        "schwingkreis": "2",
+        "gewicht": "1,2"
+      }
+    },
+    {
+      "name": "Mirka DEOS 353CV",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07XHZDJQK?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "350",
+        "schwingzahl": "12.000",
+        "schleifflaeche": "81 × 133",
+        "schwingkreis": "3",
+        "gewicht": "1,2"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

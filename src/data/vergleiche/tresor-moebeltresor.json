@@ -1,0 +1,114 @@
+{
+  "slug": "tresor-moebeltresor",
+  "kategorie": "sicherheit",
+  "titel": "Tresor / Möbeltresor",
+  "beschreibung": "Tresor Test 2026: Die 4 besten Möbeltresore ✓ Wertsachen sicher ✓ Kaufberatung",
+  "keywords": [
+    "tresor",
+    "möbeltresor",
+    "tresor test",
+    "safe",
+    "tresor vergleich",
+    "bester tresor",
+    "tresor feuerfest",
+    "tresor elektronisch",
+    "tresor kaufberatung",
+    "tresor 2026"
+  ],
+  "einleitung": "Bargeld, Dokumente, Wertsachen sicher aufbewahren — ein Tresor schützt vor Einbruch und Feuer. Vier Modelle im Vergleich.",
+  "kaufberatung": "### Sicherheitsstufe\nEN 1143-1 Stufe 0-1 für Heimgebrauch. Stufe 0 = Versicherungsschutz bis 40.000-65.000 €.\n\n### Feuerschutz\nLFS 30 = 30 Min. Papier bei 1.090°C.\n\n### Verankerung = Pflicht\nTresor unter 1.000 kg MUSS verankert werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "stufe",
+      "label": "Sicherheitsstufe",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "feuer",
+      "label": "Feuerschutz",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "schloss",
+      "label": "Schloss",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "L",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie schwer?",
+      "antwort": "Je schwerer desto besser. Ab 200 kg schwierig für Einbrecher. Leichte Tresore verankern!"
+    },
+    {
+      "frage": "Code vergessen?",
+      "antwort": "Notschlüssel nutzen. Ohne: Fachbetrieb öffnet für 200-500 €."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Amazon Basics Safe 14L",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01GG7O5K4?tag=janxsiegmann-21",
+      "werte": {
+        "stufe": "Keine EN",
+        "feuer": "Nein",
+        "schloss": "Elektronisch",
+        "volumen": "14",
+        "gewicht": "9"
+      }
+    },
+    {
+      "name": "Burg-Wächter Favor S5 E",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B005OAECXU?tag=janxsiegmann-21",
+      "werte": {
+        "stufe": "S2 (EN 14450)",
+        "feuer": "Nein",
+        "schloss": "Elektr.+Notschlüssel",
+        "volumen": "17",
+        "gewicht": "22"
+      }
+    },
+    {
+      "name": "Burg-Wächter Karat MT 640 E",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00BI5KQPI?tag=janxsiegmann-21",
+      "werte": {
+        "stufe": "Stufe 0 (EN 1143-1)",
+        "feuer": "Nein",
+        "schloss": "Elektr.+Notschlüssel",
+        "volumen": "50",
+        "gewicht": "67"
+      }
+    },
+    {
+      "name": "Format Lyra 2",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00J3UEB7Y?tag=janxsiegmann-21",
+      "werte": {
+        "stufe": "Stufe 0 (EN 1143-1)",
+        "feuer": "LFS 30 P",
+        "schloss": "Elektr. (VdS 2)",
+        "volumen": "49",
+        "gewicht": "125"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

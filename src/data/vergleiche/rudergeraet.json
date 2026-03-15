@@ -1,0 +1,192 @@
+{
+  "slug": "rudergeraet",
+  "kategorie": "sport",
+  "titel": "Rudergerät",
+  "beschreibung": "Rudergerät Test 2026: Die 4 besten Rudergeräte im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "rudergerät test",
+    "rudergerät vergleich",
+    "rudermaschine kaufberatung",
+    "bestes rudergerät zuhause",
+    "rudergerät 2026"
+  ],
+  "einleitung": "Du suchst ein Rudergerät fürs Ganzkörpertraining zuhause — für Ausdauer, Kraftaufbau und Fettverbrennung in einem? Wir vergleichen vier Modelle vom günstigen Einstieg bis zum Referenzgerät.",
+  "kaufberatung": "### Wasser, Luft oder Magnet — welcher Widerstandstyp?\nWasserrudergeräte bieten das natürlichste Rudergefühl und ein beruhigendes Rauschgeräusch. Luftwiderstand (Concept2) ist der Standard im Leistungssport — dynamisch und präzise. Magnetwiderstand ist am leisesten, fühlt sich aber weniger natürlich an. Für Wohnungen empfehlen wir Wasser oder Magnet.\n\n### Wie viel Platz braucht ein Rudergerät?\nRudergeräte sind lang — rechne mit 200-230 cm in der Nutzung. Klappbare Modelle reduzieren die Stellfläche auf ca. 60 × 50 cm. Hochkant-Lagerung (wie beim Concept2) spart ebenfalls viel Platz.\n\n### Concept2 — warum ist es so beliebt?\nDas Concept2 Model D ist der Goldstandard in CrossFit-Boxen, Rudervereinen und Reha-Einrichtungen weltweit. Gründe: Extrem robust, präzise Leistungsmessung (PM5-Monitor), riesige Online-Community und 5 Jahre Garantie. Der Nachteil: Es ist laut.\n\n### Worauf bei der Schienenlänge achten?\nDie Schiene bestimmt die maximale Zugstrecke. Für Personen bis 190 cm reichen Standardschienen. Ab 190 cm brauchst du eine lange Schiene (mind. 100 cm nutzbarer Bereich). Zu kurze Schienen begrenzen die Bewegung und mindern den Trainingseffekt.",
+  "vergleichsKategorien": [
+    {
+      "key": "widerstand",
+      "label": "Widerstandstyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "widerstandsstufen",
+      "label": "Stufen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Benutzergewicht",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "schiene",
+      "label": "Schienenlänge",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "klappbar",
+      "label": "Klappbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "display",
+      "label": "Display/Monitor",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist Rudern ein gutes Ganzkörpertraining?",
+      "antwort": "Ja, Rudern beansprucht ca. 86% der Muskulatur: Beine (60% der Kraft), Rücken, Schultern, Arme und Rumpf. Dazu ist es gelenkschonend und verbrennt 500-700 kcal pro Stunde. Eines der effizientesten Cardio-Geräte überhaupt."
+    },
+    {
+      "frage": "Wie laut ist ein Rudergerät?",
+      "antwort": "Magnetrudergeräte sind am leisesten (unter 60 dB). Wasserrudergeräte erzeugen ein angenehmes Plätschern (ca. 65 dB). Luftwiderstandsgeräte wie das Concept2 sind am lautesten (70-75 dB) — in Mietwohnungen kann das stören."
+    },
+    {
+      "frage": "Welches Rudergerät ist das beste für Anfänger?",
+      "antwort": "Für Anfänger empfehlen wir das Sportstech RSX500 oder ein Wasserrudergerät — das natürliche Rudergefühl erleichtert das Erlernen der richtigen Technik. Das Concept2 ist zwar der Goldstandard, kann Einsteiger aber mit der spartanischen Optik abschrecken."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "SportPlus SP-MR-030",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0847C38WG?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 3.5,
+      "werte": {
+        "widerstand": "Magnet",
+        "widerstandsstufen": "8",
+        "max_gewicht": "150",
+        "schiene": "k.A.",
+        "klappbar": "Ja",
+        "display": "LCD (Zeit, Distanz, Kalorien, Schläge)",
+        "lautstaerke": "Sehr leise"
+      },
+      "vorteile": [
+        "Günstig",
+        "Klappbar",
+        "Sehr leise (Magnet)"
+      ],
+      "nachteile": [
+        "Nur 8 Stufen",
+        "Kein realistisches Rudergefühl",
+        "Kein Bluetooth"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sportstech RSX500",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B078BRSQKN?tag=janxsiegmann-21",
+      "preis": 500,
+      "bewertung": 4.0,
+      "werte": {
+        "widerstand": "Magnet + Luft (Hybrid)",
+        "widerstandsstufen": "16",
+        "max_gewicht": "150",
+        "schiene": "ca. 115",
+        "klappbar": "Ja",
+        "display": "Multifunktions-LCD + Tablet-Halter",
+        "lautstaerke": "Leise"
+      },
+      "vorteile": [
+        "Hybrid-Widerstand — vielseitig",
+        "Klappbar",
+        "Kinomap-kompatibel",
+        "16 Stufen"
+      ],
+      "nachteile": [
+        "Hybridwiderstand kein echtes Wasser-Feeling",
+        "Display nicht beleuchtet",
+        "Verarbeitung OK, nicht Premium"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "WaterRower Eiche",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B001EIL3NM?tag=janxsiegmann-21",
+      "preis": 1200,
+      "bewertung": 4.5,
+      "werte": {
+        "widerstand": "Wasser",
+        "widerstandsstufen": "Stufenlos (Zugkraft)",
+        "max_gewicht": "225",
+        "schiene": "ca. 135",
+        "klappbar": "Hochkant lagerbar",
+        "display": "S4-Monitor (optional)",
+        "lautstaerke": "Plätschern (angenehm)"
+      },
+      "vorteile": [
+        "Echtholz — wunderschönes Design",
+        "Natürliches Rudergefühl",
+        "225 kg Belastbarkeit",
+        "Extrem langlebig"
+      ],
+      "nachteile": [
+        "Hoher Preis",
+        "S4-Monitor separat",
+        "Keine Bluetooth-App direkt (ComModule extra)"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Concept2 Model D",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00NH9WEUA?tag=janxsiegmann-21",
+      "preis": 1050,
+      "bewertung": 4.5,
+      "werte": {
+        "widerstand": "Luft",
+        "widerstandsstufen": "10 Dämpfereinstellungen",
+        "max_gewicht": "227",
+        "schiene": "ca. 137",
+        "klappbar": "Teilbar (2 Teile)",
+        "display": "PM5-Monitor (Bluetooth, ANT+)",
+        "lautstaerke": "Laut (Luftzug)"
+      },
+      "vorteile": [
+        "Weltstandard im Ruder- und CrossFit-Sport",
+        "PM5 — präziseste Leistungsmessung",
+        "5 Jahre Garantie",
+        "Riesige Online-Community"
+      ],
+      "nachteile": [
+        "Laut",
+        "Spartanisches Design",
+        "Kein natürliches Rudergefühl wie Wasser"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

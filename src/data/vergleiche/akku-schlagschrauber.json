@@ -1,0 +1,128 @@
+{
+  "slug": "akku-schlagschrauber",
+  "kategorie": "handwerk",
+  "titel": "Akku-Schlagschrauber",
+  "beschreibung": "Akku-Schlagschrauber Test 2026: Die 4 besten im Vergleich ✓ Radwechsel & Montage ✓ Kaufberatung",
+  "keywords": [
+    "akku schlagschrauber",
+    "schlagschrauber test",
+    "akku schlagschrauber test",
+    "schlagschrauber vergleich",
+    "bester schlagschrauber",
+    "akku schlagschrauber 18v",
+    "radwechsel schlagschrauber",
+    "makita schlagschrauber",
+    "schlagschrauber kaufberatung",
+    "schlagschrauber 2026"
+  ],
+  "einleitung": "Radmuttern lösen, schwere Schrauben eindrehen — ein Akku-Schlagschrauber liefert brutales Drehmoment auf Knopfdruck. Wir vergleichen vier Modelle für den Radwechsel zu Hause und die Werkstatt.",
+  "kaufberatung": "### Was macht ein Schlagschrauber anders?\nEin Schlagschrauber arbeitet mit Schlagimpulsen, die ein extrem hohes Drehmoment erzeugen — deutlich mehr als ein Bohrschrauber. Typisch: 200-400 Nm bei Heimwerker-Modellen, bis 1.000+ Nm bei Profi-Geräten. Das reicht für Radmuttern, Gerüstbau und schwere Montagen.\n\n### 1/2 Zoll oder 1/4 Zoll Aufnahme?\n1/2 Zoll ist Standard für Radwechsel und schwere Schraubarbeiten. 1/4 Zoll (Hex-Aufnahme) ist für leichtere Arbeiten und Bits. Für den Radwechsel brauchst du 1/2 Zoll.\n\n### Drehmoment-Einstellungen\nGute Schlagschrauber bieten mehrere Drehmomentstufen oder sogar einen Modus ohne Schlag. Das ist wichtig, um Schrauben nicht zu überdrehen. Radmuttern am Auto sollten nach dem Schlagschrauber immer mit einem Drehmomentschlüssel nachgezogen werden.\n\n### Akku: Brauche ich 18V oder 20V?\n18V und 20V sind marketing-technisch oft das Gleiche (Nominalspannung vs. Maximalspannung). Achte auf die Ah-Zahl: Mindestens 4,0 Ah für Schlagschrauber-Einsatz, da der Stromverbrauch hoch ist.",
+  "vergleichsKategorien": [
+    {
+      "key": "drehmoment",
+      "label": "Max. Drehmoment",
+      "einheit": "Nm",
+      "sortierung": 1
+    },
+    {
+      "key": "leerlaufdrehzahl",
+      "label": "Leerlaufdrehzahl",
+      "einheit": "U/min",
+      "sortierung": 2
+    },
+    {
+      "key": "schlagzahl",
+      "label": "Schlagzahl",
+      "einheit": "S/min",
+      "sortierung": 3
+    },
+    {
+      "key": "aufnahme",
+      "label": "Werkzeugaufnahme",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "akku",
+      "label": "Akku",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht (mit Akku)",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Akku-Schlagschrauber Autoreifen wechseln?",
+      "antwort": "Ja, das ist eine der Hauptanwendungen. Für PKW-Radmuttern (typisch 110-150 Nm Anzugsmoment) reichen Geräte ab 250 Nm Lösemoment. Wichtig: Nach dem Anziehen per Schlagschrauber immer mit Drehmomentschlüssel auf den korrekten Wert nachziehen."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen Schlagschrauber und Schlagbohrschrauber?",
+      "antwort": "Ein Schlagschrauber erzeugt Drehschläge (tangential) für hohes Drehmoment beim Schrauben. Ein Schlagbohrschrauber erzeugt Axialschläge (in Bohrrichtung) zum Bohren in Mauerwerk. Komplett verschiedene Werkzeuge für verschiedene Aufgaben."
+    },
+    {
+      "frage": "Welchen Akku-Schlagschrauber für den Heimgebrauch?",
+      "antwort": "Für gelegentlichen Radwechsel und Montagearbeiten reicht ein 18V-Modell mit 200-300 Nm. Der Makita DTW300 oder der Einhell TE-CW sind dafür ideal. Für täglichen Profi-Einsatz brauchst du stärkere Geräte."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TE-CW 18 Li BL Solo",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08XQDMGTM?tag=janxsiegmann-21",
+      "werte": {
+        "drehmoment": "215",
+        "leerlaufdrehzahl": "2.200",
+        "schlagzahl": "3.600",
+        "aufnahme": "1/2 Zoll Vierkant",
+        "akku": "18V (Solo, ohne Akku)",
+        "gewicht": "1,5"
+      }
+    },
+    {
+      "name": "Makita DTW300Z",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0839LJFQS?tag=janxsiegmann-21",
+      "werte": {
+        "drehmoment": "330",
+        "leerlaufdrehzahl": "2.400",
+        "schlagzahl": "3.800",
+        "aufnahme": "1/2 Zoll Vierkant",
+        "akku": "18V (Solo, ohne Akku)",
+        "gewicht": "1,8"
+      }
+    },
+    {
+      "name": "DeWalt DCF894HN-XJ",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B085RBMWDY?tag=janxsiegmann-21",
+      "werte": {
+        "drehmoment": "447",
+        "leerlaufdrehzahl": "2.000",
+        "schlagzahl": "3.500",
+        "aufnahme": "1/2 Zoll Vierkant",
+        "akku": "18V (Solo, ohne Akku)",
+        "gewicht": "1,9"
+      }
+    },
+    {
+      "name": "Milwaukee M18 FHIWF12-502X",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07PDJY4MC?tag=janxsiegmann-21",
+      "werte": {
+        "drehmoment": "1.356",
+        "leerlaufdrehzahl": "2.100",
+        "schlagzahl": "2.700",
+        "aufnahme": "1/2 Zoll Vierkant",
+        "akku": "18V (2× 5,0 Ah + Ladegerät + Koffer)",
+        "gewicht": "2,5"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

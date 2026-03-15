@@ -1,0 +1,176 @@
+{
+  "slug": "sandkasten",
+  "kategorie": "kinder",
+  "titel": "Sandkasten",
+  "beschreibung": "Sandkasten Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "sandkasten test",
+    "sandkasten vergleich",
+    "sandkasten mit dach kaufberatung",
+    "sandkasten 2026"
+  ],
+  "einleitung": "Du suchst einen Sandkasten fürs Kind — mit Dach, Abdeckung oder besonderen Features? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Holz oder Kunststoff?\nHolz (Kiefer, Fichte, Zeder) sieht natürlicher aus und integriert sich besser in den Garten. Nachteil: Braucht Pflege (Imprägnierung) und kann nach 5-10 Jahren verrotten. Kunststoff (Big Sandy) ist pflegeleicht, UV-beständig und günstiger, sieht aber weniger wertig aus.\n\n### Abdeckung — Pflicht oder optional?\nPflicht. Ohne Abdeckung wird der Sand von Katzen als Toilette genutzt, Laub und Regen machen den Sand matschig. Klappdeckel (WICKEY, EXIT) sind am praktischsten — sie werden zu Sitzbänken umgeklappt. Planen funktionieren auch, sind aber umständlicher.\n\n### Welcher Sand ist der richtige?\nSpielsand (gewaschen, gesiebt) aus dem Baumarkt — ca. 3-5 Euro pro 25 kg. Für einen 130 × 130 cm Sandkasten brauchst du ca. 200-350 kg Sand. Normaler Bausand ist nicht geeignet — er enthält oft Lehm und Steine. Spielsand sollte TÜV-geprüft sein.\n\n### Sonnenschutz — integriert oder separat?\nFür Kinder unter 6 Jahren ist Sonnenschutz im Sandkasten essentiell — sie spielen oft stundenlang. Integrierte Dächer (KidKraft) sind am praktischsten. Alternativ: Sonnensegel separat aufspannen. UV-Schutz UPF 50+ ist empfehlenswert.",
+  "vergleichsKategorien": [
+    {
+      "key": "groesse",
+      "label": "Größe (L×B)",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "abdeckung",
+      "label": "Abdeckung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "sonnenschutz",
+      "label": "Sonnenschutz",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "sitzbaenke",
+      "label": "Sitzbänke",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "sandmenge",
+      "label": "Empf. Sandmenge",
+      "einheit": "kg",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte man den Sand im Sandkasten wechseln?",
+      "antwort": "Einmal pro Saison (jedes Frühjahr) ist empfehlenswert. Zwischendurch den Sand regelmäßig harken und Fremdkörper entfernen. Bei Verunreinigung durch Tiere sofort den betroffenen Bereich großzügig abtragen. Abdeckung verhindert die meisten Probleme."
+    },
+    {
+      "frage": "Welche Größe sollte ein Sandkasten haben?",
+      "antwort": "Für 1-2 Kinder reichen 120 × 120 cm. Für 3-4 Kinder oder wenn die Kinder wachsen: 150 × 150 cm. Die Tiefe sollte mindestens 20-25 cm Sand ermöglichen — Kinder wollen graben und bauen."
+    },
+    {
+      "frage": "Muss ich den Sandkasten auf Rasen oder Pflaster aufstellen?",
+      "antwort": "Beides möglich. Auf Rasen: Unkrautvlies unter den Sandkasten legen, damit der Sand nicht mit Erde vermischt wird. Auf Pflaster: Kein Vlies nötig, aber Drainage-Löcher im Boden des Sandkastens sind wichtig, damit Regenwasser abfließen kann."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Big Sandy Sandkasten",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07S7CX8DG?tag=janxsiegmann-21",
+      "preis": 30,
+      "bewertung": 3.5,
+      "werte": {
+        "groesse": "138 × 138",
+        "material": "Kunststoff",
+        "abdeckung": "Ja (Plane)",
+        "sonnenschutz": "Nein",
+        "sitzbaenke": "Sitzecken integriert",
+        "sandmenge": "200",
+        "extras": "UV-beständig, wetterfest"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "WICKEY Sandkasten Flippey",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B01A5DOYY2?tag=janxsiegmann-21",
+      "preis": 120,
+      "bewertung": 4.0,
+      "werte": {
+        "groesse": "130 × 120",
+        "material": "Holz (KDI-imprägniert)",
+        "abdeckung": "Ja (Klappdeckel → Sitzbänke)",
+        "sonnenschutz": "Nein",
+        "sitzbaenke": "Ja (integriert im Deckel)",
+        "sandmenge": "350",
+        "extras": "Klappdeckel = Sitzbänke, Grundplatte Vlies"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "KidKraft Sandkasten mit Dach",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01LXNIOA8?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.5,
+      "werte": {
+        "groesse": "147 × 147",
+        "material": "Holz (Zeder)",
+        "abdeckung": "Ja (Meshgewebe)",
+        "sonnenschutz": "Ja (verstellbares Dach)",
+        "sitzbaenke": "Ja (2 Ecksitze + 2 Sandkästen)",
+        "sandmenge": "300",
+        "extras": "Verstellbares Stoffdach, 2 Aufbewahrungsboxen"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "EXIT Aksent Sandkasten XL",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01CGPLJBI?tag=janxsiegmann-21",
+      "preis": 300,
+      "bewertung": 4.5,
+      "werte": {
+        "groesse": "132 × 132",
+        "material": "Nordisches Fichtenholz (FSC)",
+        "abdeckung": "Ja (2 Klappdeckel)",
+        "sonnenschutz": "Nein (optional)",
+        "sitzbaenke": "Ja (Klappdeckel)",
+        "sandmenge": "300",
+        "extras": "Premium-Holz, 2 getrennte Deckel, Bankfunktion"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

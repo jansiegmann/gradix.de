@@ -1,0 +1,128 @@
+{
+  "slug": "heizkissen",
+  "kategorie": "koerperpflege",
+  "titel": "Heizkissen",
+  "beschreibung": "Heizkissen Test 2026: Die 4 besten Heizkissen im Vergleich ✓ Waschbar & sicher ✓ Für Rücken & Nacken ✓ Kaufberatung",
+  "keywords": [
+    "heizkissen test",
+    "heizkissen vergleich",
+    "heizkissen rücken",
+    "heizkissen waschbar",
+    "bestes heizkissen",
+    "heizkissen test 2026",
+    "heizkissen groß",
+    "heizkissen nacken",
+    "beurer heizkissen",
+    "heizkissen kaufberatung"
+  ],
+  "einleitung": "Heizkissen lindern Muskelverspannungen, Menstruationsschmerzen und sorgen für wohlige Wärme an kalten Tagen. Die Unterschiede bei Größe, Temperaturstufen und Sicherheit sind aber beachtlich. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Größe und Form\nStandard-Heizkissen (40×30 cm) reichen für den Nacken oder eine Stelle am Rücken. Große Heizkissen (60×40 cm oder größer) decken den gesamten Rücken ab. Für Schulter/Nacken gibt es speziell geformte Modelle.\n\n### Temperaturstufen\nMindestens 3 Stufen sollten es sein. Premium-Modelle bieten 6–10 Stufen für feinere Abstimmung. Starte immer auf der niedrigsten Stufe und erhöhe langsam.\n\n### Abschaltautomatik ist Pflicht\nEin Heizkissen ohne Abschaltautomatik ist ein Brandrisiko. Alle Modelle in unserem Vergleich schalten nach 90 Minuten automatisch ab. Einige bieten auch kürzere Timer (30/60/90 Minuten).\n\n### Waschbarkeit\nDas Kissen wird im Alltag schmutzig. Modelle mit abnehmbarem, waschbarem Bezug sind hygienischer. Einige Heizkissen sind komplett maschinenwaschbar — Heizelemente rausnehmen und den Bezug bei 30°C waschen.\n\n### Weichheit und Material\nFlauschiges Mikrofaser oder Fleece ist am bequemsten. Rein funktionale Baumwollbezüge sind robuster, fühlen sich aber kühler an. Für maximalen Komfort empfehlen wir flauschige Oberflächen.",
+  "vergleichsKategorien": [
+    {
+      "key": "groesse",
+      "label": "Größe",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "temperaturstufen",
+      "label": "Temperaturstufen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "abschaltautomatik",
+      "label": "Abschaltautomatik",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "waschbar",
+      "label": "Waschbar",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist ein Heizkissen sicher?",
+      "antwort": "Ja, moderne Heizkissen mit Abschaltautomatik und Überhitzungsschutz sind sicher. Achte auf das GS-Prüfsiegel. Benutze das Kissen nicht im Schlaf und lege es nicht auf offene Wunden."
+    },
+    {
+      "frage": "Hilft ein Heizkissen bei Rückenschmerzen?",
+      "antwort": "Ja, Wärme fördert die Durchblutung und lockert verspannte Muskeln. Bei akuten Entzündungen ist Kälte jedoch besser. Bei chronischen Verspannungen ist ein Heizkissen ein bewährtes Hausmittel."
+    },
+    {
+      "frage": "Wie lange darf ich ein Heizkissen benutzen?",
+      "antwort": "Maximal 30 Minuten am Stück, dann eine Pause einlegen. Die meisten Geräte schalten nach 90 Minuten automatisch ab. Bei empfindlicher Haut oder Diabetes kürzer nutzen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Beurer HK 25",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B000NJ22QK?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "40 × 30",
+        "temperaturstufen": "3",
+        "abschaltautomatik": "Ja (90 min)",
+        "waschbar": "Ja (bei 30°C)",
+        "material": "Baumwolle/Polyester",
+        "leistung": "100"
+      }
+    },
+    {
+      "name": "Beurer HK 45",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0011Y4NI6?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "44 × 33",
+        "temperaturstufen": "3",
+        "abschaltautomatik": "Ja (90 min)",
+        "waschbar": "Ja (bei 30°C)",
+        "material": "Super-Flausch",
+        "leistung": "100"
+      }
+    },
+    {
+      "name": "Beurer HK 58",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00E5B8DG0?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "62 × 42 (Nacken/Rücken-Form)",
+        "temperaturstufen": "6",
+        "abschaltautomatik": "Ja (90 min)",
+        "waschbar": "Ja (bei 30°C)",
+        "material": "Super-Flausch",
+        "leistung": "100"
+      }
+    },
+    {
+      "name": "Beurer HK 125 XXL",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07X3BQVSY?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "60 × 40",
+        "temperaturstufen": "6",
+        "abschaltautomatik": "Ja (90 min, BSS-Sicherheitssystem)",
+        "waschbar": "Ja (komplett, bei 30°C)",
+        "material": "Flauschiger Fleece (Cosy)",
+        "leistung": "100"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "rauchmelder-vernetzt",
+  "kategorie": "sicherheit",
+  "titel": "Rauchmelder (vernetzt)",
+  "beschreibung": "Rauchmelder Test 2026: Die 4 besten vernetzten Rauchmelder ✓ Lebensrettend ✓ Kaufberatung",
+  "keywords": [
+    "rauchmelder",
+    "rauchmelder test",
+    "funk rauchmelder",
+    "rauchmelder vernetzt",
+    "rauchmelder vergleich",
+    "bester rauchmelder",
+    "ei electronics",
+    "homematic rauchmelder",
+    "rauchmelder 2026",
+    "rauchmelder pflicht"
+  ],
+  "einleitung": "Vernetzte Rauchmelder alarmieren in allen Räumen gleichzeitig — lebensrettend. Vier Systeme im Vergleich.",
+  "kaufberatung": "### Warum vernetzt?\nBrand in Küche, du schläfst: Einzelmelder hörst du nicht. Vernetzte lösen überall aus.\n\n### Q-Label\n10+ Jahre Batterie, weniger Fehlalarme, höhere Qualität.\n\n### Pflicht\nIn allen Bundesländern für Schlaf-/Kinderzimmer und Flure.",
+  "vergleichsKategorien": [
+    {
+      "key": "vernetzung",
+      "label": "Vernetzung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "batterie",
+      "label": "Batterie",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "q",
+      "label": "Q-Label",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "app",
+      "label": "App",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "fehlalarm",
+      "label": "Fehlalarmschutz",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viele brauche ich?",
+      "antwort": "Schlafzimmer, Kinderzimmer, Flure = Pflicht. Wohnzimmer empfohlen."
+    },
+    {
+      "frage": "Marken mischen?",
+      "antwort": "Nein, Funkprotokolle sind herstellerspezifisch."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Ei Electronics Ei650",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00GR3MVCQ?tag=janxsiegmann-21",
+      "werte": {
+        "vernetzung": "Keine (Einzel)",
+        "batterie": "10 J. Lithium",
+        "q": "Ja",
+        "app": "Nein",
+        "fehlalarm": "Ja"
+      }
+    },
+    {
+      "name": "Ei Electronics Ei650RF",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B01AXNZS3O?tag=janxsiegmann-21",
+      "werte": {
+        "vernetzung": "Funk (Ei-Modul)",
+        "batterie": "10 J. Lithium",
+        "q": "Ja",
+        "app": "Nein",
+        "fehlalarm": "Ja"
+      }
+    },
+    {
+      "name": "Homematic IP HmIP-SWSD",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01N4A2BU3?tag=janxsiegmann-21",
+      "werte": {
+        "vernetzung": "Funk (Homematic)",
+        "batterie": "10 J. Lithium",
+        "q": "Ja",
+        "app": "Ja",
+        "fehlalarm": "Ja"
+      }
+    },
+    {
+      "name": "Bosch Smart Home Rauchmelder II",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CZ4BNHBM?tag=janxsiegmann-21",
+      "werte": {
+        "vernetzung": "Zigbee (Bosch)",
+        "batterie": "10 J. Lithium",
+        "q": "Ja",
+        "app": "Ja",
+        "fehlalarm": "Ja + Selbsttest"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

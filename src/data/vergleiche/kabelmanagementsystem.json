@@ -1,0 +1,128 @@
+{
+  "slug": "kabelmanagementsystem",
+  "kategorie": "buero",
+  "titel": "Kabelmanagementsystem",
+  "beschreibung": "Kabelmanagement Test 2026: Die 4 besten Kabelmanagementsysteme ✓ Für Schreibtisch & Home-Office ✓ Aufgeräumt arbeiten",
+  "keywords": [
+    "kabelmanagement",
+    "kabelkanal schreibtisch",
+    "kabelmanagement test",
+    "kabel ordnung schreibtisch",
+    "kabelwanne",
+    "kabelmanagement büro",
+    "kabelmanagement 2026",
+    "kabel verstecken",
+    "kabelkanal vergleich",
+    "schreibtisch kabel ordnen"
+  ],
+  "einleitung": "Kabelsalat unter dem Schreibtisch? Ein gutes Kabelmanagementsystem bringt Ordnung und sieht auch noch gut aus. Wir vergleichen vier Lösungen von Budget bis Profi.",
+  "kaufberatung": "### Kabelwanne, Kabelkanal oder Kabelschlauch?\nKabelwannen hängen unter dem Schreibtisch und fangen alle Kabel auf — einfach und effektiv. Kabelkanäle an der Wand führen Kabel diskret vom Schreibtisch zur Steckdose. Kabelschläuche bündeln mehrere Kabel zu einem sauberen Strang. Für den Schreibtisch ist eine Kabelwanne die praktischste Lösung.\n\n### Montage — bohren oder kleben?\nViele Kabelwannen werden mit Schrauben unter die Tischplatte geschraubt. Für Mietwohnungen gibt es Klemm-Lösungen oder selbstklebende Varianten. Kabelkanäle an der Wand werden meist geschraubt oder geklebt.\n\n### Die richtige Größe\nMiss die Länge deines Schreibtisches und die Menge an Kabeln. Eine 60-80 cm lange Wanne reicht für die meisten Setups. Für Doppelarbeitsplätze brauchst du eine längere oder zwei Wannen.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "laenge",
+      "label": "Länge",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "montage",
+      "label": "Montage",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "kapazitaet",
+      "label": "Kabelkapazität",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "farbe",
+      "label": "Farben",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Was ist die einfachste Lösung gegen Kabelsalat?",
+      "antwort": "Eine Kabelwanne unter dem Schreibtisch ist die schnellste und effektivste Lösung. Alle Kabel rein, fertig. Zusätzlich Kabelclips und Klettkabelbinder für die Sortierung verwenden."
+    },
+    {
+      "frage": "Wie befestige ich eine Kabelwanne ohne Bohren?",
+      "antwort": "Es gibt Klemm-Kabelwannen, die an die Tischplatte geklemmt werden, und selbstklebende Varianten mit starkem Klebeband. Für schwere Kabel und Netzteile empfehlen wir aber Schraubmontage."
+    },
+    {
+      "frage": "Brauche ich ein Kabelmanagement beim höhenverstellbaren Schreibtisch?",
+      "antwort": "Unbedingt! Bei höhenverstellbaren Schreibtischen bewegen sich die Kabel mit. Ein flexibler Kabelschlauch oder eine Kabelkette verhindert, dass Kabel beim Verstellen eingeklemmt oder herausgezogen werden."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ICY BOX Kabelwanne Schreibtisch",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09BDGWYLB?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kabelwanne",
+        "laenge": "60",
+        "montage": "Schrauben",
+        "material": "Stahl",
+        "kapazitaet": "6-8 Kabel",
+        "farbe": "Schwarz, Weiß"
+      }
+    },
+    {
+      "name": "Scandinavian Hub Kabelwanne 2er",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09BQGHX48?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kabelwanne (2 Stück)",
+        "laenge": "43 (je)",
+        "montage": "Schrauben",
+        "material": "Stahl (beschichtet)",
+        "kapazitaet": "8-10 Kabel (je)",
+        "farbe": "Schwarz, Weiß"
+      }
+    },
+    {
+      "name": "Dataflex Kabelkette Addit 300",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B003HN3CG8?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kabelkette (vertikal)",
+        "laenge": "130 (max.)",
+        "montage": "Schrauben (Tisch + Boden)",
+        "material": "Kunststoff (flexibel)",
+        "kapazitaet": "10+ Kabel",
+        "farbe": "Silber"
+      }
+    },
+    {
+      "name": "Ergotron Kabel-Management-Kit",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B003BYRO2E?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Komplett-Kit (Wanne + Clips + Bänder)",
+        "laenge": "verschiedene",
+        "montage": "Schrauben + Kleben",
+        "material": "Stahl + Kunststoff",
+        "kapazitaet": "15+ Kabel",
+        "farbe": "Schwarz"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

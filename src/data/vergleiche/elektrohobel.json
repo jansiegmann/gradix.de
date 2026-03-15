@@ -1,0 +1,124 @@
+{
+  "slug": "elektrohobel",
+  "kategorie": "handwerk",
+  "titel": "Elektrohobel",
+  "beschreibung": "Elektrohobel Test 2026: Die 4 besten Elektrohobel im Vergleich ✓ Türen kürzen & Holz glätten ✓",
+  "keywords": [
+    "elektrohobel",
+    "elektrohobel test",
+    "hobel elektrisch",
+    "elektrohobel vergleich",
+    "bester elektrohobel",
+    "elektrohobel holz",
+    "tür kürzen hobel",
+    "elektrohobel kaufberatung",
+    "bosch hobel",
+    "elektrohobel 2026"
+  ],
+  "einleitung": "Türen kürzen, Holz glätten, Fasen ansetzen — der Elektrohobel schafft in Sekunden, wofür der Handhobel Minuten braucht. Vier Modelle im Vergleich.",
+  "kaufberatung": "### Hobelbreite und Spanabnahme\nStandard-Hobelbreite ist 82 mm. Für breitere Flächen gibt es 170-mm-Modelle. Die maximale Spanabnahme pro Durchgang liegt bei 0-3 mm — fein einstellbar für präzises Arbeiten.\n\n### Wendemesser vs. HSS-Messer\nWendemesser aus Hartmetall (HM) sind praktisch: Stumpf? Wenden. Beide Seiten stumpf? Wegwerfen und neue einsetzen. HSS-Messer lassen sich nachschleifen, brauchen aber mehr Pflege.\n\n### Falztiefe\nViele Elektrohobel können Falze fräsen (z.B. für Türrahmen). Die Falztiefe gibt an, wie tief der Falz maximal sein kann.\n\n### V-Nut an der Sohle\nV-Nuten an der Hobelsohle ermöglichen das saubere Anfasen von Kanten. Meistens sind 1-3 V-Nuten vorhanden.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "hobelbreite",
+      "label": "Hobelbreite",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "spanabnahme",
+      "label": "Max. Spanabnahme",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "falztiefe",
+      "label": "Falztiefe",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "drehzahl",
+      "label": "Drehzahl",
+      "einheit": "U/min",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Elektrohobel eine Tür kürzen?",
+      "antwort": "Ja, das ist eine der häufigsten Anwendungen. Spanne die Tür seitlich ein, stelle den Hobel auf 1-2 mm Spanabnahme und fahre in mehreren Durchgängen über die Unterkante. Arbeite immer in Faserrichtung, um Ausrisse zu vermeiden."
+    },
+    {
+      "frage": "Warum hinterlässt mein Elektrohobel Stufen im Holz?",
+      "antwort": "Das passiert, wenn du den Hobel am Werkstückende nicht sauber abführst. Tipp: Am Anfang mehr Druck auf die vordere Sohle, am Ende mehr auf die hintere. So vermeidest du Ein- und Auslaufstufen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-PL 750",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00CJDGJLG?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "750",
+        "hobelbreite": "82",
+        "spanabnahme": "2",
+        "falztiefe": "10",
+        "drehzahl": "17.000",
+        "gewicht": "2,3"
+      }
+    },
+    {
+      "name": "Bosch PHO 2000",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B011KNXHUI?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "680",
+        "hobelbreite": "82",
+        "spanabnahme": "2",
+        "falztiefe": "8",
+        "drehzahl": "19.500",
+        "gewicht": "2,4"
+      }
+    },
+    {
+      "name": "Bosch GHO 40-82 C Professional",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000B7XDKG?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "850",
+        "hobelbreite": "82",
+        "spanabnahme": "4",
+        "falztiefe": "24",
+        "drehzahl": "14.000",
+        "gewicht": "3,2"
+      }
+    },
+    {
+      "name": "Makita KP0810CJ",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00CPJLHF0?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "850",
+        "hobelbreite": "82",
+        "spanabnahme": "4",
+        "falztiefe": "25",
+        "drehzahl": "9.000-16.000",
+        "gewicht": "3,4"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

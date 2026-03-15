@@ -1,0 +1,128 @@
+{
+  "slug": "ultraschallreiniger",
+  "kategorie": "reinigung",
+  "titel": "Ultraschallreiniger",
+  "beschreibung": "Ultraschallreiniger Test 2026: Die 4 besten Geräte im Vergleich ✓ Für Brillen, Schmuck & mehr ✓ Kaufberatung",
+  "keywords": [
+    "ultraschallreiniger test",
+    "ultraschallreiniger vergleich",
+    "ultraschallreiniger brille",
+    "ultraschallreiniger schmuck",
+    "bester ultraschallreiniger",
+    "ultraschallreiniger test 2026",
+    "ultraschallreiniger kaufberatung",
+    "ultraschallbad",
+    "ultraschallreiniger klein",
+    "ultraschallreiniger profi"
+  ],
+  "einleitung": "Brillen, Schmuck, Uhren, Zahnprothesen — ein Ultraschallreiniger entfernt Schmutz aus jeder Ritze, die eine Bürste nicht erreicht. Wir vergleichen vier Modelle von kompakt bis professionell.",
+  "kaufberatung": "### Wie funktioniert Ultraschallreinigung?\nHochfrequente Schallwellen erzeugen Millionen winziger Kavitationsblasen im Wasser. Wenn diese platzen, lösen sie Schmutz, Fett und Ablagerungen — selbst in kleinsten Ritzen. Der Gegenstand wird dabei nicht mechanisch belastet.\n\n### Tankvolumen\nFür Brillen und Schmuck reichen 600–800 ml. Für größere Gegenstände (Zahnprothesen, Werkzeuge) brauchst du 1–2 Liter. Professionelle Geräte fassen 3+ Liter.\n\n### Frequenz: 40 kHz Standard\nDie meisten Geräte arbeiten mit 40 kHz — ideal für die meisten Anwendungen. Höhere Frequenzen (80 kHz) reinigen sanfter und sind besser für empfindliche Gegenstände.\n\n### Timer und Heizung\nEin Timer (1–10 Minuten) verhindert zu lange Reinigung. Beheizte Modelle (40–60°C) reinigen effektiver als kaltes Wasser. Die meisten Verschmutzungen lösen sich in 3–5 Minuten.\n\n### Was darf NICHT in den Ultraschallreiniger?\nPerlen, Opale, Smaragde und geklebte Steine können beschädigt werden. Weiche Edelsteine und Holz sind tabu. Auch Kontaktlinsen gehören nicht hinein — die Beschichtung kann leiden.",
+  "vergleichsKategorien": [
+    {
+      "key": "tankvolumen",
+      "label": "Tankvolumen",
+      "einheit": "ml",
+      "sortierung": 1
+    },
+    {
+      "key": "frequenz",
+      "label": "Frequenz",
+      "einheit": "kHz",
+      "sortierung": 2
+    },
+    {
+      "key": "leistung",
+      "label": "Ultraschall-Leistung",
+      "einheit": "W",
+      "sortierung": 3
+    },
+    {
+      "key": "heizung",
+      "label": "Heizfunktion",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "timer",
+      "label": "Timer",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "material",
+      "label": "Tankmaterial",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich meine Brille im Ultraschallreiniger reinigen?",
+      "antwort": "Ja, Ultraschall ist die schonendste und gründlichste Methode für Brillen. Auch beschichtete Gläser sind sicher. Verwende nur Wasser oder spezielles Ultraschallreiniger-Konzentrat — kein Spülmittel, das kann Beschichtungen angreifen."
+    },
+    {
+      "frage": "Wie oft sollte ich den Ultraschallreiniger nutzen?",
+      "antwort": "Brillen: täglich oder alle paar Tage. Schmuck: wöchentlich bis monatlich. Zahnprothesen: täglich. Die Reinigung dauert nur 3–5 Minuten — kein großer Aufwand."
+    },
+    {
+      "frage": "Brauche ich spezielles Reinigungsmittel?",
+      "antwort": "Für die meisten Anwendungen reicht warmes Leitungswasser. Für hartnäckige Verschmutzungen gibt es spezielles Ultraschall-Konzentrat. Normales Spülmittel kann Schaum bilden und die Wirkung reduzieren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "VLOXO Ultraschallreiniger CD-2800",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09X2YK8JY?tag=janxsiegmann-21",
+      "werte": {
+        "tankvolumen": "600",
+        "frequenz": "42",
+        "leistung": "35",
+        "heizung": "Nein",
+        "timer": "5 Zyklen (90–480 Sek.)",
+        "material": "Edelstahl"
+      }
+    },
+    {
+      "name": "Uten 750ml Ultraschallreiniger",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07T6814PL?tag=janxsiegmann-21",
+      "werte": {
+        "tankvolumen": "750",
+        "frequenz": "42",
+        "leistung": "50",
+        "heizung": "Ja (bis 60°C)",
+        "timer": "5 Zyklen (90–480 Sek.)",
+        "material": "Edelstahl"
+      }
+    },
+    {
+      "name": "VORAÜS Ultraschallreiniger 1,2L",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CHN4TCFR?tag=janxsiegmann-21",
+      "werte": {
+        "tankvolumen": "1.200",
+        "frequenz": "40",
+        "leistung": "70",
+        "heizung": "Ja (bis 65°C)",
+        "timer": "1–30 min (einstellbar)",
+        "material": "Edelstahl"
+      }
+    },
+    {
+      "name": "EMAG Emmi-20 HC",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B005UHXJ28?tag=janxsiegmann-21",
+      "werte": {
+        "tankvolumen": "2.000",
+        "frequenz": "40",
+        "leistung": "100",
+        "heizung": "Ja (bis 80°C)",
+        "timer": "1–60 min",
+        "material": "Edelstahl (Profi-Qualität)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

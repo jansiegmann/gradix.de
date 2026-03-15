@@ -1,0 +1,176 @@
+{
+  "slug": "fahrradschloss",
+  "kategorie": "auto",
+  "titel": "Fahrradschloss",
+  "beschreibung": "Fahrradschloss Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "fahrradschloss test",
+    "fahrradschloss vergleich",
+    "bügelschloss kaufberatung",
+    "fahrradschloss 2026"
+  ],
+  "einleitung": "Du suchst ein Fahrradschloss, das Diebe wirklich abhält? Wir vergleichen vier Modelle — vom Alltagsschloss bis zum Hochsicherheitsschloss.",
+  "kaufberatung": "### Bügelschloss, Kettenschloss oder Faltschloss?\nBügelschloss: Höchste Sicherheit — der gehärtete Stahlbügel widersteht Bolzenschneidern am besten. Nachteil: Starr und sperrig, begrenzte Anschließmöglichkeiten. Kettenschloss: Flexibler, kann um Laternenpfähle und breite Ständer gelegt werden. Schwerer als Bügelschlösser bei gleicher Sicherheit. Faltschloss: Kompromiss aus Flexibilität und Sicherheit — passt in die Trikottasche.\n\n### Wie viel Sicherheit brauche ich?\nFaustregel: Schloss sollte 5-10% des Fahrradwerts kosten. Für ein 300€-Stadtrad reicht ein ABUS Level 7-10 Schloss. Für ein 1.000€+ E-Bike oder Rennrad brauchst du ABUS Level 12+ oder Kryptonite Gold/Platinum. In Großstädten lieber ein Schloss zu viel als zu wenig.\n\n### Sold Secure, ART, VdS — was bedeuten die Zertifizierungen?\nSold Secure (Bronze/Silver/Gold) ist die renommierteste unabhängige Sicherheitszertifizierung für Fahrradschlösser. Gold = hohes Sicherheitsniveau. ART (1-5 Sterne) ist der niederländische Standard. VdS ist eine deutsche Prüfstelle. Je höher die Bewertung, desto widerstandsfähiger das Schloss gegen Aufbruchversuche.\n\n### Schlüssel oder Zahlenschloss?\nSchlüssel ist sicherer — Zahlenschlösser können mit der richtigen Technik geöffnet werden. Achte auf Anti-Pick-Schließzylinder (ABUS Plus, Kryptonite Disc-Style). Tipp: Mindestens 3 Ersatzschlüssel sollten beiliegen.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "sicherheitslevel",
+      "label": "Sicherheitslevel",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "laenge",
+      "label": "Bügel/Kettenlänge",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "schliessmechanismus",
+      "label": "Schließmechanismus",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "zertifizierung",
+      "label": "Zertifizierung",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Fahrradschloss ist wirklich sicher?",
+      "antwort": "Das ABUS Granit X-Plus 540 (Level 15/15) und Kryptonite New York Fahgettaboudit (10/10) gehören zu den sichersten Schlössern auf dem Markt. Sie widerstehen Bolzenschneidern, Brecheisen und Picking-Versuchen. Kein Schloss ist unknackbar, aber diese machen es Dieben so schwer wie möglich."
+    },
+    {
+      "frage": "Wie schließe ich mein Fahrrad richtig an?",
+      "antwort": "Rahmen + Hinterrad an einen festen Gegenstand anschließen. Das Hinterrad ist teurer als das Vorderrad. Idealerweise ein zweites Schloss fürs Vorderrad. Das Schloss sollte möglichst wenig Spiel haben — je enger, desto schwieriger der Hebelansatz für Diebe."
+    },
+    {
+      "frage": "Reicht ein günstiges Schloss für ein E-Bike?",
+      "antwort": "Nein. E-Bikes kosten oft 2.000-5.000 Euro und sind bei Dieben besonders beliebt. Investiere mindestens 80-130 Euro in ein Schloss (ABUS Granit X-Plus oder Kryptonite New York). Zusätzlich GPS-Tracker und Versicherung empfehlenswert."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ABUS Bordo Lite 6055",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01N0I1X97?tag=janxsiegmann-21",
+      "preis": 50,
+      "bewertung": 3.5,
+      "werte": {
+        "typ": "Faltschloss",
+        "sicherheitslevel": "ABUS Level 7/15",
+        "gewicht": "600",
+        "laenge": "85",
+        "material": "Stahl (5mm)",
+        "schliessmechanismus": "Schlüssel",
+        "zertifizierung": "k.A."
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Kryptonite KryptoLok Series 2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B06XCM39QP?tag=janxsiegmann-21",
+      "preis": 50,
+      "bewertung": 4.0,
+      "werte": {
+        "typ": "Bügelschloss",
+        "sicherheitslevel": "Kryptonite 6/10",
+        "gewicht": "1.300",
+        "laenge": "10,2 × 22,9",
+        "material": "Gehärteter Stahl (13mm)",
+        "schliessmechanismus": "Schlüssel",
+        "zertifizierung": "Sold Secure Silver"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "ABUS Granit X-Plus 540",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B005VPSTER?tag=janxsiegmann-21",
+      "preis": 100,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Bügelschloss",
+        "sicherheitslevel": "ABUS Level 15/15",
+        "gewicht": "1.640",
+        "laenge": "10,8 × 23",
+        "material": "Gehärteter Stahl (13mm Parabolbügel)",
+        "schliessmechanismus": "Schlüssel (ABUS Plus)",
+        "zertifizierung": "VdS, Sold Secure Gold, ART 3"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Kryptonite New York Fahgettaboudit",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B06XCNWMWM?tag=janxsiegmann-21",
+      "preis": 130,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Bügelschloss + Kette",
+        "sicherheitslevel": "Kryptonite 10/10",
+        "gewicht": "2.060",
+        "laenge": "10 × 15,3",
+        "material": "Gehärteter Stahl (18mm)",
+        "schliessmechanismus": "Schlüssel (Disc-Style)",
+        "zertifizierung": "Sold Secure Gold, ART 4"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

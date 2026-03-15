@@ -1,0 +1,176 @@
+{
+  "slug": "kajak-aufblasbar",
+  "kategorie": "outdoor",
+  "titel": "Aufblasbares Kajak",
+  "beschreibung": "Aufblasbares Kajak Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "aufblasbares kajak test",
+    "kajak aufblasbar vergleich",
+    "schlauchkajak kaufberatung",
+    "kajak aufblasbar 2026"
+  ],
+  "einleitung": "Du suchst ein aufblasbares Kajak für Seen, Flüsse oder die Küste — platzsparend und ohne Dachgepäckträger? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Aufblasbares Kajak oder Hartschalenkajak?\nAufblasbare Kajaks passen in einen Rucksack, brauchen keinen Dachgepäckträger und lassen sich in der Wohnung lagern. Nachteile: Sie sind langsamer, weniger wendig und empfindlicher gegen spitze Steine als Hartschalenboote. Für Gelegenheitspaddler und Tourenfahrer auf Seen und ruhigen Flüssen sind Inflatables ideal.\n\n### Worauf kommt es beim Material an?\nVinyl (PVC) ist günstig, aber weniger robust — Standard bei Budget-Kajaks. Nylon-/Polyester-beschichtetes PVC ist langlebiger. Drop-Stitch-Material (wie bei SUP-Boards) bietet die höchste Steifigkeit und Formstabilität — das Kajak fährt sich fast wie ein Hartschalenboot.\n\n### 1er oder 2er Kajak?\n2er-Kajaks sind vielseitiger — du kannst allein oder zu zweit paddeln. Allein im 2er ist aber die Steuerung schwieriger und das Boot liegt tiefer. Wer hauptsächlich allein fährt, profitiert von einem dedizierten 1er-Kajak (weniger Gewicht, bessere Performance).\n\n### Welches Zubehör brauche ich?\nPaddel (oft inklusive bei günstigen Sets, aber meist schwer — ein leichtes Alu-Paddel lohnt sich), Schwimmweste (Pflicht!), Trockensack für Handy und Schlüssel, Reparatur-Set, Pumpe. Für Touren: Spritzdecke und Sitzpolster.",
+  "vergleichsKategorien": [
+    {
+      "key": "sitze",
+      "label": "Sitze",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "laenge",
+      "label": "Länge",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "max_zuladung",
+      "label": "Max. Zuladung",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "aufbauzeit",
+      "label": "Aufbauzeit",
+      "einheit": "Min.",
+      "sortierung": 6
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör inklusive",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Sind aufblasbare Kajaks sicher?",
+      "antwort": "Ja, sie haben mehrere Luftkammern — selbst wenn eine Kammer Luft verliert, bleibt das Boot schwimmfähig. Für ruhige Gewässer (Seen, langsame Flüsse) sind sie sehr sicher. Für Wildwasser ab Stufe III besser ein Hartschalenboot wählen. Schwimmweste ist Pflicht."
+    },
+    {
+      "frage": "Wie schnell ist ein aufblasbares Kajak?",
+      "antwort": "Auf ruhigem Wasser schaffst du 4-6 km/h, geübte Paddler bis 8 km/h. Hartschalenkajaks sind ca. 20-30% schneller. Für gemütliche Touren und Naturerkundungen reicht die Geschwindigkeit völlig aus. Für Rennen oder lange Strecken ist ein Hartschalenboot besser."
+    },
+    {
+      "frage": "Wie lange dauert der Aufbau?",
+      "antwort": "10-15 Minuten mit einer Handpumpe, 5 Minuten mit einer elektrischen Pumpe. Ausrollen, aufpumpen, Sitz einsetzen, Finne montieren — fertig. Der Abbau dauert ähnlich lang. Nach jedem Einsatz das Kajak trocknen lassen, bevor du es einrollst, um Schimmel zu vermeiden."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Intex Explorer K2",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00A7EXF4C?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 3.5,
+      "werte": {
+        "sitze": "2",
+        "laenge": "312",
+        "gewicht": "16",
+        "max_zuladung": "160",
+        "material": "Vinyl",
+        "aufbauzeit": "10-15",
+        "zubehoer": "2 Paddel, Pumpe, Tragetasche"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sevylor Tahiti Plus",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09LHCRXNY?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 4.0,
+      "werte": {
+        "sitze": "2+1",
+        "laenge": "363",
+        "gewicht": "14",
+        "max_zuladung": "200",
+        "material": "PVC + Nylon",
+        "aufbauzeit": "10",
+        "zubehoer": "Tragetasche, Manometer"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "ITIWIT Strenfit X500 2-Sitzer",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CM5DVGRH?tag=janxsiegmann-21",
+      "preis": 550,
+      "bewertung": 4.5,
+      "werte": {
+        "sitze": "2",
+        "laenge": "400",
+        "gewicht": "18",
+        "max_zuladung": "220",
+        "material": "Drop-Stitch + PVC",
+        "aufbauzeit": "10",
+        "zubehoer": "Rucksack, Reparatur-Set, Finne"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Advanced Elements AdvancedFrame",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B000J2L4HY?tag=janxsiegmann-21",
+      "preis": 700,
+      "bewertung": 4.5,
+      "werte": {
+        "sitze": "1",
+        "laenge": "320",
+        "gewicht": "17",
+        "max_zuladung": "136",
+        "material": "Aluminium-Rahmen + PVC",
+        "aufbauzeit": "10-15",
+        "zubehoer": "Rucksack, Reparatur-Set, Skeg"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

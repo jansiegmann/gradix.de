@@ -1,0 +1,128 @@
+{
+  "slug": "kopfhoererstaender",
+  "kategorie": "buero",
+  "titel": "Kopfhörerständer",
+  "beschreibung": "Kopfhörerständer Test 2026: Die 4 besten Kopfhörerhalter ✓ Aluminium & Holz ✓ Mit USB-Hub ✓ Für Gaming & HiFi",
+  "keywords": [
+    "kopfhörerständer",
+    "kopfhörerständer test",
+    "headset halter",
+    "kopfhörerhalter",
+    "kopfhörerständer vergleich",
+    "kopfhörerständer aluminium",
+    "kopfhörerständer holz",
+    "headset ständer gaming",
+    "kopfhörerständer usb",
+    "kopfhörerständer schreibtisch"
+  ],
+  "einleitung": "Dein Kopfhörer liegt immer irgendwo rum? Ein Kopfhörerständer sorgt für Ordnung und schont den Bügel. Wir vergleichen vier Modelle von minimalistisch bis funktional mit USB-Hub.",
+  "kaufberatung": "### Worauf kommt es bei einem Kopfhörerständer an?\nStabilität, damit er nicht umkippt. Gepolsterte oder abgerundete Auflage, damit der Bügel nicht verkratzt. Und ein Design, das zu deinem Setup passt. Bonus-Features wie USB-Hub oder Kabelführung sind praktisch.\n\n### Material — Aluminium, Holz oder Kunststoff?\nAluminium ist am stabilsten und sieht hochwertig aus. Holz/Bambus ist warm und nachhaltig. Kunststoff ist günstig, aber weniger wertig. Für schwere Over-Ear-Kopfhörer empfehlen wir Aluminium oder Holz.\n\n### Brauche ich einen USB-Hub?\nEinige Kopfhörerständer haben integrierte USB-Ports — praktisch, um Peripherie am Schreibtisch anzuschließen. Für Gaming-Setups oder bei Platzmangel ein echtes Plus.\n\n### Schreibtischklemme vs. Standfuß\nStandmodelle brauchen Stellfläche auf dem Schreibtisch. Klemm-Modelle werden an die Tischkante geschraubt und sparen Platz — ideal für kleine Schreibtische.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "tragkraft",
+      "label": "Tragkraft",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "usb",
+      "label": "USB-Hub",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "polsterung",
+      "label": "Bügelauflage",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ein Kopfhörerständer den Bügel verformen?",
+      "antwort": "Ein guter Ständer nicht. Achte auf eine abgerundete, breite Auflage, die das Gewicht verteilt. Schmale oder kantige Halter können bei schweren Kopfhörern den Bügel auf Dauer verformen."
+    },
+    {
+      "frage": "Welcher Kopfhörerständer passt für große Over-Ear Kopfhörer?",
+      "antwort": "Achte auf eine Bügelhöhe von mindestens 25 cm und eine breite Auflage. Alle Modelle in unserem Vergleich passen für Standard- und große Over-Ear-Kopfhörer."
+    },
+    {
+      "frage": "Gibt es Kopfhörerständer mit Ladestation?",
+      "antwort": "Einige Modelle haben USB-Ports, über die du kabellose Kopfhörer laden kannst. Spezielle Ladestationen für bestimmte Modelle (z.B. Sony WH-1000XM5) gibt es aber selten als Ständer — hier brauchst du meist das mitgelieferte USB-Kabel."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "New Bee Kopfhörerständer Aluminium",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01MRDZ4G9?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Aluminium + TPU",
+        "typ": "Standfuß",
+        "tragkraft": "bis 500g",
+        "usb": "Nein",
+        "hoehe": "27",
+        "polsterung": "TPU (weich)"
+      }
+    },
+    {
+      "name": "Lamicall Kopfhörerständer",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07TYJG77T?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Aluminium",
+        "typ": "Standfuß",
+        "tragkraft": "bis 1 kg",
+        "usb": "Nein",
+        "hoehe": "28",
+        "polsterung": "Silikon"
+      }
+    },
+    {
+      "name": "Corsair ST100 RGB",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07CM7BSNM?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Aluminium + Kunststoff",
+        "typ": "Standfuß",
+        "tragkraft": "bis 1 kg",
+        "usb": "2× USB 3.1 + 3,5mm Audio",
+        "hoehe": "25",
+        "polsterung": "Gummi"
+      }
+    },
+    {
+      "name": "Oakywood Kopfhörerständer Walnuss",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08GY53N7N?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Massivholz (Walnuss/Eiche)",
+        "typ": "Standfuß",
+        "tragkraft": "bis 1 kg",
+        "usb": "Nein",
+        "hoehe": "28",
+        "polsterung": "Naturholz (abgerundet)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

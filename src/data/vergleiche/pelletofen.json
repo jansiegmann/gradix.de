@@ -1,0 +1,128 @@
+{
+  "slug": "pelletofen",
+  "kategorie": "heizen-klima",
+  "titel": "Pelletofen",
+  "beschreibung": "Pelletofen Test 2026: Die 4 besten Pelletöfen im Vergleich ✓ Effizient heizen ✓ Automatische Zündung ✓ Kaufberatung",
+  "keywords": [
+    "pelletofen",
+    "pelletofen test",
+    "pelletofen vergleich",
+    "bester pelletofen",
+    "pelletofen kaufen",
+    "pelletofen test 2026",
+    "pelletofen wohnzimmer",
+    "pelletofen automatisch",
+    "pelletofen günstig",
+    "pelletofen mit app"
+  ],
+  "einleitung": "Heizen mit Holzpellets ist effizient, umweltfreundlich und dank automatischer Zündung komfortabel. Wir vergleichen vier Pelletöfen und zeigen dir, welcher Ofen am besten zu deinem Wohnraum passt.",
+  "kaufberatung": "### Für wen eignet sich welcher Pelletofen?\nFür kleine Räume bis 60 m² reicht ein kompakter Ofen wie der Haas+Sohn HSP 2.17. Der Edilkamin Nea ist der Allrounder für mittlere Wohnräume. Der MCZ Alyssa bietet Premium-Features mit App-Steuerung und Raumthermostat. Und der Palazzetti Ecofire Ines eignet sich für große Räume und anspruchsvolle Nutzer.\n\n### Heizleistung — wie viel kW brauche ich?\nFaustregel: 1 kW pro 10-15 m² gut gedämmtem Wohnraum. Für ein 30 m² Wohnzimmer reichen 3-4 kW, für 60 m² brauchst du 6-8 kW. Lieber etwas mehr Leistung wählen, damit der Ofen nicht dauerhaft auf Volllast laufen muss.\n\n### Schornstein und Genehmigung\nEin Pelletofen braucht einen Schornstein oder ein Abgasrohr nach außen — und eine Genehmigung vom Schornsteinfeger. Informiere dich vor dem Kauf bei deinem Bezirksschornsteinfeger über die Aufstellbedingungen. Viele Modelle sind raumluftunabhängig und können auch in gut gedämmten Häusern betrieben werden.\n\n### Automatik und Komfort\nModerne Pelletöfen zünden automatisch, regulieren die Pelletzufuhr und halten die Wunschtemperatur per Thermostat. Premium-Modelle lassen sich per App oder Sprachassistent steuern und haben Wochenprogramme.\n\n### Pelletverbrauch und Kosten\nEin Pelletofen verbraucht je nach Leistung 0,5-2,5 kg Pellets pro Stunde. Bei einem Pelletpreis von ca. 5 Cent/kg kostet eine Stunde Heizen auf mittlerer Stufe etwa 5-8 Cent — deutlich günstiger als Strom.",
+  "vergleichsKategorien": [
+    {
+      "key": "heizleistung",
+      "label": "Heizleistung",
+      "einheit": "kW",
+      "sortierung": 1
+    },
+    {
+      "key": "raumgroesse",
+      "label": "Empf. Raumgröße",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "tankvolumen",
+      "label": "Pellet-Tank",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "wirkungsgrad",
+      "label": "Wirkungsgrad",
+      "einheit": "%",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "steuerung",
+      "label": "Steuerung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Braucht ein Pelletofen einen Schornstein?",
+      "antwort": "Ja, ein Pelletofen braucht einen Schornstein oder zumindest ein Abgasrohr, das nach außen führt. Vor der Anschaffung muss der Bezirksschornsteinfeger die Aufstellbedingungen prüfen und genehmigen."
+    },
+    {
+      "frage": "Wie laut ist ein Pelletofen?",
+      "antwort": "Pelletöfen haben ein Gebläse und eine Förderschnecke, die hörbar sein können. Günstige Modelle erreichen 35-45 dB, Premium-Öfen sind mit 30-35 dB deutlich leiser. Im Nachtmodus reduzieren viele Modelle die Geräusche nochmals."
+    },
+    {
+      "frage": "Wie oft muss man Pellets nachfüllen?",
+      "antwort": "Das hängt von der Tankgröße und der Heizstufe ab. Ein 15-kg-Tank reicht bei mittlerer Leistung für 20-30 Stunden. Bei täglicher Nutzung musst du etwa alle 1-2 Tage nachfüllen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Haas+Sohn HSP 2.17 Home II",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07L37FP5F?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "2,4-6,5",
+        "raumgroesse": "bis 65",
+        "tankvolumen": "15",
+        "wirkungsgrad": "90",
+        "lautstaerke": "mittel",
+        "steuerung": "Display + Fernbedienung"
+      }
+    },
+    {
+      "name": "Edilkamin Nea",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07KXNPYG8?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "2,4-7,0",
+        "raumgroesse": "bis 70",
+        "tankvolumen": "15",
+        "wirkungsgrad": "91",
+        "lautstaerke": "mittel-leise",
+        "steuerung": "Display + Fernbedienung"
+      }
+    },
+    {
+      "name": "MCZ Alyssa",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CX4J6VB1?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "2,3-8,0",
+        "raumgroesse": "bis 80",
+        "tankvolumen": "18",
+        "wirkungsgrad": "92",
+        "lautstaerke": "leise (Konvektion)",
+        "steuerung": "App + WiFi + Fernbedienung"
+      }
+    },
+    {
+      "name": "Palazzetti Ecofire Ines 9kW",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09MKZN6QT?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "2,6-9,0",
+        "raumgroesse": "bis 90",
+        "tankvolumen": "20",
+        "wirkungsgrad": "93",
+        "lautstaerke": "leise",
+        "steuerung": "App + WiFi + Raumthermostat"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "briefwaage-paketwaage",
+  "kategorie": "buero",
+  "titel": "Briefwaage / Paketwaage",
+  "beschreibung": "Briefwaage Test 2026: Die 4 besten Brief- und Paketwaagen ✓ Grammgenau ✓ Für Porto & Versand ✓ Ehrlicher Vergleich",
+  "keywords": [
+    "briefwaage",
+    "paketwaage",
+    "briefwaage test",
+    "paketwaage test",
+    "briefwaage digital",
+    "briefwaage vergleich",
+    "paketwaage günstig",
+    "briefwaage post",
+    "briefwaage 2026",
+    "küchenwaage brief"
+  ],
+  "einleitung": "Zu viel Porto bezahlt oder Brief zu schwer? Eine Briefwaage zeigt dir grammgenau das Gewicht und hilft beim richtigen Porto. Wir vergleichen vier Modelle für Briefe, Päckchen und kleine Pakete.",
+  "kaufberatung": "### Briefwaage oder Paketwaage — was brauche ich?\nFür Briefe und kleine Sendungen reicht eine Briefwaage mit max. 2-5 kg und 1-g-Genauigkeit. Für Päckchen und Pakete brauchst du eine Paketwaage mit bis zu 50 kg Tragkraft. Viele nutzen auch eine gute Küchenwaage als Briefwaage.\n\n### Genauigkeit — worauf kommt es an?\nFür Briefe brauchst du eine Genauigkeit von mindestens 1 Gramm — das Porto hängt schon bei 20 vs. 21 Gramm vom Gewicht ab. Für Pakete reicht 5-10 g Genauigkeit.\n\n### Tara-Funktion\nDie Tara-Funktion nullt die Waage mit Verpackung — so misst du nur den Inhalt. Ein Muss für jede Briefwaage.\n\n### Digital oder analog?\nDigitalwaagen sind genauer, einfacher abzulesen und kompakter. Analogwaagen brauchen keine Batterien, sind aber weniger präzise. Für den Büroalltag empfehlen wir digital.",
+  "vergleichsKategorien": [
+    {
+      "key": "tragkraft",
+      "label": "Max. Tragkraft",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "genauigkeit",
+      "label": "Genauigkeit",
+      "einheit": "g",
+      "sortierung": 2
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "tara",
+      "label": "Tara-Funktion",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "wiegeflaeche",
+      "label": "Wiegefläche",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie genau muss eine Briefwaage sein?",
+      "antwort": "Für Briefe brauchst du mindestens 1 Gramm Genauigkeit. Das Porto der Deutschen Post unterscheidet bei Standardbriefen zwischen 20 g und 50 g — da zählt jedes Gramm."
+    },
+    {
+      "frage": "Kann ich eine Küchenwaage als Briefwaage benutzen?",
+      "antwort": "Ja, wenn sie eine Genauigkeit von 1 Gramm hat. Viele Küchenwaagen messen nur auf 2-5 Gramm genau — das reicht für Briefe oft nicht. Achte auf die Spezifikation."
+    },
+    {
+      "frage": "Brauche ich eine Briefwaage fürs Home-Office?",
+      "antwort": "Wenn du regelmäßig Post oder Pakete verschickst, spart eine Briefwaage Zeit und Geld. Kein Raten mehr beim Porto, keine Nachporto-Gebühren. Für Online-Händler ist sie Pflicht."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Dipse TP-500 Digitalwaage",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0088X30SI?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "0,5",
+        "genauigkeit": "0,01",
+        "display": "LCD beleuchtet",
+        "tara": "Ja",
+        "wiegeflaeche": "10 × 10",
+        "stromversorgung": "2× AAA"
+      }
+    },
+    {
+      "name": "Kern PCB 2500-2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07M5V3YXG?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "2,5",
+        "genauigkeit": "0,01",
+        "display": "LCD groß",
+        "tara": "Ja",
+        "wiegeflaeche": "18 × 18",
+        "stromversorgung": "Netzteil + Batterie"
+      }
+    },
+    {
+      "name": "Maul MAULparcel S 50kg",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07HHMQPDD?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "50",
+        "genauigkeit": "50",
+        "display": "LCD beleuchtet",
+        "tara": "Ja",
+        "wiegeflaeche": "32 × 32",
+        "stromversorgung": "Batterie"
+      }
+    },
+    {
+      "name": "Kern EOB 150K50XL Paketwaage",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07M5RVWPN?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "150",
+        "genauigkeit": "50",
+        "display": "LCD + PC-Schnittstelle",
+        "tara": "Ja",
+        "wiegeflaeche": "55 × 45",
+        "stromversorgung": "Netzteil + Akku"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

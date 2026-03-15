@@ -1,0 +1,132 @@
+{
+  "slug": "bierzapfanlage",
+  "kategorie": "kueche",
+  "titel": "Bierzapfanlage (Heim)",
+  "beschreibung": "Bierzapfanlage Test 2026: Die 4 besten Heimzapfanlagen im Vergleich ✓ 5L-Fässer ✓ Mit Kühlung ✓ Kaufberatung",
+  "keywords": [
+    "bierzapfanlage test",
+    "bierzapfanlage heim",
+    "zapfanlage zuhause",
+    "bierzapfanlage 5 liter",
+    "bierzapfanlage mit kühlung",
+    "bierzapfanlage vergleich",
+    "bierzapfanlage kaufberatung",
+    "caso beer master",
+    "krups beertender",
+    "bierzapfanlage co2"
+  ],
+  "einleitung": "Frisch gezapftes Bier zu Hause — mit der richtigen Bierzapfanlage kein Problem. Ob für die Grillparty oder den Feierabend: Wir vergleichen vier Heimzapfanlagen von günstig bis premium und zeigen, worauf es bei Kühlung, CO2-System und Fasskompatibilität ankommt.",
+  "kaufberatung": "### Druckluft oder CO2-Kartusche?\nEinfache Zapfanlagen nutzen Druckluft — günstig, aber das Bier wird schneller schal. CO2-Kartuschen halten das Bier länger frisch und sorgen für besseren Schaum. Für gelegentliche Nutzung reicht Druckluft, für regelmäßiges Zapfen empfehlen wir CO2.\n\n### Welche Fässer passen?\nDie meisten Heimzapfanlagen nutzen handelsübliche 5-Liter-Partyfässer aus dem Supermarkt. Das Krups BeerTender-System nutzt spezielle Heineken-Fässer. Der CASO Beer Master ist mit allen gängigen 5L-Fässern kompatibel — das gibt dir die größte Bierauswahl.\n\n### Kühlung: Aktiv oder passiv?\nAktive Kühlung (Kompressor oder Peltier-Element) hält das Bier dauerhaft auf Wunschtemperatur. Passive Kühlung (Eis oder vorgekühltes Fass) reicht für kurze Partys. Für Dauerbetrieb ist aktive Kühlung Pflicht.\n\n### Reinigung nicht vergessen\nBierleitungen sind ein Paradies für Keime. Nach jedem Fasswechsel solltest du das System mit warmem Wasser durchspülen. Einige Modelle liefern Reinigungssets mit. Der CASO Beer Master hat ein separates Steigrohr pro Fass — das ist hygienisch clever.\n\n### Wie lange bleibt das Bier frisch?\nMit CO2-System und aktiver Kühlung bleibt ein angebrochenes 5L-Fass 2–4 Wochen frisch. Ohne CO2 solltest du das Fass innerhalb von 2–3 Tagen leertrinken — sonst wird es schal.",
+  "vergleichsKategorien": [
+    {
+      "key": "fassgroesse",
+      "label": "Fasskompatibilität",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "kuehlung",
+      "label": "Kühlsystem",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "temperatur",
+      "label": "Temperaturbereich",
+      "einheit": "°C",
+      "sortierung": 3
+    },
+    {
+      "key": "co2",
+      "label": "CO2-System",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "haltbarkeit",
+      "label": "Haltbarkeit nach Anbruch",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Bierzapfanlage ist die beste für zuhause?",
+      "antwort": "Der CASO Beer Master bietet das beste Gesamtpaket: kompatibel mit allen 5L-Fässern, CO2-System, aktive Kühlung mit 9 Temperaturstufen. Für Gelegenheitsnutzer reicht die günstigere Clatronic BZ 3740."
+    },
+    {
+      "frage": "Kann ich jedes 5-Liter-Fass verwenden?",
+      "antwort": "Die meisten Zapfanlagen sind mit den gängigen 5L-Partyfässern von Krombacher, Bitburger, Warsteiner etc. kompatibel. Das Krups BeerTender-System nutzt spezielle Heineken-Fässer. Prüfe vor dem Kauf die Kompatibilität."
+    },
+    {
+      "frage": "Wie reinige ich eine Bierzapfanlage?",
+      "antwort": "Nach jedem Fasswechsel das System mit warmem Wasser durchspülen. Bei längerer Nichtbenutzung alle Teile demontieren und trocknen lassen. Viele Hersteller bieten Reinigungssets an. Regelmäßige Reinigung verhindert Keimbildung und schlechten Geschmack."
+    },
+    {
+      "frage": "Lohnt sich eine Bierzapfanlage?",
+      "antwort": "Wenn du regelmäßig 5L-Fässer kaufst und frisch gezapftes Bier schätzt, ja. Für gelegentliche Partys reichen auch Fässer mit integriertem Zapfhahn. Die Investition lohnt sich ab etwa 2 Fässern pro Monat."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Clatronic BZ 3740",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00A1KVDDO?tag=janxsiegmann-21",
+      "werte": {
+        "fassgroesse": "5L Partyfässer (Standard)",
+        "kuehlung": "Thermoelektrisch",
+        "temperatur": "ca. 6",
+        "co2": "Nein (Druckluftpumpe)",
+        "haltbarkeit": "2–3 Tage",
+        "gewicht": "5,8"
+      }
+    },
+    {
+      "name": "CASO Beer Master",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0D8PS3TR1?tag=janxsiegmann-21",
+      "werte": {
+        "fassgroesse": "5L Partyfässer (alle gängigen)",
+        "kuehlung": "Thermoelektrisch (9 Stufen)",
+        "temperatur": "4–12",
+        "co2": "Ja (CO2-Kartuschen inkl.)",
+        "haltbarkeit": "bis 4 Wochen",
+        "gewicht": "6,5"
+      }
+    },
+    {
+      "name": "Krups VB450E10 BeerTender",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07G9V5S3R?tag=janxsiegmann-21",
+      "werte": {
+        "fassgroesse": "5L BeerTender-Fässer (Heineken etc.)",
+        "kuehlung": "Thermoelektrisch",
+        "temperatur": "4",
+        "co2": "Integriert im Fass-System",
+        "haltbarkeit": "bis 30 Tage",
+        "gewicht": "6,0"
+      }
+    },
+    {
+      "name": "Unold Bierzapfanlage Franzl",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CVDDXFVF?tag=janxsiegmann-21",
+      "werte": {
+        "fassgroesse": "5L Partyfässer (Standard)",
+        "kuehlung": "Kompressor (leistungsstark)",
+        "temperatur": "2–12",
+        "co2": "Ja (CO2-Kartuschen inkl.)",
+        "haltbarkeit": "bis 4 Wochen",
+        "gewicht": "9,5"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

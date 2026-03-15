@@ -1,0 +1,128 @@
+{
+  "slug": "heizdecke-waermeunterbett",
+  "kategorie": "heizen-klima",
+  "titel": "Heizdecke / Wärmeunterbett",
+  "beschreibung": "Heizdecke Test 2026: Die 4 besten Heizdecken & Wärmeunterbetten ✓ Sicher & waschbar ✓ Für Bett & Sofa ✓ Kaufberatung",
+  "keywords": [
+    "heizdecke",
+    "wärmeunterbett",
+    "heizdecke test",
+    "wärmeunterbett test",
+    "elektrische heizdecke",
+    "heizdecke vergleich",
+    "beste heizdecke",
+    "heizdecke waschbar",
+    "wärmeunterbett test 2026",
+    "heizdecke bett"
+  ],
+  "einleitung": "Kalte Füße im Bett oder auf dem Sofa? Eine Heizdecke oder ein Wärmeunterbett sorgt für wohlige Wärme. Wir vergleichen vier Modelle und zeigen dir, welche am sichersten, wärmsten und gemütlichsten ist.",
+  "kaufberatung": "### Heizdecke oder Wärmeunterbett — was ist der Unterschied?\nEine Heizdecke legst du auf dich drauf wie eine normale Decke — ideal fürs Sofa. Ein Wärmeunterbett wird unter das Spannbettlaken gelegt und wärmt das Bett vor. Beides hat seine Vorteile: Heizdecken sind flexibler, Wärmeunterbetten wärmen gleichmäßiger.\n\n### Sicherheit — worauf achten?\nAchte auf Überhitzungsschutz und Abschaltautomatik. Gute Modelle schalten sich nach 1-12 Stunden automatisch ab. Alle Produkte in unserem Vergleich sind nach Oeko-Tex Standard geprüft und haben einen integrierten Sicherheitssensor.\n\n### Wärmestufen und Komfort\nDie meisten Heizdecken haben 3-6 Wärmestufen. Für das Bett reichen 3 Stufen (Vorwärmen, Schlafen, Intensiv). Auf dem Sofa ist stufenlose Regulierung angenehmer. Modelle mit Timer sind besonders praktisch — Bett 30 Minuten vorheizen und die Decke schaltet sich automatisch ab.\n\n### Pflege — kann man Heizdecken waschen?\nDie meisten modernen Heizdecken sind maschinenwaschbar (nach Entfernen des Controllers). Trockner sind in der Regel tabu. Lies immer die Herstellerangaben.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "groesse",
+      "label": "Größe",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "waermestufen",
+      "label": "Wärmestufen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 4
+    },
+    {
+      "key": "waschbar",
+      "label": "Maschinenwaschbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "abschaltautomatik",
+      "label": "Abschaltautomatik",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist eine Heizdecke sicher?",
+      "antwort": "Ja, moderne Heizdecken mit Oeko-Tex-Zertifizierung und Überhitzungsschutz sind sicher. Alle Modelle in unserem Vergleich haben eine Abschaltautomatik und Sicherheitssensoren. Achte darauf, die Decke nicht zu knicken oder darauf schwere Gegenstände zu legen."
+    },
+    {
+      "frage": "Wie viel Strom verbraucht eine Heizdecke?",
+      "antwort": "Eine Heizdecke verbraucht auf mittlerer Stufe ca. 60-100 Watt — das sind nur 2-4 Cent pro Stunde. Deutlich günstiger als eine Raumheizung. Zum Vergleich: Ein Heizlüfter verbraucht 2.000 Watt."
+    },
+    {
+      "frage": "Kann man mit einer Heizdecke die ganze Nacht schlafen?",
+      "antwort": "Medizinisch wird empfohlen, Heizdecken zum Vorwärmen des Bettes zu nutzen und vor dem Einschlafen auszuschalten. Wärmeunterbetten auf niedriger Stufe können bei den meisten Modellen die ganze Nacht laufen — achte auf die Abschaltautomatik."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Beurer HD 75",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00455UOUE?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Heizdecke (Zudecke)",
+        "groesse": "180 × 130",
+        "waermestufen": "6",
+        "leistung": "100",
+        "waschbar": "Ja (30°C)",
+        "abschaltautomatik": "Ja (3 h)"
+      }
+    },
+    {
+      "name": "Medisana HU 665",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00VAVHB8C?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Wärmeunterbett",
+        "groesse": "150 × 80",
+        "waermestufen": "4",
+        "leistung": "60",
+        "waschbar": "Ja (30°C)",
+        "abschaltautomatik": "Ja (3 h)"
+      }
+    },
+    {
+      "name": "Beurer UB 90",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0916V86TQ?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Wärmeunterbett (2 Zonen)",
+        "groesse": "200 × 100",
+        "waermestufen": "9 (pro Zone)",
+        "leistung": "120",
+        "waschbar": "Ja (30°C)",
+        "abschaltautomatik": "Ja (1-12 h Timer)"
+      }
+    },
+    {
+      "name": "Sanitas SWB 50 XXL",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09FX93T3H?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Wärmeunterbett (XXL)",
+        "groesse": "200 × 150",
+        "waermestufen": "6",
+        "leistung": "120",
+        "waschbar": "Ja (30°C)",
+        "abschaltautomatik": "Ja (3 h)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

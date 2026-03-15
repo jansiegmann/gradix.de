@@ -1,0 +1,176 @@
+{
+  "slug": "sup-board",
+  "kategorie": "outdoor",
+  "titel": "SUP-Board (aufblasbar)",
+  "beschreibung": "SUP-Board (aufblasbar) Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "sup board test",
+    "aufblasbares sup vergleich",
+    "stand up paddle board kaufberatung",
+    "sup board 2026"
+  ],
+  "einleitung": "Du suchst ein aufblasbares SUP-Board für Einsteiger, Touring oder die ganze Familie? Wir vergleichen vier Modelle — von günstig bis Premium.",
+  "kaufberatung": "### Welche Länge und Breite brauche ich?\nAnfänger: 10'6\" bis 11' Länge, 31-33\" Breite — stabil und vielseitig. Touring: 11'6\" bis 12'6\", schmaler — schneller auf Strecke. Race: 14'+, schmal (26-28\") — für Wettkämpfe. Breiter = stabiler, schmaler = schneller. Für die meisten Einsteiger ist ein 10'6\" × 32\" Board ideal.\n\n### Single Layer vs. Double Layer vs. Fusion?\nSingle Layer ist günstiger und leichter, aber weniger steif. Double Layer (zwei verklebte PVC-Schichten) ist robuster und steifer — Standard ab Mittelklasse. Fusion-Technologie (verschweißt statt verklebt) ist das hochwertigste Verfahren — langlebig und sehr steif.\n\n### Komplett-Set oder Einzelteile?\nFür Einsteiger: Komplett-Set (Board + Paddel + Pumpe + Leash + Rucksack). Das spart Geld und du hast alles Nötige dabei. Das Paddel in Sets ist meist Aluminium — ein Upgrade auf Carbon-Paddel (100-200€) lohnt sich später für weniger Gewicht und besseren Vortrieb.\n\n### Stiftung Warentest 2025 — die wichtigsten Erkenntnisse\nStiftung Warentest hat 2025 erstmals SUP-Boards getestet. Ergebnis: Decathlon ITIWIT und Bluefin schnitten gut ab. Teurer bedeutet nicht automatisch besser. Wichtig sind Steifigkeit, Fahrstabilität und Verarbeitungsqualität — nicht der Preis.",
+  "vergleichsKategorien": [
+    {
+      "key": "laenge",
+      "label": "Länge",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "breite",
+      "label": "Breite",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "dicke",
+      "label": "Dicke",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "max_zuladung",
+      "label": "Max. Zuladung",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör Komplett-Set",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "garantie",
+      "label": "Garantie",
+      "einheit": "Jahre",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches SUP-Board ist das beste für Anfänger?",
+      "antwort": "Das Bluefin Cruise 10'8\" bietet das beste Gesamtpaket für Einsteiger: gute Stabilität, 5 Jahre Garantie, komplettes Zubehör inklusive Kajak-Sitz für ca. 350 Euro. Alternative: FunWater für unter 200 Euro, wenn das Budget knapp ist."
+    },
+    {
+      "frage": "Wie transportiere ich ein aufblasbares SUP-Board?",
+      "antwort": "Im mitgelieferten Rucksack — die meisten Boards wiegen 9-12 kg und passen in einen großen Rucksack. Du brauchst keinen Dachgepäckträger. Aufpumpen dauert 5-10 Minuten mit einer Handpumpe, 3-5 Minuten mit einer elektrischen Pumpe (ca. 50 Euro extra)."
+    },
+    {
+      "frage": "Wie pflege ich mein SUP-Board?",
+      "antwort": "Nach jeder Nutzung (besonders Salzwasser) mit Süßwasser abspülen. Nie in praller Sonne aufgepumpt lassen — die Hitze erhöht den Druck und kann das Board beschädigen. Trocken einrollen und kühl lagern. Finne und Ventil gelegentlich prüfen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "FunWater 320",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BQGPG3LP?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 3.5,
+      "werte": {
+        "laenge": "320",
+        "breite": "80",
+        "dicke": "15",
+        "max_zuladung": "150",
+        "gewicht": "8,5",
+        "zubehoer": "Paddel, Pumpe, Leash, Rucksack, Reparatur-Set",
+        "garantie": "1"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Bluefin Cruise 10'8",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07PNQQ4N9?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 4.0,
+      "werte": {
+        "laenge": "325",
+        "breite": "82",
+        "dicke": "15",
+        "max_zuladung": "150",
+        "gewicht": "11,5",
+        "zubehoer": "Paddel, Pumpe, Leash, Rucksack, Kajak-Sitz, Reparatur-Set",
+        "garantie": "5"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Decathlon ITIWIT X100 11'",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DDS2R95S?tag=janxsiegmann-21",
+      "preis": 400,
+      "bewertung": 4.5,
+      "werte": {
+        "laenge": "335",
+        "breite": "84",
+        "dicke": "15",
+        "max_zuladung": "130",
+        "gewicht": "9,5",
+        "zubehoer": "Rucksack, Leash (Paddel+Pumpe optional)",
+        "garantie": "3"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Starboard iGO Zen 11'2",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CZRYVY3V?tag=janxsiegmann-21",
+      "preis": 800,
+      "bewertung": 4.5,
+      "werte": {
+        "laenge": "340",
+        "breite": "81",
+        "dicke": "15",
+        "max_zuladung": "120",
+        "gewicht": "9,2",
+        "zubehoer": "Board + Finne (Zubehör separat)",
+        "garantie": "2"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

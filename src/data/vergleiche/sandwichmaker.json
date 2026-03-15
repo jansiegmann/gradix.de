@@ -1,0 +1,118 @@
+{
+  "slug": "sandwichmaker",
+  "kategorie": "kueche",
+  "titel": "Sandwichmaker",
+  "beschreibung": "Sandwichmaker Test 2026: Die 4 besten Sandwich-Toaster im Vergleich ✓ Antihaft ✓ Schnell & einfach ✓ Kaufberatung",
+  "keywords": [
+    "sandwichmaker test",
+    "sandwichmaker vergleich",
+    "sandwichmaker antihaft",
+    "bester sandwichmaker",
+    "sandwichmaker test 2026",
+    "sandwich toaster",
+    "sandwichmaker 3 in 1",
+    "sandwichmaker kaufberatung",
+    "sandwichmaker dreieck",
+    "sandwichmaker waffeleisen"
+  ],
+  "einleitung": "Ein guter Sandwichmaker zaubert in wenigen Minuten goldbraun getoastete Sandwiches mit knuspriger Kruste und geschmolzenem Käse. Wir vergleichen vier Modelle vom einfachen Dreieck-Toaster bis zum 3-in-1-Multitalent.",
+  "kaufberatung": "### Dreieck oder Muschelform?\nDreieck-Sandwichmaker teilen das Toast diagonal — klassisch und die Füllung bleibt besser drin. Muschelform-Geräte pressen das ganze Toast flach. Für klassische Toasties empfehlen wir Dreieck.\n\n### 3-in-1: Sandwich, Waffel, Grill?\nManche Modelle haben austauschbare Platten für Sandwiches, Waffeln und Kontaktgrill. Praktisch, aber die einzelnen Funktionen sind oft schlechter als bei spezialisierten Geräten.\n\n### Antihaftbeschichtung\nOhne gute Antihaftbeschichtung klebt der Käse an den Platten — eine Katastrophe. Alle Modelle in unserem Vergleich haben Antihaftbeschichtung. Nie mit Metallutensilien kratzen.\n\n### Aufheizzeit\nDie meisten Sandwichmaker sind in 2–3 Minuten heiß. Eine Kontrollleuchte zeigt an, wann das Gerät einsatzbereit ist. Die Sandwiches sind nach 3–5 Minuten fertig.\n\n### Reinigung\nAbnehmbare Platten sind spülmaschinenfest — das spart viel Arbeit. Festplatten mit einem feuchten Tuch abwischen. Nie unter fließendes Wasser halten.",
+  "vergleichsKategorien": [
+    {
+      "key": "sandwiches",
+      "label": "Anzahl Sandwiches",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "plattenform",
+      "label": "Plattenform",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 3
+    },
+    {
+      "key": "platten_abnehmbar",
+      "label": "Platten abnehmbar",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "funktionen",
+      "label": "Funktionen",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Sandwichmaker ist am einfachsten zu reinigen?",
+      "antwort": "Modelle mit abnehmbaren, spülmaschinenfesten Platten wie der Tefal Snack Collection. Bei festinstallierten Platten hilft ein feuchtes Tuch direkt nach dem Gebrauch."
+    },
+    {
+      "frage": "Kann ich auch normales Brot statt Toastbrot verwenden?",
+      "antwort": "Ja, aber nicht jedes Brot passt. Dünnes Weißbrot oder Ciabatta funktionieren gut. Dickes Vollkornbrot kann den Sandwichmaker nicht richtig schließen lassen."
+    },
+    {
+      "frage": "Lohnt sich ein 3-in-1-Sandwichmaker?",
+      "antwort": "Wenn du gelegentlich auch Waffeln oder Paninis machen willst, ja. Für häufige Nutzung lohnen sich spezialisierte Geräte — die Ergebnisse sind besser."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Bestron Sandwichmaker ASM108R",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07BPQP1BN?tag=janxsiegmann-21",
+      "werte": {
+        "sandwiches": "2",
+        "plattenform": "Dreieck",
+        "leistung": "750",
+        "platten_abnehmbar": "Nein",
+        "funktionen": "Nur Sandwich"
+      }
+    },
+    {
+      "name": "Russell Hobbs Fiesta 3-in-1",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00IJWJQEA?tag=janxsiegmann-21",
+      "werte": {
+        "sandwiches": "2",
+        "plattenform": "Dreieck + Waffel + Grill",
+        "leistung": "760",
+        "platten_abnehmbar": "Ja (3 Platten)",
+        "funktionen": "Sandwich + Waffel + Kontaktgrill"
+      }
+    },
+    {
+      "name": "Tefal Snack Collection SW852D",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B007NZRPYA?tag=janxsiegmann-21",
+      "werte": {
+        "sandwiches": "2",
+        "plattenform": "Austauschbar (bis 16 Platten)",
+        "leistung": "700",
+        "platten_abnehmbar": "Ja (spülmaschinenfest)",
+        "funktionen": "Sandwich + Waffel + Grill + Croque + ..."
+      }
+    },
+    {
+      "name": "Breville Deep Fill VST041",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B1HQ7HPN?tag=janxsiegmann-21",
+      "werte": {
+        "sandwiches": "2 (XXL Deep Fill)",
+        "plattenform": "Dreieck (extra tief)",
+        "leistung": "850",
+        "platten_abnehmbar": "Nein (Antihaft)",
+        "funktionen": "Sandwich (extra dick)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

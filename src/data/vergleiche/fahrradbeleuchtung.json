@@ -1,0 +1,176 @@
+{
+  "slug": "fahrradbeleuchtung",
+  "kategorie": "auto",
+  "titel": "Fahrradbeleuchtung (Set)",
+  "beschreibung": "Fahrradbeleuchtung (Set) Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "fahrradbeleuchtung test",
+    "fahrradlicht set vergleich",
+    "fahrradlampe kaufberatung",
+    "fahrradbeleuchtung 2026"
+  ],
+  "einleitung": "Du suchst ein Fahrradbeleuchtungs-Set, das StVZO-konform ist und dich sicher durch den Verkehr bringt? Wir vergleichen vier Sets.",
+  "kaufberatung": "### StVZO-Pflicht — was muss mein Licht können?\nIn Deutschland muss Fahrradbeleuchtung StVZO-zugelassen sein: Frontlicht mit Abblendlinie (blendet Gegenverkehr nicht), Rücklicht mit Z-Zeichen. Blinkende Lichter sind an Fahrrädern in Deutschland nicht erlaubt. Alle Sets in unserem Vergleich sind StVZO-konform.\n\n### Wie viel Lux brauche ich?\n30-50 Lux: Ausreichend für beleuchtete Stadtstraßen. 70-100 Lux: Gut für Radwege und Landstraßen. 150+ Lux: Für unbeleuchtete Wege und Nachtfahrten. Die Lupine SL AX mit 2.200 Lumen ist ein Scheinwerfer — fast wie Autobeleuchtung.\n\n### Akku oder Dynamo?\nAkku-Lichter sind flexibel und leicht zu montieren. Nachteil: Akku kann leer sein, wenn du ihn brauchst. Nabendynamo ist immer geladen, kostet aber 50-100 Euro Einbau. Für Alltagsfahrer: Akku mit USB-C-Laden. Für Vielfahrer und Pendler: Dynamo überlegen.\n\n### Wie wichtig ist Wasserdichtigkeit?\nIPX4 (spritzwassergeschützt) reicht für gelegentliches Regenfahren. IPX5 (Strahlwasser) für Pendler. IP67 (Lupine) übersteht auch Sturzregen und Pfützen. Wer täglich bei jedem Wetter fährt, sollte mindestens IPX5 wählen.",
+  "vergleichsKategorien": [
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit",
+      "einheit": "Lux",
+      "sortierung": 1
+    },
+    {
+      "key": "akku",
+      "label": "Akku",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "laufzeit",
+      "label": "Laufzeit",
+      "einheit": "Std.",
+      "sortierung": 3
+    },
+    {
+      "key": "stvzo",
+      "label": "StVZO-zugelassen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "befestigung",
+      "label": "Befestigung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "wasserdicht",
+      "label": "Wasserdicht",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht (Set)",
+      "einheit": "g",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Fahrradbeleuchtung ist am hellsten?",
+      "antwort": "Die Lupine SL AX 10 mit 2.200 Lumen (150 Lux) ist die hellste StVZO-konforme Fahrradlampe in unserem Vergleich — fast wie ein Autoscheinwerfer. Für die meisten Fahrer reichen aber 80-100 Lux (Busch & Müller IXON Space) völlig aus."
+    },
+    {
+      "frage": "Wie lange hält der Akku von Fahrradlichtern?",
+      "antwort": "Budget-Sets: 3-6 Stunden. Mittelklasse (Sigma Aura 80): 8 Stunden. Premium (Busch + Müller): bis 15 Stunden. Die Laufzeit hängt stark von der gewählten Helligkeitsstufe ab — auf niedrigster Stufe halten die meisten deutlich länger."
+    },
+    {
+      "frage": "Brauche ich ein Rücklicht mit Bremslichtfunktion?",
+      "antwort": "Nein, es ist nicht vorgeschrieben, aber empfehlenswert. Das Sigma Blaze hat eine Bremslichtfunktion, die hinter dir fahrende Autos warnt, wenn du langsamer wirst. Ein echtes Sicherheits-Plus für den Stadtverkehr."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Sigma Aura 45 + Nugget II",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07B9MSCRZ?tag=janxsiegmann-21",
+      "preis": 30,
+      "bewertung": 3.5,
+      "werte": {
+        "helligkeit": "45",
+        "akku": "USB-Aufladbar",
+        "laufzeit": "6",
+        "stvzo": "Ja",
+        "befestigung": "Lenker-Klemme",
+        "wasserdicht": "IPX4",
+        "gewicht": "130"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sigma Aura 80 + Blaze",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08DRG7ZYR?tag=janxsiegmann-21",
+      "preis": 55,
+      "bewertung": 4.0,
+      "werte": {
+        "helligkeit": "80",
+        "akku": "USB-Aufladbar",
+        "laufzeit": "8",
+        "stvzo": "Ja",
+        "befestigung": "Lenker-Klemme + Sattelstütze",
+        "wasserdicht": "IPX4",
+        "gewicht": "175"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Busch + Müller IXON Space + IXXI",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09TZY3KP1?tag=janxsiegmann-21",
+      "preis": 90,
+      "bewertung": 4.5,
+      "werte": {
+        "helligkeit": "150",
+        "akku": "USB-C Aufladbar",
+        "laufzeit": "15",
+        "stvzo": "Ja",
+        "befestigung": "Lenker-Klemme + Sattelstütze",
+        "wasserdicht": "IPX5",
+        "gewicht": "200"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Lupine SL AX 10 + Red Tail",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C2H5Y6Z8?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 4.5,
+      "werte": {
+        "helligkeit": "2.200 (!)",
+        "akku": "Fest, USB-C",
+        "laufzeit": "2-12 (je nach Modus)",
+        "stvzo": "Ja",
+        "befestigung": "Lenker + Sattelstütze",
+        "wasserdicht": "IP67",
+        "gewicht": "240"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

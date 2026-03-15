@@ -1,0 +1,118 @@
+{
+  "slug": "aquarium-komplett-set",
+  "kategorie": "aquaristik",
+  "titel": "Aquarium-Komplett-Set",
+  "beschreibung": "Aquarium-Set Test 2026: Die 4 besten Komplett-Sets im Vergleich ✓ LED & Filter ✓ Für Einsteiger ✓ Kaufberatung",
+  "keywords": [
+    "aquarium set test",
+    "aquarium komplett set",
+    "aquarium einsteiger",
+    "aquarium set mit filter",
+    "aquarium 60 liter set",
+    "aquarium set vergleich",
+    "aquarium kaufberatung",
+    "juwel aquarium",
+    "tetra aquarium set",
+    "aquarium komplett set test 2026"
+  ],
+  "einleitung": "Ein Aquarium-Komplett-Set ist der einfachste Einstieg in die Aquaristik — LED-Beleuchtung, Filter und Heizer sind bereits dabei. Wir vergleichen vier Sets für Einsteiger und Fortgeschrittene.",
+  "kaufberatung": "### Welche Größe für Einsteiger?\n54–60 Liter ist die ideale Einstiegsgröße. Kleiner wird die Wasserchemie instabil, größer wird es teuer und aufwändig. Für Anfänger mit Platz empfehlen wir 80–120 Liter — das verzeiht mehr Fehler.\n\n### Was sollte im Set enthalten sein?\nEin gutes Set enthält: Aquarium mit Abdeckung, LED-Beleuchtung, Innenfilter, Heizer und idealerweise Futter-Probe und Wasseraufbereiter. Kies, Pflanzen und Deko kaufst du separat.\n\n### Innenfilter oder Außenfilter?\nSets unter 100 Liter haben meist einen Innenfilter — ausreichend und pflegeleicht. Ab 100 Liter empfiehlt sich ein Außenfilter für bessere Filterleistung und mehr Platz im Becken.\n\n### LED-Beleuchtung: Wie viel Licht?\nFür Standardpflanzen reichen 20–30 Lumen pro Liter. Für anspruchsvolle Pflanzen brauchst du 40–60 lm/l. Die meisten Set-LEDs reichen für pflegeleichte Pflanzen.\n\n### Einfahrphase beachten\nNach dem Einrichten muss das Aquarium 2–4 Wochen ohne Fische laufen, damit sich nützliche Bakterien ansiedeln. Erst dann Fische einsetzen — zu frühes Besetzen kann tödlich für die Tiere sein.",
+  "vergleichsKategorien": [
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "Liter",
+      "sortierung": 1
+    },
+    {
+      "key": "beleuchtung",
+      "label": "Beleuchtung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "filter",
+      "label": "Filter",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "heizer",
+      "label": "Heizer",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "masse",
+      "label": "Maße (L×B×H)",
+      "einheit": "cm",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Aquarium-Set ist am besten für Anfänger?",
+      "antwort": "Das Tetra Starter Line 80 bietet 80 Liter mit allem Nötigen zum fairen Preis. Wer mehr Qualität will, greift zum Juwel Primo 110 — bessere LED, besserer Filter."
+    },
+    {
+      "frage": "Wie viele Fische passen in ein 60-Liter-Aquarium?",
+      "antwort": "Die Faustregel '1 cm Fisch pro Liter' ist veraltet. Für ein 60-Liter-Becken empfehlen wir: einen kleinen Schwarm (8–10 Neons) plus 6–8 Bodenbewohner (Corydoras). Weniger ist mehr — Überbbesatz ist der häufigste Anfängerfehler."
+    },
+    {
+      "frage": "Wie oft muss ich das Wasser wechseln?",
+      "antwort": "Wöchentlich 25–30 % des Wassers wechseln. Das hält die Wasserqualität stabil und beugt Algenwachstum vor. Verwende einen Mulmglocke, um gleichzeitig den Bodenschlamm abzusaugen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Tetra Starter Line 54L LED",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0153H60QW?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "54",
+        "beleuchtung": "LED (13W)",
+        "filter": "Tetra EasyCrystal 250",
+        "heizer": "Tetra HT 50 (50W)",
+        "masse": "61 × 32 × 42"
+      }
+    },
+    {
+      "name": "Tetra Starter Line 80L LED",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BN47KNWL?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "80",
+        "beleuchtung": "LED (17W)",
+        "filter": "Tetra EasyCrystal 300",
+        "heizer": "Tetra HT 75 (75W)",
+        "masse": "75 × 32 × 46"
+      }
+    },
+    {
+      "name": "Juwel Primo 110 LED",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01F6PEFNW?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "110",
+        "beleuchtung": "Juwel LED Day (10,5W)",
+        "filter": "Juwel Bioflow M",
+        "heizer": "Juwel AquaHeat 100W",
+        "masse": "81 × 36 × 45"
+      }
+    },
+    {
+      "name": "Juwel Rio 125 LED",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01F6PEEE4?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "125",
+        "beleuchtung": "Juwel LED Day + Nature (2×14W)",
+        "filter": "Juwel Bioflow M",
+        "heizer": "Juwel AquaHeat 100W",
+        "masse": "81 × 36 × 50"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

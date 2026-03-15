@@ -1,0 +1,128 @@
+{
+  "slug": "kuechenwaage-digital",
+  "kategorie": "kueche",
+  "titel": "Küchenwaage (digital)",
+  "beschreibung": "Küchenwaage Test 2026: Die 4 besten digitalen Waagen im Vergleich ✓ Grammgenau ✓ Kompakt ✓ Kaufberatung",
+  "keywords": [
+    "küchenwaage digital test",
+    "küchenwaage test",
+    "digitale küchenwaage",
+    "küchenwaage vergleich",
+    "küchenwaage grammgenau",
+    "beste küchenwaage",
+    "küchenwaage test 2026",
+    "küchenwaage edelstahl",
+    "küchenwaage mit tara",
+    "briefwaage küche"
+  ],
+  "einleitung": "Ob Backen, Kochen oder Meal-Prep — eine gute digitale Küchenwaage ist unverzichtbar für präzise Ergebnisse. Die Unterschiede bei Genauigkeit, Wiegefläche und Zusatzfunktionen sind größer als man denkt. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Genauigkeit: 1g oder 0,1g?\nFür normales Kochen und Backen reicht eine 1g-Genauigkeit. Wer Kaffee per Hand aufgießt, Gewürze dosiert oder Schmuck wiegt, braucht 0,1g. Die meisten Küchenwaagen bieten 1g-Schritte.\n\n### Wiegefläche und Tragkraft\nKompakte Waagen messen bis 5 kg — ausreichend für die meisten Rezepte. Größere Modelle schaffen 10–15 kg, ideal für große Schüsseln. Die Wiegefläche sollte groß genug sein, damit deine Schüssel stabil steht.\n\n### Tara-Funktion ist Pflicht\nMit der Tara-Taste setzt du das Gewicht auf Null zurück — so wiegst du direkt in der Schüssel, ohne das Schüsselgewicht abziehen zu müssen. Jede Küchenwaage sollte Tara haben.\n\n### Material: Edelstahl oder Glas?\nEdelstahl ist robust und leicht zu reinigen. Glasoberflächen sehen elegant aus, zerkratzen aber leichter. Kunststoff ist am günstigsten, aber weniger langlebig.\n\n### Batterien oder USB?\nDie meisten Waagen nutzen 2× AAA-Batterien und halten damit 6–12 Monate. Einige Modelle laden per USB-C — nachhaltiger, aber du musst ans Laden denken.",
+  "vergleichsKategorien": [
+    {
+      "key": "genauigkeit",
+      "label": "Genauigkeit",
+      "einheit": "g",
+      "sortierung": 1
+    },
+    {
+      "key": "tragkraft",
+      "label": "Max. Tragkraft",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "wiegeflaeche",
+      "label": "Wiegefläche",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "tara",
+      "label": "Tara-Funktion",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Küchenwaage ist die genaueste?",
+      "antwort": "Für 0,1g-Genauigkeit empfehlen wir die Etekcity EK6015. Für 1g-Genauigkeit bieten alle Modelle in unserem Vergleich zuverlässige Ergebnisse. Die Genauigkeit hängt auch davon ab, dass die Waage auf einer ebenen Fläche steht."
+    },
+    {
+      "frage": "Wie lange halten die Batterien einer Küchenwaage?",
+      "antwort": "Bei normaler Nutzung (einmal täglich wiegen) halten 2× AAA-Batterien 6–12 Monate. Waagen mit Auto-Off-Funktion sparen zusätzlich Strom."
+    },
+    {
+      "frage": "Kann ich mit einer Küchenwaage auch Flüssigkeiten wiegen?",
+      "antwort": "Ja, viele digitale Küchenwaagen haben eine ml-Anzeige für Wasser und Milch. Da Flüssigkeiten unterschiedliche Dichten haben, ist die Umrechnung nur für Wasser (1ml = 1g) und Milch exakt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Etekcity EK6015",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0113UZJE2?tag=janxsiegmann-21",
+      "werte": {
+        "genauigkeit": "1",
+        "tragkraft": "5",
+        "wiegeflaeche": "18 × 14 cm (Edelstahl)",
+        "tara": "Ja",
+        "material": "Edelstahl",
+        "stromversorgung": "2× AAA"
+      }
+    },
+    {
+      "name": "Soehnle Page Profi 300",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B079JV6WLV?tag=janxsiegmann-21",
+      "werte": {
+        "genauigkeit": "1",
+        "tragkraft": "20",
+        "wiegeflaeche": "22 × 16 cm (Glas)",
+        "tara": "Ja",
+        "material": "Sicherheitsglas",
+        "stromversorgung": "2× AAA"
+      }
+    },
+    {
+      "name": "Joseph Joseph TriScale",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00T3MRJPE?tag=janxsiegmann-21",
+      "werte": {
+        "genauigkeit": "1",
+        "tragkraft": "5",
+        "wiegeflaeche": "Faltbar (kompakt)",
+        "tara": "Ja",
+        "material": "Kunststoff (faltbar)",
+        "stromversorgung": "1× CR2032"
+      }
+    },
+    {
+      "name": "Soehnle Page Profi 200",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B079JMFHGL?tag=janxsiegmann-21",
+      "werte": {
+        "genauigkeit": "0,1 (bis 500g) / 1 (bis 15kg)",
+        "tragkraft": "15",
+        "wiegeflaeche": "22 × 16 cm",
+        "tara": "Ja",
+        "material": "Sicherheitsglas",
+        "stromversorgung": "2× AAA"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "heizstrahler-terrasse",
+  "kategorie": "heizen-klima",
+  "titel": "Heizstrahler (Terrasse)",
+  "beschreibung": "Terrassenheizstrahler Test 2026: Die 4 besten Heizstrahler im Vergleich ✓ Infrarot & Gas ✓ Für Terrasse & Balkon",
+  "keywords": [
+    "heizstrahler terrasse",
+    "terrassenheizstrahler test",
+    "infrarot heizstrahler außen",
+    "heizstrahler balkon",
+    "heizstrahler test 2026",
+    "wärmestrahler terrasse",
+    "infrarotstrahler outdoor",
+    "terrassenheizer",
+    "heizpilz alternative",
+    "heizstrahler vergleich"
+  ],
+  "einleitung": "Draußen sitzen auch wenn es kühl wird? Ein Terrassenheizstrahler macht es möglich. Wir vergleichen vier Modelle — Infrarot und Gas — und zeigen dir, welcher Strahler deinen Außenbereich am effektivsten wärmt.",
+  "kaufberatung": "### Infrarot oder Gas — was ist besser?\nInfrarot-Heizstrahler (elektrisch) sind sauber, geruchlos und sofort warm. Gasheizstrahler (Heizpilze) heizen stärker, brauchen aber Gasflaschen und sind weniger umweltfreundlich. Für überdachte Terrassen und Balkone empfehlen wir Infrarot, für offene Bereiche ohne Stromanschluss Gas.\n\n### Welche Leistung brauche ich?\n1.500-2.000 Watt reichen für 2-4 Personen im Nahbereich (1-2 m). Für größere Bereiche brauchst du 2.500-3.000 Watt oder mehrere Strahler. Gasstrahler leisten 5.000-14.000 Watt, wärmen aber auch größere Flächen.\n\n### Montage — Wand, Decke oder Standgerät?\nWandmontage ist am platzsparendsten und effektivsten. Deckenmontage eignet sich für überdachte Terrassen. Standgeräte sind flexibel positionierbar. Für Mietwohnungen sind Standstrahler oder Klemmstrahler ideal.\n\n### Sicherheit im Außenbereich\nAchte auf IP-Schutzklasse: IPX4 reicht für überdachte Bereiche, IP65 für direkte Regenexposition. Infrarotstrahler sollten immer spritzwassergeschützt sein.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "heizflaeche",
+      "label": "Heizfläche",
+      "einheit": "m²",
+      "sortierung": 3
+    },
+    {
+      "key": "montage",
+      "label": "Montage",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "schutzklasse",
+      "label": "Schutzklasse",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "aufheizzeit",
+      "label": "Aufheizzeit",
+      "einheit": "s",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel Strom verbraucht ein Infrarot-Heizstrahler?",
+      "antwort": "Ein 2.000-Watt-Strahler verbraucht 2 kWh pro Stunde — das sind ca. 80 Cent. Bei 3 Stunden Nutzung an einem Abend also rund 2,40 Euro. Dimmbare Modelle können den Verbrauch reduzieren."
+    },
+    {
+      "frage": "Darf man einen Heizstrahler auf dem Balkon benutzen?",
+      "antwort": "Elektrische Infrarotstrahler sind auf Balkonen erlaubt und sicher. Gasheizstrahler (Heizpilze) können je nach Mietvertrag und Hausordnung eingeschränkt sein. Im Zweifel beim Vermieter nachfragen."
+    },
+    {
+      "frage": "Was ist besser — Hellstrahler oder Dunkelstrahler?",
+      "antwort": "Hellstrahler (Kurzwelle) heizen schneller und intensiver, blenden aber leicht. Dunkelstrahler (Langwelle) geben angenehmere, gleichmäßigere Wärme ab und blenden nicht. Für Terrassen empfehlen wir Dunkelstrahler."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Kesser Infrarot-Heizstrahler 2500W",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CHX7F86L?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Infrarot (Kurzwelle)",
+        "leistung": "2500",
+        "heizflaeche": "ca. 12",
+        "montage": "Wand / Decke / Stativ",
+        "schutzklasse": "IP44",
+        "aufheizzeit": "2"
+      }
+    },
+    {
+      "name": "Blumfeldt Dark Wave Infrarotstrahler",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0C1F6XNQK?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Infrarot (Dunkelstrahler)",
+        "leistung": "2000",
+        "heizflaeche": "ca. 10",
+        "montage": "Wand / Decke",
+        "schutzklasse": "IP65",
+        "aufheizzeit": "5"
+      }
+    },
+    {
+      "name": "Enders Elegance Gasstrahler",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B007MY7R3S?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Gas (Propan)",
+        "leistung": "8000",
+        "heizflaeche": "ca. 20",
+        "montage": "Standgerät",
+        "schutzklasse": "Outdoor-geeignet",
+        "aufheizzeit": "10"
+      }
+    },
+    {
+      "name": "Burda TERM 2000 IP67",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B009L5HHWG?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Infrarot (Kurzwelle)",
+        "leistung": "2000",
+        "heizflaeche": "ca. 12",
+        "montage": "Wand / Decke",
+        "schutzklasse": "IP67",
+        "aufheizzeit": "1"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

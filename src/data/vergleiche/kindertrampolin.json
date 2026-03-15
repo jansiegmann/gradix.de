@@ -1,0 +1,176 @@
+{
+  "slug": "kindertrampolin",
+  "kategorie": "kinder",
+  "titel": "Kindertrampolin",
+  "beschreibung": "Kindertrampolin Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "kindertrampolin test",
+    "trampolin kinder vergleich",
+    "kindertrampolin indoor kaufberatung",
+    "kindertrampolin 2026"
+  ],
+  "einleitung": "Du suchst ein Kindertrampolin für drinnen oder den Garten — sicher und robust? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Indoor oder Outdoor?\nIndoor-Trampoline (120-140 cm) sind kleiner und leichter — für Kinderzimmer und Spielkeller. Outdoor-Trampoline (250-400+ cm) bieten mehr Sprungfläche und höhere Sprünge, brauchen aber einen ebenen Gartenplatz. Ab 300 cm können auch Erwachsene mitspringen.\n\n### Federn oder Gummiseile?\nStahlfedern bieten mehr Sprungkraft, können aber bei Kontakt zu blauen Flecken führen. Deshalb immer ein Sicherheitsnetz + Federabdeckung nutzen. Gummiseile (bei Kindertrampoline unter 140 cm üblich) sind leiser und sicherer — kein Einklemmen möglich. Springfree-Trampoline haben Fiberglas-Stäbe statt Federn — die sicherste Variante.\n\n### Sicherheitsnetz — Pflicht oder optional?\nPflicht für Kinder unter 10 Jahren. Das Netz verhindert Stürze vom Trampolin — die häufigste Verletzungsursache. Achte auf ein Netz mit Reißverschluss (nicht nur Klettverschluss) und darauf, dass die Netzstangen gepolstert sind.\n\n### TÜV/GS-Prüfung — warum wichtig?\nTÜV-geprüfte Trampoline müssen strenge Sicherheitsstandards erfüllen (Stabilität, Federabdeckung, Netz). Kein TÜV-Siegel = kein Nachweis über Sicherheit. Bei Kindern kein Risiko eingehen — nur geprüfte Modelle kaufen.",
+  "vergleichsKategorien": [
+    {
+      "key": "durchmesser",
+      "label": "Durchmesser",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Belastung",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "sicherheitsnetz",
+      "label": "Sicherheitsnetz",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "federung",
+      "label": "Federung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "indoor_outdoor",
+      "label": "Indoor/Outdoor",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "alter",
+      "label": "Empf. Alter",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "tuev",
+      "label": "TÜV/GS",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ab welchem Alter dürfen Kinder Trampolin springen?",
+      "antwort": "Kinderärzte empfehlen Trampolinspringen ab 6 Jahren, da vorher Knochen und Gelenke noch nicht ausreichend entwickelt sind. Für Kleinkinder (3-5 Jahre) sind Mini-Trampoline mit Haltestange und Gummiseilen (statt Federn) eine sicherere Alternative."
+    },
+    {
+      "frage": "Wie verankere ich ein Outdoor-Trampolin?",
+      "antwort": "Bodenanker (Erdspieße) sind Pflicht bei Outdoor-Trampolinen — sie verhindern, dass das Trampolin bei Wind umkippt oder weggeweht wird. Die meisten Sets enthalten 4 Anker. In den Boden schrauben und mit Spanngurten am Rahmen befestigen."
+    },
+    {
+      "frage": "Springfree vs. normales Trampolin — lohnt sich der Aufpreis?",
+      "antwort": "Springfree-Trampoline (ab 1.200€) sind die sichersten auf dem Markt: Fiberglas statt Federn, flexibles Netz ohne Stangen, weicher Rand. Der Aufpreis lohnt sich besonders für Familien mit kleinen Kindern, die auf maximale Sicherheit Wert legen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "SixBros Kindertrampolin 140cm",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00I4CF5GI?tag=janxsiegmann-21",
+      "preis": 60,
+      "bewertung": 3.5,
+      "werte": {
+        "durchmesser": "140",
+        "max_gewicht": "50",
+        "sicherheitsnetz": "Ja",
+        "federung": "Gummiseile",
+        "indoor_outdoor": "Indoor + Outdoor",
+        "alter": "Ab 3 Jahre",
+        "tuev": "TÜV/GS geprüft"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Hudora Fantastic 300",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CGK5DP87?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 4.0,
+      "werte": {
+        "durchmesser": "300",
+        "max_gewicht": "100",
+        "sicherheitsnetz": "Ja (Reißverschluss)",
+        "federung": "Stahlfedern (verzinkt)",
+        "indoor_outdoor": "Outdoor",
+        "alter": "Ab 6 Jahre",
+        "tuev": "GS-geprüft"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "BERG Favorit 330 + Netz",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01MSYRBAC?tag=janxsiegmann-21",
+      "preis": 500,
+      "bewertung": 4.5,
+      "werte": {
+        "durchmesser": "330",
+        "max_gewicht": "100",
+        "sicherheitsnetz": "Ja (Comfort)",
+        "federung": "Goldspring Solo Federn",
+        "indoor_outdoor": "Outdoor",
+        "alter": "Ab 6 Jahre",
+        "tuev": "TÜV"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Springfree R79 Medium Round",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00BBI2I5S?tag=janxsiegmann-21",
+      "preis": 1200,
+      "bewertung": 4.5,
+      "werte": {
+        "durchmesser": "300",
+        "max_gewicht": "100",
+        "sicherheitsnetz": "FlexiNet (keine Stangen)",
+        "federung": "Fiberglas-Stäbe (keine Federn!)",
+        "indoor_outdoor": "Outdoor",
+        "alter": "Ab 4 Jahre",
+        "tuev": "TÜV, SÜD"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "nass-trockensauger",
+  "kategorie": "handwerk",
+  "titel": "Nass-Trockensauger",
+  "beschreibung": "Nass-Trockensauger Test 2026: Die 4 besten Werkstattsauger ✓ Nass & Trocken ✓ Kaufberatung",
+  "keywords": [
+    "nass trockensauger",
+    "nass trockensauger test",
+    "werkstattsauger",
+    "industriesauger",
+    "allessauger",
+    "nass trockensauger vergleich",
+    "bester werkstattsauger",
+    "kärcher nass trockensauger",
+    "nass trockensauger kaufberatung",
+    "werkstattsauger 2026"
+  ],
+  "einleitung": "Baustaub, Sägespäne, verschüttetes Wasser — ein Nass-Trockensauger saugt alles weg, woran dein Haushaltsstaubsauger scheitert. Wir vergleichen vier Modelle für Werkstatt, Keller und Baustelle.",
+  "kaufberatung": "### Warum ein Nass-Trockensauger?\nNormale Staubsauger versagen bei grobem Schmutz, Flüssigkeiten und Baustaub. Nass-Trockensauger sind robust gebaut, haben große Behälter und saugen buchstäblich alles — nass und trocken.\n\n### Behältervolumen: Wie groß muss er sein?\n15-20 Liter reichen für die Heimwerkstatt. 25-30 Liter für größere Projekte und Baustellen. Zu große Behälter sind unhandlich und schwer zu entleeren.\n\n### Steckdosenautomatik\nEine eingebaute Steckdose am Sauger ist Gold wert. Schließe dein Elektrowerkzeug an — der Sauger startet automatisch mit dem Werkzeug und saugt den Staub direkt an der Quelle ab.\n\n### Filterung\nFür Feinstaub brauchst du einen HEPA-Filter oder Nassfilter. Für groben Schmutz reicht ein Standardfilter. Achte auf einen Flachfaltenfilter, der sich einfach reinigen lässt.\n\n### Blasfunktion\nViele Nass-Trockensauger haben eine Umschaltung auf Blasfunktion. Praktisch zum Laubpusten, Trockenblasen oder Entstauben.",
+  "vergleichsKategorien": [
+    {
+      "key": "behaeltervolumen",
+      "label": "Behältervolumen",
+      "einheit": "L",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "saugleistung",
+      "label": "Max. Unterdruck",
+      "einheit": "mbar",
+      "sortierung": 3
+    },
+    {
+      "key": "steckdosenautomatik",
+      "label": "Steckdosenautomatik",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "blasfunktion",
+      "label": "Blasfunktion",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Nass-Trockensauger auch Wasser absaugen?",
+      "antwort": "Ja, genau dafür ist er gemacht. Wichtig: Vor dem Nasssaugen den Papierfilter entfernen und nur mit Schaumstofffilter oder ohne Filter arbeiten. Sonst weicht der Papierfilter auf und wird zerstört."
+    },
+    {
+      "frage": "Kann ich einen Nass-Trockensauger an meine Kreissäge anschließen?",
+      "antwort": "Ja, sofern der Sauger eine Steckdosenautomatik hat. Dann startet er automatisch mit der Säge. Du brauchst einen passenden Reduzierstutzen, um den Saugschlauch an den Staubauslass deines Werkzeugs zu verbinden."
+    },
+    {
+      "frage": "Wie oft muss ich den Filter reinigen?",
+      "antwort": "Nach jedem größeren Einsatz klopfe den Flachfaltenfilter aus. Bei starker Feinstaubbelastung (Schleifstaub, Gips) solltest du den Filter häufiger reinigen oder einen Entsorgungsbeutel nutzen, der den Filter schont."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Kärcher WD 3",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09LCZL1KD?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "17",
+        "leistung": "1000",
+        "saugleistung": "200",
+        "steckdosenautomatik": "Nein",
+        "blasfunktion": "Ja",
+        "gewicht": "5,8"
+      }
+    },
+    {
+      "name": "Kärcher WD 4 Premium",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09LC5WTM3?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "20",
+        "leistung": "1000",
+        "saugleistung": "220",
+        "steckdosenautomatik": "Ja",
+        "blasfunktion": "Ja",
+        "gewicht": "7,5"
+      }
+    },
+    {
+      "name": "Bosch GAS 20 L SFC Professional",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000YYRDWI?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "20",
+        "leistung": "1200",
+        "saugleistung": "215",
+        "steckdosenautomatik": "Ja",
+        "blasfunktion": "Nein",
+        "gewicht": "10,0"
+      }
+    },
+    {
+      "name": "Kärcher WD 6 P Premium",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09LC8FTB9?tag=janxsiegmann-21",
+      "werte": {
+        "behaeltervolumen": "30",
+        "leistung": "1300",
+        "saugleistung": "240",
+        "steckdosenautomatik": "Ja",
+        "blasfunktion": "Ja",
+        "gewicht": "9,3"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

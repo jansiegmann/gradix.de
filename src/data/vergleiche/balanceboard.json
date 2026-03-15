@@ -1,0 +1,176 @@
+{
+  "slug": "balanceboard",
+  "kategorie": "sport",
+  "titel": "Balanceboard",
+  "beschreibung": "Balanceboard Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "balance board test",
+    "balanceboard vergleich",
+    "wackelbrett kaufberatung",
+    "balance board 2026"
+  ],
+  "einleitung": "Du suchst ein Balanceboard für bessere Stabilität, Koordination oder als Steh-Schreibtisch-Ergänzung? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Wackelbrett, Rollenbalance oder Kugel-Board?\nWackelbretter (Halbkugel) sind am einfachsten — ideal für Reha, Physiotherapie und Einsteiger. Rollenbalance-Boards (mit Korkrolle) sind der Standard für Surfer, Skater und Fitness — herausfordernd und spaßig. Kugel-Boards bieten die meiste Bewegungsfreiheit, sind aber am schwierigsten.\n\n### Wofür eignet sich ein Balanceboard?\nSurf-/Skatevorbereitung: Rollenbalance trainiert die gleichen Bewegungsmuster. Stehschreibtisch: Sanftes Wippen fördert Durchblutung und verhindert Rückenschmerzen. Physiotherapie: Wackelbretter stärken die Fußgelenke nach Verletzungen. Core-Training: Alle Varianten aktivieren permanent die Rumpfmuskulatur.\n\n### Wie groß sollte das Board sein?\nFür Erwachsene: 70-80 cm Länge, 28-35 cm Breite. Kürzere Boards sind agiler, längere stabiler. Für Kinder gibt es spezielle kleine Modelle. Das Gewicht des Boards spielt für den Transport eine Rolle — Holzboards wiegen 2-4 kg.\n\n### Brauche ich einen Stopper oder Schutzmatte?\nFür Einsteiger empfehlenswert: Ein Stopper (Korkring um die Rolle) begrenzt den Bewegungsradius und verhindert, dass das Board wegrutscht. Eine Gymnastikmatte schützt Boden und Board. Nach 2-3 Wochen Training kannst du den Stopper weglassen.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "durchmesser",
+      "label": "Durchmesser/Größe",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Belastung",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "oberflaeche",
+      "label": "Oberfläche",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "einsatz",
+      "label": "Empf. Einsatz",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist ein Balanceboard für Anfänger geeignet?",
+      "antwort": "Ja, besonders Wackelbretter und Rollenbalance-Boards mit Stopper. Die meisten Anfänger finden nach 10-15 Minuten das Gleichgewicht. Starte an einer Wand oder einem Tisch, um dich abzustützen, und trainiere barfuß für besseres Feedback."
+    },
+    {
+      "frage": "Verbessert ein Balanceboard wirklich die Surf-Fähigkeiten?",
+      "antwort": "Ja — Rollenbalance-Boards trainieren die gleichen Stabilisationsmuster wie auf dem Surfbrett. Viele Surfer nutzen Boards von INDO BOARD oder Bredder als Trockentraining. Es ersetzt nicht das Surfen im Wasser, verbessert aber spürbar Balance und Körpergefühl."
+    },
+    {
+      "frage": "Kann ich ein Balanceboard am Stehschreibtisch nutzen?",
+      "antwort": "Ja, sehr empfehlenswert. Ein sanftes Wippen auf einem Rollenbalance-Board (mit Stopper) beugt Rücken- und Beinbeschwerden am Stehschreibtisch vor. Viele Modelle (Bredder, JUCKER HAWAII) werden explizit dafür beworben. Starte mit 20-Minuten-Intervallen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "SportPlus Balance Board",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01BJ3K2SU?tag=janxsiegmann-21",
+      "preis": 20,
+      "bewertung": 3.5,
+      "werte": {
+        "typ": "Wackelbrett (Halbkugel)",
+        "material": "Kunststoff",
+        "durchmesser": "40",
+        "max_gewicht": "100",
+        "oberflaeche": "Rillen-Struktur",
+        "einsatz": "Physiotherapie, Reha",
+        "extras": "Keine"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "JUCKER HAWAII Balance Board",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B071KWJRGZ?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 4.0,
+      "werte": {
+        "typ": "Rollenbalance (Korkrolle)",
+        "material": "Holz (Birke)",
+        "durchmesser": "74 × 29,5",
+        "max_gewicht": "150",
+        "oberflaeche": "Kork-Grip-Pad",
+        "einsatz": "Surfer, Fitness, Spaß",
+        "extras": "Korkrolle inklusive"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Bredder Balance Board Malibu",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BJ3MBF4H?tag=janxsiegmann-21",
+      "preis": 120,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Rollenbalance (Korkrolle)",
+        "material": "7-lagig Birkenholz",
+        "durchmesser": "75 × 31",
+        "max_gewicht": "120",
+        "oberflaeche": "Kork oder Grip-Tape",
+        "einsatz": "Surf-Training, Büro, Fitness",
+        "extras": "Korkrolle, Stopper optional"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "INDO BOARD Original",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B002D0AXS4?tag=janxsiegmann-21",
+      "preis": 180,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Rollenbalance (Holzrolle)",
+        "material": "Birkenholz (Multiplexplatte)",
+        "durchmesser": "76 × 46",
+        "max_gewicht": "130",
+        "oberflaeche": "Grip-Tape",
+        "einsatz": "Profi-Surf/Skate-Training",
+        "extras": "Holzrolle + IndoFLO Cushion optional"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

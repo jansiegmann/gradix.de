@@ -1,0 +1,128 @@
+{
+  "slug": "bento-box-meal-prep",
+  "kategorie": "kueche",
+  "titel": "Bento-Box / Meal-Prep-Behälter",
+  "beschreibung": "Bento-Box Test 2026: Die 4 besten Meal-Prep-Behälter im Vergleich ✓ BPA-frei ✓ Mikrowellengeeignet ✓ Kaufberatung",
+  "keywords": [
+    "bento box test",
+    "meal prep behälter",
+    "bento box erwachsene",
+    "meal prep boxen",
+    "lunchbox vergleich",
+    "bento box edelstahl",
+    "meal prep container",
+    "bento box test 2026",
+    "bento box mikrowelle",
+    "meal prep behälter glas"
+  ],
+  "einleitung": "Ob für die Arbeit, die Uni oder die Schule — eine gute Bento-Box oder Meal-Prep-Box spart Geld, Zeit und hält dein Essen frisch. Wir vergleichen vier Modelle von Kunststoff bis Edelstahl.",
+  "kaufberatung": "### Kunststoff, Glas oder Edelstahl?\nKunststoff ist leicht und bruchsicher — ideal für unterwegs. Glas nimmt keine Gerüche an und ist mikrowellengeeignet, aber schwer und bruchempfindlich. Edelstahl ist langlebig und geschmacksneutral, aber nicht für die Mikrowelle geeignet.\n\n### Fächer und Unterteilungen\nBento-Boxen haben typisch 2–4 Fächer für verschiedene Lebensmittel. Meal-Prep-Boxen sind oft einteilig. Wähle nach deinem Essverhalten: Wer vielfältig packt, braucht Fächer. Wer eine Mahlzeit vorkocht, nimmt Einzelboxen.\n\n### Auslaufsicher ist Pflicht\nNichts ist ärgerlicher als eine ausgelaufene Box in der Tasche. Achte auf Silikonringe an den Deckeln und Clip-Verschlüsse. Teste die Dichtigkeit mit Wasser, bevor du Suppe einfüllst.\n\n### Mikrowellen- und Spülmaschinentauglichkeit\nPrüfe, ob Deckel und Box separat mikrowellengeeignet sind — oft ist nur die Box mikrowellenfest. Spülmaschinentauglichkeit spart Zeit bei der Reinigung.\n\n### Größe: Wie viel Volumen brauche ich?\n600–800 ml reichen für ein Mittagessen. Für große Mahlzeiten oder Meal-Prep mit Beilagen empfehlen sich 1.000–1.200 ml. Kinder kommen mit 400–600 ml aus.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "ml",
+      "sortierung": 2
+    },
+    {
+      "key": "faecher",
+      "label": "Fächer",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "mikrowelle",
+      "label": "Mikrowellengeeignet",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "spuelmaschine",
+      "label": "Spülmaschinenfest",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "auslaufsicher",
+      "label": "Auslaufsicher",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Bento-Box ist die beste für Erwachsene?",
+      "antwort": "Die Mepal Take a Break Large bietet 1.500 ml in einer kompakten Form mit Fächern — ideal für Erwachsene. Wer Edelstahl bevorzugt, greift zur ECOlunchbox."
+    },
+    {
+      "frage": "Sind Meal-Prep-Boxen aus Kunststoff gesundheitlich unbedenklich?",
+      "antwort": "Ja, sofern sie BPA-frei sind und die Kennzeichnung 'lebensmittelecht' tragen. Tritan-Kunststoff gilt als besonders sicher. Glas und Edelstahl sind von Natur aus schadstofffrei."
+    },
+    {
+      "frage": "Wie lange hält Meal-Prep im Kühlschrank?",
+      "antwort": "Vorgekochte Mahlzeiten halten im Kühlschrank 3–5 Tage. Im Gefrierfach 2–3 Monate. Achte auf dichte Behälter und kühle das Essen vor dem Einpacken ab."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Mepal Take a Break Large",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0084GQ06Y?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Kunststoff (BPA-frei)",
+        "volumen": "1.500",
+        "faecher": "1 + herausnehmbarer Einsatz",
+        "mikrowelle": "Ja (ohne Deckel)",
+        "spuelmaschine": "Ja",
+        "auslaufsicher": "Ja"
+      }
+    },
+    {
+      "name": "Sistema Bento Box To Go",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00CPIVR98?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Kunststoff (BPA-frei, Tritan)",
+        "volumen": "1.250",
+        "faecher": "3 + Joghurttopf",
+        "mikrowelle": "Ja (ohne Deckel)",
+        "spuelmaschine": "Ja",
+        "auslaufsicher": "Ja (Clip-Verschluss)"
+      }
+    },
+    {
+      "name": "GENICOOK Glas Meal Prep 3er-Set",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07YB8GVMF?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Borosilikatglas + Bambusdeckel",
+        "volumen": "3 × 1.040",
+        "faecher": "2 pro Box",
+        "mikrowelle": "Ja (ohne Deckel)",
+        "spuelmaschine": "Ja",
+        "auslaufsicher": "Ja (Silikonring)"
+      }
+    },
+    {
+      "name": "ECOlunchbox Three-in-One",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B004SMYEW0?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Edelstahl (rostfrei)",
+        "volumen": "ca. 900",
+        "faecher": "3 (stapelbar)",
+        "mikrowelle": "Nein (Edelstahl)",
+        "spuelmaschine": "Ja",
+        "auslaufsicher": "Bedingt (kein Silikon)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

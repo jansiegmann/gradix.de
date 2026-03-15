@@ -1,0 +1,128 @@
+{
+  "slug": "stehlampe",
+  "kategorie": "beleuchtung",
+  "titel": "Stehlampe",
+  "beschreibung": "Stehlampe Test 2026: Die 4 besten Stehlampen im Vergleich ✓ Dimmbar ✓ Für Wohnzimmer & Leseecke ✓ Modern bis klassisch",
+  "keywords": [
+    "stehlampe",
+    "stehlampe test",
+    "stehlampe dimmbar",
+    "stehlampe wohnzimmer",
+    "stehlampe vergleich",
+    "stehlampe led",
+    "stehlampe modern",
+    "stehlampe test 2026",
+    "deckenfluter dimmbar",
+    "leselampe stehend"
+  ],
+  "einleitung": "Eine gute Stehlampe setzt dein Wohnzimmer ins richtige Licht — ob als indirekter Deckenfluter oder gerichtete Leselampe. Wir vergleichen vier Stehlampen und zeigen dir, welche Lampe zu deinem Einrichtungsstil und Lichtbedarf passt.",
+  "kaufberatung": "### Deckenfluter, Bogenlampe oder Leselampe — was passt?\nDeckenfluter strahlen nach oben und erzeugen indirektes, weiches Raumlicht — ideal für Wohnzimmer. Bogenlampen sind ein Design-Statement und beleuchten Esstische oder Sofaecken. Leselampen haben einen verstellbaren Spot für gerichtetes Licht — perfekt für die Leseecke.\n\n### Helligkeit und Farbtemperatur\nFür Wohnzimmer brauchst du 2.000-3.000 Lumen (indirekt) oder 300-500 Lumen (Lesespot). Warmweiß (2.700-3.000 K) schafft Gemütlichkeit. Einstellbare Farbtemperatur ist ein Bonus, wenn du die Lampe auch zum Arbeiten nutzen willst.\n\n### Dimmfunktion — ein Muss\nEine dimmbare Stehlampe ist deutlich vielseitiger als eine nicht dimmbare. Stufenlose Dimmung ist am angenehmsten. Smart-Lampen mit App-Steuerung bieten den höchsten Komfort.\n\n### Qualität und Verarbeitung\nBei Stehlampen zahlt man auch für Design und Material. Günstige Lampen aus Kunststoff kippen leichter um und wirken weniger wertig. Modelle mit schwerem Metallfuß stehen stabiler und sehen hochwertiger aus.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit",
+      "einheit": "Lumen",
+      "sortierung": 2
+    },
+    {
+      "key": "farbtemperatur",
+      "label": "Farbtemperatur",
+      "einheit": "K",
+      "sortierung": 3
+    },
+    {
+      "key": "dimmbar",
+      "label": "Dimmbar",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "energieeffizienz",
+      "label": "Energieeffizienz",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie hell sollte eine Stehlampe für das Wohnzimmer sein?",
+      "antwort": "Als Hauptlicht brauchst du einen Deckenfluter mit 2.000-3.000 Lumen. Als Akzentbeleuchtung reichen 500-1.000 Lumen. Zum Lesen sollte der Lesespot mindestens 300-500 Lumen haben."
+    },
+    {
+      "frage": "Was ist besser — direktes oder indirektes Licht?",
+      "antwort": "Indirektes Licht (nach oben/an die Decke) erzeugt weiches, gleichmäßiges Raumlicht ohne Blendung — ideal zum Entspannen. Direktes Licht (nach unten gerichtet) ist besser zum Lesen oder Arbeiten. Am vielseitigsten sind Lampen mit beidem."
+    },
+    {
+      "frage": "Wie viel Watt braucht eine LED-Stehlampe?",
+      "antwort": "LED-Stehlampen brauchen nur 15-30 Watt für 2.000-3.000 Lumen. Das entspricht einer alten 100-150 Watt Glühbirne, verbraucht aber nur einen Bruchteil des Stroms."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "TECKIN FL32 LED Deckenfluter",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07VL5FMV8?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Deckenfluter + Lesespot",
+        "helligkeit": "2.000 + 400",
+        "farbtemperatur": "3.000-6.000 (einstellbar)",
+        "dimmbar": "Stufenlos + Fernbedienung",
+        "hoehe": "180",
+        "energieeffizienz": "20W (Fluter) + 5W (Spot)"
+      }
+    },
+    {
+      "name": "B.K.Licht Stehlampe LED",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B075KGWV42?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Deckenfluter + Lesespot",
+        "helligkeit": "2.300 + 400",
+        "farbtemperatur": "3.000 (warmweiß)",
+        "dimmbar": "Stufenlos (Dimmer)",
+        "hoehe": "180",
+        "energieeffizienz": "21W + 3,5W"
+      }
+    },
+    {
+      "name": "Paulmann Neordic Stehleuchte",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07GSRC2C6?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Stehleuchte (Design)",
+        "helligkeit": "800",
+        "farbtemperatur": "2.700",
+        "dimmbar": "Über Leuchtmittel",
+        "hoehe": "154",
+        "energieeffizienz": "E27-Fassung (LED-kompatibel)"
+      }
+    },
+    {
+      "name": "IKEA TERTIAL + Philips Hue",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B076H3WMZG?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Smart Deckenfluter",
+        "helligkeit": "2.400",
+        "farbtemperatur": "2.200-6.500 + 16 Mio.",
+        "dimmbar": "App + Sprache + Touch",
+        "hoehe": "176",
+        "energieeffizienz": "20W"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

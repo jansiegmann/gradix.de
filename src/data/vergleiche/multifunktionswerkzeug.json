@@ -1,0 +1,128 @@
+{
+  "slug": "multifunktionswerkzeug",
+  "kategorie": "handwerk",
+  "titel": "Multifunktionswerkzeug (Oszillierend)",
+  "beschreibung": "Multifunktionswerkzeug Test 2026: Die 4 besten Oszillierer ✓ Sägen, Schleifen, Schaben ✓ Kaufberatung",
+  "keywords": [
+    "multifunktionswerkzeug",
+    "multifunktionswerkzeug test",
+    "oszillierendes werkzeug",
+    "multimaster",
+    "multitool",
+    "multifunktionswerkzeug vergleich",
+    "bestes multifunktionswerkzeug",
+    "fein multimaster",
+    "bosch gop",
+    "multifunktionswerkzeug 2026"
+  ],
+  "einleitung": "Sägen, schleifen, schaben, schneiden — ein oszillierendes Multifunktionswerkzeug kann fast alles. Ideal für Renovierungen, Ausschnitte und Feinarbeiten. Wir vergleichen vier Modelle für jedes Budget.",
+  "kaufberatung": "### Was kann ein Multifunktionswerkzeug?\nDas Werkzeug oszilliert mit hoher Frequenz (bis 20.000 Schwingungen/Min.) und bewegt das Zubehör nur wenige Grad hin und her. Damit lassen sich bündige Schnitte, Ausschnitte in Holz und Metall, Schleifen in Ecken und Fugen-Auskratzen erledigen — alles mit einem Gerät.\n\n### Starlock, OIS oder proprietär?\nStarlock (Bosch/Fein) ist das modernste Aufnahmesystem — werkzeugloser Wechsel, fester Sitz. OIS (Bosch-kompatibel) ist weit verbreitet. Fein hat den Multimaster erfunden und nutzt seit Jahren Starlock. Achte auf breite Zubehör-Kompatibilität.\n\n### Oszillationswinkel und Leistung\nEin größerer Oszillationswinkel (3-4°) bedeutet schnelleres Arbeiten, aber gröbere Schnitte. Kleinere Winkel (1,4-2,8°) liefern feinere Ergebnisse. 300-400 Watt reichen für die meisten Aufgaben.\n\n### Das Zubehör macht den Unterschied\nSägeblätter für Holz und Metall, Schleifplatten, Schaber, Fugenmesser — die Vielfalt ist enorm. Achte beim Kauf auf ein gut bestücktes Zubehörset. Einzelnes Zubehör ist oft teuer.\n\n### Typische Einsatzszenarien\nTürrahmen kürzen (bündig absägen ohne Ausbau), Fliesenkleber entfernen, Silikonfugen auskratzen, Teppichreste entfernen, Aussparungen in Trockenbauwände schneiden, Schleifen in Ecken und Winkeln.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "oszillationswinkel",
+      "label": "Oszillationswinkel",
+      "einheit": "°",
+      "sortierung": 2
+    },
+    {
+      "key": "schwingungszahl",
+      "label": "Schwingungszahl",
+      "einheit": "Min.",
+      "sortierung": 3
+    },
+    {
+      "key": "aufnahme",
+      "label": "Werkzeugaufnahme",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör inkl.",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ein Multifunktionswerkzeug eine Stichsäge ersetzen?",
+      "antwort": "Nein. Ein Multitool macht feine Ausschnitte und bündige Schnitte, für die eine Stichsäge zu grob wäre. Aber für längere Schnitte und dickes Material ist die Stichsäge deutlich schneller. Beide Werkzeuge ergänzen sich ideal."
+    },
+    {
+      "frage": "Welches Zubehör brauche ich als Einsteiger?",
+      "antwort": "Ein Basis-Set mit Tauchsägeblatt für Holz, einem Bi-Metall-Blatt für Holz mit Nägeln, einer Deltaschleifplatte und einem Schaber deckt die häufigsten Anwendungen ab. Die meisten Geräte werden mit einem solchen Grundset geliefert."
+    },
+    {
+      "frage": "Wie laut ist ein Multifunktionswerkzeug?",
+      "antwort": "Deutlich leiser als eine Stichsäge oder Kreissäge — typisch 75-85 dB. Die hochfrequente Oszillation erzeugt ein surrendes Geräusch. Gehörschutz ist trotzdem empfehlenswert bei längerem Arbeiten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TE-MG 300 CE",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B091FTMF77?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "300",
+        "oszillationswinkel": "3,2",
+        "schwingungszahl": "11.000-20.000",
+        "aufnahme": "Starlock-kompatibel",
+        "zubehoer": "Set mit Sägeblättern + Schleifpapier",
+        "gewicht": "1,6"
+      }
+    },
+    {
+      "name": "Bosch GOP 30-28 Professional",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00IKG23VE?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "300",
+        "oszillationswinkel": "2,8",
+        "schwingungszahl": "8.000-20.000",
+        "aufnahme": "Starlock + OIS",
+        "zubehoer": "Starlock-Set in L-BOXX",
+        "gewicht": "1,5"
+      }
+    },
+    {
+      "name": "Fein MultiMaster FMM 350 QSL",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07PPV96K1?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "350",
+        "oszillationswinkel": "3,2",
+        "schwingungszahl": "11.000-18.000",
+        "aufnahme": "Starlock Plus",
+        "zubehoer": "Umfangreiches Zubehörset",
+        "gewicht": "1,5"
+      }
+    },
+    {
+      "name": "Fein MultiMaster AMM 700 Max (Akku)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B2RTJM2K?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "18V Akku",
+        "oszillationswinkel": "3,2",
+        "schwingungszahl": "11.000-18.000",
+        "aufnahme": "Starlock Max",
+        "zubehoer": "Premium-Set + Akku + Koffer",
+        "gewicht": "1,6"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

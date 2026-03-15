@@ -1,0 +1,128 @@
+{
+  "slug": "digitales-thermostat",
+  "kategorie": "sicherheit",
+  "titel": "Digitales Thermostat (smart)",
+  "beschreibung": "Smartes Thermostat Test 2026: Die 4 besten Heizkörperthermostate ✓ Energie sparen ✓",
+  "keywords": [
+    "smartes thermostat",
+    "thermostat test",
+    "tado",
+    "homematic ip",
+    "eve thermo",
+    "thermostat vergleich",
+    "heizkörperthermostat",
+    "thermostat wlan",
+    "thermostat 2026",
+    "smart home heizung"
+  ],
+  "einleitung": "Bis zu 30% Heizkosten sparen — smarte Thermostate regeln deine Heizung automatisch. Vier Systeme im Vergleich.",
+  "kaufberatung": "### Wie spart ein smartes Thermostat?\nAutomatische Absenkung wenn du weg bist, nachts und bei offenen Fenstern. 1°C weniger = 6% weniger Heizkosten.\n\n### Kompatibilität\nDie meisten passen auf M30×1,5 mm Ventile. Adapter liegen bei.\n\n### Bridge nötig?\ntado° und Homematic: ja. Eve Thermo: nein (Thread/Bluetooth direkt).\n\n### Sprachsteuerung\nAlexa, Google und Apple HomeKit werden breit unterstützt.",
+  "vergleichsKategorien": [
+    {
+      "key": "steuerung",
+      "label": "Steuerung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "bridge",
+      "label": "Bridge nötig",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "fenster",
+      "label": "Fenster-Erkennung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "sprache",
+      "label": "Sprachassistenten",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "geo",
+      "label": "Geofencing",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "batterie",
+      "label": "Batterie",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel spare ich wirklich?",
+      "antwort": "15-30% Heizkosten, typisch 225-450 Euro/Jahr. Amortisation in 1-2 Saisons."
+    },
+    {
+      "frage": "Mietwohnung möglich?",
+      "antwort": "Ja, werkzeugfrei und reversibel."
+    },
+    {
+      "frage": "Brauche ich pro Heizkörper eins?",
+      "antwort": "Ja, für raumweise Steuerung."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Eurotronic Spirit ZigBee",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B077GCDDBY?tag=janxsiegmann-21",
+      "werte": {
+        "steuerung": "ZigBee",
+        "bridge": "Ja",
+        "fenster": "Ja",
+        "sprache": "Alexa, Google",
+        "geo": "Über Gateway",
+        "batterie": "2× AA"
+      }
+    },
+    {
+      "name": "tado° Smartes Thermostat V3+",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07FZ3S8GQ?tag=janxsiegmann-21",
+      "werte": {
+        "steuerung": "WLAN (Bridge)",
+        "bridge": "Ja",
+        "fenster": "Ja",
+        "sprache": "Alexa, Google, HomeKit",
+        "geo": "Ja",
+        "batterie": "2× AA"
+      }
+    },
+    {
+      "name": "Homematic IP Thermostat Evo",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CG1T1HPN?tag=janxsiegmann-21",
+      "werte": {
+        "steuerung": "Homematic IP Funk",
+        "bridge": "Ja (Access Point)",
+        "fenster": "Ja",
+        "sprache": "Alexa, Google",
+        "geo": "Ja",
+        "batterie": "2× AA"
+      }
+    },
+    {
+      "name": "Eve Thermo (4. Gen)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09M7VBCCQ?tag=janxsiegmann-21",
+      "werte": {
+        "steuerung": "Thread/Bluetooth",
+        "bridge": "Nein",
+        "fenster": "Ja",
+        "sprache": "Apple HomeKit/Siri",
+        "geo": "Ja (Apple Home)",
+        "batterie": "2× AA"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "kappsaege",
+  "kategorie": "handwerk",
+  "titel": "Kappsäge / Gehrungssäge",
+  "beschreibung": "Kappsäge Test 2026: Die 4 besten Gehrungssägen im Vergleich ✓ Präzise Gehrung ✓ Kaufberatung",
+  "keywords": [
+    "kappsäge",
+    "kappsäge test",
+    "gehrungssäge",
+    "kappsäge vergleich",
+    "beste kappsäge",
+    "kappsäge holz",
+    "gehrungssäge test",
+    "kappsäge kaufberatung",
+    "metabo kappsäge",
+    "kappsäge 2026"
+  ],
+  "einleitung": "Fußleisten, Bilderrahmen, Dachlatten — überall wo Gehrungsschnitte gefragt sind, ist eine Kappsäge das richtige Werkzeug. Wir vergleichen vier Modelle für präzise Winkelschnitte.",
+  "kaufberatung": "### Kappsäge vs. Kapp-Zug-Säge\nEine einfache Kappsäge senkt das Blatt nur nach unten — die Schnittbreite ist auf den Blattdurchmesser begrenzt. Eine Kapp-Zug-Säge kann das Blatt zusätzlich nach vorne ziehen und schneidet damit deutlich breitere Werkstücke. Für Laminat und breite Bretter brauchst du eine Zug-Funktion.\n\n### Sägeblattgröße\n216 mm ist der Standard für Heimwerker und reicht für Schnittbreiten bis ca. 305 mm (mit Zug). 254 mm und 305 mm für Profi-Einsatz mit breiten Materialien.\n\n### Gehrungswinkel und Neigungswinkel\nDer Gehrungswinkel (horizontal) sollte mindestens 0-45° betragen, besser bis 52°. Der Neigungswinkel (vertikal) ermöglicht Schrägschnitte. Beidseitige Neigung ist ein Komfort-Plus.\n\n### Präzision des Anschlags\nDer Winkelanschlag muss exakt sein — 0,1° Abweichung summiert sich bei Rahmenarbeiten schnell. Teurere Modelle haben feinere Rastungen und justierbare Anschläge.",
+  "vergleichsKategorien": [
+    {
+      "key": "saegeblatt",
+      "label": "Sägeblatt",
+      "einheit": "mm",
+      "sortierung": 1
+    },
+    {
+      "key": "schnittbreite",
+      "label": "Max. Schnittbreite (90°)",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "schnittiefe",
+      "label": "Max. Schnitttiefe (90°)",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "gehrungswinkel",
+      "label": "Gehrungswinkel",
+      "einheit": "°",
+      "sortierung": 4
+    },
+    {
+      "key": "zugfunktion",
+      "label": "Zugfunktion",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Kappsäge für Laminat und Parkett?",
+      "antwort": "Für Laminat brauchst du eine Kapp-Zug-Säge mit mindestens 216 mm Blatt und Zugfunktion, um die volle Breite einer Laminatdiele (meist 200-300 mm) in einem Schnitt zu schaffen. Ein feines Sägeblatt mit 60+ Zähnen minimiert das Ausreißen."
+    },
+    {
+      "frage": "Wie stelle ich den Gehrungswinkel genau ein?",
+      "antwort": "Nutze einen Winkelmesser oder ein digitales Winkelmessgerät, um den Anschlag zu überprüfen. Mache vor wichtigen Schnitten immer einen Probeschnitt an einem Reststück. Die Rastpunkte bei 0°, 15°, 22,5°, 30° und 45° sind bei guten Sägen besonders präzise."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-MS 2112",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B091Y7F5J9?tag=janxsiegmann-21",
+      "werte": {
+        "saegeblatt": "210",
+        "schnittbreite": "120",
+        "schnittiefe": "55",
+        "gehrungswinkel": "0-45",
+        "zugfunktion": "Nein",
+        "leistung": "1600"
+      }
+    },
+    {
+      "name": "Metabo KGS 216 M",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00E7BAN7A?tag=janxsiegmann-21",
+      "werte": {
+        "saegeblatt": "216",
+        "schnittbreite": "305",
+        "schnittiefe": "65",
+        "gehrungswinkel": "0-47",
+        "zugfunktion": "Ja",
+        "leistung": "1500"
+      }
+    },
+    {
+      "name": "Bosch GCM 8 SJL Professional",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B008EMP9YY?tag=janxsiegmann-21",
+      "werte": {
+        "saegeblatt": "216",
+        "schnittbreite": "312",
+        "schnittiefe": "70",
+        "gehrungswinkel": "0-52",
+        "zugfunktion": "Ja",
+        "leistung": "1600"
+      }
+    },
+    {
+      "name": "Festool KS 120 REB",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09V1V5K2V?tag=janxsiegmann-21",
+      "werte": {
+        "saegeblatt": "260",
+        "schnittbreite": "305",
+        "schnittiefe": "88",
+        "gehrungswinkel": "0-60",
+        "zugfunktion": "Ja",
+        "leistung": "1600"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

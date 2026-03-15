@@ -1,0 +1,128 @@
+{
+  "slug": "whiteboard-magnetisch",
+  "kategorie": "buero",
+  "titel": "Whiteboard (magnetisch)",
+  "beschreibung": "Magnetisches Whiteboard Test 2026: Die 4 besten Whiteboards ✓ Für Büro & Home-Office ✓ Verschiedene Größen ✓ Kaufberatung",
+  "keywords": [
+    "whiteboard",
+    "whiteboard magnetisch",
+    "whiteboard test",
+    "whiteboard vergleich",
+    "whiteboard buero",
+    "whiteboard kaufen",
+    "whiteboard 2026",
+    "magnetwand",
+    "whiteboard home office",
+    "whiteboard gross"
+  ],
+  "einleitung": "Ob für Brainstorming, Projektplanung oder die tägliche To-do-Liste — ein magnetisches Whiteboard ist ein unverzichtbares Tool im Büro und Home-Office. Wir vergleichen vier Modelle und zeigen dir, worauf es bei der Wahl ankommt.",
+  "kaufberatung": "### Welche Größe brauche ich?\nFür den Schreibtisch reichen 60×40 cm. Fürs Home-Office empfehlen wir 90×60 cm. In Meetingräumen und Büros brauchst du mindestens 120×90 cm. Grundregel: Lieber eine Nummer größer als zu klein.\n\n### Oberfläche — Melamin, Lack oder Emaille?\nMelamin ist günstig, nutzt sich aber schneller ab und lässt sich nach einiger Zeit nicht mehr sauber wischen (Ghosting). Lackierte Oberflächen sind besser und reichen für gelegentliche Nutzung. Emaillierte Oberflächen sind kratzfest, lebenslang abwischbar und für intensive Nutzung die beste Wahl.\n\n### Magnetisch — warum ist das wichtig?\nMagnetische Whiteboards erlauben das Befestigen von Notizen, Fotos und Dokumenten mit Magneten. Die meisten Whiteboards sind magnetisch, aber nicht alle — prüfe das vor dem Kauf.\n\n### Pflege und Reinigung\nNutze nur Whiteboard-Marker, keine Permanent-Marker. Regelmäßig mit einem feuchten Tuch oder speziellem Whiteboard-Reiniger abwischen. Bei Ghosting hilft Isopropanol.",
+  "vergleichsKategorien": [
+    {
+      "key": "groesse",
+      "label": "Größe",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "oberflaeche",
+      "label": "Oberfläche",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "magnetisch",
+      "label": "Magnetisch",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "rahmen",
+      "label": "Rahmen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "montage",
+      "label": "Montage",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör inklusive",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie entferne ich Permanent-Marker von einem Whiteboard?",
+      "antwort": "Übermale die Permanent-Marker-Spuren mit einem Whiteboard-Marker und wische beides sofort ab. Alternativ funktioniert Isopropanol (Alkohol) oder spezieller Whiteboard-Reiniger. Bei emaillierten Oberflächen klappt das meist problemlos, bei Melamin kann Ghosting bleiben."
+    },
+    {
+      "frage": "Wie groß sollte ein Whiteboard fürs Home-Office sein?",
+      "antwort": "Für das Home-Office empfehlen wir mindestens 90×60 cm. Das reicht für To-do-Listen, Projektplanung und schnelle Skizzen. Wenn du viel visualisierst, nimm lieber 120×90 cm."
+    },
+    {
+      "frage": "Wie befestige ich ein Whiteboard an der Wand?",
+      "antwort": "Die meisten Whiteboards kommen mit Montagematerial (Schrauben und Dübel). Für Mietwohnungen gibt es auch Klebe-Befestigungen oder freistehende Whiteboards auf Rollen. Achte auf die Tragfähigkeit der Wand — große Whiteboards können 10+ kg wiegen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Amazon Basics Whiteboard 90x60",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07PY4T2G7?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "90 x 60",
+        "oberflaeche": "Melamin",
+        "magnetisch": "Ja",
+        "rahmen": "Aluminium",
+        "montage": "Wandmontage",
+        "zubehoer": "Marker + Magnete + Schwamm"
+      }
+    },
+    {
+      "name": "Sigel GL146 Artverum Glas-Magnetboard",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B009ORJ4BC?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "91 x 46",
+        "oberflaeche": "Glas (Sicherheitsglas)",
+        "magnetisch": "Ja (Supermagnete nötig)",
+        "rahmen": "Rahmenlos",
+        "montage": "Wandmontage (verdeckt)",
+        "zubehoer": "Montageset"
+      }
+    },
+    {
+      "name": "Franken SC3104 Whiteboard 120x90",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000KJO2QA?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "120 x 90",
+        "oberflaeche": "Lackiert",
+        "magnetisch": "Ja",
+        "rahmen": "Aluminium (Profi)",
+        "montage": "Wandmontage",
+        "zubehoer": "Stiftablage + Montageset"
+      }
+    },
+    {
+      "name": "Franken SC8206 Emaille-Whiteboard 180x120",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0019KG0C0?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "180 x 120",
+        "oberflaeche": "Emaille (kratzfest)",
+        "magnetisch": "Ja",
+        "rahmen": "Aluminium (Heavy Duty)",
+        "montage": "Wandmontage",
+        "zubehoer": "Stiftablage + Montageset"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

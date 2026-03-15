@@ -1,0 +1,176 @@
+{
+  "slug": "boxsack-stehend",
+  "kategorie": "sport",
+  "titel": "Boxsack (stehend)",
+  "beschreibung": "Boxsack (stehend) Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "standboxsack test",
+    "boxsack stehend vergleich",
+    "punchingball kaufberatung",
+    "standboxsack 2026"
+  ],
+  "einleitung": "Du suchst einen stehenden Boxsack fürs Home-Workout — für Cardio, Stressabbau und Boxtraining ohne Deckenmontage? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Standboxsack oder Hängeboxsack?\nStandboxsäcke brauchen keine Deckenmontage — perfekt für Mietwohnungen. Nachteil: Sie wippen und bewegen sich stärker als hängende Säcke, das Schlaggefühl ist weniger realistisch. Hängeboxsäcke bieten das authentischere Trainingsgefühl, brauchen aber eine stabile Deckenhalterung (mind. 80 kg Zuglast).\n\n### Wie schwer sollte der Standfuß sein?\nDer Standfuß wird mit Sand oder Wasser gefüllt. Sand ist schwerer und stabiler (~70-130 kg), aber schwer zu bewegen. Wasser ist leichter zu befüllen, aber der Sack bewegt sich mehr. Für ernsthaftes Training: Sand. Für gelegentliches Workout: Wasser reicht.\n\n### Century BOB vs. klassischer Boxsack?\nDer Century BOB hat einen menschenförmigen Torso — ideal für realistische Schlagübungen und Selbstverteidigungstraining. Klassische Standboxsäcke sind besser für Schlagkombinationen und Cardio. Für reines Fitness-Boxen reicht ein klassischer Sack, für Kampfsport-Training ist der BOB besser.\n\n### Brauche ich Boxhandschuhe?\nJa, immer mit Boxhandschuhen (mind. 10 oz) und Bandagen trainieren — auch am Standboxsack. Ohne Schutz riskierst du Handgelenkverletzungen und Hautabschürfungen. Günstige Boxhandschuhe gibt es ab 15 Euro.",
+  "vergleichsKategorien": [
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "gewicht_gefuellt",
+      "label": "Gewicht (gefüllt)",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "standfuss",
+      "label": "Standfuß",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "federung",
+      "label": "Rückfederung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "hoehenverstellbar",
+      "label": "Höhenverstellbar",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie füllt man einen Standboxsack richtig?",
+      "antwort": "Sand: Trockenen Spielsand einfüllen — ca. 60-100 kg je nach Modell. Wasser: Gartenschlauch rein, füllen, fertig. Sand bietet mehr Stabilität, Wasser ist leichter zu handhaben. Tipp: Kombination aus Sand (unten) und Wasser (oben) bietet den besten Kompromiss."
+    },
+    {
+      "frage": "Ist ein Standboxsack gut zum Abnehmen?",
+      "antwort": "Ja, Boxtraining gehört zu den kalorienintensivsten Workouts überhaupt. 30 Minuten am Boxsack verbrennen 300-500 kcal, je nach Intensität. Dazu trainierst du Arme, Schultern, Rumpf und Beine gleichzeitig. Ideal als Stressabbau nach der Arbeit."
+    },
+    {
+      "frage": "Kann ein Standboxsack umkippen?",
+      "antwort": "Bei starken Schlägen kann ein leicht gefüllter Standboxsack kippen, besonders auf glattem Boden. Lösung: Standfuß voll mit Sand füllen (nicht nur Wasser), Anti-Rutsch-Matte unterlegen, und bei Kicking-Übungen vorsichtig sein. Modelle mit breitem Standfuß (Century, RDX) sind stabiler."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "DRIPEX Standboxsack 175cm",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B083JTRGFJ?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 3.5,
+      "werte": {
+        "hoehe": "175 (verstellbar)",
+        "gewicht_gefuellt": "ca. 60-80 (Sand/Wasser)",
+        "material": "PU-Leder",
+        "standfuss": "Saugnapf-Basis",
+        "federung": "Federstange",
+        "hoehenverstellbar": "Ja (12 Stufen)",
+        "zubehoer": "Boxhandschuhe (manchmal inklusive)"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "RDX Standboxsack",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08T6SBP6K?tag=janxsiegmann-21",
+      "preis": 150,
+      "bewertung": 4.0,
+      "werte": {
+        "hoehe": "185 (verstellbar)",
+        "gewicht_gefuellt": "ca. 80-100",
+        "material": "Maya-Hide-Leder",
+        "standfuss": "Schwerlast-Basis",
+        "federung": "Federstange + Neigung",
+        "hoehenverstellbar": "Ja",
+        "zubehoer": "Ohne Handschuhe"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Century Wavemaster XXL",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B001FOS5E8?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 4.5,
+      "werte": {
+        "hoehe": "170 (verstellbar)",
+        "gewicht_gefuellt": "ca. 120 (Sand)",
+        "material": "Vinyl",
+        "standfuss": "Rundbasis (gefüllt)",
+        "federung": "Schaumstoff-Polsterung",
+        "hoehenverstellbar": "Ja (7 Stufen)",
+        "zubehoer": "Ohne"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Century BOB XL",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B003JPA6CO?tag=janxsiegmann-21",
+      "preis": 450,
+      "bewertung": 4.5,
+      "werte": {
+        "hoehe": "152-198 (verstellbar)",
+        "gewicht_gefuellt": "ca. 130",
+        "material": "Plastisol-Körper",
+        "standfuss": "Schwerlast-Rundbasis",
+        "federung": "Realistischer Torso-Körper",
+        "hoehenverstellbar": "Ja (7 Stufen)",
+        "zubehoer": "Ohne"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

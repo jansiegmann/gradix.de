@@ -1,0 +1,142 @@
+{
+  "slug": "akkuschrauber",
+  "kategorie": "handwerk",
+  "titel": "Akkuschrauber / Bohrschrauber",
+  "beschreibung": "Akkuschrauber Test 2026: Die 4 besten Akku-Bohrschrauber im Vergleich ✓ 18V Power ✓ Kaufberatung",
+  "keywords": [
+    "akkuschrauber",
+    "akkuschrauber test",
+    "akku bohrschrauber",
+    "akkuschrauber vergleich",
+    "bester akkuschrauber",
+    "akkuschrauber 18v",
+    "bohrschrauber test",
+    "akkuschrauber kaufberatung",
+    "makita akkuschrauber",
+    "bosch akkuschrauber"
+  ],
+  "einleitung": "Der Akkuschrauber ist das wichtigste Werkzeug für jeden Heimwerker. Ob Möbel aufbauen, Regale montieren oder Löcher bohren — ohne ihn geht nichts. Wir vergleichen vier 18V-Akku-Bohrschrauber von Budget bis Profi und zeigen, welcher zu dir passt.",
+  "kaufberatung": "### 12V oder 18V — was brauchst du?\nFür leichte Schraubarbeiten und Möbelmontage reichen 12V-Geräte. Wer auch in Holz und Metall bohren will, braucht 18V. Für die meisten Heimwerker ist 18V die bessere Wahl, da die Geräte vielseitiger sind und im gleichen Akkusystem oft weitere Werkzeuge erhältlich sind.\n\n### Drehmoment: Die entscheidende Kennzahl\nDas maximale Drehmoment (in Nm) bestimmt, wie kraftvoll der Schrauber arbeitet. 30-40 Nm reichen für Heimwerker-Aufgaben. Ab 50 Nm wird es semi-professionell. Wichtig: Wähle ein Gerät mit vielen Drehmomentstufen (mindestens 15), damit du die Kraft feinstufig an Material und Schraubengröße anpassen kannst.\n\n### Bürstenlos (Brushless) lohnt sich\nBürstenlose Motoren sind effizienter, leiser, wartungsfrei und nutzen den Akku besser aus. Der Aufpreis gegenüber Bürstenmotoren beträgt oft nur 20-30 Euro — das lohnt sich langfristig.\n\n### Akkusystem-Denken: Einmal Marke, immer Marke\nDer Akku ist oft teurer als das Gerät selbst. Wähle ein System, bei dem du langfristig weitere Werkzeuge (Stichsäge, Winkelschleifer, etc.) mit denselben Akkus betreiben kannst. Bosch Professional (18V), Makita (18V LXT), Einhell (Power X-Change) und DeWalt (18V XR) sind die verbreitetsten Systeme.\n\n### Bohrfutter: Schnellspann ist Pflicht\nEin 13-mm-Schnellspannbohrfutter (Metall) ist Standard bei guten 18V-Geräten. Damit spannst du Bohrer bis 13 mm Durchmesser werkzeuglos ein. 10-mm-Bohrfutter sind bei kompakteren Geräten üblich, schränken aber die Bohrerdurchmesser ein.\n\n### Was beachten beim Kauf?\nAchte auf den Lieferumfang: Ideal sind Sets mit zwei Akkus, Ladegerät und Koffer. Solo-Geräte ohne Akku lohnen sich nur, wenn du bereits Akkus im passenden System besitzt.",
+  "vergleichsKategorien": [
+    {
+      "key": "spannung",
+      "label": "Akkuspannung",
+      "einheit": "V",
+      "sortierung": 1
+    },
+    {
+      "key": "drehmoment",
+      "label": "Max. Drehmoment",
+      "einheit": "Nm",
+      "sortierung": 2
+    },
+    {
+      "key": "drehzahl",
+      "label": "Max. Drehzahl",
+      "einheit": "U/min",
+      "sortierung": 3
+    },
+    {
+      "key": "bohrfutter",
+      "label": "Bohrfutter",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "akku",
+      "label": "Akku (Lieferumfang)",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "brushless",
+      "label": "Bürstenloser Motor",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht (mit Akku)",
+      "einheit": "kg",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Reicht ein 12V-Akkuschrauber für den Hausgebrauch?",
+      "antwort": "Für einfache Schraubarbeiten wie IKEA-Möbel aufbauen, Bilder aufhängen oder Schalter montieren reicht 12V. Sobald du regelmäßig in Holz bohrst oder längere Schrauben eindrehst, stößt 12V an seine Grenzen. 18V ist die zukunftssicherere Wahl."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen Bohrschrauber und Schlagbohrschrauber?",
+      "antwort": "Ein Bohrschrauber bohrt in Holz, Kunststoff und dünnes Metall. Ein Schlagbohrschrauber hat zusätzlich ein Schlagwerk und bohrt auch in Mauerwerk und leichten Beton. Für Betonwände brauchst du allerdings einen echten Bohrhammer."
+    },
+    {
+      "frage": "Wie lange hält ein Akku beim Schrauben?",
+      "antwort": "Mit einem 2,0 Ah Akku schaffst du etwa 100-200 Schrauben, je nach Größe und Material. Ein 4,0 Ah Akku verdoppelt das entsprechend. Für ganztägige Projekte empfehlen sich zwei Akkus, damit du während des Arbeitens den zweiten laden kannst."
+    },
+    {
+      "frage": "Bosch Grün oder Bosch Blau — was ist der Unterschied?",
+      "antwort": "Bosch Grün (Home & Garden) richtet sich an Heimwerker, Bosch Blau (Professional) an Profis. Professional-Geräte haben stärkere Motoren, robustere Getriebe und eine höhere Verarbeitungsqualität. Für gelegentliches Heimwerken reicht Grün, für regelmäßige Nutzung empfehlen wir Blau."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TE-CD 18/40 Li",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07T3GLZWR?tag=janxsiegmann-21",
+      "werte": {
+        "spannung": "18",
+        "drehmoment": "40",
+        "drehzahl": "1.250",
+        "bohrfutter": "13 (Schnellspann)",
+        "akku": "2× 2,0 Ah + Ladegerät",
+        "brushless": "Nein",
+        "gewicht": "1,6"
+      }
+    },
+    {
+      "name": "Bosch Professional GSR 18V-28",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09VYJFK74?tag=janxsiegmann-21",
+      "werte": {
+        "spannung": "18",
+        "drehmoment": "63",
+        "drehzahl": "1.800",
+        "bohrfutter": "13 (Metall-Schnellspann)",
+        "akku": "2× 2,0 Ah + Ladegerät + L-BOXX",
+        "brushless": "Ja",
+        "gewicht": "1,7"
+      }
+    },
+    {
+      "name": "Makita DDF487RFE",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09BFLM7LC?tag=janxsiegmann-21",
+      "werte": {
+        "spannung": "18",
+        "drehmoment": "40",
+        "drehzahl": "1.900",
+        "bohrfutter": "13 (Metall-Schnellspann)",
+        "akku": "2× 3,0 Ah + Schnellladegerät + Koffer",
+        "brushless": "Ja",
+        "gewicht": "1,5"
+      }
+    },
+    {
+      "name": "DeWalt DCD791D2",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01CGSQLHI?tag=janxsiegmann-21",
+      "werte": {
+        "spannung": "18",
+        "drehmoment": "70",
+        "drehzahl": "2.000",
+        "bohrfutter": "13 (Metall-Schnellspann)",
+        "akku": "2× 2,0 Ah + Ladegerät + TSTAK-Koffer",
+        "brushless": "Ja",
+        "gewicht": "1,7"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

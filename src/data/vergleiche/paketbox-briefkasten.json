@@ -1,0 +1,114 @@
+{
+  "slug": "paketbox-briefkasten",
+  "kategorie": "sicherheit",
+  "titel": "Briefkasten (Paketbox)",
+  "beschreibung": "Paketbox Test 2026: Die 4 besten Paketbriefkästen ✓ Pakete sicher empfangen ✓",
+  "keywords": [
+    "paketbox",
+    "paketbriefkasten",
+    "paketbox test",
+    "paketkasten",
+    "paketbox vergleich",
+    "beste paketbox",
+    "burg wächter paketbox",
+    "paketbox kaufberatung",
+    "paketbox 2026",
+    "briefkasten paket"
+  ],
+  "einleitung": "Nie wieder verpasste Pakete — eine Paketbox nimmt Lieferungen an, wenn du nicht da bist. Vier Modelle im Vergleich.",
+  "kaufberatung": "### Funktionsprinzip\nBote legt Paket rein, verschließt Box. Nur Empfänger kann danach öffnen.\n\n### Größe\nStandard: DHL-L (60×30×15 cm). XL für größere Pakete.\n\n### Sicherheit\nStahl, Verankerung, zertifiziertes Schloss.",
+  "vergleichsKategorien": [
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "L",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "schloss",
+      "label": "Schloss",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "brief",
+      "label": "Briefeinwurf",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "montage",
+      "label": "Montage",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Alle Paketdienste?",
+      "antwort": "Ja, mit deutlicher Kennzeichnung."
+    },
+    {
+      "frage": "Diebstahlsicher?",
+      "antwort": "Basisschutz ja. Bodenverankerung erhöht Sicherheit."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Burg-Wächter eBoxx GH 634",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B078GV5NKC?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "64",
+        "material": "Verzinkter Stahl",
+        "schloss": "Riegelschloss",
+        "brief": "Ja",
+        "montage": "Wand/Frei"
+      }
+    },
+    {
+      "name": "Burg-Wächter eBoxx EA 634",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BMQ38GJL?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "64",
+        "material": "Stahl pulverbesch.",
+        "schloss": "Riegelschloss",
+        "brief": "Ja",
+        "montage": "Wand/Frei"
+      }
+    },
+    {
+      "name": "ParcelLock Paketbox 100",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07N2T7ZX8?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "100",
+        "material": "Stahl pulverbesch.",
+        "schloss": "Elektronisch (App)",
+        "brief": "Ja",
+        "montage": "Wand/Frei"
+      }
+    },
+    {
+      "name": "Renz myRenzo",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07Z3R6PWC?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "120",
+        "material": "Stahl RAL",
+        "schloss": "Mechanik+Schlüssel",
+        "brief": "Ja (DIN)",
+        "montage": "Frei (verankert)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

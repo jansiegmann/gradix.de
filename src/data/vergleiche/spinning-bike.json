@@ -1,0 +1,180 @@
+{
+  "slug": "spinning-bike",
+  "kategorie": "sport",
+  "titel": "Spinning-Bike",
+  "beschreibung": "Spinning-Bike Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "spinning bike test",
+    "indoor cycle vergleich",
+    "indoor bike kaufberatung",
+    "spinning bike 2026"
+  ],
+  "einleitung": "Du suchst ein Spinning-Bike oder Indoor Cycle für intensives Cardio-Training zuhause? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Filzbremse oder Magnetbremse?\nFilzbremse (Friction) ist günstiger und bietet stufenlosen Widerstand per Drehknopf — wie in klassischen Studio-Bikes. Nachteil: Die Bremsbeläge verschleißen und müssen nach 1-2 Jahren getauscht werden. Magnetbremsen sind wartungsfrei, flüsterleise und ermöglichen digitale Widerstandsstufen. Für Wohnungen ist Magnet die bessere Wahl.\n\n### Wie schwer sollte die Schwungmasse sein?\n13-15 kg bieten einen soliden Rundlauf. Ab 18-20 kg wird das Fahrgefühl sehr rund und nah am echten Rennrad. Unter 10 kg fühlt sich das Treten abgehackt an. Profi-Bikes (Stages, Schwinn IC8) haben 18-34 kg.\n\n### SPD-Pedale oder Körbchenpedale?\nKörbchenpedale reichen für Einsteiger — du trittst mit normalen Sportschuhen. SPD-Klickpedale (wie am Rennrad) bieten bessere Kraftübertragung und einen runden Tritt. Kombi-Pedale mit SPD auf einer Seite und Körbchen auf der anderen sind die flexibelste Lösung.\n\n### Q-Faktor — warum ist das wichtig?\nDer Q-Faktor ist der Abstand zwischen den Pedalen. Ein enger Q-Faktor (15-17 cm) entspricht einem Rennrad und belastet die Knie weniger. Günstige Bikes haben oft 20+ cm — das fühlt sich unnatürlich an und kann langfristig Knieprobleme verursachen.\n\n### Zwift, Peloton, Kinomap — welche App?\nZwift simuliert Radfahren in einer virtuellen Welt — motivierend für Radsportler. Peloton bietet Studio-Klassen mit Trainern. Kinomap zeigt echte Streckenvideos. Achte auf FTMS-Bluetooth-Kompatibilität — damit funktioniert dein Bike mit allen Apps.",
+  "vergleichsKategorien": [
+    {
+      "key": "schwungmasse",
+      "label": "Schwungmasse",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "widerstand",
+      "label": "Widerstand",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Benutzergewicht",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "antrieb",
+      "label": "Antrieb",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "pedale",
+      "label": "Pedale",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "verstellbar",
+      "label": "Verstellbarkeit",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich auf einem Spinning-Bike abnehmen?",
+      "antwort": "Ja, sehr effektiv. Eine intensive 45-Minuten-Session verbrennt 400-600 kcal. Durch die hohe Intensität und den Nachbrenneffekt ist Indoor Cycling eines der effektivsten Cardio-Trainings zum Abnehmen. 3-4 Sessions pro Woche bringen sichtbare Ergebnisse in 4-6 Wochen."
+    },
+    {
+      "frage": "Wie laut ist ein Spinning-Bike?",
+      "antwort": "Bikes mit Magnetbremse und Riemenantrieb sind nahezu geräuschlos — du hörst nur ein leises Surren. Filzbremsen sind lauter (leichtes Reiben). Kettenantriebe (selten bei modernen Bikes) sind am lautesten. Für Mietwohnungen unbedingt Magnetbremse wählen."
+    },
+    {
+      "frage": "Brauche ich spezielle Schuhe für ein Spinning-Bike?",
+      "antwort": "Nicht zwingend. Mit Körbchenpedale trainierst du in normalen Sportschuhen. SPD-Klickschuhe (ab 50€) verbessern aber die Kraftübertragung deutlich und verhindern, dass der Fuß vom Pedal rutscht. Für regelmäßiges Training lohnt sich die Investition."
+    },
+    {
+      "frage": "Spinning-Bike oder Ergometer — was ist besser?",
+      "antwort": "Spinning-Bikes sind für intensives, sportliches Training ausgelegt — Stehfahrten, Sprints, Intervalle. Ergometer sind komfortabler, haben Wattsteuerung und eignen sich besser für moderates Cardio und Reha. Für ambitioniertes Training: Spinning-Bike. Für Gesundheitstraining: Ergometer."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Joroto X2",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0873WQ4N8?tag=janxsiegmann-21",
+      "preis": 300,
+      "bewertung": 3.5,
+      "werte": {
+        "schwungmasse": "15,5",
+        "widerstand": "Stufenlos (Filz)",
+        "max_gewicht": "136",
+        "antrieb": "Riemen",
+        "display": "LCD (Zeit, Kalorien, Distanz)",
+        "pedale": "Körbchen",
+        "verstellbar": "Sattel + Lenker 4-Wege"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sportstech SX500",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0C7JT7G8P?tag=janxsiegmann-21",
+      "preis": 500,
+      "bewertung": 4.0,
+      "werte": {
+        "schwungmasse": "25",
+        "widerstand": "Stufenlos (Magnet)",
+        "max_gewicht": "150",
+        "antrieb": "Riemen",
+        "display": "Multifunktions-LCD + Tablet-Halter",
+        "pedale": "Körbchen + SPD-Clip",
+        "verstellbar": "Sattel + Lenker 4-Wege"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Schwinn IC8",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07JWXDM3X?tag=janxsiegmann-21",
+      "preis": 900,
+      "bewertung": 4.5,
+      "werte": {
+        "schwungmasse": "18 (Magnet)",
+        "widerstand": "100 Stufen (Magnetisch)",
+        "max_gewicht": "150",
+        "antrieb": "Riemen",
+        "display": "LCD + Bluetooth (Zwift, Peloton)",
+        "pedale": "Körbchen + SPD-Clip Kombi",
+        "verstellbar": "Sattel + Lenker 4-Wege"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Stages SC3",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07GXHQFS7?tag=janxsiegmann-21",
+      "preis": 2200,
+      "bewertung": 4.5,
+      "werte": {
+        "schwungmasse": "34 (Stahl)",
+        "widerstand": "Stufenlos (Magnet, Power)",
+        "max_gewicht": "159",
+        "antrieb": "Riemen",
+        "display": "Stages Flight + Power Meter",
+        "pedale": "SPD-Clip beidseitig",
+        "verstellbar": "Stufenlos, Micro-Adjust"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

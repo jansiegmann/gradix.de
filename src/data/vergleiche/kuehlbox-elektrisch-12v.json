@@ -1,0 +1,128 @@
+{
+  "slug": "kuehlbox-elektrisch-12v",
+  "kategorie": "camping",
+  "titel": "Kühlbox (elektrisch / 12V)",
+  "beschreibung": "Elektrische Kühlbox Test 2026: Die 4 besten 12V-Kühlboxen ✓ Für Camping & Auto ✓ Kompressor & Thermoelektrisch",
+  "keywords": [
+    "kühlbox elektrisch",
+    "kühlbox 12v",
+    "kühlbox test",
+    "elektrische kühlbox",
+    "kühlbox auto",
+    "kompressor kühlbox",
+    "kühlbox camping",
+    "kühlbox test 2026",
+    "kühlbox vergleich",
+    "thermoelektrische kühlbox"
+  ],
+  "einleitung": "Kalte Getränke beim Camping oder auf der Autofahrt? Eine elektrische Kühlbox kühlt zuverlässig über 12V, 230V oder sogar Solar. Wir vergleichen vier Modelle und zeigen, welche Technik am besten kühlt.",
+  "kaufberatung": "### Thermoelektrisch oder Kompressor?\nThermoelektrische Kühlboxen (Peltier) sind günstig und leise, kühlen aber nur 15-20°C unter Umgebungstemperatur. Bei 35°C Außentemperatur wird es also maximal 15°C — zu warm für Eis. Kompressor-Kühlboxen kühlen auf -18°C bis +10°C, unabhängig von der Außentemperatur — aber teurer und schwerer.\n\n### Welches Volumen brauche ich?\n25-30 Liter reichen für Tagesausflüge und Wochenenden (2 Personen). 40-60 Liter für Camping-Urlaub (2-4 Personen). Über 60 Liter für Langzeit-Camping oder als Ersatz-Kühlschrank.\n\n### Stromverbrauch und Batterieschutz\n12V-Kühlboxen am Auto sollten einen Batterieschutz haben, der den Motor nicht entleert. Kompressor-Modelle verbrauchen 30-60 Watt, thermoelektrische 40-80 Watt. Mit einem mobilen Solarpanel kannst du die Box auch ohne Landstrom betreiben.\n\n### Energieeffizienz\nKompressor-Kühlboxen sind deutlich energieeffizienter als thermoelektrische. Sie brauchen weniger Strom für bessere Kühlleistung. Für mehrtägiges Camping ist das ein entscheidender Vorteil.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Kühlsystem",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "L",
+      "sortierung": 2
+    },
+    {
+      "key": "kuehlleistung",
+      "label": "Kühlleistung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "anschluesse",
+      "label": "Anschlüsse",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Was ist besser — thermoelektrische oder Kompressor-Kühlbox?",
+      "antwort": "Für Tagesausflüge und kurze Fahrten reicht thermoelektrisch. Für Camping, heiße Temperaturen und wenn du wirklich kalte Getränke oder sogar Tiefkühlware transportieren willst, brauchst du eine Kompressor-Kühlbox."
+    },
+    {
+      "frage": "Kann ich die Kühlbox über Nacht im Auto laufen lassen?",
+      "antwort": "Nur mit Batterieschutz! Gute Kompressor-Kühlboxen haben einen 3-stufigen Batterieschutz, der die Box abschaltet, bevor die Autobatterie leer ist. Thermoelektrische Boxen haben das oft nicht — Vorsicht!"
+    },
+    {
+      "frage": "Wie lange kühlt eine Kühlbox ohne Strom?",
+      "antwort": "Kompressor-Kühlboxen halten die Temperatur je nach Isolierung 4-12 Stunden ohne Strom. Thermoelektrische Boxen haben kaum Isolation und erwärmen sich schnell. Für stromlose Phasen: Kühlbox vorher gut durchkühlen und Kühlakkus dazulegen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Mobicool MB40 Thermoelektrische Kühlbox",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BXJWXKSL?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Thermoelektrisch",
+        "volumen": "40",
+        "kuehlleistung": "bis 20°C unter Umgebung",
+        "anschluesse": "12V + 230V",
+        "gewicht": "6,5",
+        "lautstaerke": "leise"
+      }
+    },
+    {
+      "name": "Dometic CoolFreeze CFF 20",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08T7RBX4Y?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kompressor",
+        "volumen": "21",
+        "kuehlleistung": "+10°C bis -18°C",
+        "anschluesse": "12V + 24V + 230V",
+        "gewicht": "11,5",
+        "lautstaerke": "mittel"
+      }
+    },
+    {
+      "name": "Dometic CFX3 35",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0C7FSP83D?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kompressor",
+        "volumen": "36",
+        "kuehlleistung": "+10°C bis -22°C",
+        "anschluesse": "12V + 24V + 230V + App",
+        "gewicht": "14,5",
+        "lautstaerke": "leise (CFX3)"
+      }
+    },
+    {
+      "name": "Engel MT45F-V Kompressorbox",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B003HB3T0I?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kompressor (Schwingkompressor)",
+        "volumen": "40",
+        "kuehlleistung": "+5°C bis -18°C",
+        "anschluesse": "12V + 24V + 230V",
+        "gewicht": "20",
+        "lautstaerke": "sehr leise"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

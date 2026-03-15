@@ -1,0 +1,128 @@
+{
+  "slug": "schlagbohrmaschine",
+  "kategorie": "handwerk",
+  "titel": "Schlagbohrmaschine",
+  "beschreibung": "Schlagbohrmaschine Test 2026: Die 4 besten im Vergleich ✓ Beton & Mauerwerk ✓ Kaufberatung",
+  "keywords": [
+    "schlagbohrmaschine",
+    "schlagbohrmaschine test",
+    "bohrmaschine",
+    "schlagbohrmaschine vergleich",
+    "beste schlagbohrmaschine",
+    "bohrmaschine test",
+    "schlagbohrer",
+    "schlagbohrmaschine kaufberatung",
+    "bosch schlagbohrmaschine",
+    "schlagbohrmaschine 2026"
+  ],
+  "einleitung": "Löcher in Beton und Mauerwerk bohren — dafür brauchst du eine Schlagbohrmaschine. Sie kombiniert Drehbewegung mit schnellen Schlägen und arbeitet sich auch durch harte Wände. Wir vergleichen vier Modelle für Gelegenheitsbohrer und ambitionierte Heimwerker.",
+  "kaufberatung": "### Schlagbohrmaschine vs. Bohrhammer\nSchlagbohrmaschinen nutzen ein mechanisches Schlagwerk — gut für Mauerwerk und leichten Beton. Bohrhämmer haben ein pneumatisches Schlagwerk und sind deutlich stärker — nötig für Stahlbeton und dicke Betonwände. Für den normalen Hausgebrauch reicht eine Schlagbohrmaschine.\n\n### Kabel oder Akku?\nKabelgebundene Schlagbohrmaschinen liefern konstante Power und sind günstiger. Akku-Schlagbohrschrauber sind flexibler, haben aber bei hartem Material weniger Ausdauer. Für gelegentliches Bohren in Mauerwerk reicht Akku, für regelmäßige Arbeiten empfehlen wir Kabel.\n\n### Leistung: Wie viel Watt brauche ich?\n500-600 Watt reichen für leichtes Mauerwerk und Holz. 700-800 Watt sind der Sweet-Spot für die meisten Heimwerker. Ab 1.000 Watt wird es semi-professionell.\n\n### Drehzahlregelung und Rechts-/Linkslauf\nEine stufenlose Drehzahlregelung über den Drücker ist Pflicht. Rechts-/Linkslauf brauchst du, um festsitzende Bohrer lösen zu können.\n\n### Seitenhaltegriff und Tiefenanschlag\nBei Schlagbohrarbeiten entstehen starke Rückschlagkräfte. Ein Seitenhaltegriff gibt Kontrolle und Sicherheit. Der Tiefenanschlag sorgt für gleichmäßig tiefe Löcher bei Serienmontagen.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "schlagzahl",
+      "label": "Max. Schlagzahl",
+      "einheit": "S/min",
+      "sortierung": 2
+    },
+    {
+      "key": "bohrleistung_beton",
+      "label": "Max. Bohrdurchmesser Beton",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "bohrleistung_holz",
+      "label": "Max. Bohrdurchmesser Holz",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "bohrfutter",
+      "label": "Bohrfutter",
+      "einheit": "mm",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einer Schlagbohrmaschine in Stahlbeton bohren?",
+      "antwort": "Bedingt. Für dünnen Stahlbeton und bewehrte Wände reicht eine starke Schlagbohrmaschine (800+ Watt) mit Hartmetallbohrer. Bei dickem Stahlbeton oder wenn du auf Armierungseisen triffst, brauchst du einen Bohrhammer mit SDS-Plus-Aufnahme."
+    },
+    {
+      "frage": "Warum dreht mein Bohrer in der Wand durch?",
+      "antwort": "Häufigste Ursache: Du hast die Schlagfunktion nicht aktiviert (Schalter auf Schlag stellen), der Bohrer ist stumpf oder du bohrst in sehr harten Beton, für den eine Schlagbohrmaschine nicht ausreicht. Verwende immer Steinbohrer mit Hartmetallspitze für Mauerwerk."
+    },
+    {
+      "frage": "Was ist besser: Schnellspannbohrfutter oder Zahnkranzbohrfutter?",
+      "antwort": "Schnellspannbohrfutter sind bequemer — Werkzeugwechsel ohne Schlüssel. Zahnkranzbohrfutter spannen fester und sind bei hoher Belastung (Schlagbohren) sicherer. Für Schlagbohrmaschinen empfehlen Profis daher oft Zahnkranzbohrfutter."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-ID 720/1 E",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09M8NG1S9?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "720",
+        "schlagzahl": "46.000",
+        "bohrleistung_beton": "16",
+        "bohrleistung_holz": "30",
+        "bohrfutter": "13 (Schnellspann)",
+        "gewicht": "1,8"
+      }
+    },
+    {
+      "name": "Bosch UniversalImpact 800",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07RHPH8XN?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "800",
+        "schlagzahl": "48.000",
+        "bohrleistung_beton": "18",
+        "bohrleistung_holz": "30",
+        "bohrfutter": "13 (Schnellspann)",
+        "gewicht": "1,8"
+      }
+    },
+    {
+      "name": "Bosch Professional GSB 20-2",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000NIH1M8?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "850",
+        "schlagzahl": "51.000",
+        "bohrleistung_beton": "22",
+        "bohrleistung_holz": "40",
+        "bohrfutter": "13 (Schnellspann)",
+        "gewicht": "2,6"
+      }
+    },
+    {
+      "name": "Metabo SBEV 1000-2",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08CY49FK4?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1010",
+        "schlagzahl": "56.000",
+        "bohrleistung_beton": "22",
+        "bohrleistung_holz": "40",
+        "bohrfutter": "13 (Zahnkranz)",
+        "gewicht": "3,0"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "saug-wischroboter",
+  "kategorie": "reinigung",
+  "titel": "Saug-Wischroboter (Kombi)",
+  "beschreibung": "Saug-Wischroboter Test 2026: Die 4 besten Kombi-Roboter im Vergleich ✓ Saugen & Wischen ✓ Smart ✓ Kaufberatung",
+  "keywords": [
+    "saug wischroboter test",
+    "saugroboter mit wischfunktion",
+    "saug wischroboter vergleich",
+    "bester saug wischroboter",
+    "roborock saugroboter",
+    "dreame saugroboter",
+    "saugroboter test 2026",
+    "saug wischroboter kaufberatung",
+    "saugroboter mit absaugstation",
+    "kombi saugroboter"
+  ],
+  "einleitung": "Saug-Wischroboter nehmen dir gleich zwei lästige Aufgaben ab — Staubsaugen und Wischen in einem Durchgang. Doch die Unterschiede bei Navigation, Saugleistung und Wischqualität sind enorm. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Navigation: LiDAR oder Kamera?\nLiDAR-Navigation erstellt eine präzise Raumkarte und vermeidet Hindernisse zuverlässig. Kamera-basierte Systeme sind günstiger, aber weniger genau im Dunkeln. Für effiziente Reinigung empfehlen wir LiDAR.\n\n### Saugleistung: Wie viel Pascal?\nFür Hartböden reichen 3.000 Pa. Für Teppiche und Tierhaare empfehlen wir 5.000+ Pa. Premium-Modelle bieten 10.000+ Pa und erkennen Teppiche automatisch.\n\n### Wischqualität\nEinfache Modelle ziehen nur ein feuchtes Tuch hinter sich her. Premium-Modelle haben rotierende Mopps mit Druck (bis 12 N) für echtes Schrubben. Der Unterschied ist spürbar — vor allem auf Fliesen.\n\n### Absaugstation\nEine Absaugstation leert den Staubbehälter automatisch — du musst wochenlang nicht eingreifen. Für Allergiker und Tierbesitzer fast Pflicht. Manche Stationen waschen auch die Mopps.\n\n### App und Smart-Home\nAlle Modelle bieten App-Steuerung mit Raumkarten, No-Go-Zonen und Zeitplänen. Alexa und Google Home werden von den meisten unterstützt.",
+  "vergleichsKategorien": [
+    {
+      "key": "saugleistung",
+      "label": "Saugleistung",
+      "einheit": "Pa",
+      "sortierung": 1
+    },
+    {
+      "key": "wischsystem",
+      "label": "Wischsystem",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "navigation",
+      "label": "Navigation",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 4
+    },
+    {
+      "key": "station",
+      "label": "Station",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie gut wischen Saug-Wischroboter wirklich?",
+      "antwort": "Einfache Modelle wischen nur oberflächlich — für leichte Verschmutzungen reicht das. Premium-Modelle mit rotierenden Mopps und Andruck schrubben auch hartnäckigere Flecken. Für klebrige Verschmutzungen musst du aber weiterhin manuell ran."
+    },
+    {
+      "frage": "Funktionieren Saugroboter auf Teppichen?",
+      "antwort": "Ja, die meisten erkennen Teppiche automatisch und erhöhen die Saugleistung. Beim Wischen heben sie die Mopps an oder meiden Teppiche. Hochflorige Teppiche über 2 cm können problematisch sein."
+    },
+    {
+      "frage": "Wie laut sind Saug-Wischroboter?",
+      "antwort": "Im Normalmodus 60–65 dB (Unterhaltungslautstärke). Im Turbomodus 70+ dB. Im Leise-Modus unter 55 dB — dann kann der Roboter auch nachts fahren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Dreame D10s Pro",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CDDHG3C2?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "5.000",
+        "wischsystem": "Feuchtes Wischtuch",
+        "navigation": "LiDAR",
+        "akkulaufzeit": "280",
+        "station": "Ladestation (ohne Absaugung)",
+        "lautstaerke": "65"
+      }
+    },
+    {
+      "name": "Roborock Q7 Max+",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B54VNG8N?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "4.200",
+        "wischsystem": "Vibrationswischen (300 U/min)",
+        "navigation": "LiDAR",
+        "akkulaufzeit": "180",
+        "station": "Absaugstation (2,5 L)",
+        "lautstaerke": "67"
+      }
+    },
+    {
+      "name": "Dreame L20 Ultra",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CYY5L7C7?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "7.000",
+        "wischsystem": "Rotierende Mopps + MopExtend",
+        "navigation": "LiDAR + 3D-Hinderniserkennung",
+        "akkulaufzeit": "260",
+        "station": "Absaug + Mopp-Wasch + Trocknung",
+        "lautstaerke": "63"
+      }
+    },
+    {
+      "name": "Roborock S8 MaxV Ultra",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DDS7ZC1M?tag=janxsiegmann-21",
+      "werte": {
+        "saugleistung": "10.000",
+        "wischsystem": "VibraRise 3.0 Mopps (doppelt)",
+        "navigation": "LiDAR + RGB-Kamera",
+        "akkulaufzeit": "180",
+        "station": "RockDock Ultra (Absaug + Wasch + Nachfüll + Trocknung)",
+        "lautstaerke": "67"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "fussstuetze-buero",
+  "kategorie": "buero",
+  "titel": "Fußstütze (Büro)",
+  "beschreibung": "Fußstütze Test 2026: Die 4 besten Fußstützen fürs Büro ✓ Ergonomisch ✓ Höhenverstellbar ✓ Gegen Rückenschmerzen",
+  "keywords": [
+    "fußstütze büro",
+    "fußstütze test",
+    "fußstütze schreibtisch",
+    "fußstütze ergonomisch",
+    "fußstütze vergleich",
+    "fußstütze höhenverstellbar",
+    "fußstütze test 2026",
+    "fußablage büro",
+    "fußstütze rücken",
+    "fußstütze unter schreibtisch"
+  ],
+  "einleitung": "Deine Füße baumeln unter dem Schreibtisch? Eine Fußstütze bringt deine Beine in eine ergonomische Position und entlastet den unteren Rücken. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Warum ist eine Fußstütze wichtig?\nWenn deine Füße nicht flach auf dem Boden stehen, knicken die Oberschenkel ab und der Druck auf die Bandscheiben steigt. Eine Fußstütze gleicht das aus und fördert eine gerade Sitzhaltung.\n\n### Höhenverstellbar oder fest?\nHöhenverstellbare Fußstützen passen sich an verschiedene Stuhlhöhen an. Feste Modelle sind einfacher und günstiger. Für geteilte Arbeitsplätze empfehlen wir verstellbare.\n\n### Neigung und Schwingfunktion\nFußstützen mit einstellbarer Neigung ermöglichen eine natürlichere Fußposition. Modelle mit Schwingfunktion fördern die Durchblutung durch leichte Bewegung — besonders bei langem Sitzen empfehlenswert.\n\n### Material und Komfort\nHarte Kunststoff-Fußstützen sind langlebig und leicht zu reinigen. Gepolsterte Modelle aus Schaumstoff sind bequemer, aber weniger langlebig. Für Schuhe: Kunststoff. Für Socken: gepolstert.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "hoehenverstellbar",
+      "label": "Höhenverstellbar",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "neigung",
+      "label": "Neigungswinkel",
+      "einheit": "°",
+      "sortierung": 3
+    },
+    {
+      "key": "flaeche",
+      "label": "Aufstellfläche",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "rutschfest",
+      "label": "Rutschfest",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich eine Fußstütze?",
+      "antwort": "Wenn deine Füße beim Sitzen nicht flach auf dem Boden stehen oder du kleiner als 1,75 m bist und einen Standard-Schreibtisch nutzt, profitierst du wahrscheinlich von einer Fußstütze. Auch bei höhenverstellbaren Schreibtischen im Stehen kann eine Fußstütze die Haltung verbessern."
+    },
+    {
+      "frage": "Welche Höhe sollte eine Fußstütze haben?",
+      "antwort": "Die ideale Höhe hängt von deiner Körpergröße und Stuhlhöhe ab. Als Faustregel: Deine Oberschenkel sollten parallel zum Boden oder leicht nach unten geneigt sein. Verstellbare Modelle (5-15 cm) decken die meisten Situationen ab."
+    },
+    {
+      "frage": "Hilft eine Fußstütze gegen Rückenschmerzen?",
+      "antwort": "Ja, eine Fußstütze kann Rückenschmerzen reduzieren, indem sie die Sitzhaltung verbessert. Wenn deine Füße fest aufstehen, wird der untere Rücken entlastet. Das ersetzt aber keine Bewegung — stehe regelmäßig auf und bewege dich."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Amazon Basics Fußstütze",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01DN8TG46?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Feste Fußstütze",
+        "hoehenverstellbar": "Nein",
+        "neigung": "15",
+        "flaeche": "44 × 28",
+        "material": "Kunststoff",
+        "rutschfest": "Ja (Gummifüße)"
+      }
+    },
+    {
+      "name": "Kensington SoleMate Plus",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0038JDEOK?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Verstellbare Fußstütze",
+        "hoehenverstellbar": "Ja (9-13 cm)",
+        "neigung": "0-20",
+        "flaeche": "56 × 35",
+        "material": "Kunststoff + Polster",
+        "rutschfest": "Ja"
+      }
+    },
+    {
+      "name": "Fellowes Professional Series",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0013CAXKC?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Verstellbare Fußstütze",
+        "hoehenverstellbar": "Ja (3 Stufen)",
+        "neigung": "0-20",
+        "flaeche": "56 × 40",
+        "material": "Kunststoff + Anti-Rutsch",
+        "rutschfest": "Ja"
+      }
+    },
+    {
+      "name": "Humanscale FM 300",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B000HUA0GE?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Schwingfußstütze",
+        "hoehenverstellbar": "Ja (stufenlos)",
+        "neigung": "Dynamisch (frei schwingend)",
+        "flaeche": "44 × 35",
+        "material": "Metall + Gummi",
+        "rutschfest": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "werkbank-klappbar",
+  "kategorie": "handwerk",
+  "titel": "Werkbank (klappbar)",
+  "beschreibung": "Werkbank Test 2026: Die 4 besten klappbaren Werkbänke ✓ Stabil & mobil ✓ Kaufberatung",
+  "keywords": [
+    "werkbank",
+    "werkbank klappbar",
+    "werkbank test",
+    "spanntisch",
+    "werkbank vergleich",
+    "beste werkbank",
+    "mobile werkbank",
+    "werkbank kaufberatung",
+    "wolfcraft werkbank",
+    "werkbank 2026"
+  ],
+  "einleitung": "Eine stabile Arbeitsfläche zum Spannen, Sägen und Montieren — klappbare Werkbänke sind mobil einsetzbar und platzsparend zu verstauen. Wir vergleichen vier Modelle für Werkstatt und Baustelle.",
+  "kaufberatung": "### Warum eine klappbare Werkbank?\nKlappbare Werkbänke kombinieren Arbeitsplatte, Schraubstock-Funktion und Stativ in einem. Sie lassen sich in Sekunden aufbauen und nach der Arbeit platzsparend verstauen. Ideal für Garagen, Balkone und Baustellen.\n\n### Spannfunktion: Das Herzstück\nDie Arbeitsplatte besteht aus zwei Hälften, die sich per Kurbel zusammenspannen lassen. So klemmst du Werkstücke zum Bearbeiten ein. Achte auf eine große Spannweite und rutschfeste Spannbacken.\n\n### Tragkraft und Stabilität\nDie Tragkraft sollte mindestens 150 kg betragen. Achte auf verstellbare Füße für unebene Untergründe und ein stabiles Gestell, das beim Sägen nicht wackelt.\n\n### Arbeitshöhe\nErgonomische Arbeitshöhe liegt bei 80-85 cm. Höhenverstellbare Modelle passen sich deiner Körpergröße an.",
+  "vergleichsKategorien": [
+    {
+      "key": "tragkraft",
+      "label": "Tragkraft",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "arbeitsflaeche",
+      "label": "Arbeitsfläche",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "spannweite",
+      "label": "Spannweite",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "arbeitshoehe",
+      "label": "Arbeitshöhe",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Werkbank für die Garage?",
+      "antwort": "Für die Garage empfehlen sich Modelle mit mindestens 200 kg Tragkraft und breiter Arbeitsfläche. Die Wolfcraft Master 600 oder die Black+Decker Workmate 825 sind dafür ideal. Achte auf Löcher in der Arbeitsplatte zum Einsetzen von Spannklemmen."
+    },
+    {
+      "frage": "Kann ich eine Werkbank auch als Sägebock nutzen?",
+      "antwort": "Ja, die meisten klappbaren Werkbänke eignen sich hervorragend als Sägebock. Die Spannfunktion hält das Werkstück beim Sägen fest. Für Handkreissägen ist die ebene Auflage ideal."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Black+Decker Workmate WM536",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B082X8V3RB?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "160",
+        "arbeitsflaeche": "585 × 170",
+        "spannweite": "160",
+        "arbeitshoehe": "775",
+        "gewicht": "8,6"
+      }
+    },
+    {
+      "name": "Wolfcraft Master 600",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B000VE18Z4?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "200",
+        "arbeitsflaeche": "680 × 380",
+        "spannweite": "160",
+        "arbeitshoehe": "865",
+        "gewicht": "13,0"
+      }
+    },
+    {
+      "name": "Wolfcraft Master 700",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000VE18YK?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "250",
+        "arbeitsflaeche": "680 × 380",
+        "spannweite": "160",
+        "arbeitshoehe": "865",
+        "gewicht": "15,0"
+      }
+    },
+    {
+      "name": "Festool MFT/3",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0025EI6TO?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "200",
+        "arbeitsflaeche": "1157 × 775",
+        "spannweite": "Lochrasterfläche",
+        "arbeitshoehe": "900",
+        "gewicht": "26,0"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

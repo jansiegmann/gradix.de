@@ -1,0 +1,128 @@
+{
+  "slug": "tageslichtlampe-10000-lux",
+  "kategorie": "beleuchtung",
+  "titel": "Tageslichtlampe (10.000 Lux)",
+  "beschreibung": "Tageslichtlampe Test 2026: Die 4 besten Lichttherapie-Lampen ✓ 10.000 Lux ✓ Gegen Winterblues ✓ UV-frei & augenschonend",
+  "keywords": [
+    "tageslichtlampe",
+    "tageslichtlampe test",
+    "lichttherapie lampe",
+    "tageslichtlampe 10000 lux",
+    "tageslichtlampe vergleich",
+    "tageslichtlampe winter",
+    "tageslichtlampe depression",
+    "lichttherapie test 2026",
+    "tageslichtlampe kaufen",
+    "tageslichtlampe büro"
+  ],
+  "einleitung": "Müde, antriebslos, Winterblues? Eine Tageslichtlampe mit 10.000 Lux simuliert natürliches Sonnenlicht und kann helfen, den inneren Rhythmus zurückzusetzen. Wir vergleichen vier Modelle und zeigen dir, welche Lampe am effektivsten wirkt.",
+  "kaufberatung": "### Wie funktioniert Lichttherapie?\nTageslichtlampen senden helles, weißes Licht mit 10.000 Lux aus, das die Produktion von Serotonin anregt und Melatonin unterdrückt. Das hilft gegen saisonal bedingte Niedergeschlagenheit (SAD) und verbessert den Schlaf-Wach-Rhythmus. Empfohlen wird eine tägliche Anwendung von 20-30 Minuten am Morgen.\n\n### Worauf kommt es bei einer Tageslichtlampe an?\n10.000 Lux bei 20-25 cm Abstand ist der Standard. UV-frei ist Pflicht — alle Lampen in unserem Vergleich filtern UV-Strahlung heraus. Die Lichtfläche sollte groß genug sein, damit du dich nicht exakt positionieren musst. Farbtemperatur um 6.500 Kelvin simuliert Tageslicht am besten.\n\n### Große oder kompakte Lampe?\nGroße Lichtflächen (30+ cm) liefern die volle Lux-Zahl auch bei größerem Abstand — bequemer in der Nutzung. Kompakte Modelle sind transportabler, du musst aber näher dran sitzen. Für den Schreibtisch sind kompakte Modelle praktisch, fürs Frühstück am Tisch eine größere.\n\n### Wann und wie lange nutzen?\nAm effektivsten morgens innerhalb der ersten Stunde nach dem Aufwachen, 20-30 Minuten lang. Nicht direkt in die Lampe schauen — seitlich aufstellen und normal den Blick schweifen lassen.",
+  "vergleichsKategorien": [
+    {
+      "key": "lux",
+      "label": "Lichtstärke",
+      "einheit": "Lux",
+      "sortierung": 1
+    },
+    {
+      "key": "lichtflaeche",
+      "label": "Lichtfläche",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "farbtemperatur",
+      "label": "Farbtemperatur",
+      "einheit": "K",
+      "sortierung": 3
+    },
+    {
+      "key": "uv_frei",
+      "label": "UV-frei",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "dimmbar",
+      "label": "Dimmbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "timer",
+      "label": "Timer",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Hilft eine Tageslichtlampe wirklich gegen Winterdepression?",
+      "antwort": "Studien zeigen, dass Lichttherapie mit 10.000 Lux bei 60-80% der Betroffenen von saisonal bedingten depressiven Verstimmungen (SAD) Besserung bringt. Sie ist eine anerkannte Therapie und wird von Ärzten empfohlen. Bei echten Depressionen sollte sie immer in Absprache mit einem Arzt eingesetzt werden."
+    },
+    {
+      "frage": "Wie lange am Tag sollte man die Tageslichtlampe nutzen?",
+      "antwort": "20-30 Minuten am Morgen bei 10.000 Lux reichen für die meisten Menschen. Bei geringerem Lux-Abstand (z.B. 5.000 Lux) verdoppelt sich die Anwendungsdauer. Abends solltest du die Lampe nicht nutzen, da sie den Schlaf stören kann."
+    },
+    {
+      "frage": "Ist eine Tageslichtlampe schädlich für die Augen?",
+      "antwort": "Nein, solange die Lampe UV-frei ist und du nicht direkt hineinstarrst. Alle Modelle in unserem Vergleich filtern UV-Strahlung heraus. Bei Augenerkrankungen (Makuladegeneration, Glaukom) vorher den Augenarzt konsultieren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Beurer TL 30",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B004PN5MOW?tag=janxsiegmann-21",
+      "werte": {
+        "lux": "10.000 (bei 15 cm)",
+        "lichtflaeche": "20 × 12",
+        "farbtemperatur": "6.500",
+        "uv_frei": "Ja",
+        "dimmbar": "Nein",
+        "timer": "Nein"
+      }
+    },
+    {
+      "name": "Beurer TL 50",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08J7G42VP?tag=janxsiegmann-21",
+      "werte": {
+        "lux": "10.000 (bei 16 cm)",
+        "lichtflaeche": "24 × 24 (rund)",
+        "farbtemperatur": "6.500",
+        "uv_frei": "Ja",
+        "dimmbar": "Stufenlos",
+        "timer": "Nein"
+      }
+    },
+    {
+      "name": "Philips EnergyUp HF3419",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00FI1CXHI?tag=janxsiegmann-21",
+      "werte": {
+        "lux": "10.000 (bei 20 cm)",
+        "lichtflaeche": "33 × 24",
+        "farbtemperatur": "6.500",
+        "uv_frei": "Ja",
+        "dimmbar": "5 Stufen",
+        "timer": "Ja (20-120 min)"
+      }
+    },
+    {
+      "name": "Beurer TL 100",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0756CQLLW?tag=janxsiegmann-21",
+      "werte": {
+        "lux": "10.000 (bei 15 cm)",
+        "lichtflaeche": "33 (rund)",
+        "farbtemperatur": "6.500 (+ Farbwechsel)",
+        "uv_frei": "Ja",
+        "dimmbar": "Stufenlos + Farbe",
+        "timer": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

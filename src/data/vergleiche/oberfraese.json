@@ -1,0 +1,118 @@
+{
+  "slug": "oberfraese",
+  "kategorie": "handwerk",
+  "titel": "Oberfräse",
+  "beschreibung": "Oberfräse Test 2026: Die 4 besten Oberfräsen im Vergleich ✓ Nuten, Fasen & Profile ✓ Kaufberatung",
+  "keywords": [
+    "oberfräse",
+    "oberfräse test",
+    "oberfräse vergleich",
+    "beste oberfräse",
+    "fräse holz",
+    "oberfräse kaufberatung",
+    "oberfräse einsteiger",
+    "bosch oberfräse",
+    "makita oberfräse",
+    "oberfräse 2026"
+  ],
+  "einleitung": "Nuten fräsen, Kanten abrunden, Profile erstellen — eine Oberfräse ist das Werkzeug für anspruchsvolle Holzarbeiten. Wir vergleichen vier Modelle vom Einsteiger bis zum Profi.",
+  "kaufberatung": "### Warum eine Oberfräse?\nMit einer Oberfräse erledigst du Arbeiten, die mit keinem anderen Werkzeug möglich sind: Nuten, Falze, Profile, Schablonenfräsen und dekorative Kanten. Für Möbelbau und Holzarbeiten ist sie unverzichtbar.\n\n### Leistung und Drehzahl\n900-1.200 Watt reichen für die meisten Heimwerker. Die Drehzahl sollte regelbar sein (10.000-30.000 U/min), da unterschiedliche Fräser verschiedene Drehzahlen benötigen. Große Fräser = niedrige Drehzahl.\n\n### Spannzange: 6 mm, 8 mm oder 12 mm?\n8 mm ist der Standard für Heimwerker in Deutschland. 6 mm für filigrane Arbeiten, 12 mm (1/2 Zoll) für professionelle Fräser. Ideal: Eine Fräse, die alle drei Spannzangengrößen akzeptiert.\n\n### Absaugung ist Pflicht\nFräsen produziert extrem viel Feinstaub. Eine gute Absaugvorrichtung und ein angeschlossener Staubsauger sind nicht optional, sondern Pflicht für Gesundheit und Sichtbarkeit.\n\n### Parallelanschlag und Kopierhülsen\nDer Parallelanschlag ermöglicht gerade Fräsbahnen parallel zur Werkstückkante. Kopierhülsen sind nötig für das Arbeiten mit Schablonen — unverzichtbar für wiederholbare Ergebnisse.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "drehzahl",
+      "label": "Drehzahl (regelbar)",
+      "einheit": "U/min",
+      "sortierung": 2
+    },
+    {
+      "key": "spannzange",
+      "label": "Spannzange",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "hub",
+      "label": "Fräshub",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Oberfräse ist für Einsteiger geeignet?",
+      "antwort": "Für Einsteiger empfehlen sich Modelle mit 1.200-1.400 Watt, variabler Drehzahl und 8-mm-Spannzange. Die Bosch POF 1400 ACE ist hier der Klassiker — gutes Preis-Leistungs-Verhältnis und einfache Bedienung."
+    },
+    {
+      "frage": "Kann ich eine Oberfräse auch als Tischfräse nutzen?",
+      "antwort": "Ja, mit einem Frästisch (separat erhältlich oder selbst gebaut). Die Fräse wird umgedreht unter eine Tischplatte montiert. Das ist besonders für Profilarbeiten und kleine Werkstücke praktisch und sicherer als Freihandarbeit."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen Oberfräse und Kantenfräse?",
+      "antwort": "Eine Kantenfräse ist eine kleine, leichte Oberfräse (500-700 Watt) speziell für Kantenbearbeitung. Sie ist handlicher, hat aber weniger Power und Hub. Für vielseitige Arbeiten ist eine vollwertige Oberfräse die bessere Wahl."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-RO 1155 E",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00E7CZJZG?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1100",
+        "drehzahl": "11.000-30.000",
+        "spannzange": "6 + 8",
+        "hub": "55",
+        "gewicht": "3,3"
+      }
+    },
+    {
+      "name": "Bosch POF 1400 ACE",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B003IT6BB6?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1400",
+        "drehzahl": "11.000-28.000",
+        "spannzange": "6 + 8",
+        "hub": "55",
+        "gewicht": "3,5"
+      }
+    },
+    {
+      "name": "Makita RT0702CX2J",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00EP2KBYM?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "710",
+        "drehzahl": "10.000-30.000",
+        "spannzange": "6 + 8",
+        "hub": "35",
+        "gewicht": "1,8"
+      }
+    },
+    {
+      "name": "Festool OF 1400 EBQ-Plus",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B009TKFBD8?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1400",
+        "drehzahl": "10.000-22.500",
+        "spannzange": "6 + 8 + 12",
+        "hub": "70",
+        "gewicht": "4,6"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

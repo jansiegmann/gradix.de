@@ -1,0 +1,114 @@
+{
+  "slug": "tuerschloss-smart",
+  "kategorie": "sicherheit",
+  "titel": "Türschloss (smart)",
+  "beschreibung": "Smart Lock Test 2026: Die 4 besten smarten Türschlösser ✓ Schlüssellos ✓ Kaufberatung",
+  "keywords": [
+    "smart lock",
+    "smartes türschloss",
+    "nuki",
+    "smart lock test",
+    "türschloss smart",
+    "smart lock vergleich",
+    "bestes smart lock",
+    "nuki 4.0",
+    "aqara u200",
+    "smart lock 2026"
+  ],
+  "einleitung": "Tür per App, Fingerabdruck oder Code öffnen — smarte Schlösser machen den Schlüssel optional. Vier Modelle im Vergleich.",
+  "kaufberatung": "### Nachrüstbar\nAufstecken auf vorhandenen Zylinder, kein Schlossertausch nötig.\n\n### Sicherheit\nAES-256-Verschlüsselung. Normaler Schlüssel funktioniert weiterhin.\n\n### Auto-Lock/Unlock\nPer GPS erkennt das Schloss, ob du kommst oder gehst.",
+  "vergleichsKategorien": [
+    {
+      "key": "oeffnung",
+      "label": "Öffnungsmethoden",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "einbau",
+      "label": "Einbau",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "sprache",
+      "label": "Sprachassistenten",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "autolock",
+      "label": "Auto-Lock",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "batterie",
+      "label": "Batterie",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Was bei leerem Akku?",
+      "antwort": "Normaler Schlüssel funktioniert. App warnt rechtzeitig."
+    },
+    {
+      "frage": "Sicher?",
+      "antwort": "Ja, AES-256. Schloss selbst wird nicht ersetzt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Nuki Smart Lock 4.0",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CQZ8KB1J?tag=janxsiegmann-21",
+      "werte": {
+        "oeffnung": "App, Auto-Unlock",
+        "einbau": "Aufstecken",
+        "sprache": "Alexa, Google, HomeKit",
+        "autolock": "Ja",
+        "batterie": "4× AA"
+      }
+    },
+    {
+      "name": "Nuki Smart Lock 4.0 Pro",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CQZ8G2JQ?tag=janxsiegmann-21",
+      "werte": {
+        "oeffnung": "App, Auto-Unlock, Matter",
+        "einbau": "Aufstecken",
+        "sprache": "Alexa, Google, HomeKit, Matter",
+        "autolock": "Ja",
+        "batterie": "USB-C Akku"
+      }
+    },
+    {
+      "name": "Yale Linus Smart Lock 2",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BXRKJN7K?tag=janxsiegmann-21",
+      "werte": {
+        "oeffnung": "App, NFC-Tag",
+        "einbau": "Aufstecken",
+        "sprache": "Alexa, Google, HomeKit",
+        "autolock": "Ja",
+        "batterie": "4× AA"
+      }
+    },
+    {
+      "name": "Aqara Smart Lock U200",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0D4JN3STM?tag=janxsiegmann-21",
+      "werte": {
+        "oeffnung": "App, Fingerabdruck, NFC, Code",
+        "einbau": "Aufstecken",
+        "sprache": "HomeKit, Alexa, Google",
+        "autolock": "Ja",
+        "batterie": "USB-C Akku"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

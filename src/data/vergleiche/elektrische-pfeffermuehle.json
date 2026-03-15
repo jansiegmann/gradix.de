@@ -1,0 +1,128 @@
+{
+  "slug": "elektrische-pfeffermuehle",
+  "kategorie": "kueche",
+  "titel": "Elektrische Pfeffermühle",
+  "beschreibung": "Elektrische Pfeffermühle Test 2026: Die 4 besten Gewürzmühlen im Vergleich ✓ Keramikmahlwerk ✓ Kaufberatung",
+  "keywords": [
+    "elektrische pfeffermühle test",
+    "pfeffermühle elektrisch",
+    "gewürzmühle elektrisch",
+    "elektrische salz und pfeffermühle",
+    "pfeffermühle test",
+    "elektrische pfeffermühle vergleich",
+    "peugeot pfeffermühle",
+    "wmf pfeffermühle",
+    "pfeffermühle keramikmahlwerk",
+    "elektrische pfeffermühle test 2026"
+  ],
+  "einleitung": "Frisch gemahlener Pfeffer macht jedes Gericht besser — eine elektrische Pfeffermühle erledigt das auf Knopfdruck mit einer Hand. Wir vergleichen vier Modelle von Budget bis Profi und zeigen, warum das Mahlwerk entscheidend ist.",
+  "kaufberatung": "### Keramik- oder Stahlmahlwerk?\nKeramikmahlwerke sind härter als Stahl, rostfrei und behalten ihre Schärfe länger. Stahlmahlwerke sind günstiger und greifen Pfefferkörner aggressiver an — ideal für groben Mahlgrad. Für Pfeffer empfehlen wir Stahl oder Carbon-Stahl, für Salz Keramik (Salz greift Stahl an).\n\n### Mahlgrad einstellen\nDie meisten Modelle bieten einen stufenlos oder mehrstufig einstellbaren Mahlgrad. Feiner Pfeffer für Saucen, grober Pfeffer fürs Steak. Achte darauf, dass die Verstellung auch bei laufendem Betrieb funktioniert.\n\n### Einhand-Bedienung\nDer größte Vorteil einer elektrischen Mühle: Du brauchst nur eine Hand. Achte auf einen gut erreichbaren Knopf und ein ergonomisches Design. Schwere Mühlen über 400g werden schnell unbequem.\n\n### Beleuchtung: Nett oder nötig?\nViele elektrische Mühlen haben eine LED am Mahlwerk, die den Mahlbereich beleuchtet. Klingt wie Spielerei, ist aber beim Kochen tatsächlich praktisch — du siehst genau wie viel Pfeffer auf dem Essen landet.\n\n### Batterien oder Akku?\nDie meisten Modelle laufen mit AA-Batterien. Einige Premium-Modelle haben einen USB-C-Akku. Batterien halten 6–12 Monate bei normaler Nutzung.",
+  "vergleichsKategorien": [
+    {
+      "key": "mahlwerk",
+      "label": "Mahlwerk",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "mahlgrad",
+      "label": "Mahlgrad einstellbar",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "beleuchtung",
+      "label": "LED-Beleuchtung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Gehäusematerial",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist eine elektrische Pfeffermühle besser als eine manuelle?",
+      "antwort": "Elektrische Mühlen sind bequemer (Einhandbedienung) und mahlen gleichmäßiger. Manuelle Mühlen bieten mehr Kontrolle über den Mahlgrad und brauchen keine Batterien. Für den täglichen Gebrauch beim Kochen empfehlen wir elektrisch."
+    },
+    {
+      "frage": "Wie oft muss ich die Batterien wechseln?",
+      "antwort": "Bei normaler Nutzung (2–3 Mal täglich) halten AA-Batterien 6–12 Monate. Akkumodelle halten je nach Kapazität mehrere Wochen pro Ladung."
+    },
+    {
+      "frage": "Kann ich auch Salz in einer Pfeffermühle mahlen?",
+      "antwort": "Nur in Mühlen mit Keramikmahlwerk. Salz ist korrosiv und zerstört Stahl-Mahlwerke mit der Zeit. Viele Hersteller bieten Sets mit einer Pfeffer- (Stahl) und einer Salzmühle (Keramik) an."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ZWILLING Enfinigy Elektrische Mühle",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08R397M5D?tag=janxsiegmann-21",
+      "werte": {
+        "mahlwerk": "Keramik",
+        "mahlgrad": "6 Stufen",
+        "stromversorgung": "4× AA Batterien",
+        "beleuchtung": "Ja",
+        "material": "Kunststoff/Edelstahl",
+        "hoehe": "17"
+      }
+    },
+    {
+      "name": "WMF Ceramill Nature Elektrische Mühle",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09HS8XP24?tag=janxsiegmann-21",
+      "werte": {
+        "mahlwerk": "Keramik",
+        "mahlgrad": "Stufenlos",
+        "stromversorgung": "6× AAA Batterien",
+        "beleuchtung": "Ja",
+        "material": "Akazienholz/Keramik",
+        "hoehe": "21,5"
+      }
+    },
+    {
+      "name": "Peugeot Elis Sense u'Select",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00GMCGMOU?tag=janxsiegmann-21",
+      "werte": {
+        "mahlwerk": "Stahl (gehärtet)",
+        "mahlgrad": "6 Stufen (u'Select)",
+        "stromversorgung": "6× AAA Batterien",
+        "beleuchtung": "Ja",
+        "material": "Edelstahl gebürstet",
+        "hoehe": "20"
+      }
+    },
+    {
+      "name": "Peugeot Elis Rechargeable",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07S61BGPV?tag=janxsiegmann-21",
+      "werte": {
+        "mahlwerk": "Stahl (gehärtet)",
+        "mahlgrad": "6 Stufen (u'Select)",
+        "stromversorgung": "USB-C Akku",
+        "beleuchtung": "Ja",
+        "material": "Edelstahl gebürstet",
+        "hoehe": "20"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

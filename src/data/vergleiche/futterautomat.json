@@ -1,0 +1,128 @@
+{
+  "slug": "futterautomat",
+  "kategorie": "kinder",
+  "titel": "Futterautomat (Hund/Katze)",
+  "beschreibung": "Futterautomat Test 2026: Die 4 besten automatischen Futterspender ✓ Timer & App ✓ Für Hund & Katze ✓ Kaufberatung",
+  "keywords": [
+    "futterautomat katze test",
+    "futterautomat hund",
+    "automatischer futterspender",
+    "futterautomat test",
+    "futterautomat app",
+    "futterautomat vergleich",
+    "futterautomat wlan",
+    "futterautomat test 2026",
+    "futterspender katze automatisch",
+    "futterautomat kaufberatung"
+  ],
+  "einleitung": "Ob lange Arbeitstage, Wochenendtrips oder geregeltes Diätfutter — ein Futterautomat versorgt deinen Hund oder deine Katze zuverlässig zur richtigen Zeit mit der richtigen Menge. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Timer oder App-Steuerung?\nEinfache Timer reichen für regelmäßige Fütterungszeiten. App-gesteuerte Modelle bieten Fernzugriff, Portionierung und teils sogar eine Kamera — ideal für berufstätige Tierbesitzer.\n\n### Nass- oder Trockenfutter?\nDie meisten Futterautomaten sind nur für Trockenfutter geeignet. Nassfutter verdirbt ohne Kühlung schnell. Für Nassfutter gibt es spezielle Modelle mit Kühlpad — aber die Auswahl ist begrenzt.\n\n### Portionsgröße\nAchte auf die minimale und maximale Portionsgröße. Für kleine Katzen brauchst du präzise kleine Portionen (5–10g). Für große Hunde müssen auch größere Mengen (100g+) pro Mahlzeit möglich sein.\n\n### Stromversorgung: Strom oder Batterie?\nNetzbetriebene Modelle laufen zuverlässig, versagen aber bei Stromausfall. Gute Automaten haben eine Batterie-Backup-Funktion — so wird dein Tier auch bei Stromausfall gefüttert.\n\n### Hygiene und Reinigung\nDer Futternapf und die futterführenden Teile sollten spülmaschinenfest sein. Reinige den Automaten wöchentlich, um Fettablagerungen und Gerüche zu vermeiden.",
+  "vergleichsKategorien": [
+    {
+      "key": "fassungsvermoegen",
+      "label": "Fassungsvermögen",
+      "einheit": "Liter",
+      "sortierung": 1
+    },
+    {
+      "key": "mahlzeiten",
+      "label": "Programmierbare Mahlzeiten",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "steuerung",
+      "label": "Steuerung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "portionsgroesse",
+      "label": "Portionsgröße",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "kamera",
+      "label": "Kamera",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie genau portioniert ein Futterautomat?",
+      "antwort": "Die Portionierung variiert je nach Futterform und -größe um ±5–10 %. Für Diätfutter empfehlen wir Modelle mit Grammangabe statt Portionseinheiten. Teste die Genauigkeit anfangs mit einer Küchenwaage."
+    },
+    {
+      "frage": "Kann mein Hund den Futterautomaten umwerfen?",
+      "antwort": "Bei großen Hunden ein echtes Problem. Achte auf einen breiten, rutschfesten Standfuß oder sichere den Automaten an der Wand. Modelle mit Edelstahl-Napf sind stabiler als reine Kunststoff-Varianten."
+    },
+    {
+      "frage": "Wie lange bleibt Trockenfutter im Automaten frisch?",
+      "antwort": "In einem geschlossenen Automaten mit Dichtung bleibt Trockenfutter 2–4 Wochen frisch. Fülle nur so viel ein, wie dein Tier in dieser Zeit frisst. Ein Trockenmittelbeutel im Behälter hilft gegen Feuchtigkeit."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Petlibro Granary Futterautomat",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B098T1FK42?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "3",
+        "mahlzeiten": "bis 6/Tag",
+        "steuerung": "Tasten + Timer",
+        "portionsgroesse": "5–200g (10 Stufen)",
+        "stromversorgung": "USB-C + 3× D-Batterie Backup",
+        "kamera": "Nein"
+      }
+    },
+    {
+      "name": "Petlibro Polar Futterautomat",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BFD4P4C6?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "5",
+        "mahlzeiten": "bis 6/Tag",
+        "steuerung": "WLAN + App",
+        "portionsgroesse": "5–200g (20 Stufen)",
+        "stromversorgung": "USB-C + Batterie Backup",
+        "kamera": "Nein"
+      }
+    },
+    {
+      "name": "PETKIT Fresh Element Solo",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0C7LYQY1H?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "3",
+        "mahlzeiten": "bis 10/Tag",
+        "steuerung": "WLAN + App",
+        "portionsgroesse": "5–200g (stufenlos)",
+        "stromversorgung": "USB-C + Batterie Backup",
+        "kamera": "Nein (separates Modell)"
+      }
+    },
+    {
+      "name": "Petlibro Polar mit Kamera",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CL5YZKX7?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "5",
+        "mahlzeiten": "bis 6/Tag",
+        "steuerung": "WLAN + App",
+        "portionsgroesse": "5–200g (20 Stufen)",
+        "stromversorgung": "USB-C + Batterie Backup",
+        "kamera": "Ja (1080p + Nachtsicht + 2-Wege-Audio)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

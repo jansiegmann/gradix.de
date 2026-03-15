@@ -1,0 +1,128 @@
+{
+  "slug": "nachttischlampe-dimmbar",
+  "kategorie": "beleuchtung",
+  "titel": "Nachttischlampe (dimmbar)",
+  "beschreibung": "Dimmbare Nachttischlampe Test 2026: Die 4 besten Nachttischlampen ✓ Dimmbar & kabellos ✓ Touch-Steuerung ✓ Für jedes Schlafzimmer",
+  "keywords": [
+    "nachttischlampe",
+    "nachttischlampe dimmbar",
+    "nachttischlampe test",
+    "tischlampe schlafzimmer",
+    "nachttischlampe led",
+    "nachttischlampe touch",
+    "nachttischlampe kabellos",
+    "nachttischlampe vergleich",
+    "nachttischlampe test 2026",
+    "bettlampe dimmbar"
+  ],
+  "einleitung": "Die perfekte Nachttischlampe spendet warmes, dimmbares Licht zum Lesen und sorgt für Gemütlichkeit beim Einschlafen. Wir vergleichen vier Modelle und zeigen dir, welche Lampe dein Schlafzimmer am schönsten beleuchtet.",
+  "kaufberatung": "### Worauf kommt es bei einer Nachttischlampe an?\nDrei Dinge sind entscheidend: Dimm-Funktion (mindestens 3 Stufen, besser stufenlos), warme Farbtemperatur (2.700-3.000 K) und eine angenehme Bedienung (Touch oder Gestensteuerung). Kabelloses Design mit Akku ist ein Bonus für Flexibilität.\n\n### Welche Farbtemperatur ist fürs Schlafzimmer ideal?\n2.700-3.000 Kelvin (warmweiß) ist ideal fürs Schlafzimmer. Kälteres Licht (über 4.000 K) unterdrückt die Melatonin-Produktion und kann den Schlaf stören. Einige Lampen bieten einstellbare Farbtemperatur — praktisch, wenn du die Lampe auch zum Arbeiten nutzen willst.\n\n### Akku oder Kabel?\nAkku-Lampen sind flexibel und brauchen keine Steckdose am Nachttisch. Kabelgebundene Lampen sind zuverlässiger und müssen nie aufgeladen werden. Für minimalistisches Design ohne Kabelgewirr sind Akku-Modelle ideal.\n\n### Touch-Steuerung — wie funktioniert das?\nTouch-Lampen reagieren auf Berührung der Oberfläche. Einmal tippen für an/aus, gedrückt halten zum Dimmen. Einige Modelle haben Gestensteuerung — Wellenbewegung dimmt hoch oder runter. Im Dunkeln praktischer als ein kleiner Schalter.",
+  "vergleichsKategorien": [
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit",
+      "einheit": "Lumen",
+      "sortierung": 1
+    },
+    {
+      "key": "farbtemperatur",
+      "label": "Farbtemperatur",
+      "einheit": "K",
+      "sortierung": 2
+    },
+    {
+      "key": "dimmbar",
+      "label": "Dimmfunktion",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "betrieb",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Helligkeit braucht eine Nachttischlampe?",
+      "antwort": "200-400 Lumen reichen zum Lesen im Bett. Zum Einschlafen dimmst du auf 50-100 Lumen herunter. Heller als 400 Lumen braucht eine Nachttischlampe normalerweise nicht zu sein."
+    },
+    {
+      "frage": "Sind LED-Nachttischlampen besser als Glühbirnen?",
+      "antwort": "LED-Lampen verbrauchen deutlich weniger Strom, werden nicht heiß und halten 20-50x länger. Moderne LEDs gibt es in warmweißem Licht (2.700 K), das genauso gemütlich ist wie Glühbirnenlicht. Es gibt keinen Grund mehr für Glühbirnen."
+    },
+    {
+      "frage": "Stört das Licht einer Nachttischlampe den Schlaf?",
+      "antwort": "Warmweißes Licht (unter 3.000 K) auf niedriger Stufe stört den Schlaf kaum. Blaues oder kaltweißes Licht (über 4.000 K) kann die Melatonin-Produktion hemmen. Dimmbare Lampen sind ideal — vor dem Einschlafen auf die niedrigste Stufe schalten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "AUKEY Nachttischlampe LT-T6",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01AJ7F14I?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "400",
+        "farbtemperatur": "3.000 (warmweiß)",
+        "dimmbar": "Touch (stufenlos)",
+        "betrieb": "Kabel (USB)",
+        "hoehe": "19",
+        "material": "Kunststoff (Silikon)"
+      }
+    },
+    {
+      "name": "WiZ Hero Nachttischlampe",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B3RQ8HWQ?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "620",
+        "farbtemperatur": "2.200-6.500 (einstellbar)",
+        "dimmbar": "App + Touch + Sprache",
+        "betrieb": "Kabel",
+        "hoehe": "34",
+        "material": "Glas + Metall"
+      }
+    },
+    {
+      "name": "Philips Hue Go 2.0",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CXDNRWJ4?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "530",
+        "farbtemperatur": "2.000-6.500 + 16 Mio. Farben",
+        "dimmbar": "App + Touch + Sprache",
+        "betrieb": "Akku (48 h) + Kabel",
+        "hoehe": "14",
+        "material": "Kunststoff (matt)"
+      }
+    },
+    {
+      "name": "Artemide Melampo Notte",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B004LB2IDO?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "300",
+        "farbtemperatur": "2.700",
+        "dimmbar": "3 Stufen (Schalter)",
+        "betrieb": "Kabel",
+        "hoehe": "23",
+        "material": "Aluminium + Seide"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "thermoskanne",
+  "kategorie": "haushalt",
+  "titel": "Thermoskanne",
+  "beschreibung": "Thermoskanne Test 2026: Die 4 besten Thermoskannen im Vergleich ✓ 12+ Stunden heiß ✓ Edelstahl & BPA-frei ✓ Für Kaffee & Tee",
+  "keywords": [
+    "thermoskanne",
+    "thermoskanne test",
+    "thermoskanne vergleich",
+    "isolierkanne test",
+    "thermoskanne edelstahl",
+    "thermoskanne 1 liter",
+    "thermoskanne test 2026",
+    "beste thermoskanne",
+    "thermoskanne kaffee",
+    "kaffeekanne isoliert"
+  ],
+  "einleitung": "Heißer Kaffee auch Stunden später? Eine gute Thermoskanne hält Getränke über 12 Stunden heiß. Wir vergleichen vier Modelle und zeigen, welche am besten isoliert und am einfachsten zu reinigen ist.",
+  "kaufberatung": "### Worauf kommt es bei einer Thermoskanne an?\nIsolierleistung (mindestens 12 Stunden heiß), einhändiges Ausgießen, tropffreier Verschluss und einfache Reinigung. Das Fassungsvermögen hängt von der Nutzung ab: 0,5 L für unterwegs, 1-1,5 L für den Schreibtisch.\n\n### Glaskolben oder Edelstahl?\nGlaskolben isolieren besser und sind geschmacksneutraler, sind aber bruchempfindlich. Doppelwandiger Edelstahl ist robust und langlebig, kann aber bei manchen Modellen einen leichten Metallgeschmack abgeben.\n\n### Verschlusstyp\nDrehverschluss ist am dichtesten, aber umständlicher. Druckknopf-Verschluss (Pumpmechanismus) ist bequem zum Einhandausgießen. Quick-Press-Verschlüsse kombinieren beides.",
+  "vergleichsKategorien": [
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "L",
+      "sortierung": 1
+    },
+    {
+      "key": "isolierung_heiss",
+      "label": "Warmhalten",
+      "einheit": "h",
+      "sortierung": 2
+    },
+    {
+      "key": "material",
+      "label": "Kolben-Material",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "verschluss",
+      "label": "Verschlusstyp",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "einhand",
+      "label": "Einhandbedienung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "spuelmaschine",
+      "label": "Spülmaschinenfest",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Thermoskanne hält am längsten heiß?",
+      "antwort": "Glaskolben-Kannen wie die Alfi Gusto halten Getränke am längsten heiß — über 12 Stunden. Edelstahl-Kannen kommen auf 8-12 Stunden. Für maximale Isolation: Kanne vorher mit heißem Wasser vorwärmen."
+    },
+    {
+      "frage": "Kann man eine Thermoskanne in die Spülmaschine geben?",
+      "antwort": "Bei den meisten Thermoskannen ist nur der Deckel spülmaschinenfest, nicht die Kanne selbst. Glaskolben-Kannen sollten nie in die Spülmaschine. Am besten mit heißem Wasser und Spülmittel per Hand reinigen."
+    },
+    {
+      "frage": "Wie entferne ich Kaffee-Ablagerungen aus der Thermoskanne?",
+      "antwort": "Backpulver oder Gebissreiniger-Tabletten mit heißem Wasser in die Kanne geben, über Nacht einwirken lassen und gründlich ausspülen. Alternativ funktioniert auch Essig-Wasser-Mischung (1:3)."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Emsa Samba 1L",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00008XOJB?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "1,0",
+        "isolierung_heiss": "12",
+        "material": "Glaskolben",
+        "verschluss": "Quick-Press",
+        "einhand": "Ja",
+        "spuelmaschine": "Nein (nur Deckel)"
+      }
+    },
+    {
+      "name": "Alfi Gusto 1L",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B001ATJW8W?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "1,0",
+        "isolierung_heiss": "12+",
+        "material": "Glaskolben (alfiDur)",
+        "verschluss": "Dreh-Drück",
+        "einhand": "Ja",
+        "spuelmaschine": "Nein"
+      }
+    },
+    {
+      "name": "WMF Impulse 1L",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00ICLJ3PE?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "1,0",
+        "isolierung_heiss": "24",
+        "material": "Edelstahl (doppelwandig)",
+        "verschluss": "One-Touch",
+        "einhand": "Ja",
+        "spuelmaschine": "Nein"
+      }
+    },
+    {
+      "name": "Stanley Classic Legendary 1L",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B000FZX93K?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "1,0",
+        "isolierung_heiss": "24",
+        "material": "Edelstahl (18/8)",
+        "verschluss": "Schraubverschluss",
+        "einhand": "Nein (Schraubbecher)",
+        "spuelmaschine": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

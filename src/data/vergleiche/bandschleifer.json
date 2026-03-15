@@ -1,0 +1,118 @@
+{
+  "slug": "bandschleifer",
+  "kategorie": "handwerk",
+  "titel": "Bandschleifer",
+  "beschreibung": "Bandschleifer Test 2026: Die 4 besten Bandschleifer im Vergleich ✓ Schneller Abtrag ✓ Kaufberatung",
+  "keywords": [
+    "bandschleifer",
+    "bandschleifer test",
+    "bandschleifer vergleich",
+    "bester bandschleifer",
+    "bandschleifer holz",
+    "bandschleifer kaufberatung",
+    "bandschleifmaschine",
+    "bosch bandschleifer",
+    "makita bandschleifer",
+    "bandschleifer 2026"
+  ],
+  "einleitung": "Wenn viel Material schnell abgetragen werden muss, ist der Bandschleifer das Werkzeug der Wahl. Türen kürzen, Holz glätten, Rost entfernen — wir vergleichen vier Modelle für effizientes Schleifen.",
+  "kaufberatung": "### Wofür brauche ich einen Bandschleifer?\nBandschleifer sind Grobschleifer — sie tragen Material schnell ab. Ideal zum Glätten von Holzoberflächen, Entfernen von Farbe und Lack, Kürzen von Türen und Vorbereiten von Oberflächen. Für den Feinschliff brauchst du anschließend einen Schwingschleifer.\n\n### Bandgröße: 75×533 mm ist Standard\nDie meisten Bandschleifer für Heimwerker nutzen 75×533 mm Bänder. Diese sind günstig, überall erhältlich und bieten eine gute Balance aus Arbeitsbreite und Handhabung. Größere Bandschleifer (100 mm) sind für Profis.\n\n### Bandgeschwindigkeit und Drehzahlregelung\nDie Bandgeschwindigkeit beeinflusst den Abtrag. 200-350 m/min ist Standard. Eine elektronische Drehzahlregelung hilft, bei empfindlichen Materialien sanfter zu schleifen.\n\n### Staubabsaugung: Wichtig!\nBandschleifer erzeugen sehr viel Staub. Integrierte Staubbeutel fangen nur einen Teil auf. Besser: Staubsaugeranschluss nutzen.\n\n### Spannmechanismus\nDas Schleifband muss sicher und gerade laufen. Gute Geräte haben eine automatische Bandführung und einen werkzeuglosen Spannhebel für schnellen Bandwechsel.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "bandgroesse",
+      "label": "Bandgröße",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "bandgeschwindigkeit",
+      "label": "Bandgeschwindigkeit",
+      "einheit": "m/min",
+      "sortierung": 3
+    },
+    {
+      "key": "schleifflaeche",
+      "label": "Schleiffläche",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Bandschleifer auch Metall schleifen?",
+      "antwort": "Ja, mit speziellen Schleifbändern für Metall (Zirkonkorund oder Keramik). Die Drehzahl sollte dafür reduziert werden, um Überhitzung zu vermeiden. Für größere Metallschleifarbeiten ist ein Winkelschleifer aber effizienter."
+    },
+    {
+      "frage": "Warum hinterlässt mein Bandschleifer Rillen im Holz?",
+      "antwort": "Häufigste Ursache: Du drückst zu stark auf oder bewegst den Schleifer zu langsam. Lass das Gerät mit Eigengewicht arbeiten und führe es gleichmäßig in Faserrichtung. Auch ein abgenutztes oder zu grobes Schleifband hinterlässt Rillen."
+    },
+    {
+      "frage": "Welche Körnung sollte ich verwenden?",
+      "antwort": "Zum Grobabtrag (Farbe, Lack): 40-60er Körnung. Zum Glätten: 80-120er Körnung. Feiner als 120 macht beim Bandschleifer keinen Sinn — dafür nutzt man den Schwingschleifer."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-BS 8038",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09M8HJ3TY?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "800",
+        "bandgroesse": "75 × 533",
+        "bandgeschwindigkeit": "260",
+        "schleifflaeche": "135 × 75",
+        "gewicht": "3,4"
+      }
+    },
+    {
+      "name": "Bosch PBS 75 AE",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00J5HFCL4?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "750",
+        "bandgroesse": "75 × 533",
+        "bandgeschwindigkeit": "200-350",
+        "schleifflaeche": "165 × 75",
+        "gewicht": "3,4"
+      }
+    },
+    {
+      "name": "Makita 9911",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0001GGUD0?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "650",
+        "bandgroesse": "76 × 457",
+        "bandgeschwindigkeit": "75-270",
+        "schleifflaeche": "152 × 76",
+        "gewicht": "2,6"
+      }
+    },
+    {
+      "name": "Festool BS 75 E-Plus",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B001Q3KW64?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1010",
+        "bandgroesse": "75 × 533",
+        "bandgeschwindigkeit": "200-420",
+        "schleifflaeche": "180 × 75",
+        "gewicht": "4,2"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

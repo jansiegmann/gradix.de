@@ -1,0 +1,118 @@
+{
+  "slug": "crepes-maker",
+  "kategorie": "kueche",
+  "titel": "Crêpes-Maker",
+  "beschreibung": "Crêpes-Maker Test 2026: Die 4 besten Crêpes-Geräte im Vergleich ✓ Gleichmäßig & antihaft ✓ Kaufberatung",
+  "keywords": [
+    "crêpes maker test",
+    "crêpes maker vergleich",
+    "crêpes pfanne",
+    "crêpes maker elektrisch",
+    "bester crêpes maker",
+    "crêpes maker test 2026",
+    "crêpes maker kaufberatung",
+    "crepes platte",
+    "crêpes eisen",
+    "tefal crêpes maker"
+  ],
+  "einleitung": "Hauchdünne Crêpes wie in Frankreich — mit dem richtigen Crêpes-Maker gelingt das auch zuhause. Ob klassische Platte oder Wendemodell: Wir vergleichen vier Geräte.",
+  "kaufberatung": "### Platte oder Pfanne?\nCrepes-Platten haben eine große, flache Oberfläche (30–35 cm) und erzeugen gleichmäßige Crêpes. Crêpes-Pfannen sind kompakter und günstiger. Für authentische Crêpes empfehlen wir eine Platte.\n\n### Antihaftbeschichtung\nEine gute Antihaftbeschichtung ist das A und O — ohne sie kleben die dünnen Crêpes fest. Achte auf PFOA-freie Beschichtungen.\n\n### Temperaturregelung\nModelle mit einstellbarer Temperatur sind flexibler: niedrig für dünne Crêpes, hoch für dickere Pancakes. Geräte ohne Thermostat heizen auf eine Fixtemperatur — weniger Kontrolle.\n\n### Zubehör\nEin Teigverteiler und ein Holzspatel sollten dabei sein. Der Teigverteiler verteilt den Teig gleichmäßig auf der Platte — das ist der Trick für hauchdünne Crêpes.\n\n### Aufheizzeit\nGute Geräte sind in 2–3 Minuten betriebsbereit. Gusseisen-Platten brauchen länger, halten die Wärme aber gleichmäßiger.",
+  "vergleichsKategorien": [
+    {
+      "key": "durchmesser",
+      "label": "Durchmesser Platte",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "temperatur",
+      "label": "Temperaturregelung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "beschichtung",
+      "label": "Beschichtung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Crêpes-Maker ist der beste?",
+      "antwort": "Der Tefal Crêp'Party Compact bietet das beste Preis-Leistungs-Verhältnis mit 35 cm Platte und Antihaftbeschichtung. Für Profi-Ergebnisse empfehlen wir den Krampouz CEBPB2."
+    },
+    {
+      "frage": "Wie macht man dünne Crêpes?",
+      "antwort": "Der Teig muss dünnflüssig sein (wie Sahne). Gib einen Löffel Teig in die Mitte und verteile ihn sofort mit dem Teigverteiler in kreisenden Bewegungen. Die Platte muss heiß genug sein — zu kalt und der Teig fließt nicht."
+    },
+    {
+      "frage": "Kann ich auf einem Crêpes-Maker auch Pancakes machen?",
+      "antwort": "Ja, die meisten Crêpes-Maker eignen sich auch für Pancakes. Verwende einen dickeren Teig und gib weniger auf die Platte. Die Temperatur etwas niedriger einstellen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Bestron Crêpesmaker ASW602",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00362JIAS?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "30",
+        "leistung": "1.000",
+        "temperatur": "Festtemperatur",
+        "beschichtung": "Antihaft",
+        "zubehoer": "Teigverteiler + Spatel"
+      }
+    },
+    {
+      "name": "Tefal Crêp'Party Compact PY303812",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0045OUMDS?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "35",
+        "leistung": "1.050",
+        "temperatur": "Thermostat",
+        "beschichtung": "Tefal-Antihaft",
+        "zubehoer": "Teigverteiler + Spatel"
+      }
+    },
+    {
+      "name": "Severin CM 2198",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B004M3DLKA?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "30",
+        "leistung": "1.000",
+        "temperatur": "Stufenlos regelbar",
+        "beschichtung": "Antihaft (PFOA-frei)",
+        "zubehoer": "Teigverteiler + Spatel"
+      }
+    },
+    {
+      "name": "Krampouz CEBPB2 Billig",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B004G7RSJM?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "40",
+        "leistung": "3.000",
+        "temperatur": "Thermostat (Profi)",
+        "beschichtung": "Gusseisen emailliert",
+        "zubehoer": "Teigverteiler (Holz)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

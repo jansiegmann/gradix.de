@@ -1,0 +1,128 @@
+{
+  "slug": "picknickdecke",
+  "kategorie": "outdoor",
+  "titel": "Picknickdecke",
+  "beschreibung": "Picknickdecke Test 2026: Die 4 besten Picknickdecken ✓ Wasserdicht ✓ XXL & isoliert ✓ Für Park, Strand & Festival",
+  "keywords": [
+    "picknickdecke",
+    "picknickdecke test",
+    "picknickdecke wasserdicht",
+    "picknickdecke xxl",
+    "picknickdecke vergleich",
+    "picknickdecke isoliert",
+    "picknickdecke test 2026",
+    "outdoor decke",
+    "stranddecke",
+    "picknickdecke waschbar"
+  ],
+  "einleitung": "Ob im Park, am See oder beim Festival — eine gute Picknickdecke hält dich trocken, ist groß genug für die ganze Familie und lässt sich leicht transportieren. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Welche Größe brauche ich?\nFür 2 Personen reichen 150×200 cm. Für Familien empfehlen wir 200×200 cm oder größer. XXL-Decken (200×300 cm) sind ideal für Gruppen und Festivals.\n\n### Wasserdicht — muss das sein?\nJa, eine wasserdichte Unterseite schützt vor Feuchtigkeit im Gras. Die meisten Picknickdecken haben eine PEVA- oder Aluminium-beschichtete Unterseite. Für Strand und Sand reicht auch eine nicht-wasserdichte Decke.\n\n### Isolation\nAluminium-beschichtete Decken isolieren gegen Bodenkälte — perfekt für Frühling und Herbst. Für den Sommer reicht eine einfache Decke ohne Isolation.",
+  "vergleichsKategorien": [
+    {
+      "key": "groesse",
+      "label": "Größe",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "unterseite",
+      "label": "Unterseite",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "material_oben",
+      "label": "Oberseite",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "packbar",
+      "label": "Faltbar / Tragegriff",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "waschbar",
+      "label": "Waschbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann man eine Picknickdecke waschen?",
+      "antwort": "Die meisten Picknickdecken mit PEVA-Unterseite sollten nur feucht abgewischt werden. Einige Modelle mit abnehmbarer Oberseite sind maschinenwaschbar. Fleece-Decken ohne spezielle Beschichtung sind oft bei 30°C waschbar."
+    },
+    {
+      "frage": "Welche Picknickdecke ist für den Strand geeignet?",
+      "antwort": "Für den Strand eignen sich sandfeste Decken aus Nylon oder Polyester besser als Fleece — Sand bleibt nicht kleben und lässt sich einfach abschütteln."
+    },
+    {
+      "frage": "Wie groß sollte eine Picknickdecke sein?",
+      "antwort": "Für 2 Personen 150×200 cm, für 4 Personen 200×200 cm, für mehr als 4 Personen 200×300 cm oder größer. Lieber eine Nummer größer wählen — man braucht immer mehr Platz als gedacht."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Yorbay Picknickdecke 200×200",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01N1RMHF9?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "200 × 200",
+        "unterseite": "PEVA (wasserdicht)",
+        "material_oben": "Fleece",
+        "packbar": "Ja (Tragegriff)",
+        "waschbar": "Abwischbar",
+        "gewicht": "900"
+      }
+    },
+    {
+      "name": "SONGMICS Picknickdecke XXL 200×300",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BK7PPJR2?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "200 × 300",
+        "unterseite": "PEVA (wasserdicht)",
+        "material_oben": "Fleece",
+        "packbar": "Ja (Tragegriff + Klett)",
+        "waschbar": "Abwischbar",
+        "gewicht": "1200"
+      }
+    },
+    {
+      "name": "Amazonas Ultra-Light 200×150",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00TFO4ZYQ?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "200 × 150",
+        "unterseite": "Nylon (wasserabweisend)",
+        "material_oben": "Fallschirmseide",
+        "packbar": "Ja (Beutel, ultraleicht)",
+        "waschbar": "Ja (30°C)",
+        "gewicht": "370"
+      }
+    },
+    {
+      "name": "Tweedmill Polo Picknickdecke",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01FRZ8ZHW?tag=janxsiegmann-21",
+      "werte": {
+        "groesse": "150 × 183",
+        "unterseite": "Nylon (wasserdicht)",
+        "material_oben": "Reine Wolle (Made in UK)",
+        "packbar": "Ja (Lederriemen)",
+        "waschbar": "Nur chemische Reinigung",
+        "gewicht": "1800"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

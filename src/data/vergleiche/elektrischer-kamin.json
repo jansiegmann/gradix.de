@@ -1,0 +1,132 @@
+{
+  "slug": "elektrischer-kamin",
+  "kategorie": "heizen-klima",
+  "titel": "Elektrischer Kamin",
+  "beschreibung": "Elektrokamin Test 2026: Die 4 besten elektrischen Kamine ✓ 3D-Flammeneffekt ✓ Mit Heizfunktion ✓ Für jede Wohnung",
+  "keywords": [
+    "elektrischer kamin",
+    "elektrokamin test",
+    "elektrokamin vergleich",
+    "elektrokamin mit heizung",
+    "elektrischer kamin wand",
+    "elektrokamin 3d flamme",
+    "elektrokamin test 2026",
+    "elektrokamin kaufen",
+    "bester elektrokamin",
+    "elektrokamin wohnzimmer"
+  ],
+  "einleitung": "Gemütliche Kaminatmosphäre ohne Schornstein, Rauch und Holzschleppen? Ein elektrischer Kamin macht es möglich. Wir vergleichen vier Elektrokamine von Budget bis Premium und zeigen dir, welcher das realistischste Flammenbild liefert — und welcher auch wirklich heizt.",
+  "kaufberatung": "### Für wen eignet sich welcher Elektrokamin?\nFür kleine Wohnungen und schmale Budgets ist der KESSER Elektrokamin eine gute Wahl — günstiger Wandkamin mit solider Heizfunktion. Der RICHEN Alva bietet einen überzeugenderen 3D-Flammeneffekt und bessere Verarbeitung. Der TAGU Frode punktet mit einem hochwertigen Holzmantel und edlem Design. Und für maximalen Realismus sorgt der Dimplex Opti-Myst mit seinem Wasserdampf-Flammeneffekt.\n\n### Flammeneffekt — LED, 3D-Spiegel oder Wasserdampf?\nLED-Flammen sind am günstigsten, sehen aber am wenigsten echt aus. 3D-Spiegeltechnik (Opti-Flame) erzeugt ein deutlich realistischeres Bild mit Tiefenwirkung. Wasserdampf-Technik (Opti-Myst) ist am beeindruckendsten — echter Dampf wird beleuchtet und erzeugt Flammen, die man sogar berühren kann. Je realistischer, desto teurer.\n\n### Heizfunktion — taugt der Elektrokamin als Heizung?\nElektrokamine mit 1.500-2.000 Watt können kleine bis mittlere Räume (15-25 m²) spürbar aufwärmen. Als Hauptheizung sind sie zu teuer im Betrieb, aber als Zusatzheizung für gemütliche Abende ideal. Die meisten Modelle haben eine separat schaltbare Heizfunktion — so kannst du den Flammeneffekt auch im Sommer genießen.\n\n### Montage — Wand, Stand oder Einbau?\nWandkamine sind platzsparend und modern. Standkamine wirken wie klassische Öfen und brauchen Stellfläche. Einbaukamine verschwinden elegant in der Wand, erfordern aber bauliche Vorbereitung. Für Mietwohnungen empfehlen wir Stand- oder Wandkamine, da sie rückstandslos entfernbar sind.\n\n### Stromverbrauch — was kostet ein Elektrokamin?\nNur Flammeneffekt: ca. 10-20 Watt — das sind wenige Cent pro Abend. Mit Heizfunktion auf voller Stufe (2.000 W): ca. 80 Cent pro Stunde bei aktuellem Strompreis. Nutze die Timer-Funktion, um Kosten zu kontrollieren.",
+  "vergleichsKategorien": [
+    {
+      "key": "heizleistung",
+      "label": "Heizleistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "flammeneffekt",
+      "label": "Flammeneffekt",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "fernbedienung",
+      "label": "Fernbedienung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "masse",
+      "label": "Maße (B × H × T)",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "heizstufen",
+      "label": "Heizstufen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "timer",
+      "label": "Timer",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Braucht ein Elektrokamin einen Schornstein?",
+      "antwort": "Nein, ein Elektrokamin braucht weder Schornstein noch Abzug. Er benötigt lediglich eine Steckdose. Das macht ihn ideal für Mietwohnungen und Häuser ohne Kaminanschluss."
+    },
+    {
+      "frage": "Wie realistisch sieht ein Elektrokamin aus?",
+      "antwort": "Das hängt von der Technik ab. Günstige LED-Modelle sehen auf den ersten Blick künstlich aus. 3D-Spiegeltechnik ist schon deutlich besser. Am realistischsten sind Wasserdampf-Kamine (Opti-Myst) — die erzeugen echten Dampf, der beleuchtet wird und wie echte Flammen aussieht."
+    },
+    {
+      "frage": "Wie viel Strom verbraucht ein Elektrokamin?",
+      "antwort": "Nur mit Flammeneffekt verbraucht ein Elektrokamin 10-20 Watt — das kostet wenige Cent pro Abend. Mit Heizfunktion auf voller Stufe (2.000 W) rechne mit ca. 80 Cent pro Stunde. Die Heizfunktion lässt sich separat abschalten."
+    },
+    {
+      "frage": "Kann man einen Elektrokamin im Sommer nutzen?",
+      "antwort": "Ja, die meisten Elektrokamine haben eine separat schaltbare Heizfunktion. Du kannst den Flammeneffekt also das ganze Jahr über genießen, ohne dass der Raum aufgeheizt wird."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "KESSER Elektrokamin Wandkamin",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09TRGV2DW?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "900 / 1800",
+        "flammeneffekt": "LED (2D)",
+        "fernbedienung": "Ja",
+        "masse": "128 × 55 × 14",
+        "heizstufen": "2",
+        "timer": "1-8 Stunden"
+      }
+    },
+    {
+      "name": "RICHEN Alva Elektrokamin",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BXBPRYLM?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "1000 / 2000",
+        "flammeneffekt": "3D-Spiegeltechnik",
+        "fernbedienung": "Ja",
+        "masse": "110 × 96 × 26",
+        "heizstufen": "2",
+        "timer": "1-9 Stunden"
+      }
+    },
+    {
+      "name": "TAGU Frode Elektrokamin",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BF8YXFHH?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "750 / 1500",
+        "flammeneffekt": "3D LED + Holzmantel",
+        "fernbedienung": "Ja",
+        "masse": "105 × 95 × 26",
+        "heizstufen": "2",
+        "timer": "Ja (7-Tage)"
+      }
+    },
+    {
+      "name": "Dimplex Opti-Myst Pro 1000",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BQXVNR3T?tag=janxsiegmann-21",
+      "werte": {
+        "heizleistung": "k.A. (nur Effekt)",
+        "flammeneffekt": "Wasserdampf (Opti-Myst)",
+        "fernbedienung": "Ja",
+        "masse": "100 × 30 × 16",
+        "heizstufen": "k.A.",
+        "timer": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

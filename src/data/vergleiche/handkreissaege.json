@@ -1,0 +1,128 @@
+{
+  "slug": "handkreissaege",
+  "kategorie": "handwerk",
+  "titel": "Handkreissäge",
+  "beschreibung": "Handkreissäge Test 2026: Die 4 besten Handkreissägen im Vergleich ✓ Präzise Schnitte ✓ Kaufberatung",
+  "keywords": [
+    "handkreissäge",
+    "handkreissäge test",
+    "kreissäge",
+    "handkreissäge vergleich",
+    "beste handkreissäge",
+    "tauchkreissäge",
+    "handkreissäge kaufberatung",
+    "bosch handkreissäge",
+    "makita handkreissäge",
+    "handkreissäge 2026"
+  ],
+  "einleitung": "Lange, gerade Schnitte in Holz, Platten und Laminat — die Handkreissäge ist das Werkzeug für präzise Zuschnitte. Wir vergleichen vier Modelle von der günstigen Einstiegssäge bis zur Profi-Tauchsäge.",
+  "kaufberatung": "### Handkreissäge vs. Tauchsäge\nBei der klassischen Handkreissäge ragt das Sägeblatt unten heraus — du setzt am Werkstückrand an. Bei der Tauchsäge taucht das Blatt von oben ins Material ein — ideal für Ausschnitte und Arbeitsplatten. Tauchsägen sind vielseitiger aber teurer.\n\n### Sägeblattdurchmesser: 160 mm oder 190 mm?\n160 mm für Schnitttiefe bis ca. 55 mm — reicht für die meisten Platten und dünne Balken. 190 mm für bis zu 70 mm Schnitttiefe — nötig für dickere Materialien. Für den Heimgebrauch reichen meist 160 mm.\n\n### Führungsschiene: Der Unterschied zwischen gut und perfekt\nEine Führungsschiene (separat erhältlich) verwandelt jede Handkreissäge in eine Präzisionsmaschine. Schnitte werden absolut gerade, splitterfrei und auf den Millimeter genau. Für Möbelbau fast Pflicht.\n\n### Drehzahl und Sägeblattqualität\nDie Drehzahl ist meist fest (4.000-5.500 U/min). Wichtiger ist die Qualität des Sägeblatts: Ein gutes HM-Sägeblatt (Hartmetall) mit 48-60 Zähnen liefert saubere Schnitte. Das mitgelieferte Blatt ist oft nur Durchschnitt — ein Upgrade lohnt sich.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "saegeblatt",
+      "label": "Sägeblattdurchmesser",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "schnitttiefe_90",
+      "label": "Max. Schnitttiefe (90°)",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "schnitttiefe_45",
+      "label": "Max. Schnitttiefe (45°)",
+      "einheit": "mm",
+      "sortierung": 4
+    },
+    {
+      "key": "drehzahl",
+      "label": "Drehzahl",
+      "einheit": "U/min",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einer Handkreissäge auch Metall schneiden?",
+      "antwort": "Dünnwandige Metallprofile (Alu, dünner Stahl) ja — mit speziellem Metallsägeblatt. Für dickeres Metall brauchst du eine Metallhandkreissäge oder einen Winkelschleifer mit Trennscheibe."
+    },
+    {
+      "frage": "Warum splittert das Holz beim Kreissägen?",
+      "antwort": "Die Unterseite des Werkstücks splittert, weil die Sägezähne nach oben aus dem Material austreten. Abhilfe: Gute Seite nach unten legen, Führungsschiene mit Splitterschutz nutzen, scharfes Blatt mit vielen Zähnen verwenden."
+    },
+    {
+      "frage": "Lohnt sich eine Führungsschiene für die Handkreissäge?",
+      "antwort": "Absolut. Eine Führungsschiene (z.B. Bosch FSN oder Festool FS) kostet 50-100 Euro und macht aus einer normalen Handkreissäge eine Präzisionssäge. Für gerade Schnitte in Platten und Arbeitsplatten unverzichtbar."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-CS 1400",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B091Y3YQJQ?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1400",
+        "saegeblatt": "190",
+        "schnitttiefe_90": "66",
+        "schnitttiefe_45": "45",
+        "drehzahl": "5.200",
+        "gewicht": "4,2"
+      }
+    },
+    {
+      "name": "Bosch PKS 55 A",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00F4PK0CQ?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1200",
+        "saegeblatt": "160",
+        "schnitttiefe_90": "55",
+        "schnitttiefe_45": "38",
+        "drehzahl": "5.600",
+        "gewicht": "3,9"
+      }
+    },
+    {
+      "name": "Bosch GKS 190 Professional",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000NI5OU2?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1400",
+        "saegeblatt": "190",
+        "schnitttiefe_90": "70",
+        "schnitttiefe_45": "50",
+        "drehzahl": "5.500",
+        "gewicht": "4,2"
+      }
+    },
+    {
+      "name": "Festool TS 55 F Plus",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08HCZFTV7?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1050",
+        "saegeblatt": "160",
+        "schnitttiefe_90": "55",
+        "schnitttiefe_45": "43",
+        "drehzahl": "2.000-5.200",
+        "gewicht": "4,5"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

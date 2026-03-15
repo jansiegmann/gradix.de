@@ -1,0 +1,128 @@
+{
+  "slug": "haengematte-outdoor",
+  "kategorie": "outdoor",
+  "titel": "Hängematte (Outdoor)",
+  "beschreibung": "Hängematte Test 2026: Die 4 besten Outdoor-Hängematten ✓ Ultraleicht & reißfest ✓ Für Camping & Garten ✓ Kaufberatung",
+  "keywords": [
+    "hängematte",
+    "hängematte outdoor",
+    "hängematte test",
+    "camping hängematte",
+    "reisehängematte",
+    "hängematte vergleich",
+    "hängematte test 2026",
+    "hängematte ultraleicht",
+    "hängematte mit moskitonetz",
+    "hängematte aufhängen"
+  ],
+  "einleitung": "Entspannen zwischen zwei Bäumen — eine Outdoor-Hängematte gehört zu jedem Camping-Trip und in jeden Garten. Wir vergleichen vier Hängematten von Budget bis Profi.",
+  "kaufberatung": "### Fallschirmseide, Baumwolle oder Nylon?\nFallschirmseide (Nylon) ist ultraleicht, schnell trocknend und extrem reißfest — ideal für Trekking und Camping. Baumwolle ist bequemer und hautfreundlicher, aber schwerer und trocknet langsam — besser für den Garten. Netzhängematten aus Poly-Baumwolle sind der südamerikanische Klassiker.\n\n### Welche Größe brauche ich?\nEinzelhängematten sind 140-160 cm breit, Doppelhängematten 180-220 cm. Für bequemes Liegen empfehlen wir mindestens 280 cm Gesamtlänge. Diagonal liegen ist am bequemsten — dafür braucht die Hängematte genug Breite.\n\n### Aufhängung — Bäume, Gestell oder Haken?\nBaumgurte (Tree Straps) sind am flexibelsten und schonen die Bäume. Karabiner und Seile funktionieren auch, können aber die Rinde beschädigen. Für den Garten gibt es freistehende Gestelle aus Holz oder Metall.\n\n### Brauche ich ein Moskitonetz?\nFür Camping in warmen Regionen unbedingt! Integrierte Moskitonetze sind am praktischsten — kein separates Aufhängen nötig. Für den Garten in Deutschland ist es optional.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "tragkraft",
+      "label": "Tragkraft",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "groesse",
+      "label": "Liegefläche",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 4
+    },
+    {
+      "key": "aufhaengung",
+      "label": "Aufhängung inklusive",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "moskitonetz",
+      "label": "Moskitonetz",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie hänge ich eine Hängematte zwischen zwei Bäumen auf?",
+      "antwort": "Verwende Baumgurte (Tree Straps), die du um den Baum wickelst und mit Karabinern an der Hängematte befestigst. Idealer Abstand zwischen den Bäumen: 3-5 Meter. Die Hängematte sollte ein leichtes U bilden — nicht zu straff spannen."
+    },
+    {
+      "frage": "Kann man in einer Hängematte schlafen?",
+      "antwort": "Ja, mit der richtigen Technik. Lege dich diagonal in die Hängematte — das ergibt eine flachere, bequemere Liegefläche. Für kalte Nächte brauchst du ein Underquilt oder eine Isomatte in der Hängematte, da die Unterseite kalt wird."
+    },
+    {
+      "frage": "Wie viel Gewicht hält eine Hängematte aus?",
+      "antwort": "Die meisten Outdoor-Hängematten tragen 150-300 kg. Doppelhängematten sogar bis 400 kg. Die Aufhängung (Baumgurte, Karabiner) muss ebenfalls die Last tragen können — achte auf die Angaben."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Covacure Camping Hängematte",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BGJ6F8PB?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Fallschirmseide (210T Nylon)",
+        "tragkraft": "300",
+        "groesse": "275 × 140",
+        "gewicht": "560",
+        "aufhaengung": "Ja (Karabiner + Seile)",
+        "moskitonetz": "Nein"
+      }
+    },
+    {
+      "name": "Naturefun Ultraleicht Hängematte",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B071JMGWXK?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Fallschirmseide (Nylon)",
+        "tragkraft": "300",
+        "groesse": "290 × 140",
+        "gewicht": "600",
+        "aufhaengung": "Ja (Baumgurte + Karabiner)",
+        "moskitonetz": "Nein"
+      }
+    },
+    {
+      "name": "Ticket to the Moon Original",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B006V6JJ3W?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Fallschirmseide (Nylon, fairtrade)",
+        "tragkraft": "200",
+        "groesse": "320 × 200",
+        "gewicht": "600",
+        "aufhaengung": "Optional (separat)",
+        "moskitonetz": "Nein"
+      }
+    },
+    {
+      "name": "DD Hammocks Frontline Hängematte",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B005GSTKNW?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Nylon (190T)",
+        "tragkraft": "125",
+        "groesse": "270 × 140",
+        "gewicht": "860",
+        "aufhaengung": "Ja (Baumgurte)",
+        "moskitonetz": "Ja (integriert)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

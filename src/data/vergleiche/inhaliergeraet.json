@@ -1,0 +1,128 @@
+{
+  "slug": "inhaliergeraet",
+  "kategorie": "koerperpflege",
+  "titel": "Inhaliergerät / Vernebler",
+  "beschreibung": "Inhaliergerät Test 2026: Die 4 besten Vernebler im Vergleich ✓ Für Kinder & Erwachsene ✓ Kaufberatung",
+  "keywords": [
+    "inhaliergerät test",
+    "inhalator vernebler",
+    "inhaliergerät vergleich",
+    "inhaliergerät kinder",
+    "pari boy",
+    "inhaliergerät test 2026",
+    "vernebler test",
+    "inhaliergerät kaufberatung",
+    "inhaliergerät asthma",
+    "inhaliergerät medisana"
+  ],
+  "einleitung": "Ob bei Erkältung, Asthma oder chronischer Bronchitis — ein Inhaliergerät bringt Wirkstoffe direkt in die Atemwege. Die Unterschiede bei Verneblerleistung, Partikelgröße und Lautstärke sind entscheidend. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Kompressor, Ultraschall oder Mesh-Vernebler?\nKompressor-Vernebler (Düsenvernebler) sind am verbreitetsten — zuverlässig, günstig, aber laut. Ultraschall-Vernebler sind leiser, können aber manche Medikamente zersetzen. Mesh-Vernebler sind kompakt, leise und effizient — ideal für unterwegs.\n\n### Partikelgröße ist entscheidend\nFür die oberen Atemwege (Nase, Rachen): 5–10 µm. Für die unteren Atemwege (Bronchien, Lunge): 1–5 µm. Achte auf die MMAD-Angabe (mittlerer aerodynamischer Massendurchmesser). Für Asthmapatienten sind kleine Partikel unter 5 µm wichtig.\n\n### Für Kinder geeignet?\nKinder brauchen eine Kindermaske und einen leisen Vernebler, der nicht erschreckt. Der Pari Boy SX hat eine spezielle Kindermaske und ist bei Kinderärzten der Standard. Mesh-Vernebler sind für Kinder durch ihre Lautlosigkeit oft die bessere Wahl.\n\n### Medikamentenkompatibilität\nNicht jeder Vernebler ist mit jedem Medikament kompatibel. Ultraschall-Geräte können Kortikosteroide und Antibiotika zersetzen. Kompressor- und Mesh-Vernebler sind universell einsetzbar. Frage im Zweifel deinen Arzt.\n\n### Reinigung\nNach jeder Nutzung: Verneblerkammer und Maske mit warmem Wasser ausspülen. Wöchentlich desinfizieren. Schimmel und Keime in der Verneblerkammer können die Gesundheit gefährden.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Verneblertyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "partikelgroesse",
+      "label": "Partikelgröße (MMAD)",
+      "einheit": "µm",
+      "sortierung": 2
+    },
+    {
+      "key": "verneblerleistung",
+      "label": "Verneblerleistung",
+      "einheit": "ml/min",
+      "sortierung": 3
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 4
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "tragbar",
+      "label": "Tragbar",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Inhaliergerät empfehlen Ärzte?",
+      "antwort": "Der Pari Boy SX ist der Goldstandard bei Kinderärzten und Pneumologen. Für unterwegs empfehlen viele Ärzte den Omron MicroAIR U100 (Mesh-Vernebler). Die Wahl hängt vom Krankheitsbild ab — frage deinen Arzt."
+    },
+    {
+      "frage": "Kann ich auch mit Kochsalzlösung inhalieren?",
+      "antwort": "Ja, isotonische Kochsalzlösung (0,9 %) ist das Standard-Inhalat bei Erkältungen. Sie befeuchtet die Atemwege und löst Schleim. Für tiefere Wirkung kannst du hypertone Lösung (3–7 %) verwenden — aber nur nach ärztlicher Empfehlung."
+    },
+    {
+      "frage": "Wie oft sollte man inhalieren?",
+      "antwort": "Bei Erkältungen 2–3 Mal täglich für 10–15 Minuten. Bei Asthma oder COPD nach ärztlicher Verordnung — oft morgens und abends. Zwischen den Inhalationen mindestens 4 Stunden Pause."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Medisana IN 500",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00GRJQ78E?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kompressor (Düsenvernebler)",
+        "partikelgroesse": "ca. 3,0",
+        "verneblerleistung": "0,35",
+        "lautstaerke": "60",
+        "zubehoer": "Erwachsenen- + Kindermaske + Mundstück",
+        "tragbar": "Nein (Tischgerät)"
+      }
+    },
+    {
+      "name": "Pari Boy SX",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B003V1MNOE?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kompressor (Düsenvernebler)",
+        "partikelgroesse": "3,5",
+        "verneblerleistung": "0,5",
+        "lautstaerke": "52",
+        "zubehoer": "Pari LC Sprint + Kindermaske + Mundstück",
+        "tragbar": "Nein (Tischgerät)"
+      }
+    },
+    {
+      "name": "Omron MicroAIR U100",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07D9JKDB8?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Mesh-Vernebler",
+        "partikelgroesse": "ca. 4,2",
+        "verneblerleistung": "0,25",
+        "lautstaerke": "unter 20",
+        "zubehoer": "Maske + Mundstück",
+        "tragbar": "Ja (Akku, 97g)"
+      }
+    },
+    {
+      "name": "Pari Boy Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09XHLCVNJ?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kompressor (Düsenvernebler)",
+        "partikelgroesse": "3,0",
+        "verneblerleistung": "0,68",
+        "lautstaerke": "52",
+        "zubehoer": "Pari LC Sprint + TurboBOY-S + Masken",
+        "tragbar": "Nein (Tischgerät, Premium-Kompressor)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

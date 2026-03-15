@@ -1,0 +1,176 @@
+{
+  "slug": "kinderschaukel",
+  "kategorie": "kinder",
+  "titel": "Kinderschaukel",
+  "beschreibung": "Kinderschaukel Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "kinderschaukel test",
+    "schaukel garten vergleich",
+    "kinderschaukel kaufberatung",
+    "kinderschaukel 2026"
+  ],
+  "einleitung": "Du suchst eine Kinderschaukel für den Garten — Einzelschaukel, Doppelschaukel oder Nestschaukel? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Einzelschaukel, Doppelschaukel oder Nestschaukel?\nEinzelschaukel: Platzsparend, für 1 Kind. Doppelschaukel: Zwei Kinder gleichzeitig — die beliebteste Variante. Nestschaukel: Große Sitzfläche (90-110 cm Ø) für 1-2 Kinder gleichzeitig, auch zum Liegen — sehr beliebt bei Kleinkindern.\n\n### Holz oder Metall?\nHolzgestelle (WICKEY, FATMOOSE) sind stabiler, sehen natürlicher aus und integrieren sich besser in den Garten. Metallgestelle sind leichter und günstiger, aber oft weniger stabil und ästhetisch. Für den langfristigen Einsatz: Holz.\n\n### Bodenanker — warum wichtig?\nPflicht! Ohne Bodenanker kann das Schaukelgestell bei kräftigem Schwingen kippen. Die meisten Sets enthalten Erdanker, die in den Boden geschraubt werden. Bei sehr weichem Boden: Betonfundamente für die Pfosten setzen.\n\n### Welcher Untergrund?\nRasen, Sand oder Rindenmulch — kein Beton oder Pflaster. Unter und um die Schaukel sollte ein Fallschutzbereich von mindestens 2 Metern in jede Richtung frei sein. Rindenmulch (mind. 30 cm tief) oder Fallschutzmatten reduzieren Verletzungen bei Stürzen.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Belastung",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "sitze",
+      "label": "Sitze",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "verankerung",
+      "label": "Verankerung",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "altersempfehlung",
+      "label": "Alter",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ab welchem Alter können Kinder schaukeln?",
+      "antwort": "Mit einem Babysitz (mit Sicherheitsbügel und Gurten) ab ca. 12 Monaten. Normale Brettschaukel ab 3-4 Jahren, wenn das Kind sich sicher festhalten kann. Nestschaukeln sind ab 2-3 Jahren geeignet — Kinder können sich hinlegen und werden von den Rändern gehalten."
+    },
+    {
+      "frage": "Wie hoch sollte ein Schaukelgestell sein?",
+      "antwort": "Für Kinder ab 3 Jahren: Aufhängehöhe 200-220 cm. Für ältere Kinder und Erwachsene: 245+ cm. Die Sitzhöhe der Schaukel sollte so eingestellt sein, dass die Füße des Kindes den Boden leicht berühren können."
+    },
+    {
+      "frage": "Kann ich eine Nestschaukel an einen Baum hängen?",
+      "antwort": "Ja, wenn der Ast mindestens 15 cm Durchmesser hat, gesund ist und waagerecht verläuft. Verwende Baumschlingen (keine Seile, die einschneiden) und Karabiner mit mindestens 200 kg Belastbarkeit. Regelmäßig Aufhängung und Ast kontrollieren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "HUDORA Nestschaukel 90cm",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B001MFBFS4?tag=janxsiegmann-21",
+      "preis": 35,
+      "bewertung": 3.5,
+      "werte": {
+        "typ": "Nestschaukel (einzeln, ohne Gestell)",
+        "material": "Stahl + PE-Seil",
+        "hoehe": "k.A. (zum Aufhängen)",
+        "max_gewicht": "100",
+        "sitze": "1 (Nestschaukel Ø 90cm)",
+        "verankerung": "Aufhängung an Baum/Balken",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "WICKEY Schaukelgestell Smart Rush",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BKY3TP71?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.0,
+      "werte": {
+        "typ": "Doppelschaukel",
+        "material": "Holz (KDI-imprägniert)",
+        "hoehe": "220",
+        "max_gewicht": "2 × 50",
+        "sitze": "2 Brettschaukeln",
+        "verankerung": "Bodenanker (inklusive)",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "FATMOOSE Schaukelgestell JollyJack",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01F0MMWV6?tag=janxsiegmann-21",
+      "preis": 300,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Doppelschaukel",
+        "material": "Holz (KDI, 7×7 cm Pfosten)",
+        "hoehe": "245",
+        "max_gewicht": "2 × 50",
+        "sitze": "2 Brettschaukeln",
+        "verankerung": "Bodenanker (inklusive)",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Spielturm mit Schaukel (ISIDOR)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0794TFHSY?tag=janxsiegmann-21",
+      "preis": 800,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Schaukelgestell + Spielturm Kombi",
+        "material": "Holz (Fichte, gehobelt)",
+        "hoehe": "250",
+        "max_gewicht": "2 × 50 + Turm 150",
+        "sitze": "2 Schaukeln + Turm",
+        "verankerung": "Bodenanker",
+        "altersempfehlung": "Ab 3 Jahre"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

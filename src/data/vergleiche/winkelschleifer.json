@@ -1,0 +1,128 @@
+{
+  "slug": "winkelschleifer",
+  "kategorie": "handwerk",
+  "titel": "Winkelschleifer",
+  "beschreibung": "Winkelschleifer Test 2026: Die 4 besten 125-mm-Winkelschleifer ✓ Trennen & Schleifen ✓ Kaufberatung",
+  "keywords": [
+    "winkelschleifer",
+    "winkelschleifer test",
+    "flex",
+    "winkelschleifer 125",
+    "trennschleifer",
+    "winkelschleifer vergleich",
+    "bester winkelschleifer",
+    "winkelschleifer kaufberatung",
+    "bosch winkelschleifer",
+    "makita winkelschleifer"
+  ],
+  "einleitung": "Metall trennen, Fliesen schneiden, Rost entfernen — der Winkelschleifer (umgangssprachlich 'Flex') ist eines der vielseitigsten Werkzeuge überhaupt. Wir vergleichen vier 125-mm-Modelle.",
+  "kaufberatung": "### 125 mm vs. 230 mm\n125 mm ist die Standard-Größe für Heimwerker. Leichter, handlicher und für 90% aller Aufgaben ausreichend. 230-mm-Geräte schneiden tiefer, sind aber schwerer und weniger kontrollierbar.\n\n### Sicherheitsfeatures: Nicht verhandelbar\nWiederanlaufschutz (verhindert unkontrollierten Start nach Stromausfall), Sanftanlauf (langsames Hochfahren) und Überlastschutz sind Pflicht. Winkelschleifer sind leistungsstarke, potenziell gefährliche Werkzeuge.\n\n### Drehzahlregelung\nFür Schleifarbeiten und Polieren brauchst du niedrigere Drehzahlen als zum Trennen. Eine regelbare Drehzahl macht den Winkelschleifer vielseitiger.\n\n### Scheibenwechsel werkzeuglos\nDas SDS-Clic-System (Bosch) oder vergleichbare Systeme ermöglichen werkzeuglosen Scheibenwechsel. Extrem praktisch im Arbeitsalltag.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "scheibendurchmesser",
+      "label": "Scheibendurchmesser",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "drehzahl",
+      "label": "Drehzahl",
+      "einheit": "U/min",
+      "sortierung": 3
+    },
+    {
+      "key": "sanftanlauf",
+      "label": "Sanftanlauf",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "wiederanlaufschutz",
+      "label": "Wiederanlaufschutz",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Warum heißt der Winkelschleifer auch Flex?",
+      "antwort": "'Flex' ist eigentlich ein Markenname der Firma Flex-Elektrowerkzeuge, die 1935 den ersten handlichen Winkelschleifer entwickelte. Der Name wurde zum Gattungsbegriff — ähnlich wie 'Tempo' für Taschentücher."
+    },
+    {
+      "frage": "Welche Trennscheibe für welches Material?",
+      "antwort": "Metall: Trennscheiben mit Korund (braun/grau). Stein/Beton: Diamant-Trennscheiben. Fliesen: Diamant-Trennscheiben mit geschlossenem Rand. Holz: NIEMALS mit einem Winkelschleifer Holz schneiden — extreme Rückschlaggefahr!"
+    },
+    {
+      "frage": "Darf ich mit dem Winkelschleifer Holz bearbeiten?",
+      "antwort": "Schleifen mit Fächerscheiben ist möglich und sicher. Trennen/Schneiden von Holz mit dem Winkelschleifer ist extrem gefährlich und sollte niemals gemacht werden. Holz kann den Winkelschleifer blockieren und zu unkontrolliertem Rückschlag führen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell TC-AG 125",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09M8WJD3P?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "850",
+        "scheibendurchmesser": "125",
+        "drehzahl": "11.000",
+        "sanftanlauf": "Nein",
+        "wiederanlaufschutz": "Nein",
+        "gewicht": "2,0"
+      }
+    },
+    {
+      "name": "Bosch GWS 7-125 Professional",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B000BBRR4I?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "720",
+        "scheibendurchmesser": "125",
+        "drehzahl": "11.000",
+        "sanftanlauf": "Nein",
+        "wiederanlaufschutz": "Ja",
+        "gewicht": "1,9"
+      }
+    },
+    {
+      "name": "Bosch GWS 13-125 CIE Professional",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B005ONRRM2?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1300",
+        "scheibendurchmesser": "125",
+        "drehzahl": "2.800-11.500",
+        "sanftanlauf": "Ja",
+        "wiederanlaufschutz": "Ja",
+        "gewicht": "2,3"
+      }
+    },
+    {
+      "name": "Metabo WEV 11-125 Quick",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0047FUVR4?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1100",
+        "scheibendurchmesser": "125",
+        "drehzahl": "2.800-11.000",
+        "sanftanlauf": "Ja",
+        "wiederanlaufschutz": "Ja",
+        "gewicht": "2,1"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

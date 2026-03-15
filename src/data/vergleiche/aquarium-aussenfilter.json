@@ -1,0 +1,128 @@
+{
+  "slug": "aquarium-aussenfilter",
+  "kategorie": "aquaristik",
+  "titel": "Aquarium-Außenfilter",
+  "beschreibung": "Aquarium-Außenfilter Test 2026: Die 4 besten Außenfilter im Vergleich ✓ Leise & leistungsstark ✓ Kaufberatung",
+  "keywords": [
+    "aquarium außenfilter test",
+    "außenfilter aquarium",
+    "aquarium filter test",
+    "eheim außenfilter",
+    "jbl außenfilter",
+    "aquarium außenfilter vergleich",
+    "außenfilter 200 liter",
+    "aquarium filter leise",
+    "aquarium außenfilter test 2026",
+    "außenfilter kaufberatung"
+  ],
+  "einleitung": "Ein leistungsstarker Außenfilter ist das Herzstück jedes größeren Aquariums. Er sorgt für kristallklares Wasser und ein gesundes Ökosystem. Wir vergleichen vier Außenfilter von Einsteiger bis Profi.",
+  "kaufberatung": "### Filterleistung: Wie viel l/h brauche ich?\nDer Filter sollte das Beckenvolumen 2–3 Mal pro Stunde umwälzen. Für ein 200-Liter-Aquarium brauchst du also 400–600 l/h Pumpenleistung. Lieber etwas überdimensionieren als zu schwach.\n\n### Filtermedien: Mechanisch, biologisch, chemisch\nGute Außenfilter kombinieren mechanische (Schwämme), biologische (Substrat für Bakterien) und optional chemische Filtration (Aktivkohle). Die biologische Filtration ist die wichtigste — hier werden giftige Stoffe abgebaut.\n\n### Lautstärke zählt\nDer Filter läuft 24/7. Ein lauter Filter nervt im Wohnzimmer. Eheim und JBL gelten als besonders leise. Achte auf dB-Angaben oder Nutzerbewertungen.\n\n### Selbstansaugend vs. manuelles Ansaugen\nSelbstansaugende Filter starten per Knopfdruck — kein Mund-Ansaugen mehr. Bei Eheim und JBL Standard. Spart Nerven beim Neustart nach der Reinigung.\n\n### Reinigungsintervall\nAußenfilter müssen nur alle 4–8 Wochen gereinigt werden. Wichtig: Filtermedien nur mit Aquariumwasser ausspülen — Leitungswasser tötet die nützlichen Bakterien.",
+  "vergleichsKategorien": [
+    {
+      "key": "beckengroesse",
+      "label": "Für Becken bis",
+      "einheit": "Liter",
+      "sortierung": 1
+    },
+    {
+      "key": "pumpenleistung",
+      "label": "Pumpenleistung",
+      "einheit": "l/h",
+      "sortierung": 2
+    },
+    {
+      "key": "filtervolumen",
+      "label": "Filtervolumen",
+      "einheit": "Liter",
+      "sortierung": 3
+    },
+    {
+      "key": "leistungsaufnahme",
+      "label": "Leistungsaufnahme",
+      "einheit": "W",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Geräuschpegel",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "selbstansaugend",
+      "label": "Selbstansaugend",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft muss ich einen Außenfilter reinigen?",
+      "antwort": "Alle 4–8 Wochen, je nach Besatz und Fütterung. Reinige die Filtermedien nur mit Aquariumwasser. Nie den gesamten Filter auf einmal reinigen — immer nur einen Teil, damit die Bakterienkultur erhalten bleibt."
+    },
+    {
+      "frage": "Welcher Außenfilter ist am leisesten?",
+      "antwort": "Eheim und JBL gelten als die leisesten Außenfilter. Der Eheim professionel 4+ 350 und der JBL CristalProfi e902 sind im Betrieb kaum hörbar — ideal für Wohnzimmer-Aquarien."
+    },
+    {
+      "frage": "Kann ein Außenfilter zu stark sein?",
+      "antwort": "Ja, zu starke Strömung stresst ruhige Fische wie Kampffische oder Garnelen. Die meisten Außenfilter haben einen Durchflussregler. Für empfindliche Tiere die Strömung reduzieren oder einen Spray-Bar-Aufsatz verwenden."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "JBL CristalProfi e702 greenline",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07DJRPNPR?tag=janxsiegmann-21",
+      "werte": {
+        "beckengroesse": "200",
+        "pumpenleistung": "700",
+        "filtervolumen": "6,1",
+        "leistungsaufnahme": "9",
+        "lautstaerke": "sehr leise",
+        "selbstansaugend": "Ja"
+      }
+    },
+    {
+      "name": "Eheim professionel 4+ 250",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B009S33S2G?tag=janxsiegmann-21",
+      "werte": {
+        "beckengroesse": "250",
+        "pumpenleistung": "950",
+        "filtervolumen": "5,2",
+        "leistungsaufnahme": "12",
+        "lautstaerke": "sehr leise",
+        "selbstansaugend": "Ja (Xtender)"
+      }
+    },
+    {
+      "name": "JBL CristalProfi e1502 greenline",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07DJRF1K1?tag=janxsiegmann-21",
+      "werte": {
+        "beckengroesse": "700",
+        "pumpenleistung": "1.400",
+        "filtervolumen": "12",
+        "leistungsaufnahme": "20",
+        "lautstaerke": "leise",
+        "selbstansaugend": "Ja"
+      }
+    },
+    {
+      "name": "Eheim professionel 4+ 350",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B009S33PKA?tag=janxsiegmann-21",
+      "werte": {
+        "beckengroesse": "350",
+        "pumpenleistung": "1.050",
+        "filtervolumen": "5,2",
+        "leistungsaufnahme": "16",
+        "lautstaerke": "nahezu unhörbar",
+        "selbstansaugend": "Ja (Xtender + Vorfilter)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

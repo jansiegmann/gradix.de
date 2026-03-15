@@ -1,0 +1,176 @@
+{
+  "slug": "schlitten",
+  "kategorie": "kinder",
+  "titel": "Schlitten",
+  "beschreibung": "Schlitten Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "schlitten test",
+    "schlitten vergleich",
+    "holzschlitten kaufberatung",
+    "schlitten 2026"
+  ],
+  "einleitung": "Du suchst einen Schlitten für die ganze Familie — Holzklassiker, Lenkschlitten oder modernen Bob? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Holzschlitten, Lenkbob oder Lenkschlitten?\nHolzschlitten (Davoser) sind der Klassiker — langlebig, nostalgisch, für 2 Personen, aber nicht lenkbar. Lenkbobs (KHW Snow Star) haben ein Lenkrad und Bremse — sicherer und spaßiger für Kinder. Lenkschlitten (Hamax) kombinieren die Stabilität eines Schlittens mit Lenkbarkeit.\n\n### Ab welchem Alter können Kinder allein rodeln?\nMit Lenkbob ab ca. 3 Jahren auf flachen, übersichtlichen Hängen. Auf klassischen Holzschlitten können kleine Kinder ab ca. 2 Jahren mit einem Erwachsenen zusammen fahren. Allein auf steileren Hängen frühestens ab 6 Jahren.\n\n### TÜV/GS-Prüfung — worauf achten?\nAchte auf TÜV/GS-Prüfzeichen. Geprüft werden Stabilität, Bruchfestigkeit und Schadstoffgehalt. Besonders bei Kunststoff-Bobs ist die Qualität sehr unterschiedlich — billige Modelle können bei Kälte spröde werden und brechen.\n\n### Pflege und Lagerung\nHolzschlitten nach der Saison trocknen lassen und die Kufen mit Leinöl einreiben. Im Keller oder in der Garage lagern — nicht im Freien, da UV und Feuchtigkeit das Holz angreifen. Kunststoff-Bobs sind pflegeleichter.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "sitzplaetze",
+      "label": "Sitzplätze",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "max_belastung",
+      "label": "Max. Belastung",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "lenkbar",
+      "label": "Lenkbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "masse",
+      "label": "Maße (L×B)",
+      "einheit": "cm",
+      "sortierung": 6
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Schlitten ist der sicherste für Kinder?",
+      "antwort": "Lenkbobs (KHW Snow Star) mit Lenkrad und Bremse bieten die höchste Sicherheit für Kinder ab 3 Jahren. Der Hamax Sno Zebra kombiniert Lenkbarkeit mit Platz für 2 Personen. Holzschlitten ohne Lenkung und Bremse sind weniger sicher auf steilen Hängen."
+    },
+    {
+      "frage": "Davoser oder Hörnerschlitten?",
+      "antwort": "Davoser Schlitten sind schmaler und schneller — ideal für ältere Kinder und Erwachsene. Hörnerschlitten haben gebogene Griffe vorne, an denen sich kleine Kinder festhalten können — sicherer für die Kleinen. Für Familien mit kleinen Kindern: Hörnerschlitten."
+    },
+    {
+      "frage": "Kann man auf einem Holzschlitten zu zweit fahren?",
+      "antwort": "Ja, die meisten 110-cm-Schlitten tragen 90-100 kg. Ein Erwachsener + Kind ist problemlos möglich. Zwei Erwachsene sollten die Belastungsgrenze prüfen und einen 120-cm-Schlitten wählen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "KHW Snow Star Lenkbob",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B001FB6IG6?tag=janxsiegmann-21",
+      "preis": 20,
+      "bewertung": 3.5,
+      "werte": {
+        "typ": "Lenkbob",
+        "material": "Kunststoff",
+        "sitzplaetze": "1",
+        "max_belastung": "80",
+        "lenkbar": "Ja (Lenkrad + Bremse)",
+        "masse": "90 × 50",
+        "gewicht": "2,5"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Colint Davos Holzschlitten 110",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B009MFACDE?tag=janxsiegmann-21",
+      "preis": 60,
+      "bewertung": 4.0,
+      "werte": {
+        "typ": "Holzschlitten (Davoser)",
+        "material": "Buche (lackiert)",
+        "sitzplaetze": "2",
+        "max_belastung": "90",
+        "lenkbar": "Nein",
+        "masse": "110 × 34",
+        "gewicht": "5"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Hamax Sno Zebra",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00N5FAAXY?tag=janxsiegmann-21",
+      "preis": 50,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Lenkschlitten",
+        "material": "Kunststoff + Metall",
+        "sitzplaetze": "2",
+        "max_belastung": "100",
+        "lenkbar": "Ja (Lenker + Bremse)",
+        "masse": "109 × 55",
+        "gewicht": "4,5"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Sirch Abyss Schlitten",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07L9FRWXT?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Design-Holzschlitten",
+        "material": "Esche (dampfgebogen)",
+        "sitzplaetze": "2",
+        "max_belastung": "100",
+        "lenkbar": "Nein",
+        "masse": "115 × 35",
+        "gewicht": "5"
+      },
+      "vorteile": [
+        "Solide Leistung für den Preis",
+        "Gute Verarbeitung"
+      ],
+      "nachteile": [
+        "Einschränkungen bei intensiver Nutzung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

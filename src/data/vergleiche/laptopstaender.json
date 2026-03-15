@@ -1,0 +1,128 @@
+{
+  "slug": "laptopstaender",
+  "kategorie": "buero",
+  "titel": "Laptopständer",
+  "beschreibung": "Laptopständer Test 2026: Die 4 besten Laptopständer ✓ Höhenverstellbar ✓ Für ergonomisches Arbeiten ✓ Aluminium & Holz",
+  "keywords": [
+    "laptopständer",
+    "laptopständer test",
+    "laptop erhöhung",
+    "laptopständer höhenverstellbar",
+    "laptopständer vergleich",
+    "laptopständer aluminium",
+    "laptop ständer test 2026",
+    "laptop halterung schreibtisch",
+    "laptopständer ergonomisch",
+    "notebook ständer"
+  ],
+  "einleitung": "Nackenschmerzen vom Laptop? Ein Laptopständer bringt den Bildschirm auf Augenhöhe und verbessert deine Haltung sofort. Wir vergleichen vier Modelle von einfach bis höhenverstellbar.",
+  "kaufberatung": "### Warum brauche ich einen Laptopständer?\nOhne Ständer schaust du ständig nach unten auf den Laptop — das belastet Nacken und Schultern. Ein Ständer hebt den Bildschirm auf Augenhöhe. Ideal kombiniert mit externer Tastatur und Maus.\n\n### Fest oder höhenverstellbar?\nFeste Ständer sind stabiler und günstiger. Höhenverstellbare Modelle passen sich an deine Körpergröße an und lassen sich bei Nichtgebrauch zusammenklappen. Für den festen Schreibtischplatz reicht ein fester Ständer, für mobiles Arbeiten brauchst du einen faltbaren.\n\n### Material — Aluminium, Holz oder Kunststoff?\nAluminium ist stabil, leitet Wärme ab (kühlt den Laptop) und sieht wertig aus. Holz/Bambus ist nachhaltig und warm im Design. Kunststoff ist am günstigsten, aber weniger stabil.\n\n### Kühlung als Bonus\nAluminium-Ständer mit offener Unterseite verbessern die Luftzirkulation unter dem Laptop und können die Temperatur um 5-10°C senken. Für Geräte mit starker Hitzeentwicklung ein echtes Plus.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "hoehenverstellbar",
+      "label": "Höhenverstellbar",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "max_laptop",
+      "label": "Max. Laptopgröße",
+      "einheit": "Zoll",
+      "sortierung": 3
+    },
+    {
+      "key": "tragkraft",
+      "label": "Tragkraft",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "faltbar",
+      "label": "Faltbar/tragbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich zum Laptopständer eine externe Tastatur?",
+      "antwort": "Ja, dringend empfohlen. Wenn der Laptop erhöht steht, ist die eingebaute Tastatur nicht mehr bequem erreichbar. Eine externe Tastatur und Maus sind für ergonomisches Arbeiten mit Laptopständer unverzichtbar."
+    },
+    {
+      "frage": "Welcher Laptopständer passt für ein MacBook?",
+      "antwort": "Alle Ständer in unserem Vergleich passen für MacBooks. Besonders gut harmonieren Aluminium-Ständer wie der Rain Design mStand mit dem MacBook-Design. Achte auf rutschfeste Auflagen, damit das MacBook nicht rutscht."
+    },
+    {
+      "frage": "Kühlt ein Laptopständer den Laptop?",
+      "antwort": "Ein offener Ständer verbessert die Luftzirkulation unter dem Laptop deutlich. Aluminium-Ständer leiten zusätzlich Wärme ab. Das kann die Temperatur um 5-10°C senken — besonders hilfreich bei intensiven Aufgaben."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "SOUNDANCE Laptopständer Aluminium",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B073LKDM6Y?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Aluminium",
+        "hoehenverstellbar": "Nein (fest 15 cm)",
+        "max_laptop": "17",
+        "tragkraft": "10",
+        "faltbar": "Nein",
+        "gewicht": "700"
+      }
+    },
+    {
+      "name": "Nulaxy C1 Laptopständer",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07P54RNTL?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Aluminium",
+        "hoehenverstellbar": "6 Stufen",
+        "max_laptop": "16",
+        "tragkraft": "10",
+        "faltbar": "Ja",
+        "gewicht": "260"
+      }
+    },
+    {
+      "name": "Rain Design mStand",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000OOYECC?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Aluminium (aus einem Stück)",
+        "hoehenverstellbar": "Nein (fest 15 cm)",
+        "max_laptop": "17",
+        "tragkraft": "15",
+        "faltbar": "Nein",
+        "gewicht": "1400"
+      }
+    },
+    {
+      "name": "Twelve South HiRise Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BWXDKD45?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Aluminium + Leder",
+        "hoehenverstellbar": "Ja (stufenlos)",
+        "max_laptop": "17",
+        "tragkraft": "15",
+        "faltbar": "Nein",
+        "gewicht": "2500"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}
