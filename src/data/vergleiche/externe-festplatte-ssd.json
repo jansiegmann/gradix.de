@@ -1,0 +1,118 @@
+{
+  "slug": "externe-festplatte-ssd",
+  "kategorie": "elektronik",
+  "titel": "Externe Festplatte / SSD",
+  "beschreibung": "Externe SSD & Festplatte Test 2026: Die 4 besten Modelle ✓ USB-C ✓ Schnell & robust",
+  "keywords": [
+    "externe ssd test",
+    "externe festplatte vergleich",
+    "usb-c ssd test",
+    "portable ssd 2026",
+    "externe festplatte kaufberatung",
+    "samsung t7 test",
+    "sandisk extreme ssd",
+    "beste externe ssd",
+    "externe festplatte ssd vergleich",
+    "tragbare ssd test"
+  ],
+  "einleitung": "Ob für Backups, Fotos oder die Arbeit unterwegs — eine externe SSD ist heute schneller, leichter und robuster als jede klassische Festplatte. Wir vergleichen vier Modelle für jeden Bedarf.",
+  "kaufberatung": "### SSD vs. HDD: Lohnt sich der Aufpreis?\n\nAbsolut. Externe SSDs sind 5-20x schneller als HDDs, wiegen weniger, sind stoßfest und lautlos. Der Preisunterschied ist in den letzten Jahren massiv geschrumpft. HDDs lohnen sich nur noch für sehr große Speichermengen (4 TB+) bei knappem Budget.\n\n### USB 3.2 Gen 2 vs. Thunderbolt\n\nUSB 3.2 Gen 2 liefert bis zu 10 Gbit/s — für die meisten SSDs ausreichend. Thunderbolt 4 erreicht 40 Gbit/s und ist für Videoschnitt und professionelle Anwendungen relevant. Achte darauf, dass dein Computer den schnelleren Standard auch unterstützt.\n\n### Wie viel Speicher brauche ich?\n\n500 GB reichen für Dokumente und Fotos. 1 TB ist der Sweet Spot für die meisten Nutzer. 2 TB+ brauchst du für Videoschnitt, große Spielesammlungen oder komplette System-Backups.\n\n### Robustheit für unterwegs\n\nWer die SSD viel transportiert, sollte auf IP-Schutz achten. Die SanDisk Extreme mit IP65 übersteht Staub, Spritzwasser und Stürze aus 2 Metern Höhe.",
+  "vergleichsKategorien": [
+    {
+      "key": "kapazitaet",
+      "label": "Kapazität",
+      "einheit": "TB",
+      "sortierung": 1
+    },
+    {
+      "key": "lesen",
+      "label": "Lesegeschwindigkeit",
+      "einheit": "MB/s",
+      "sortierung": 2
+    },
+    {
+      "key": "schreiben",
+      "label": "Schreibgeschwindigkeit",
+      "einheit": "MB/s",
+      "sortierung": 3
+    },
+    {
+      "key": "anschluss",
+      "label": "Anschluss",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange hält eine externe SSD?",
+      "antwort": "Moderne SSDs halten bei normaler Nutzung 10+ Jahre. Sie haben keine beweglichen Teile und sind deutlich langlebiger als HDDs. Die TBW-Angabe (Terabytes Written) gibt an, wie viel Daten geschrieben werden können — bei 1-TB-SSDs typischerweise 600 TBW, was für Jahrzehnte reicht."
+    },
+    {
+      "frage": "Externe SSD oder Cloud-Speicher — was ist besser?",
+      "antwort": "Beides hat seinen Platz. SSDs sind schneller, offline verfügbar und einmalige Kosten. Cloud-Speicher bietet automatische Backups und Zugriff von überall, kostet aber monatlich. Ideal ist eine Kombination aus beidem."
+    },
+    {
+      "frage": "Kann ich Windows oder macOS von einer externen SSD starten?",
+      "antwort": "Ja, bei Macs funktioniert das über die Systemeinstellungen problemlos. Bei Windows-PCs ist es möglich, aber nicht offiziell von Microsoft unterstützt und kann zu Problemen führen. Für Backups und Datenspeicherung ist eine externe SSD aber in jedem Fall ideal."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Crucial X9 1TB",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CGYQNBSF?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "1",
+        "lesen": "1050",
+        "schreiben": "1000",
+        "anschluss": "USB-C 3.2 Gen 2",
+        "gewicht": "39"
+      }
+    },
+    {
+      "name": "Samsung T7 1TB",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09VLK9W3S?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "1",
+        "lesen": "1050",
+        "schreiben": "1000",
+        "anschluss": "USB-C 3.2 Gen 2",
+        "gewicht": "58"
+      }
+    },
+    {
+      "name": "SanDisk Extreme Pro 2TB",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08RX1MGKQ?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "2",
+        "lesen": "2000",
+        "schreiben": "2000",
+        "anschluss": "USB-C 3.2 Gen 2x2",
+        "gewicht": "77"
+      }
+    },
+    {
+      "name": "Samsung T9 2TB",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CHFTGH5X?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "2",
+        "lesen": "2000",
+        "schreiben": "2000",
+        "anschluss": "USB-C 3.2 Gen 2x2",
+        "gewicht": "122"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

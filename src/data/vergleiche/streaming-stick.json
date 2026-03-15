@@ -1,0 +1,191 @@
+{
+  "slug": "streaming-stick",
+  "kategorie": "elektronik",
+  "titel": "Streaming-Stick",
+  "beschreibung": "Streaming-Stick Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "streaming stick test",
+    "fire tv stick vergleich",
+    "chromecast test",
+    "streaming stick kaufberatung",
+    "streaming stick 2026"
+  ],
+  "einleitung": "Du suchst einen Streaming-Stick für Netflix, Disney+ und Co.? Wir vergleichen vier Modelle — vom Budget-Stick bis zum 4K-Premium-Gerät.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nFür Netflix, Disney+ und gelegentliches YouTube reicht der Fire TV Stick Lite oder Chromecast HD völlig aus — beide kosten unter 40€ und liefern Full HD. 4K lohnt sich nur, wenn du einen 4K-Fernseher hast UND 4K-Abos (Netflix Premium, Disney+) buchst.\n\n### Fire TV vs. Google TV vs. Apple TV — welches System?\nFire TV (Amazon) hat die größte App-Auswahl, zeigt aber Werbung auf dem Homescreen. Google TV bietet die beste übergreifende Suchfunktion und keinen Werbe-Homescreen. Apple TV ist das Premium-Erlebnis für Apple-Nutzer — mit AirPlay, HomeKit und der besten Fernbedienung, aber auch 3-4× teurer.\n\n### Brauche ich einen Streaming-Stick, wenn mein TV Smart-TV ist?\nOft ja. Die integrierten Smart-TV-Systeme vieler Hersteller werden nach 2-3 Jahren nicht mehr mit Updates versorgt und werden träge. Ein externer Stick für 30-60€ macht jeden TV wieder schnell und aktuell.\n\n### Wi-Fi 5 vs. Wi-Fi 6E — merkt man den Unterschied?\nBeim reinen Streaming kaum — 4K benötigt ca. 25 Mbit/s, das schafft auch Wi-Fi 5 locker. Wi-Fi 6E hilft bei überlasteten Heimnetzwerken mit vielen Geräten und reduziert Pufferzeiten. Wenn dein Router kein Wi-Fi 6E unterstützt, bringt es dir nichts.",
+  "vergleichsKategorien": [
+    {
+      "key": "aufloesung",
+      "label": "Auflösung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "hdr",
+      "label": "HDR",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "speicher",
+      "label": "Speicher",
+      "einheit": "GB",
+      "sortierung": 3
+    },
+    {
+      "key": "wlan",
+      "label": "WLAN",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "sprachsteuerung",
+      "label": "Sprachsteuerung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "betriebssystem",
+      "label": "Plattform",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "preis_ca",
+      "label": "Ca. Preis",
+      "einheit": "€",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Streaming-Stick ist der beste für Netflix und Disney+?",
+      "antwort": "In Full HD: Fire TV Stick Lite (25€) oder Google Chromecast HD (35€) — beide unterstützen alle großen Streaming-Dienste. In 4K: Fire TV Stick 4K Max (55€) bietet das beste Preis-Leistungs-Verhältnis mit Dolby Vision und Wi-Fi 6E."
+    },
+    {
+      "frage": "Kann ich mit einem Streaming-Stick auch Live-TV schauen?",
+      "antwort": "Ja, über Apps wie Zattoo, waipu.tv oder Joyn kannst du Live-TV streamen. Einige Dienste bieten kostenlose Basis-Pakete, HD-Qualität kostet ca. 6-13€/Monat. Der Fire TV Stick hat zusätzlich eine integrierte Live-TV-Übersicht."
+    },
+    {
+      "frage": "Braucht ein Streaming-Stick viel Strom?",
+      "antwort": "Nein, Streaming-Sticks verbrauchen im Betrieb nur 3-5 Watt. Im Standby unter 1 Watt. Selbst bei Dauerbetrieb sind die Stromkosten unter 1 Euro pro Monat — vernachlässigbar."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Amazon Fire TV Stick Lite",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B091G3WT74?tag=janxsiegmann-21",
+      "preis": 25,
+      "bewertung": 3.5,
+      "werte": {
+        "aufloesung": "Full HD 1080p",
+        "hdr": "HDR 10+",
+        "speicher": "8",
+        "wlan": "Wi-Fi 5",
+        "sprachsteuerung": "Alexa",
+        "betriebssystem": "Fire OS",
+        "preis_ca": "25"
+      },
+      "vorteile": [
+        "Extrem günstig",
+        "Alexa integriert",
+        "Alle gängigen Apps"
+      ],
+      "nachteile": [
+        "Nur 1080p",
+        "Kein Ethernet",
+        "Werbung auf dem Homescreen"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Google Chromecast mit Google TV (HD)",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B4FBQ2YG?tag=janxsiegmann-21",
+      "preis": 35,
+      "bewertung": 4.0,
+      "werte": {
+        "aufloesung": "Full HD 1080p",
+        "hdr": "HDR 10",
+        "speicher": "8",
+        "wlan": "Wi-Fi 5",
+        "sprachsteuerung": "Google Assistant",
+        "betriebssystem": "Google TV",
+        "preis_ca": "35"
+      },
+      "vorteile": [
+        "Google TV — beste Übersicht",
+        "Chromecast-Funktion",
+        "Kein Werbe-Homescreen"
+      ],
+      "nachteile": [
+        "Nur 1080p",
+        "8 GB Speicher knapp",
+        "Kein Ethernet"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Amazon Fire TV Stick 4K Max (2. Gen)",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BTFM3J7Z?tag=janxsiegmann-21",
+      "preis": 55,
+      "bewertung": 4.5,
+      "werte": {
+        "aufloesung": "4K UHD",
+        "hdr": "HDR10+, Dolby Vision, HDR10",
+        "speicher": "16",
+        "wlan": "Wi-Fi 6E",
+        "sprachsteuerung": "Alexa",
+        "betriebssystem": "Fire OS",
+        "preis_ca": "55"
+      },
+      "vorteile": [
+        "4K + Dolby Vision",
+        "Wi-Fi 6E",
+        "16 GB Speicher",
+        "Schneller Prozessor"
+      ],
+      "nachteile": [
+        "Werbung auf Homescreen",
+        "Fire OS etwas unübersichtlich",
+        "Kein Ethernet im Stick"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Apple TV 4K (3. Gen, 128GB)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CHJ51VYD?tag=janxsiegmann-21",
+      "preis": 170,
+      "bewertung": 4.5,
+      "werte": {
+        "aufloesung": "4K UHD",
+        "hdr": "HDR10+, Dolby Vision, HLG",
+        "speicher": "128",
+        "wlan": "Wi-Fi 6E",
+        "sprachsteuerung": "Siri",
+        "betriebssystem": "tvOS",
+        "preis_ca": "170"
+      },
+      "vorteile": [
+        "Apple-Ökosystem-Integration",
+        "Ethernet + Thread",
+        "128 GB Speicher",
+        "AirPlay und HomeKit"
+      ],
+      "nachteile": [
+        "Sehr teuer",
+        "Nur ideal im Apple-Ökosystem",
+        "Siri schwächer als Alexa/Google"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

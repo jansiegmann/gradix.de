@@ -1,0 +1,118 @@
+{
+  "slug": "popcornmaschine",
+  "kategorie": "kueche",
+  "titel": "Popcornmaschine",
+  "beschreibung": "Popcornmaschine Test 2026: Die 4 besten Popcornmaker im Vergleich ✓ Heißluft & Topf ✓ Kaufberatung",
+  "keywords": [
+    "popcornmaschine",
+    "popcornmaschine test",
+    "popcornmaker",
+    "popcornmaschine heißluft",
+    "popcorn maschine vergleich",
+    "beste popcornmaschine",
+    "popcornmaschine retro",
+    "popcornmaker test 2026",
+    "popcorn selber machen",
+    "popcornmaschine kaufberatung"
+  ],
+  "einleitung": "Frisches Popcorn wie im Kino, aber zu Hause? Mit einer Popcornmaschine geht das in wenigen Minuten. Ob Heißluft-Popper oder Retro-Topfmaschine — wir vergleichen vier Modelle für jeden Geschmack und zeigen, worauf es wirklich ankommt.",
+  "kaufberatung": "### Heißluft vs. Öl — wie willst du dein Popcorn?\nHeißluft-Popcornmaschinen arbeiten ohne Öl und sind die gesündere Variante. Das Popcorn wird durch heißen Luftstrom aufgepoppt. Nachteil: Es schmeckt etwas trockener. Topf-/Öl-Popcornmaschinen produzieren geschmacklich überlegeneres Popcorn mit knuspriger Textur — so wie im Kino.\n\n### Retro-Look vs. Funktionalität\nViele Popcornmaschinen im Retro-Design sehen toll aus, sind aber umständlich zu reinigen. Wenn dir die Optik wichtig ist, achte trotzdem auf eine herausnehmbare Innenschale und einen Spritzschutz.\n\n### Mengenmäßig richtig planen\nDie meisten Heißluft-Popper schaffen 50-60 g Mais pro Durchgang — das reicht für eine große Schüssel. Topfmaschinen schaffen oft mehr auf einmal. Für Filmabende mit Familie reichen 100 g Mais locker.\n\n### Ungepopped Kernels: Das Qualitätsmerkmal\nEin gutes Gerät sollte mindestens 95% der Maiskörner aufpoppen. Bleiben viele Körner übrig, stimmt die Temperaturverteilung nicht. Premium-Geräte erreichen hier die besten Werte.",
+  "vergleichsKategorien": [
+    {
+      "key": "funktionsweise",
+      "label": "Funktionsweise",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "kapazitaet",
+      "label": "Kapazität pro Durchgang",
+      "einheit": "g Mais",
+      "sortierung": 2
+    },
+    {
+      "key": "zubereitungszeit",
+      "label": "Zubereitungszeit",
+      "einheit": "Min.",
+      "sortierung": 3
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 4
+    },
+    {
+      "key": "reinigung",
+      "label": "Reinigung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Maiskörner eignen sich für die Popcornmaschine?",
+      "antwort": "Verwende speziellen Popcornmais (Puffmais), nicht normalen Mais. Sorten wie 'Mushroom' ergeben runde Poppkörner (ideal für Karamell-Popcorn), 'Butterfly' ergibt die flügelartige Form, die man aus dem Kino kennt. Beides funktioniert in jeder Popcornmaschine."
+    },
+    {
+      "frage": "Wie bekomme ich Kino-Popcorn zu Hause hin?",
+      "antwort": "Das Geheimnis ist Kokosöl und Butteraroma-Öl. Erhitze 2 EL Kokosöl in der Topf-Popcornmaschine, gib den Mais dazu und würze sofort nach dem Poppen mit feinem Salz und einer Prise Zucker. Für Karamell-Popcorn: Zucker mit etwas Wasser karamellisieren und über das Popcorn geben."
+    },
+    {
+      "frage": "Kann ich in einer Heißluft-Popcornmaschine auch süßes Popcorn machen?",
+      "antwort": "Ja, aber den Zucker oder das Karamell musst du nachträglich hinzufügen. Zucker direkt in die Maschine zu geben funktioniert nicht, da er verbrennt und die Maschine beschädigen kann. Poppe den Mais ohne Zusätze und mische ihn danach mit geschmolzener Butter und Zucker."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Russell Hobbs 24630-56 Fiesta",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07DK3KN12?tag=janxsiegmann-21",
+      "werte": {
+        "funktionsweise": "Heißluft",
+        "kapazitaet": "50",
+        "zubereitungszeit": "2-3",
+        "leistung": "1200",
+        "reinigung": "sehr gut (spülmaschinenfest)"
+      }
+    },
+    {
+      "name": "Cloer 6009 Popcornmaker",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0050B8B4I?tag=janxsiegmann-21",
+      "werte": {
+        "funktionsweise": "Heißluft",
+        "kapazitaet": "60",
+        "zubereitungszeit": "2-3",
+        "leistung": "900",
+        "reinigung": "gut"
+      }
+    },
+    {
+      "name": "Gadgy Popcornmaschine Retro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07N2JBN15?tag=janxsiegmann-21",
+      "werte": {
+        "funktionsweise": "Öl/Topf (Retro-Design)",
+        "kapazitaet": "100",
+        "zubereitungszeit": "3-5",
+        "leistung": "300",
+        "reinigung": "befriedigend (Handwäsche)"
+      }
+    },
+    {
+      "name": "Unold 48525 Classic Popcornmaker",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B004IYA3BI?tag=janxsiegmann-21",
+      "werte": {
+        "funktionsweise": "Öl/Topf (Kino-Stil)",
+        "kapazitaet": "100",
+        "zubereitungszeit": "3-5",
+        "leistung": "300",
+        "reinigung": "gut (abnehmbar)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

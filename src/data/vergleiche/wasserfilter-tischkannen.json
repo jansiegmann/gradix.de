@@ -1,0 +1,132 @@
+{
+  "slug": "wasserfilter-tischkannen",
+  "kategorie": "kueche",
+  "titel": "Wasserfilter (Tischkannen)",
+  "beschreibung": "Wasserfilter Test 2026: Die 4 besten Tischkannen im Vergleich ✓ BRITA, BWT & mehr ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "wasserfilter",
+    "wasserfilter tischkanne",
+    "brita wasserfilter",
+    "wasserfilter test",
+    "tischwasserfilter",
+    "wasserfilter vergleich",
+    "trinkwasserfilter",
+    "wasserfilter kalk",
+    "wasserfilter kaufberatung",
+    "bester wasserfilter"
+  ],
+  "einleitung": "Du willst besseres Leitungswasser ohne Kalkgeschmack und Schlepperei von Wasserflaschen? Tischwasserfilter sind die einfachste Lösung — Kanne füllen, filtern lassen, genießen. Wir vergleichen vier empfehlenswerte Modelle von günstig bis Premium, damit du den richtigen Filter für deinen Haushalt findest.",
+  "kaufberatung": "### Brauche ich überhaupt einen Wasserfilter?\nIn Deutschland hat Leitungswasser eine hervorragende Qualität und ist streng kontrolliert. Trotzdem kann ein Wasserfilter sinnvoll sein: Er reduziert Kalk, verbessert den Geschmack von Kaffee und Tee und schützt Küchengeräte vor Verkalkung. Besonders in Regionen mit hartem Wasser (über 14 °dH) merkst du einen deutlichen Unterschied. Gesundheitlich notwendig ist ein Filter in der Regel nicht.\n\n### Filtertechnologie: Was wird eigentlich gefiltert?\nDie meisten Tischkannen arbeiten mit Aktivkohle und Ionentauscher. Aktivkohle bindet Chlor und geschmacksstörende Stoffe, der Ionentauscher reduziert Kalk und Schwermetalle wie Blei und Kupfer. Premium-Modelle wie der Philips AWP2936 nutzen ein vierstufiges Mikrofiltrationssystem, das zusätzlich Mikroplastik und Pestizide reduziert. Wichtig zu wissen: Kein Tischkannenfilter entfernt Bakterien oder Viren zuverlässig.\n\n### Folgekosten im Blick behalten\nDer Kaufpreis der Kanne ist gering, aber die Filterpatronen kosten langfristig mehr. Rechne mit 3-5 € pro Monat für Ersatzkartuschen. BWT-Filter halten etwas länger (120 Liter statt 100 Liter bei BRITA), dafür sind sie im Einzelpreis teurer. Tipp: Jahrespakete kaufen spart deutlich gegenüber Einzelkauf.\n\n### Hygiene: Filterwechsel nicht vergessen\nDer größte Fehler bei Wasserfiltern ist ein zu seltener Kartuschen-Wechsel. Nach 4 Wochen oder der angegebenen Literzahl sollte gewechselt werden — sonst können sich im verbrauchten Filter Keime vermehren. Lagere die gefüllte Kanne im Kühlschrank und lass sie nicht stundenlang in der Sonne stehen.\n\n### Volumen: Wie groß muss die Kanne sein?\nFür Singles reichen Modelle mit 1,4 Litern Filtervolumen (z.B. BRITA Marella). Für Familien empfehlen sich Kannen mit 2 Litern und mehr. Die BRITA Flow Station mit über 5 Litern eignet sich für Großfamilien oder Büros, ist aber deutlich sperriger.",
+  "vergleichsKategorien": [
+    {
+      "key": "gesamtvolumen",
+      "label": "Gesamtvolumen",
+      "einheit": "L",
+      "sortierung": 1
+    },
+    {
+      "key": "filtervolumen",
+      "label": "Filtervolumen",
+      "einheit": "L",
+      "sortierung": 2
+    },
+    {
+      "key": "filterstufen",
+      "label": "Filterstufen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "filterlebensdauer",
+      "label": "Filterlebensdauer",
+      "einheit": "L",
+      "sortierung": 4
+    },
+    {
+      "key": "wechselanzeige",
+      "label": "Wechselanzeige",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "spuelmaschinenfest",
+      "label": "Spülmaschinenfest",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft muss ich die Filterkartusche wechseln?",
+      "antwort": "Die meisten Hersteller empfehlen einen Wechsel alle 4 Wochen oder nach 100-120 Litern gefiltertem Wasser. Kannen mit elektronischer Wechselanzeige erinnern dich automatisch daran. Im Zweifelsfall lieber etwas früher wechseln."
+    },
+    {
+      "frage": "Sind BRITA- und BWT-Kartuschen untereinander kompatibel?",
+      "antwort": "Nein, BRITA MAXTRA PRO und BWT Magnesium Mineralized Kartuschen haben zwar eine ähnliche ovale Form, passen aber nicht immer perfekt in die Kanne des jeweils anderen Herstellers. Es gibt allerdings günstige Drittanbieter-Kartuschen, die mit beiden Systemen kompatibel sind."
+    },
+    {
+      "frage": "Entfernt ein Wasserfilter auch Bakterien aus dem Wasser?",
+      "antwort": "Nein, handelsübliche Tischwasserfilter sind nicht dafür ausgelegt, Bakterien oder Viren zu entfernen. Sie reduzieren Kalk, Chlor und Schwermetalle. Wenn du eine echte Keimreduktion brauchst, musst du zu Umkehrosmose-Anlagen oder UV-Filtern greifen."
+    },
+    {
+      "frage": "Kann ich gefiltertes Wasser für mein Baby verwenden?",
+      "antwort": "Grundsätzlich ist deutsches Leitungswasser für die Zubereitung von Babynahrung geeignet. Gefiltertes Wasser kann sogar problematisch sein, wenn der Filter nicht regelmäßig gewechselt wird und verkeimt. Für Säuglinge empfiehlt sich eher das Abkochen von frischem Leitungswasser."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "BRITA Marella inkl. 3 MAXTRA PRO",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01MZZI7OI?tag=janxsiegmann-21",
+      "werte": {
+        "gesamtvolumen": "2,4",
+        "filtervolumen": "1,4",
+        "filterstufen": "3",
+        "filterlebensdauer": "100",
+        "wechselanzeige": "Elektronisch (BRITA Memo)",
+        "spuelmaschinenfest": "Ja (ohne Deckel)"
+      }
+    },
+    {
+      "name": "BWT Penguin 2.7L",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B004X19KAS?tag=janxsiegmann-21",
+      "werte": {
+        "gesamtvolumen": "2,7",
+        "filtervolumen": "1,5",
+        "filterstufen": "3",
+        "filterlebensdauer": "120",
+        "wechselanzeige": "Elektronisch",
+        "spuelmaschinenfest": "Ja"
+      }
+    },
+    {
+      "name": "Philips AWP2936 Micro X-Clean",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08N7TGNBL?tag=janxsiegmann-21",
+      "werte": {
+        "gesamtvolumen": "3,5",
+        "filtervolumen": "2,0",
+        "filterstufen": "4",
+        "filterlebensdauer": "100",
+        "wechselanzeige": "Digital (Tagesanzeige)",
+        "spuelmaschinenfest": "Ja"
+      }
+    },
+    {
+      "name": "BRITA Flow Station 8.2L",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07WKXQLRD?tag=janxsiegmann-21",
+      "werte": {
+        "gesamtvolumen": "8,2",
+        "filtervolumen": "5,2",
+        "filterstufen": "3",
+        "filterlebensdauer": "100",
+        "wechselanzeige": "Elektronisch",
+        "spuelmaschinenfest": "Ja (Einzelteile)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

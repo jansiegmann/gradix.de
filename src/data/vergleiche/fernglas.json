@@ -1,0 +1,128 @@
+{
+  "slug": "fernglas",
+  "kategorie": "outdoor",
+  "titel": "Fernglas",
+  "beschreibung": "Fernglas Test 2026: Die 4 besten Ferngläser im Vergleich ✓ Für Wandern, Vogelbeobachtung & Jagd ✓ Budget bis Profi",
+  "keywords": [
+    "fernglas",
+    "fernglas test",
+    "fernglas vergleich",
+    "bestes fernglas",
+    "fernglas wandern",
+    "fernglas 10x42",
+    "fernglas 8x42",
+    "fernglas test 2026",
+    "fernglas kompakt",
+    "fernglas kaufberatung"
+  ],
+  "einleitung": "Ob Vogelbeobachtung, Wandern oder Stadionbesuch — ein gutes Fernglas bringt die Welt näher. Wir vergleichen vier Ferngläser von Budget bis Profi und erklären, welche Vergrößerung und Objektivgröße für welchen Einsatz sinnvoll ist.",
+  "kaufberatung": "### Für wen eignet sich welches Fernglas?\nFür Einsteiger und Gelegenheitsnutzer ist das Nikon Aculon A211 10x50 eine gute Wahl — ordentliche Optik zu fairem Preis. Ambitionierte Wanderer greifen zum Vortex Crossfire HD 10x42, das mit seiner kompakten Größe und guten Bildqualität überzeugt. Das Nikon Monarch 5 8x42 ist ideal für Vogelbeobachter dank seines weiten Sehfeldes und der exzellenten Dämmerungsleistung. Und für Profis ist das Zeiss Terra ED 10x42 mit seiner außergewöhnlichen optischen Qualität die erste Wahl.\n\n### 8x42 oder 10x42 — welche Vergrößerung?\nDie erste Zahl ist die Vergrößerung, die zweite der Objektivdurchmesser in mm. 8x42 bietet ein weites Sehfeld und ein ruhigeres Bild — ideal für Vogelbeobachtung und Wandern. 10x42 zoomt näher heran, das Bild wackelt dafür etwas mehr. Für die meisten Nutzer ist 10x42 die vielseitigste Kombination.\n\n### Was macht ein gutes Fernglas teuer?\nDer größte Kostentreiber ist die Optik: ED-Glas (Extra-low Dispersion) reduziert Farbsäume und liefert ein schärferes, kontrastreicheres Bild. Dazu kommen Mehrschichtvergütung der Linsen, wasserdichte Gehäuse und stickstoffgefüllte Gehäuse gegen Beschlagen. Je mehr davon, desto teurer — aber auch besser.\n\n### Worauf beim Kauf achten?\nNeben Vergrößerung und Objektivgröße sind Nahfokussierung, Augenabstand (wichtig für Brillenträger) und Gewicht entscheidend. Teste ein Fernglas wenn möglich vor dem Kauf — Dioptrienausgleich und Ergonomie sind sehr individuell.",
+  "vergleichsKategorien": [
+    {
+      "key": "vergroesserung",
+      "label": "Vergrößerung",
+      "einheit": "x",
+      "sortierung": 1
+    },
+    {
+      "key": "objektiv",
+      "label": "Objektivdurchmesser",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "sehfeld",
+      "label": "Sehfeld auf 1000m",
+      "einheit": "m",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 4
+    },
+    {
+      "key": "wasserdicht",
+      "label": "Wasserdicht",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "verglasung",
+      "label": "Verglasung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Fernglas ist für Brillenträger geeignet?",
+      "antwort": "Für Brillenträger ist ein großer Augenabstand (mindestens 15 mm) wichtig. Das Nikon Monarch 5 und das Zeiss Terra ED bieten ausklappbare Augenmuscheln und einen Augenabstand von 17+ mm — damit siehst du auch mit Brille das volle Sehfeld."
+    },
+    {
+      "frage": "Ist ein teures Fernglas wirklich besser als ein günstiges?",
+      "antwort": "Ja, der Unterschied ist vor allem bei schlechtem Licht (Dämmerung, Wald) deutlich spürbar. Teure Ferngläser mit ED-Glas und Mehrschichtvergütung liefern hellere, schärfere und kontrastreichere Bilder. Für Tageslicht und Gelegenheitsnutzung reichen aber auch günstigere Modelle."
+    },
+    {
+      "frage": "Welches Fernglas eignet sich zur Vogelbeobachtung?",
+      "antwort": "Für Vogelbeobachtung empfehlen wir ein 8x42 Fernglas wie das Nikon Monarch 5. Die 8-fache Vergrößerung bietet ein weites Sehfeld zum schnellen Auffinden von Vögeln, und das 42-mm-Objektiv liefert genug Licht für Beobachtungen in Wäldern und bei Dämmerung."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Nikon Aculon A211 10x50",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B003IRGETY?tag=janxsiegmann-21",
+      "werte": {
+        "vergroesserung": "10",
+        "objektiv": "50",
+        "sehfeld": "114",
+        "gewicht": "900",
+        "wasserdicht": "Nein",
+        "verglasung": "Mehrschichtvergütung"
+      }
+    },
+    {
+      "name": "Vortex Crossfire HD 10x42",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00794LKOK?tag=janxsiegmann-21",
+      "werte": {
+        "vergroesserung": "10",
+        "objektiv": "42",
+        "sehfeld": "103",
+        "gewicht": "725",
+        "wasserdicht": "Ja (N2-gefüllt)",
+        "verglasung": "Vollvergütung"
+      }
+    },
+    {
+      "name": "Nikon Monarch 5 8x42",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00C66C5WM?tag=janxsiegmann-21",
+      "werte": {
+        "vergroesserung": "8",
+        "objektiv": "42",
+        "sehfeld": "126",
+        "gewicht": "590",
+        "wasserdicht": "Ja (N2-gefüllt)",
+        "verglasung": "ED-Glas + Vollvergütung"
+      }
+    },
+    {
+      "name": "Zeiss Terra ED 10x42",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00J7KYMV4?tag=janxsiegmann-21",
+      "werte": {
+        "vergroesserung": "10",
+        "objektiv": "42",
+        "sehfeld": "110",
+        "gewicht": "725",
+        "wasserdicht": "Ja (N2-gefüllt)",
+        "verglasung": "Schott ED-Glas + ZEISS MC"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

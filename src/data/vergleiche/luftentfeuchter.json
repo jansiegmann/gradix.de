@@ -1,0 +1,128 @@
+{
+  "slug": "luftentfeuchter",
+  "kategorie": "haushalt",
+  "titel": "Luftentfeuchter",
+  "beschreibung": "Luftentfeuchter Test 2026: Die 4 besten Raumentfeuchter ✓ Gegen Schimmel ✓ Kaufberatung",
+  "keywords": [
+    "luftentfeuchter",
+    "luftentfeuchter test",
+    "raumentfeuchter",
+    "luftentfeuchter vergleich",
+    "bester luftentfeuchter",
+    "luftentfeuchter gegen schimmel",
+    "bautrockner",
+    "luftentfeuchter keller",
+    "entfeuchter test",
+    "luftentfeuchter 2026"
+  ],
+  "einleitung": "Feuchtigkeit in der Wohnung kann zu Schimmel und Gesundheitsproblemen führen. Ein Luftentfeuchter senkt die Luftfeuchtigkeit auf ein gesundes Niveau. Wir vergleichen vier Geräte für Schlafzimmer, Keller und größere Räume.",
+  "kaufberatung": "### Wann brauche ich einen Luftentfeuchter?\nWenn die Luftfeuchtigkeit dauerhaft über 60% liegt, steigt das Schimmelrisiko deutlich. Besonders gefährdet: Kellerräume, Badezimmer ohne Fenster, frisch renovierte Räume und Wohnungen mit schlechter Dämmung. Ein Hygrometer zeigt dir den aktuellen Wert.\n\n### Kompressor vs. Granulat vs. Peltier\nKompressor-Entfeuchter sind die effektivsten — sie schaffen 10-50 Liter pro Tag. Peltier-Entfeuchter (thermoelektrisch) sind leise und günstig, aber wenig effektiv (nur 0,3-1 Liter/Tag). Granulat-Entfeuchter brauchen keinen Strom, eignen sich aber nur für kleine Räume.\n\n### Entfeuchterleistung: Wie viel Liter pro Tag?\nFür ein Schlafzimmer (15-20 m²) reichen 10-12 Liter/Tag. Für Keller oder größere Räume (40+ m²) brauchst du 20+ Liter/Tag. Die Herstellerangaben gelten meist bei 30°C/80% Luftfeuchtigkeit — bei realistischen Bedingungen (20°C/60%) liegt die Leistung deutlich niedriger.\n\n### Lautstärke: Entscheidend für Wohnräume\nKompressor-Entfeuchter erzeugen 40-50 dB — das ist etwa so laut wie ein Kühlschrank. Für das Schlafzimmer solltest du auf leise Modelle (unter 40 dB) oder einen Timer achten, der das Gerät nachts abschaltet.\n\n### Automatischer Betrieb\nDie besten Geräte haben einen Hygrostat, der die gewünschte Luftfeuchtigkeit hält und das Gerät automatisch ein- und ausschaltet. Ein Dauerlauf-Modus mit Schlauchanschluss ist praktisch für Keller — das Kondenswasser wird direkt abgeleitet.",
+  "vergleichsKategorien": [
+    {
+      "key": "entfeuchterleistung",
+      "label": "Entfeuchterleistung",
+      "einheit": "L/Tag",
+      "sortierung": 1
+    },
+    {
+      "key": "raumgroesse",
+      "label": "Empfohlene Raumgröße",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "tankvolumen",
+      "label": "Tankvolumen",
+      "einheit": "L",
+      "sortierung": 3
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 4
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 5
+    },
+    {
+      "key": "hygrostat",
+      "label": "Hygrostat",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie hoch sollte die Luftfeuchtigkeit in Wohnräumen sein?",
+      "antwort": "Optimal sind 40-60% relative Luftfeuchtigkeit. Unter 40% trocknen Schleimhäute aus, über 60% steigt das Schimmelrisiko. Im Schlafzimmer empfehlen sich 40-50%, im Keller maximal 65%."
+    },
+    {
+      "frage": "Kann ich einen Luftentfeuchter auch im Winter nutzen?",
+      "antwort": "Ja, gerade im Winter ist Entfeuchtung wichtig, da durch Heizen und geschlossene Fenster die Feuchtigkeit steigt. Kompressor-Entfeuchter arbeiten bei niedrigen Temperaturen allerdings weniger effizient. Für unbeheizte Keller gibt es Modelle mit Heißgas-Abtauautomatik."
+    },
+    {
+      "frage": "Wie viel Strom verbraucht ein Luftentfeuchter?",
+      "antwort": "Ein typischer Kompressor-Entfeuchter verbraucht 200-500 Watt. Bei 8 Stunden Betrieb pro Tag sind das 1,6-4 kWh, also 0,50 bis 1,20 Euro pro Tag. Geräte mit Hygrostat schalten sich automatisch ab und verbrauchen dadurch weniger."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Comfee MDDN-10DEN7",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07CG2LGW2?tag=janxsiegmann-21",
+      "werte": {
+        "entfeuchterleistung": "10",
+        "raumgroesse": "40",
+        "tankvolumen": "2,1",
+        "lautstaerke": "45",
+        "leistung": "215",
+        "hygrostat": "Ja"
+      }
+    },
+    {
+      "name": "Comfee MDDF-20DEN7",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07C64Q7M2?tag=janxsiegmann-21",
+      "werte": {
+        "entfeuchterleistung": "20",
+        "raumgroesse": "72",
+        "tankvolumen": "3,0",
+        "lautstaerke": "45",
+        "leistung": "440",
+        "hygrostat": "Ja"
+      }
+    },
+    {
+      "name": "De'Longhi DEX216F",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07N1R11F2?tag=janxsiegmann-21",
+      "werte": {
+        "entfeuchterleistung": "16",
+        "raumgroesse": "75",
+        "tankvolumen": "2,1",
+        "lautstaerke": "37",
+        "leistung": "350",
+        "hygrostat": "Ja (elektronisch)"
+      }
+    },
+    {
+      "name": "Trotec TTK 127 E",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07MSCN3MG?tag=janxsiegmann-21",
+      "werte": {
+        "entfeuchterleistung": "50",
+        "raumgroesse": "140",
+        "tankvolumen": "6,0",
+        "lautstaerke": "48",
+        "leistung": "780",
+        "hygrostat": "Ja + Dauerbetrieb"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

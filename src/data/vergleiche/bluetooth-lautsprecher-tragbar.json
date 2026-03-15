@@ -1,0 +1,128 @@
+{
+  "slug": "bluetooth-lautsprecher-tragbar",
+  "kategorie": "elektronik",
+  "titel": "Bluetooth-Lautsprecher (tragbar)",
+  "beschreibung": "Bluetooth-Lautsprecher Test 2026: Die 4 besten tragbaren Modelle ✓ Outdoor-tauglich ✓ Satter Sound ✓ Kaufberatung",
+  "keywords": [
+    "bluetooth lautsprecher test",
+    "tragbarer lautsprecher",
+    "bluetooth box test 2026",
+    "bester bluetooth lautsprecher",
+    "outdoor lautsprecher test",
+    "bluetooth lautsprecher vergleich",
+    "portable speaker test",
+    "wasserdichter bluetooth lautsprecher",
+    "bluetooth box vergleich",
+    "musikbox test"
+  ],
+  "einleitung": "Du suchst einen tragbaren Bluetooth-Lautsprecher, der richtig Druck macht? Ob für den Park, die Küche oder den nächsten Camping-Trip — wir haben vier Modelle von Budget bis Premium verglichen und sagen dir, welcher Lautsprecher wirklich sein Geld wert ist.",
+  "kaufberatung": "### Für wen eignet sich welcher Lautsprecher?\n\nKleine Lautsprecher wie der JBL Go 4 passen in jede Tasche, klingen aber naturgemäß weniger voluminös. Wer echten Bass will, braucht ein größeres Modell wie den JBL Charge 5 oder die Bose SoundLink Max. Für die Party im Garten ist die JBL Xtreme 4 die richtige Wahl — aber mit 2 kg auch nichts für die Wandertour.\n\n### Wasserschutz: Was bedeuten IP67 und IP68?\n\nDie erste Ziffer steht für Staubschutz (6 = staubdicht), die zweite für Wasserschutz. IPX7 bedeutet: 30 Minuten in 1 Meter Wassertiefe überlebt der Lautsprecher. IP67 bietet zusätzlich Staubschutz. Für den Pool oder Strand reicht IPX7, für extremere Bedingungen empfehlen wir IP67.\n\n### Bass: Klein vs. groß\n\nPhysik lässt sich nicht überlisten: Größere Lautsprecher haben größere Treiber und passivradiatoren, die tiefere Bässe erzeugen können. Der JBL Go 4 klingt für seine Größe beeindruckend, kann aber mit einem JBL Charge 5 bei Bass und Lautstärke nicht mithalten. Überlege vor dem Kauf, wo du den Lautsprecher hauptsächlich nutzt.\n\n### Akkulaufzeit und Laden\n\n20 Stunden Akkulaufzeit sind heute Standard in der Mittelklasse. Achte auf USB-C-Laden und idealerweise eine Powerbank-Funktion. Der JBL Charge 5 kann dein Smartphone nebenbei laden — praktisch beim Camping.\n\n### Lohnt sich ein teurerer Lautsprecher?\n\nDer Sprung von 50 auf 150 Euro bringt deutlich mehr Bass, Lautstärke und Robustheit. Ab 200 Euro bekommst du echten Raumklang und Party-taugliche Lautstärke. Die Bose SoundLink Max bietet mit ihrem Stereosound und der kraftvollen Basswiedergabe ein Upgrade, das man klar hört.",
+  "vergleichsKategorien": [
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "h",
+      "sortierung": 1
+    },
+    {
+      "key": "wasserschutz",
+      "label": "Wasserschutz",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "leistung",
+      "label": "Musikleistung",
+      "einheit": "W",
+      "sortierung": 4
+    },
+    {
+      "key": "bluetooth",
+      "label": "Bluetooth",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "klang",
+      "label": "Klangqualität",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Bluetooth-Lautsprecher hat den besten Bass?",
+      "antwort": "In unserem Vergleich bietet die Bose SoundLink Max den tiefsten und kräftigsten Bass. Für ihre Größe liefert aber auch der JBL Charge 5 beeindruckenden Bass dank seiner zwei passivradiatoren."
+    },
+    {
+      "frage": "Kann man Bluetooth-Lautsprecher unter der Dusche nutzen?",
+      "antwort": "Modelle mit mindestens IPX7 (wie der JBL Charge 5 oder JBL Go 4) überstehen auch kurzes Untertauchen. Für die Dusche reicht IPX5. Achte darauf, die Ladebuchse nach Wasserkontakt trocknen zu lassen."
+    },
+    {
+      "frage": "Können mehrere Bluetooth-Lautsprecher gleichzeitig spielen?",
+      "antwort": "Ja, JBL bietet mit Auracast die Möglichkeit, mehrere JBL-Lautsprecher zu koppeln. Bose hat eine ähnliche Funktion für Stereo-Pairing. Die Lautsprecher müssen dafür vom gleichen Hersteller sein."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "JBL Go 4",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CTD7LKHS?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "7",
+        "wasserschutz": "IP67",
+        "gewicht": "188",
+        "leistung": "4.2",
+        "bluetooth": "5.3",
+        "klang": "gut"
+      }
+    },
+    {
+      "name": "JBL Charge 5",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08X4YMTPM?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "20",
+        "wasserschutz": "IP67",
+        "gewicht": "960",
+        "leistung": "30",
+        "bluetooth": "5.1",
+        "klang": "sehr gut"
+      }
+    },
+    {
+      "name": "Bose SoundLink Max",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0D9LJRFBF?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "20",
+        "wasserschutz": "IP67",
+        "gewicht": "1530",
+        "leistung": "k.A.",
+        "bluetooth": "5.3",
+        "klang": "hervorragend"
+      }
+    },
+    {
+      "name": "JBL Xtreme 4",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CTD5NQKH?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "24",
+        "wasserschutz": "IP67",
+        "gewicht": "2060",
+        "leistung": "60",
+        "bluetooth": "5.3",
+        "klang": "hervorragend"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "trinkflasche-isoliert",
+  "kategorie": "outdoor",
+  "titel": "Trinkflasche (isoliert)",
+  "beschreibung": "Isolierte Trinkflasche Test 2026: Die 4 besten Thermosflaschen ✓ Hält heiß & kalt ✓ BPA-frei ✓ Für Sport, Büro & Outdoor",
+  "keywords": [
+    "trinkflasche isoliert",
+    "thermosflasche test",
+    "isolierte trinkflasche",
+    "trinkflasche edelstahl",
+    "thermosflasche vergleich",
+    "trinkflasche test 2026",
+    "trinkflasche sport",
+    "beste thermosflasche",
+    "trinkflasche bpa frei",
+    "isolierflasche test"
+  ],
+  "einleitung": "Kaltes Wasser beim Sport oder heißer Kaffee unterwegs — eine gute isolierte Trinkflasche hält dein Getränk über Stunden auf der richtigen Temperatur. Wir vergleichen vier Modelle und zeigen dir, welche Flasche am besten isoliert.",
+  "kaufberatung": "### Für wen eignet sich welche isolierte Trinkflasche?\nFür den Alltag und das Büro ist die Super Sparrow Trinkflasche ein guter, günstiger Einstieg. Die Hydro Flask Standard Mouth ist der Allrounder mit exzellenter Isolation. Wer einen breiten Flaschenhals zum Befüllen mit Eiswürfeln braucht, greift zur Klean Kanteen Insulated. Und für Outdoor-Extremeinsätze ist die Stanley Adventure die robusteste Wahl.\n\n### Wie lange hält die Isolation?\nDoppelwandiger Edelstahl mit Vakuumisolation hält heiße Getränke 12-24 Stunden warm und kalte Getränke 24-48 Stunden kühl. Die tatsächliche Leistung hängt von der Umgebungstemperatur und der Verschlussart ab.\n\n### Edelstahl oder Kunststoff?\nEdelstahl ist geschmacksneutral, langlebig und frei von BPA. Kunststoff ist leichter und günstiger, kann aber Geschmack annehmen und isoliert deutlich schlechter. Für isolierte Trinkflaschen ist Edelstahl klar die bessere Wahl.\n\n### Welche Verschlussart ist die beste?\nSchraubverschlüsse sind am dichtesten, aber unpraktisch unterwegs. Trinköffnungen mit Einhandbedienung sind bequemer, können aber tropfen. Sport-Caps sind ideal für körperliche Aktivitäten. Viele Marken bieten verschiedene Deckel als Zubehör an.",
+  "vergleichsKategorien": [
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "ml",
+      "sortierung": 1
+    },
+    {
+      "key": "isolation_heiss",
+      "label": "Warmhalten",
+      "einheit": "h",
+      "sortierung": 2
+    },
+    {
+      "key": "isolation_kalt",
+      "label": "Kalthalten",
+      "einheit": "h",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht (leer)",
+      "einheit": "g",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "bpa_frei",
+      "label": "BPA-frei",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche isolierte Trinkflasche hält am längsten warm?",
+      "antwort": "In unserem Vergleich hält die Hydro Flask Standard Mouth heiße Getränke bis zu 12 Stunden warm und kalte bis zu 24 Stunden kalt. Die Stanley Adventure schafft sogar noch etwas mehr bei Heißgetränken."
+    },
+    {
+      "frage": "Kann man isolierte Trinkflaschen in die Spülmaschine geben?",
+      "antwort": "Die meisten Hersteller raten davon ab, da die Hitze in der Spülmaschine die Vakuumisolation beschädigen kann. Reinige deine Flasche am besten per Hand mit warmem Wasser und Spülmittel. Eine Flaschenbürste hilft bei hartnäckigen Ablagerungen."
+    },
+    {
+      "frage": "Sind Edelstahl-Trinkflaschen gesundheitlich unbedenklich?",
+      "antwort": "Ja, hochwertiger Edelstahl (18/8 oder 304) ist lebensmittelecht, geschmacksneutral und gibt keine Schadstoffe an Getränke ab. Alle Flaschen in unserem Vergleich sind BPA-frei und aus lebensmitteltauglichem Edelstahl."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Super Sparrow Trinkflasche 750ml",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07G739V6V?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "750",
+        "isolation_heiss": "12",
+        "isolation_kalt": "24",
+        "gewicht": "340",
+        "material": "18/8 Edelstahl",
+        "bpa_frei": "Ja"
+      }
+    },
+    {
+      "name": "Hydro Flask Standard Mouth 621ml",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B01ACAZ1JA?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "621",
+        "isolation_heiss": "12",
+        "isolation_kalt": "24",
+        "gewicht": "340",
+        "material": "18/8 Pro-Grade Edelstahl",
+        "bpa_frei": "Ja"
+      }
+    },
+    {
+      "name": "Klean Kanteen Insulated Classic 592ml",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0143LGAMC?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "592",
+        "isolation_heiss": "10",
+        "isolation_kalt": "24",
+        "gewicht": "325",
+        "material": "18/8 Edelstahl",
+        "bpa_frei": "Ja"
+      }
+    },
+    {
+      "name": "Stanley Adventure Vacuum Bottle 750ml",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01M0ACFKL?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "750",
+        "isolation_heiss": "15",
+        "isolation_kalt": "20",
+        "gewicht": "510",
+        "material": "18/8 Edelstahl",
+        "bpa_frei": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "dokumentenscanner",
+  "kategorie": "buero",
+  "titel": "Dokumentenscanner",
+  "beschreibung": "Dokumentenscanner Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "dokumentenscanner test",
+    "scanner vergleich",
+    "einzugsscanner kaufberatung",
+    "bester dokumentenscanner",
+    "scanner büro 2026"
+  ],
+  "einleitung": "Du suchst einen Dokumentenscanner, der Papierstapel schnell digitalisiert — für das papierlose Büro, die Steuererklärung oder Vertragsarchivierung? Wir vergleichen vier empfehlenswerte Modelle.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nFür die gelegentliche Steuererklärung oder einzelne Belege reicht der Brother ADS-1200 (Budget) völlig aus. Wer regelmäßig größere Papierstapel digitalisiert — etwa fürs papierlose Büro — braucht den ScanSnap iX1400 oder iX1600 mit 50-Blatt-Einzug und 40 Seiten pro Minute.\n\n### Brauche ich WLAN am Scanner?\nWLAN ist praktisch, wenn mehrere Personen den Scanner nutzen oder er nicht direkt neben dem Computer steht. Der Aufpreis zwischen iX1400 (USB) und iX1600 (WLAN) beträgt ca. 120 Euro — ob sich das lohnt, hängt von deinem Setup ab. Für einen Einzelplatz reicht USB.\n\n### Worauf kommt es bei der Software an?\nDie Software ist mindestens so wichtig wie die Hardware. Fujitsus ScanSnap Home ist der Goldstandard: Ein-Knopf-Scan, automatische Erkennung von Dokumenttyp, Visitenkarten und Quittungen, OCR-Texterkennung und Cloud-Anbindung. Brothers Software ist funktional, aber weniger elegant.\n\n### Duplex-Scan — brauchst du das?\nJa, unbedingt. Duplex-Scan erfasst Vorder- und Rückseite in einem Durchlauf — das halbiert die Scanzeit bei doppelseitig bedruckten Dokumenten. Alle vier Scanner in unserem Vergleich beherrschen Duplex.\n\n### OCR-Texterkennung — worauf achten?\nOCR wandelt gescannte Bilder in durchsuchbaren Text um. Die Qualität variiert stark: Fujitsu liefert sehr gute OCR-Ergebnisse, bei Brother ist die Erkennung bei schlechter Druckqualität manchmal unzuverlässig. Für professionelle OCR kann ABBYY FineReader (separat) sinnvoll sein.",
+  "vergleichsKategorien": [
+    {
+      "key": "scangeschwindigkeit",
+      "label": "Scangeschwindigkeit",
+      "einheit": "S./Min.",
+      "sortierung": 1
+    },
+    {
+      "key": "aufloesung",
+      "label": "Auflösung",
+      "einheit": "dpi",
+      "sortierung": 2
+    },
+    {
+      "key": "adf",
+      "label": "Automatischer Einzug",
+      "einheit": "Blatt",
+      "sortierung": 3
+    },
+    {
+      "key": "duplex",
+      "label": "Duplex-Scan",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "software",
+      "label": "Software",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "formate",
+      "label": "Max. Format",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Dokumentenscanner ist der beste für das papierlose Büro?",
+      "antwort": "Für die meisten Heimanwender ist der Fujitsu ScanSnap iX1600 die beste Wahl: 40 Seiten/Minute, WLAN, Touchscreen und exzellente Software. Wer WLAN nicht braucht, spart mit dem iX1400 rund 120 Euro bei identischer Scanqualität."
+    },
+    {
+      "frage": "Kann ich mit einem Dokumentenscanner auch Fotos scannen?",
+      "antwort": "Einzugsscanner können Fotos scannen, aber die Qualität reicht nicht an Flachbettscanner heran. Für Dokumente und Belege sind sie perfekt, für hochwertige Fotoscans solltest du einen dedizierten Fotoscanner nutzen."
+    },
+    {
+      "frage": "Wie viele Seiten pro Minute brauche ich wirklich?",
+      "antwort": "Für gelegentliches Scannen (unter 50 Seiten pro Woche) reichen 25 Seiten/Minute. Wer regelmäßig größere Stapel digitalisiert, profitiert von 40+ Seiten/Minute — der Unterschied summiert sich schnell auf Stunden pro Monat."
+    },
+    {
+      "frage": "Lohnt sich ein Dokumentenscanner oder reicht der Drucker-Scanner?",
+      "antwort": "Multifunktionsdrucker scannen langsam (5-10 Seiten/Min.) und haben oft keinen automatischen Einzug. Ein dedizierter Dokumentenscanner ist 4-8× schneller und hat Stapelverarbeitung. Wenn du mehr als 20 Seiten pro Woche scannst, lohnt sich die Investition."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Brother ADS-1200",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07PFM38SK?tag=janxsiegmann-21",
+      "preis": 180,
+      "bewertung": 3.5,
+      "werte": {
+        "scangeschwindigkeit": "25",
+        "aufloesung": "600 × 600",
+        "adf": "20",
+        "duplex": "Ja",
+        "verbindung": "USB 3.0",
+        "software": "Brother iPrint&Scan",
+        "formate": "A4"
+      },
+      "vorteile": [
+        "Kompakt und tragbar",
+        "USB-Stromversorgung möglich",
+        "Duplex-Scan"
+      ],
+      "nachteile": [
+        "Kein WLAN",
+        "Kleiner ADF (20 Blatt)",
+        "Keine Cloud-Anbindung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Fujitsu ScanSnap iX1400",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09HNW8P6T?tag=janxsiegmann-21",
+      "preis": 280,
+      "bewertung": 4.0,
+      "werte": {
+        "scangeschwindigkeit": "40",
+        "aufloesung": "600 × 600",
+        "adf": "50",
+        "duplex": "Ja",
+        "verbindung": "USB 3.2",
+        "software": "ScanSnap Home",
+        "formate": "A4 (A3 mit Trägerblatt)"
+      },
+      "vorteile": [
+        "40 Seiten/Min. — sehr schnell",
+        "50-Blatt-Einzug",
+        "Exzellente Software",
+        "Ein-Knopf-Bedienung"
+      ],
+      "nachteile": [
+        "Kein WLAN",
+        "Nur USB",
+        "Software nur für Windows/Mac"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Fujitsu ScanSnap iX1600",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08P3FS3XZ?tag=janxsiegmann-21",
+      "preis": 400,
+      "bewertung": 4.5,
+      "werte": {
+        "scangeschwindigkeit": "40",
+        "aufloesung": "600 × 600",
+        "adf": "50",
+        "duplex": "Ja",
+        "verbindung": "USB 3.2, WLAN",
+        "software": "ScanSnap Home",
+        "formate": "A4 (A3 mit Trägerblatt)"
+      },
+      "vorteile": [
+        "WLAN — kabellos scannen",
+        "4,3-Zoll-Touchscreen",
+        "Cloud-Direktanbindung",
+        "Mehrere Profile speicherbar"
+      ],
+      "nachteile": [
+        "Höherer Preis als iX1400",
+        "Groß für den Schreibtisch",
+        "Software manchmal träge"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Brother ADS-4700W",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09TZBRYQ4?tag=janxsiegmann-21",
+      "preis": 550,
+      "bewertung": 4.5,
+      "werte": {
+        "scangeschwindigkeit": "40",
+        "aufloesung": "600 × 600",
+        "adf": "80",
+        "duplex": "Ja",
+        "verbindung": "USB, WLAN, Ethernet, NFC",
+        "software": "Brother iPrint&Scan, Kofax",
+        "formate": "A4"
+      },
+      "vorteile": [
+        "80-Blatt-ADF — für große Stapel",
+        "Ethernet + WLAN + NFC",
+        "7-Zoll-Touchscreen",
+        "Enterprise-tauglich"
+      ],
+      "nachteile": [
+        "Hoher Preis",
+        "Groß und schwer",
+        "Für Privatnutzer überdimensioniert"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

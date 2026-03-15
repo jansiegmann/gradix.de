@@ -1,0 +1,189 @@
+{
+  "slug": "ladestation-qi",
+  "kategorie": "elektronik",
+  "titel": "Induktive Ladestation (Qi)",
+  "beschreibung": "Induktive Ladestation (Qi) Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "qi ladestation test",
+    "induktive ladestation vergleich",
+    "kabellos laden",
+    "wireless charger",
+    "ladestation qi 2026"
+  ],
+  "einleitung": "Du suchst eine kabellose Ladestation für Smartphone, AirPods oder Apple Watch? Wir vergleichen vier Qi-Ladestationen und zeigen, worauf es bei Ladegeschwindigkeit und Kompatibilität ankommt.",
+  "kaufberatung": "### Welche Ladeleistung brauche ich?\niPhones laden kabellos mit max. 15W (MagSafe/Qi2) bzw. 7,5W (normales Qi). Samsung-Handys schaffen bis 15W mit zertifizierten Ladepads. Mehr als 15W bringt bei aktuellen Smartphones keinen Vorteil — lass dich nicht von 50W-Werbeversprechen blenden.\n\n### Qi vs. Qi2 vs. MagSafe — was ist was?\nQi ist der universelle Standard, den alle kabellosen Ladegeräte unterstützen. MagSafe ist Apples proprietärer Magnet-Standard mit perfekter Ausrichtung. Qi2 ist die Weiterentwicklung von Qi mit magnetischer Ausrichtung (basiert auf MagSafe-Technik) und wird zunehmend auch von Android-Handys unterstützt.\n\n### Lohnt sich eine 3-in-1-Ladestation?\nWenn du iPhone + AirPods + Apple Watch hast: definitiv. Drei Einzelladegeräte kosten zusammen ähnlich viel, nehmen aber mehr Platz weg und brauchen drei Steckdosen. Eine 3-in-1-Station spart Platz auf dem Nachttisch.\n\n### Warum laden manche Handys so langsam kabellos?\nHäufige Ursachen: Hülle zu dick (>3mm), Ladegerät nicht richtig ausgerichtet, kein ausreichend starkes Netzteil. MagSafe/Qi2 lösen das Ausrichtungsproblem durch Magnete. Metallische Hüllen oder Kartenhalter blockieren kabelloses Laden komplett.",
+  "vergleichsKategorien": [
+    {
+      "key": "ladeleistung",
+      "label": "Max. Ladeleistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "geraete",
+      "label": "Gleichz. Geräte",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "standard",
+      "label": "Ladestandard",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "kompatibel",
+      "label": "Kompatibilität",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "design",
+      "label": "Bauform",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "ladeanzeige",
+      "label": "Ladeanzeige",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "kabelllaenge",
+      "label": "Kabellänge",
+      "einheit": "m",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Schadet kabelloses Laden dem Akku?",
+      "antwort": "Nicht mehr als Kabel-Laden, solange die Temperatur niedrig bleibt. Kabelloses Laden erzeugt etwas mehr Wärme, was den Akku langfristig minimal stärker belastet. In der Praxis ist der Unterschied vernachlässigbar — moderne Smartphones haben Ladesteuerungen, die den Akku schonen."
+    },
+    {
+      "frage": "Kann ich mein Samsung-Handy mit einer MagSafe-Station laden?",
+      "antwort": "Ja, per Qi-Standard mit 7,5-10W. Allerdings ohne magnetische Ausrichtung — du musst das Handy manuell positionieren. Mit einem MagSafe-kompatiblen Ring-Adapter (ca. 10€) bekommst du auch magnetische Ausrichtung für Samsung-Handys."
+    },
+    {
+      "frage": "Brauche ich ein spezielles Netzteil für meine Qi-Ladestation?",
+      "antwort": "Ja, die meisten Ladestationen liefern kein Netzteil mit. Für 15W-Laden brauchst du mindestens ein 20W USB-C-Netzteil (Quick Charge 3.0 oder PD). Mit einem schwachen 5W-Netzteil lädt dein Handy nur mit 5W — egal was die Ladestation kann."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Anker 313 Wireless Charger",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07THHQMHM?tag=janxsiegmann-21",
+      "preis": 15,
+      "bewertung": 3.5,
+      "werte": {
+        "ladeleistung": "10",
+        "geraete": "1",
+        "standard": "Qi",
+        "kompatibel": "iPhone, Samsung, Pixel",
+        "design": "Pad (flach)",
+        "ladeanzeige": "LED",
+        "kabelllaenge": "1,0"
+      },
+      "vorteile": [
+        "Extrem günstig",
+        "Zuverlässig",
+        "Kompakt"
+      ],
+      "nachteile": [
+        "Nur 1 Gerät",
+        "Max. 10W",
+        "Kein Netzteil dabei"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Belkin BoostCharge Pro 3-in-1",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09NFDMD4K?tag=janxsiegmann-21",
+      "preis": 100,
+      "bewertung": 4.0,
+      "werte": {
+        "ladeleistung": "15",
+        "geraete": "3 (iPhone + AirPods + Watch)",
+        "standard": "Qi / MagSafe",
+        "kompatibel": "iPhone 12+, AirPods, Apple Watch",
+        "design": "Ständer (vertikal)",
+        "ladeanzeige": "LED",
+        "kabelllaenge": "1,5"
+      },
+      "vorteile": [
+        "3 Geräte gleichzeitig laden",
+        "MagSafe-kompatibel",
+        "Hochwertiges Design"
+      ],
+      "nachteile": [
+        "Nur für Apple-Ökosystem ideal",
+        "Teuer",
+        "Kein Qi2"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Anker MagGo Qi2 3-in-1",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CGDJWBWL?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 4.5,
+      "werte": {
+        "ladeleistung": "15",
+        "geraete": "3 (iPhone + AirPods + Watch)",
+        "standard": "Qi2 (Magnetic)",
+        "kompatibel": "iPhone 12+, AirPods, Apple Watch",
+        "design": "Faltbar",
+        "ladeanzeige": "LED",
+        "kabelllaenge": "1,5"
+      },
+      "vorteile": [
+        "Qi2 — schnellster kabelloser Standard",
+        "Faltbar — perfekt für Reisen",
+        "3-in-1 für Apple-Geräte"
+      ],
+      "nachteile": [
+        "Nur Apple-Ökosystem",
+        "Kein Samsung-Fast-Charge",
+        "Verarbeitung könnte hochwertiger sein"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Nomad Base One Max",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CLNMGS9P?tag=janxsiegmann-21",
+      "preis": 150,
+      "bewertung": 4.5,
+      "werte": {
+        "ladeleistung": "15",
+        "geraete": "3 (iPhone + AirPods + Watch)",
+        "standard": "MagSafe / Qi2",
+        "kompatibel": "iPhone 12+, AirPods, Apple Watch",
+        "design": "Ständer (Metall)",
+        "ladeanzeige": "Dezente LED",
+        "kabelllaenge": "2,0"
+      },
+      "vorteile": [
+        "Premium-Metallgehäuse",
+        "Offiziell MagSafe-zertifiziert",
+        "Minimalistisches Design"
+      ],
+      "nachteile": [
+        "Sehr teuer",
+        "Nur Apple",
+        "Keine Android-Fast-Charge"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,190 @@
+{
+  "slug": "smart-speaker",
+  "kategorie": "elektronik",
+  "titel": "Smart Speaker",
+  "beschreibung": "Smart Speaker Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "smart speaker test",
+    "alexa lautsprecher vergleich",
+    "google nest test",
+    "smart speaker kaufberatung",
+    "smart speaker 2026"
+  ],
+  "einleitung": "Du suchst einen Smart Speaker mit Sprachassistent für Musik, Smart Home und Alltag? Wir vergleichen vier Modelle von Amazon Echo bis Sonos.",
+  "kaufberatung": "### Alexa, Google oder Siri — welcher Assistent?\nAlexa (Amazon) hat die meisten Smart-Home-Integrationen und Skills. Google Assistant beantwortet Wissensfragen am besten und kann natürlichere Konversationen führen. Siri (Apple HomePod) funktioniert am besten im Apple-Ökosystem, ist aber bei Smart-Home-Steuerung und Drittanbieter-Integrationen schwächer.\n\n### Brauche ich guten Sound oder reicht ein Mini-Speaker?\nFür Sprachbefehle, Nachrichten und Küchentimer reicht ein Echo Dot oder Nest Mini. Wenn du regelmäßig Musik hörst und Wert auf Klang legst, investiere in einen Echo (4. Gen), Google Nest Audio oder Sonos Era 100 — der Klanunterschied ist erheblich.\n\n### Datenschutz — wie kritisch ist das?\nAmazon und Google verarbeiten Sprachaufnahmen in der Cloud. Du kannst Aufnahmen manuell löschen und die Speicherung deaktivieren. Wer auf Nummer sicher gehen will, nutzt die physische Mikrofon-Stummschalttaste oder greift zum Sonos — der verarbeitet Sprachbefehle lokal.\n\n### Smart-Home-Hub integriert — brauche ich das?\nWenn du Zigbee- oder Thread-Geräte steuern willst, ist ein Speaker mit eingebautem Hub praktisch — das spart einen separaten Hub. Der Echo Dot (5. Gen) und Echo (4. Gen) haben Zigbee + Thread integriert. Google-Speaker haben keinen Smart-Home-Hub eingebaut.",
+  "vergleichsKategorien": [
+    {
+      "key": "assistent",
+      "label": "Sprachassistent",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "sound",
+      "label": "Soundqualität",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "wlan",
+      "label": "WLAN",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "smart_home",
+      "label": "Smart-Home-Hub",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "aux",
+      "label": "AUX/Klinke",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "multiroom",
+      "label": "Multiroom",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "abmessungen",
+      "label": "Abmessungen",
+      "einheit": "cm",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Smart Speaker klingt am besten?",
+      "antwort": "Der Sonos Era 100 ist klanglich eine Klasse für sich — echter Stereo-Sound aus einem Gerät. Dahinter folgt der Amazon Echo (4. Gen) mit ordentlichem Bass und klarem Klang. Der Echo Dot und Google Nest Mini sind für Musik nur bedingt geeignet."
+    },
+    {
+      "frage": "Kann ich Alexa und Google gleichzeitig nutzen?",
+      "antwort": "Nicht auf demselben Gerät, aber in verschiedenen Räumen. Viele Smart-Home-Geräte unterstützen beide Assistenten. Du kannst also einen Echo im Wohnzimmer und einen Nest Audio in der Küche nutzen — beide steuern dieselben Smart-Home-Geräte."
+    },
+    {
+      "frage": "Hört mein Smart Speaker immer mit?",
+      "antwort": "Technisch ja — der Speaker wartet auf das Aktivierungswort (Alexa/Hey Google/Hey Siri). Erst danach wird die Aufnahme an die Cloud gesendet. Du kannst das Mikrofon jederzeit per Taste stumm schalten. Die LED zeigt an, ob das Mikrofon aktiv ist."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Amazon Echo Dot (5. Gen)",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09B8V1LZ3?tag=janxsiegmann-21",
+      "preis": 35,
+      "bewertung": 3.5,
+      "werte": {
+        "assistent": "Alexa",
+        "sound": "44mm Lautsprecher",
+        "wlan": "Wi-Fi 5",
+        "smart_home": "Zigbee + Thread",
+        "aux": "3,5mm Ausgang",
+        "multiroom": "Ja (Echo-Gruppe)",
+        "abmessungen": "10 × 10 × 9"
+      },
+      "vorteile": [
+        "Sehr günstig",
+        "Zigbee + Thread Hub integriert",
+        "Guter Klang für die Größe"
+      ],
+      "nachteile": [
+        "Bass begrenzt",
+        "Datensammlung durch Amazon",
+        "Kein Bluetooth-Eingang"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Amazon Echo (4. Gen)",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B085HK4KL6?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 4.0,
+      "werte": {
+        "assistent": "Alexa",
+        "sound": "76mm Woofer + 20mm Tweeter",
+        "wlan": "Wi-Fi 5",
+        "smart_home": "Zigbee + Thread",
+        "aux": "3,5mm Ausgang",
+        "multiroom": "Ja",
+        "abmessungen": "14 × 14 × 13"
+      },
+      "vorteile": [
+        "Guter Raumklang",
+        "Smart-Home-Hub integriert",
+        "Temperatursensor eingebaut"
+      ],
+      "nachteile": [
+        "Kugeldesign gefällt nicht allen",
+        "Nur Alexa",
+        "Kein Hi-Res Audio"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Google Nest Audio",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08KSX81FT?tag=janxsiegmann-21",
+      "preis": 75,
+      "bewertung": 4.5,
+      "werte": {
+        "assistent": "Google Assistant",
+        "sound": "75mm Woofer + 19mm Tweeter",
+        "wlan": "Wi-Fi 5",
+        "smart_home": "Chromecast-Gruppen",
+        "aux": "Nein",
+        "multiroom": "Ja (Google Home Gruppen)",
+        "abmessungen": "12 × 7 × 17"
+      },
+      "vorteile": [
+        "Google Assistant — bester Assistent für Wissensfragen",
+        "Klarer, natürlicher Sound",
+        "Stoffdesign fügt sich gut ein"
+      ],
+      "nachteile": [
+        "Kein AUX-Ausgang",
+        "Kein Smart-Home-Hub integriert",
+        "Kein Bluetooth-Eingang"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Sonos Era 100",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BW34LQL6?tag=janxsiegmann-21",
+      "preis": 250,
+      "bewertung": 4.5,
+      "werte": {
+        "assistent": "Alexa + Sonos Voice Control",
+        "sound": "2× Tweeter + 1× Woofer (Stereo)",
+        "wlan": "Wi-Fi 6",
+        "smart_home": "Sonos-Ökosystem",
+        "aux": "USB-C (mit Adapter)",
+        "multiroom": "Ja (Sonos-System)",
+        "abmessungen": "13 × 12 × 18"
+      },
+      "vorteile": [
+        "Audiophiler Klang — Stereo aus einem Gerät",
+        "Sonos Multiroom-System",
+        "AirPlay 2",
+        "Wi-Fi 6"
+      ],
+      "nachteile": [
+        "Kein Google Assistant",
+        "Teuer",
+        "Sonos-Ökosystem bindet"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

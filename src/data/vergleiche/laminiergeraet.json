@@ -1,0 +1,118 @@
+{
+  "slug": "laminiergeraet",
+  "kategorie": "buero",
+  "titel": "Laminiergerät",
+  "beschreibung": "Laminiergerät Test 2026: Die 4 besten Laminiergeräte im Vergleich ✓ A3 & A4 ✓ Schnell & einfach ✓ Kaufberatung",
+  "keywords": [
+    "laminiergerät test",
+    "laminiergerät vergleich",
+    "laminiergerät a4",
+    "laminiergerät a3",
+    "bestes laminiergerät",
+    "laminiergerät test 2026",
+    "laminiergerät kaufberatung",
+    "laminiergerät büro",
+    "heißlaminiergerät",
+    "laminiergerät schnell"
+  ],
+  "einleitung": "Ob Speisekarten, Namensschilder oder Bastelarbeiten — ein Laminiergerät schützt Dokumente dauerhaft vor Feuchtigkeit und Verschmutzung. Wir vergleichen vier Modelle von kompakt bis professionell.",
+  "kaufberatung": "### A4 oder A3?\nFür den Hausgebrauch reicht A4. Wer Poster, Plakate oder größere Dokumente laminiert, braucht A3. A3-Geräte können natürlich auch A4 verarbeiten — sie sind nur etwas größer.\n\n### Aufwärmzeit beachten\nGünstige Geräte brauchen 3–5 Minuten zum Aufwärmen. Premium-Modelle sind in unter einer Minute betriebsbereit. Wenn du häufig laminierst, spart eine kurze Aufwärmzeit viel Zeit.\n\n### Foliendicke: 80 oder 125 Mikron?\n80-Mikron-Folien sind flexibel und günstig — gut für Dokumente. 125-Mikron-Folien sind steifer und robuster — ideal für Schilder und Karten. Manche Geräte können auch 250-Mikron-Folien verarbeiten.\n\n### Kalt- und Heißlaminierung\nHeißlaminierung verschweißt die Folien durch Hitze — das Standardverfahren. Kaltlaminierung nutzt Druckkleber und ist für hitzeempfindliche Materialien wie Fotos gedacht. Premium-Geräte bieten beide Optionen.\n\n### Staufreie Verarbeitung\nNichts ist ärgerlicher als ein Folienstau. Modelle mit Anti-Jam-Technologie und einem Reverse-Modus zum Lösen von Staus sparen Nerven. Achte auch auf gerade Einzugsführungen.",
+  "vergleichsKategorien": [
+    {
+      "key": "max_format",
+      "label": "Max. Format",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "aufwaermzeit",
+      "label": "Aufwärmzeit",
+      "einheit": "Sekunden",
+      "sortierung": 2
+    },
+    {
+      "key": "geschwindigkeit",
+      "label": "Geschwindigkeit",
+      "einheit": "mm/min",
+      "sortierung": 3
+    },
+    {
+      "key": "max_foliendicke",
+      "label": "Max. Foliendicke",
+      "einheit": "Mikron",
+      "sortierung": 4
+    },
+    {
+      "key": "kaltlaminierung",
+      "label": "Kaltlaminierung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Folien brauche ich für mein Laminiergerät?",
+      "antwort": "Die meisten Geräte nutzen Standard-Laminierfolien in A4 oder A3 mit 80 oder 125 Mikron Dicke. Achte darauf, dass die Foliendicke zum Gerät passt — nicht jedes Gerät kann 125 Mikron verarbeiten."
+    },
+    {
+      "frage": "Kann ich Fotos laminieren?",
+      "antwort": "Ja, aber nutze dafür die Kaltlaminierung oder eine niedrige Temperatur. Zu viel Hitze kann Tintenstrahldrucke verschmieren. Laserdrucke sind hitzebeständiger und eignen sich besser für Heißlaminierung."
+    },
+    {
+      "frage": "Wie reinige ich mein Laminiergerät?",
+      "antwort": "Spezielle Reinigungsblätter entfernen Kleberreste aus den Walzen. Alternativ ein leeres Laminierblatt (ohne Dokument) durchlaufen lassen. Nie Reinigungsmittel direkt in das Gerät sprühen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Crenova A4 Laminiergerät",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01N3MFRZQ?tag=janxsiegmann-21",
+      "werte": {
+        "max_format": "A4",
+        "aufwaermzeit": "180",
+        "geschwindigkeit": "250",
+        "max_foliendicke": "125",
+        "kaltlaminierung": "Nein"
+      }
+    },
+    {
+      "name": "Fellowes Saturn 3i A3",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0064O882E?tag=janxsiegmann-21",
+      "werte": {
+        "max_format": "A3",
+        "aufwaermzeit": "60",
+        "geschwindigkeit": "300",
+        "max_foliendicke": "125",
+        "kaltlaminierung": "Ja"
+      }
+    },
+    {
+      "name": "Fellowes Venus 2 A3",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0099ACFCO?tag=janxsiegmann-21",
+      "werte": {
+        "max_format": "A3",
+        "aufwaermzeit": "30",
+        "geschwindigkeit": "500",
+        "max_foliendicke": "250",
+        "kaltlaminierung": "Ja"
+      }
+    },
+    {
+      "name": "GBC Fusion 3100L A3",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B014GRSFGU?tag=janxsiegmann-21",
+      "werte": {
+        "max_format": "A3",
+        "aufwaermzeit": "60",
+        "geschwindigkeit": "500",
+        "max_foliendicke": "250",
+        "kaltlaminierung": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

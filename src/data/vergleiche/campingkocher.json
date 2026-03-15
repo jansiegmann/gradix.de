@@ -1,0 +1,128 @@
+{
+  "slug": "campingkocher",
+  "kategorie": "camping",
+  "titel": "Campingkocher",
+  "beschreibung": "Campingkocher Test 2026: Die 4 besten Campingkocher im Vergleich ✓ Gas, Benzin & Multifuel ✓ Für Trekking & Camping",
+  "keywords": [
+    "campingkocher",
+    "campingkocher test",
+    "gaskocher camping",
+    "campingkocher vergleich",
+    "bester campingkocher",
+    "trekking kocher",
+    "gaskocher test",
+    "campingkocher 2026",
+    "outdoor kocher",
+    "camping gaskocher"
+  ],
+  "einleitung": "Ob Trekkingtour oder Campingplatz — der richtige Kocher macht den Unterschied zwischen einem warmen Essen und Frustration. Wir vergleichen vier Campingkocher von kompakt bis komfortabel und zeigen dir, welcher zu deinem Outdoor-Stil passt.",
+  "kaufberatung": "### Für wen eignet sich welcher Campingkocher?\nFür Wochenend-Camping und Festivals reicht der günstige Campingaz Bistro. Trekkingbegeisterte brauchen einen leichten, kompakten Kocher wie den MSR PocketRocket 2. Wer auch bei Wind zuverlässig kochen will, greift zum Jetboil Flash mit seinem integrierten Windsschutz. Und für Expeditionen in kalte Regionen oder Länder ohne Gaskartuschen-Versorgung ist der MSR WhisperLite Universal die beste Wahl.\n\n### Gas, Benzin oder Multifuel — was ist besser?\nGaskocher sind am einfachsten: Kartusche drauf, anzünden, fertig. Sie funktionieren bei Temperaturen über 5°C zuverlässig. Bei Kälte unter 0°C oder in großer Höhe wird Gas jedoch schwach — dann brauchst du einen Benzin- oder Multifuel-Kocher. Für 90 Prozent der Camping-Situationen in Europa ist ein Gaskocher die beste Wahl.\n\n### Kochzeit und Effizienz — worauf achten?\nDie Kochzeit für einen Liter Wasser variiert von 3 bis 8 Minuten je nach Kocher und Bedingungen. Integrierte Systeme wie der Jetboil Flash sind am effizientesten, weil der Topf direkt auf den Brenner passt und ein Wärmetauscher eingebaut ist. Bei klassischen Aufsatzkochern geht mehr Wärme verloren.\n\n### Gewicht vs. Komfort — die richtige Balance\nUltraleichte Kocher wie der MSR PocketRocket 2 wiegen unter 80 Gramm — perfekt für Gramm-Zähler. Dafür sind sie windanfälliger und haben keinen Topf dabei. Integrierte Systeme wiegen mehr (400-500 g), bieten aber Windschutz und effizientereres Kochen.",
+  "vergleichsKategorien": [
+    {
+      "key": "brennstoff",
+      "label": "Brennstoff",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "kochzeit_1l",
+      "label": "Kochzeit 1L Wasser",
+      "einheit": "min",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht (Kocher)",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "packmass",
+      "label": "Packmaß",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 5
+    },
+    {
+      "key": "windschutz",
+      "label": "Windschutz",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Campingkocher ist am besten für Trekking geeignet?",
+      "antwort": "Für Trekking empfehlen wir den MSR PocketRocket 2 — er wiegt nur 73 Gramm und ist extrem kompakt. Wer ein integriertes System bevorzugt, ist mit dem Jetboil Flash gut bedient, der ist zwar schwerer, kocht aber schneller und effizienter."
+    },
+    {
+      "frage": "Wie lange reicht eine Gaskartusche beim Campingkocher?",
+      "antwort": "Eine Standard-Gaskartusche (230 g) reicht für etwa 30-45 Minuten Kochzeit, also ca. 10-15 Mal einen Liter Wasser kochen. Für zwei Personen und ein Wochenende reicht eine Kartusche in der Regel aus."
+    },
+    {
+      "frage": "Funktionieren Gaskocher im Winter?",
+      "antwort": "Bei Temperaturen unter 5°C lässt die Leistung von normalen Gaskochern stark nach, unter 0°C funktionieren sie kaum noch. Abhilfe: Isobutan-Kartuschen nutzen, die Kartusche im Schlafsack vorwärmen, oder auf einen Multifuel-Kocher wie den MSR WhisperLite Universal umsteigen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Campingaz Bistro 2",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B000BNQBMS?tag=janxsiegmann-21",
+      "werte": {
+        "brennstoff": "Gas (Stechkartusche)",
+        "kochzeit_1l": "5,5",
+        "gewicht": "350",
+        "packmass": "mittel",
+        "leistung": "2600",
+        "windschutz": "keiner"
+      }
+    },
+    {
+      "name": "MSR PocketRocket 2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B01N5O7551?tag=janxsiegmann-21",
+      "werte": {
+        "brennstoff": "Gas (Schraubkartusche)",
+        "kochzeit_1l": "3,5",
+        "gewicht": "73",
+        "packmass": "sehr kompakt",
+        "leistung": "2900",
+        "windschutz": "keiner"
+      }
+    },
+    {
+      "name": "Jetboil Flash",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07V6JHSBK?tag=janxsiegmann-21",
+      "werte": {
+        "brennstoff": "Gas (Schraubkartusche)",
+        "kochzeit_1l": "3,2",
+        "gewicht": "371 (mit Topf)",
+        "packmass": "kompakt (integriert)",
+        "leistung": "2900",
+        "windschutz": "integriert + Wärmetauscher"
+      }
+    },
+    {
+      "name": "MSR WhisperLite Universal",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B005I6PNZS?tag=janxsiegmann-21",
+      "werte": {
+        "brennstoff": "Multifuel (Gas/Benzin/Diesel)",
+        "kochzeit_1l": "3,5",
+        "gewicht": "340",
+        "packmass": "mittel",
+        "leistung": "2900",
+        "windschutz": "Windschutz inklusive"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

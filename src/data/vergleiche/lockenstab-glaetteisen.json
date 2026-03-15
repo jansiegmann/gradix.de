@@ -1,0 +1,128 @@
+{
+  "slug": "lockenstab-glaetteisen",
+  "kategorie": "koerperpflege",
+  "titel": "Lockenstab / Glätteisen",
+  "beschreibung": "Lockenstab & Glätteisen Test 2026: Die 4 besten Haarstyler im Vergleich ✓ ghd, Remington & Co. ✓ Für Locken & glattes Haar",
+  "keywords": [
+    "lockenstab",
+    "glätteisen",
+    "lockenstab test",
+    "glätteisen test",
+    "haarstyler vergleich",
+    "ghd glätteisen",
+    "lockenstab vergleich",
+    "glätteisen test 2026",
+    "bester lockenstab",
+    "2 in 1 lockenstab glätteisen"
+  ],
+  "einleitung": "Ob Locken, Wellen oder spiegelglattes Haar — mit dem richtigen Styler gelingt jedes Styling. Wir vergleichen vier Haarstyler von Budget bis Profi und zeigen dir, welcher am schonendsten für dein Haar ist.",
+  "kaufberatung": "### Lockenstab oder Glätteisen — was brauche ich?\nWenn du hauptsächlich glätten willst, reicht ein Glätteisen. Für Locken und Wellen ist ein Lockenstab besser. 2-in-1-Geräte können beides, sind aber bei keinem perfekt. Profis wie der Dyson Airwrap können glätten, locken und trocknen — kosten aber entsprechend.\n\n### Worauf kommt es bei der Beschichtung an?\nKeramik-Beschichtung verteilt die Hitze gleichmäßig und schont das Haar. Turmalin-Keramik reduziert zusätzlich statische Aufladung. Titan heizt am schnellsten, kann aber bei falschem Einsatz das Haar schädigen. Für feines Haar: Keramik. Für dickes Haar: Titan.\n\n### Welche Temperatur ist die richtige?\nFeines/geschädigtes Haar: 150-170°C. Normales Haar: 170-190°C. Dickes/krauses Haar: 190-210°C. Nie über 220°C gehen — das verbrennt die Haarstruktur. Geräte mit Temperaturanzeige sind Pflicht.\n\n### Hitzeschutz nicht vergessen!\nBevor du irgendeinen Styler ans Haar lässt: Hitzeschutzspray benutzen. Das legt sich wie ein Schutzfilm um die Haarstruktur und reduziert Schäden deutlich.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "temperatur",
+      "label": "Temperaturbereich",
+      "einheit": "°C",
+      "sortierung": 2
+    },
+    {
+      "key": "aufheizzeit",
+      "label": "Aufheizzeit",
+      "einheit": "s",
+      "sortierung": 3
+    },
+    {
+      "key": "beschichtung",
+      "label": "Beschichtung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "display",
+      "label": "Temperaturanzeige",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "abschaltautomatik",
+      "label": "Abschaltautomatik",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist ein Glätteisen schädlich für die Haare?",
+      "antwort": "Regelmäßiges Glätten bei hoher Temperatur kann die Haarstruktur schädigen. Schäden lassen sich minimieren durch: richtige Temperatur wählen (nicht zu heiß), immer Hitzeschutzspray verwenden und nicht öfter als 2-3x pro Woche glätten."
+    },
+    {
+      "frage": "Lohnt sich der Dyson Airwrap?",
+      "antwort": "Der Dyson Airwrap ist das schonendste Gerät im Vergleich, weil er mit Luft statt Kontakthitze stylt. Er ist aber auch mit Abstand am teuersten. Lohnt sich für Vielstyler, die ihre Haare täglich formen und dabei schonen wollen."
+    },
+    {
+      "frage": "Wie mache ich Beach Waves mit dem Glätteisen?",
+      "antwort": "Nimm eine Strähne, klemme sie auf halber Länge ein, drehe das Glätteisen eine halbe Umdrehung und ziehe es langsam nach unten. Abwechselnd nach innen und außen drehen für natürlich aussehende Wellen. Anschließend mit den Fingern durchfahren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Remington Curl & Straight Confidence S6606B",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08DGRJHXG?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "2-in-1 Glätteisen",
+        "temperatur": "150-230",
+        "aufheizzeit": "15",
+        "beschichtung": "Keramik-Turmalin",
+        "display": "Digital-Display",
+        "abschaltautomatik": "Ja (60 min)"
+      }
+    },
+    {
+      "name": "Remington Pearl Pro Lockenstab CI9532",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B008BPKPEG?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Lockenstab (32mm)",
+        "temperatur": "130-210",
+        "aufheizzeit": "30",
+        "beschichtung": "Keramik + Echtperlen",
+        "display": "Digital-Display",
+        "abschaltautomatik": "Ja (60 min)"
+      }
+    },
+    {
+      "name": "ghd gold Styler",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07KMYSJHK?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Glätteisen (Profi)",
+        "temperatur": "185 (optimal)",
+        "aufheizzeit": "25",
+        "beschichtung": "Keramik Dual-Zone",
+        "display": "Nein (Festtemperatur)",
+        "abschaltautomatik": "Ja (30 min)"
+      }
+    },
+    {
+      "name": "Dyson Airwrap Complete Long",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BVMH85WG?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Multistyler (Luft)",
+        "temperatur": "max. 150 (Coanda)",
+        "aufheizzeit": "3",
+        "beschichtung": "k.A. (Luftstrom)",
+        "display": "Nein",
+        "abschaltautomatik": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "waeschetrockner",
+  "kategorie": "haushalt",
+  "titel": "Wäschetrockner",
+  "beschreibung": "Wäschetrockner Test 2026: Die 4 besten Trockner im Vergleich ✓ Wärmepumpe ✓ Kaufberatung",
+  "keywords": [
+    "wäschetrockner",
+    "wäschetrockner test",
+    "trockner",
+    "wärmepumpentrockner",
+    "trockner vergleich",
+    "bester wäschetrockner",
+    "kondenstrockner",
+    "trockner kaufberatung",
+    "wäschetrockner testsieger",
+    "wäschetrockner 2026"
+  ],
+  "einleitung": "Nie wieder Wäsche aufhängen und warten — ein Wäschetrockner liefert flauschig-weiche Wäsche in ein bis zwei Stunden. Wir vergleichen vier Modelle vom günstigen Kondenstrockner bis zum sparsamen Wärmepumpentrockner.",
+  "kaufberatung": "### Wärmepumpentrockner vs. Kondenstrockner\nWärmepumpentrockner verbrauchen bis zu 50% weniger Strom als herkömmliche Kondenstrockner. Die Anschaffung ist teurer, aber die Ersparnis bei den Stromkosten macht sich nach 2-3 Jahren bezahlt. Für regelmäßige Nutzung empfehlen wir klar einen Wärmepumpentrockner.\n\n### Energieeffizienzklasse beachten\nWärmepumpentrockner erreichen A+++ bis A+, Kondenstrockner meist nur B. Bei 150-200 Trocknungszyklen pro Jahr macht das einen Unterschied von 50-80 Euro auf der Stromrechnung.\n\n### Fassungsvermögen richtig wählen\n7 kg reichen für Ein- bis Zwei-Personen-Haushalte. Familien sollten zu 8-9 kg greifen, damit eine volle Waschmaschinenladung auf einmal getrocknet werden kann. Tipp: Der Trockner sollte die gleiche oder größere Kapazität wie deine Waschmaschine haben.\n\n### Schonende Trocknungsprogramme\nModerne Trockner bieten spezielle Programme für empfindliche Textilien wie Wolle, Seide oder Sportkleidung. Sensorgesteuerte Trocknung erkennt die Restfeuchte und stoppt automatisch — das schont die Wäsche und spart Energie.\n\n### Kondenswasser: Behälter oder Abfluss?\nWärmepumpentrockner sammeln Kondenswasser in einem Behälter, der regelmäßig entleert werden muss. Alternativ kann das Wasser per Schlauch direkt in den Abfluss geleitet werden — das ist bequemer, erfordert aber einen Wasseranschluss in der Nähe.",
+  "vergleichsKategorien": [
+    {
+      "key": "trocknertyp",
+      "label": "Trocknertyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "fassungsvermoegen",
+      "label": "Fassungsvermögen",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "energieeffizienz",
+      "label": "Energieeffizienzklasse",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "jahresverbrauch",
+      "label": "Jahresverbrauch",
+      "einheit": "kWh",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 5
+    },
+    {
+      "key": "programme",
+      "label": "Programme",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel Strom verbraucht ein Wäschetrockner?",
+      "antwort": "Ein Wärmepumpentrockner verbraucht etwa 1,5-2,0 kWh pro Trocknungsgang, ein Kondenstrockner 3,5-4,5 kWh. Bei 150 Durchgängen pro Jahr sind das bei einem Wärmepumpentrockner rund 90 Euro Stromkosten, beim Kondenstrockner über 180 Euro (bei 0,30 €/kWh)."
+    },
+    {
+      "frage": "Muss ich den Flusensieb bei jedem Trocknen reinigen?",
+      "antwort": "Ja, unbedingt. Ein verstopfter Flusensieb erhöht den Energieverbrauch, verlängert die Trocknungszeit und kann im schlimmsten Fall einen Brand verursachen. Bei Wärmepumpentrockner solltest du zusätzlich regelmäßig den Wärmetauscher reinigen."
+    },
+    {
+      "frage": "Kann ich einen Wäschetrockner auf die Waschmaschine stellen?",
+      "antwort": "Ja, mit einem passenden Verbindungsrahmen (Zwischenbaurahmen). Achte darauf, dass der Rahmen für die Maße beider Geräte passt und die maximale Belastung nicht überschritten wird. Die meisten Trockner wiegen 40-50 kg — der Unterbau muss also stabil sein."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Beko DS 7512 PA",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09DPB26SQ?tag=janxsiegmann-21",
+      "werte": {
+        "trocknertyp": "Wärmepumpentrockner",
+        "fassungsvermoegen": "7",
+        "energieeffizienz": "A+++",
+        "jahresverbrauch": "159",
+        "lautstaerke": "65",
+        "programme": "16"
+      }
+    },
+    {
+      "name": "Bosch WTH83V02 Serie 4",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B7NKPTMH?tag=janxsiegmann-21",
+      "werte": {
+        "trocknertyp": "Wärmepumpentrockner",
+        "fassungsvermoegen": "8",
+        "energieeffizienz": "A++",
+        "jahresverbrauch": "227",
+        "lautstaerke": "65",
+        "programme": "15"
+      }
+    },
+    {
+      "name": "Siemens WT47XMS1 iQ700",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0963N86Y3?tag=janxsiegmann-21",
+      "werte": {
+        "trocknertyp": "Wärmepumpentrockner",
+        "fassungsvermoegen": "8",
+        "energieeffizienz": "A+++",
+        "jahresverbrauch": "176",
+        "lautstaerke": "62",
+        "programme": "20+"
+      }
+    },
+    {
+      "name": "Miele TSF 763 WP",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09V7PFFWW?tag=janxsiegmann-21",
+      "werte": {
+        "trocknertyp": "Wärmepumpentrockner",
+        "fassungsvermoegen": "8",
+        "energieeffizienz": "A+++",
+        "jahresverbrauch": "171",
+        "lautstaerke": "64",
+        "programme": "12"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

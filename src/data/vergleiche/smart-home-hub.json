@@ -1,0 +1,192 @@
+{
+  "slug": "smart-home-hub",
+  "kategorie": "elektronik",
+  "titel": "Smart-Home-Hub / Zentrale",
+  "beschreibung": "Smart-Home-Hub / Zentrale Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "smart home hub test",
+    "smart home zentrale vergleich",
+    "zigbee hub",
+    "matter hub",
+    "smart home hub 2026"
+  ],
+  "einleitung": "Du willst dein Smart Home zentral steuern und verschiedene Geräte (Zigbee, Thread, Matter) unter einen Hut bringen? Wir vergleichen vier Smart-Home-Hubs.",
+  "kaufberatung": "### Brauche ich überhaupt einen Hub?\nWenn du nur WLAN-basierte Smart-Home-Geräte nutzt (z.B. TP-Link Tapo Steckdosen, WLAN-Kameras), brauchst du keinen Hub. Sobald du Zigbee-, Thread- oder Z-Wave-Geräte nutzen willst, ist ein Hub Pflicht. Diese Protokolle sind stromsparender und zuverlässiger als WLAN.\n\n### Matter — das neue Smart-Home-Versprechen\nMatter ist der neue universelle Standard, der alle Hersteller vereinen soll. In der Praxis (Stand 2026) funktioniert Matter gut für einfache Geräte (Steckdosen, Lampen), bei komplexeren Geräten (Kameras, Saugroboter) gibt es noch Lücken. Ein Hub mit Matter-Support ist zukunftssicher.\n\n### Home Assistant — der Geheimtipp für Technik-Enthusiasten\nHome Assistant ist ein Open-Source-System, das ALLE Protokolle und Hersteller unter einer Oberfläche vereint. Die Einrichtung erfordert technisches Verständnis, aber die Flexibilität ist unübertroffen: Automationen, Dashboards, lokale Verarbeitung ohne Cloud. Für Bastler die beste Wahl.\n\n### Wie viele Geräte kann ein Hub verwalten?\nZigbee-Hubs unterstützen theoretisch 65.000 Geräte, praktisch werden ab 50-80 Geräten einige Hubs träge. Z-Wave unterstützt max. 232 Geräte. Für ein normales Smart Home mit 20-40 Geräten reicht jeder Hub aus.",
+  "vergleichsKategorien": [
+    {
+      "key": "protokolle",
+      "label": "Protokolle",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "geraete_max",
+      "label": "Max. Geräte",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "sprachassistent",
+      "label": "Sprachassistent",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "app",
+      "label": "App",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "matter",
+      "label": "Matter-Support",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "bauform",
+      "label": "Bauform",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "preis_ca",
+      "label": "Ca. Preis",
+      "einheit": "€",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Was ist der Unterschied zwischen Zigbee, Z-Wave und Thread?",
+      "antwort": "Zigbee ist der verbreitetste Smart-Home-Standard mit großer Geräteauswahl. Z-Wave hat weniger Interferenzprobleme und bessere Reichweite. Thread ist der neueste Standard — energieeffizient, schnell und mesh-fähig. Thread ist die Zukunft, Zigbee der aktuelle Praxisstandard."
+    },
+    {
+      "frage": "Kann ich verschiedene Smart-Home-Marken miteinander kombinieren?",
+      "antwort": "Mit einem guten Hub ja. Home Assistant, Homey Pro und Hubitat unterstützen hunderte Hersteller. Amazon Echo und Google Nest sind begrenzter, funktionieren aber mit den meisten populären Marken. Matter wird langfristig die Kompatibilität weiter verbessern."
+    },
+    {
+      "frage": "Funktioniert mein Smart Home ohne Internet?",
+      "antwort": "Das hängt vom Hub ab. Home Assistant, Hubitat und Homey Pro verarbeiten Automationen lokal — sie funktionieren auch ohne Internet. Amazon Echo und Google Nest benötigen für die meisten Funktionen eine Cloud-Verbindung."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Amazon Echo Dot (5. Gen)",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09B8V1LZ3?tag=janxsiegmann-21",
+      "preis": 35,
+      "bewertung": 3.5,
+      "werte": {
+        "protokolle": "Zigbee, Thread, Bluetooth, WLAN",
+        "geraete_max": "k.A.",
+        "sprachassistent": "Alexa",
+        "app": "Alexa App",
+        "matter": "Ja (als Controller)",
+        "bauform": "Smart Speaker",
+        "preis_ca": "35"
+      },
+      "vorteile": [
+        "Günstigster Hub mit Zigbee+Thread",
+        "Matter-kompatibel",
+        "Auch als Speaker nutzbar"
+      ],
+      "nachteile": [
+        "Kein Z-Wave",
+        "Amazon-Ökosystem",
+        "Begrenzte Automations-Logik"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Home Assistant Yellow",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BWPTRMZQ?tag=janxsiegmann-21",
+      "preis": 130,
+      "bewertung": 4.0,
+      "werte": {
+        "protokolle": "Zigbee, Thread, WLAN, Bluetooth (Z-Wave per Stick)",
+        "geraete_max": "Unbegrenzt",
+        "sprachassistent": "Optional (Alexa/Google/lokal)",
+        "app": "Home Assistant App",
+        "matter": "Ja (Controller + Bridge)",
+        "bauform": "Standalone-Box",
+        "preis_ca": "130"
+      },
+      "vorteile": [
+        "Open Source — kein Vendor-Lock-in",
+        "Unbegrenzte Geräte",
+        "Lokale Verarbeitung — kein Cloud-Zwang",
+        "Extrem anpassbar"
+      ],
+      "nachteile": [
+        "Einrichtung technisch anspruchsvoll",
+        "Community statt Hersteller-Support",
+        "Hardware-Qualität schwankt"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Homey Pro (2023)",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BW6VFS77?tag=janxsiegmann-21",
+      "preis": 400,
+      "bewertung": 4.5,
+      "werte": {
+        "protokolle": "Zigbee, Z-Wave, Thread, IR, 433MHz, WLAN, BLE",
+        "geraete_max": "Unbegrenzt",
+        "sprachassistent": "Alexa, Google, Siri",
+        "app": "Homey App",
+        "matter": "Ja",
+        "bauform": "Standalone-Box",
+        "preis_ca": "400"
+      },
+      "vorteile": [
+        "Unterstützt quasi ALLE Protokolle",
+        "Schöne, intuitive App",
+        "IR-Sender integriert",
+        "Keine Cloud nötig für Automationen"
+      ],
+      "nachteile": [
+        "Hoher Preis",
+        "Manchmal träge bei vielen Geräten",
+        "Community-Apps unterschiedlich gepflegt"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Hubitat Elevation C-8 Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CX8SXVLW?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.5,
+      "werte": {
+        "protokolle": "Zigbee 3.0, Z-Wave 800, Thread, Matter",
+        "geraete_max": "Unbegrenzt",
+        "sprachassistent": "Alexa, Google (via Cloud-Link)",
+        "app": "Hubitat App",
+        "matter": "Ja",
+        "bauform": "Standalone-Box",
+        "preis_ca": "200"
+      },
+      "vorteile": [
+        "100% lokal — kein Cloud-Zwang",
+        "Z-Wave 800 (neuester Standard)",
+        "Sehr schnelle Automationen",
+        "Regelbasierte Logik wie ein Profi-System"
+      ],
+      "nachteile": [
+        "Einrichtung nicht anfängerfreundlich",
+        "UI weniger poliert als Homey",
+        "US-lastige Community"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

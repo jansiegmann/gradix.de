@@ -1,0 +1,118 @@
+{
+  "slug": "wlan-router",
+  "kategorie": "elektronik",
+  "titel": "WLAN-Router",
+  "beschreibung": "WLAN-Router Test 2026: Die 4 besten Router im Vergleich ✓ WiFi 6/7 ✓ Für jede Wohnungsgröße",
+  "keywords": [
+    "wlan router test",
+    "router vergleich 2026",
+    "bester wlan router",
+    "wifi 6 router test",
+    "fritz box test",
+    "wlan router kaufberatung",
+    "router für glasfaser",
+    "mesh router test",
+    "wlan router wifi 7",
+    "internet router vergleich"
+  ],
+  "einleitung": "Langsames WLAN nervt — das muss nicht sein. Ob Streaming, Gaming oder Homeoffice, der richtige Router macht den Unterschied. Wir vergleichen vier Modelle von der soliden Fritz!Box bis zum High-End WiFi-7-Router.",
+  "kaufberatung": "### WiFi 6 oder WiFi 7?\n\nWiFi 6 (802.11ax) reicht für die allermeisten Haushalte. Für bis zu 100 Geräte und Gigabit-Geschwindigkeit ist WiFi 6 absolut ausreichend. WiFi 7 (802.11be) bietet höhere Geschwindigkeiten und weniger Latenz, ist aber noch selten unterstützt. Investiere in WiFi 7, wenn du einen zukunftssicheren Router willst.\n\n### Brauche ich Mesh?\n\nMesh-Systeme verteilen WLAN über mehrere Geräte gleichzeitig. Für Wohnungen über 100 m² oder mehrstöckige Häuser ist Mesh fast Pflicht. In einer 60-m²-Wohnung reicht ein guter Einzelrouter.\n\n### Fritz!Box vs. andere Hersteller\n\nDie Fritz!Box ist in Deutschland quasi der Standard. Vorteile: Integrierte DECT-Basis für Telefone, gute Smart-Home-Unterstützung, regelmäßige Updates. Nachteile: Bei reiner WLAN-Leistung nicht immer an der Spitze. TP-Link und Asus bieten oft mehr WLAN-Performance fürs Geld.\n\n### DSL, Kabel oder Glasfaser?\n\nDein Router muss zum Internetanschluss passen. Fritz!Box-Modelle gibt es für DSL, Kabel und Glasfaser. Andere Hersteller bieten reine WLAN-Router, die hinter einem Modem angeschlossen werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "wlan_standard",
+      "label": "WLAN-Standard",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "geschwindigkeit",
+      "label": "Max. Geschwindigkeit",
+      "einheit": "Mbit/s",
+      "sortierung": 2
+    },
+    {
+      "key": "frequenzbaender",
+      "label": "Frequenzbänder",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "lan_ports",
+      "label": "LAN-Ports",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "mesh",
+      "label": "Mesh-fähig",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher WLAN-Router eignet sich für Glasfaser?",
+      "antwort": "Für Glasfaseranschlüsse brauchst du einen Router mit WAN-Port oder SFP+-Slot. Die Fritz!Box 5690 Pro hat einen 2.5-Gbit-WAN-Port, der für die meisten Glasfaseranschlüsse ausreicht."
+    },
+    {
+      "frage": "Wie verbessere ich mein WLAN in einer großen Wohnung?",
+      "antwort": "Am effektivsten mit einem Mesh-System. Alternativ kannst du einen WLAN-Repeater nutzen, was aber zu Geschwindigkeitsverlust führt. Mesh-Systeme wie AVM Fritz!Mesh oder TP-Link Deco halten die Geschwindigkeit besser aufrecht."
+    },
+    {
+      "frage": "Brauche ich WiFi 7?",
+      "antwort": "Für die meisten Nutzer aktuell noch nicht. WiFi 7 lohnt sich erst, wenn du viele WiFi-7-fähige Geräte hast und Gigabit-Internet nutzt. WiFi 6 reicht für Streaming, Gaming und Homeoffice vollkommen aus."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "AVM Fritz!Box 7530 AX",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BKWHJM4Z?tag=janxsiegmann-21",
+      "werte": {
+        "wlan_standard": "WiFi 6",
+        "geschwindigkeit": "1800",
+        "frequenzbaender": "Dual-Band (2.4 + 5 GHz)",
+        "lan_ports": "4x Gigabit",
+        "mesh": "Ja (Fritz!Mesh)"
+      }
+    },
+    {
+      "name": "AVM Fritz!Box 7590 AX",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09N3MN1B8?tag=janxsiegmann-21",
+      "werte": {
+        "wlan_standard": "WiFi 6",
+        "geschwindigkeit": "2400",
+        "frequenzbaender": "Dual-Band (2.4 + 5 GHz)",
+        "lan_ports": "4x Gigabit, 1x 2.5G",
+        "mesh": "Ja (Fritz!Mesh)"
+      }
+    },
+    {
+      "name": "AVM Fritz!Box 5690 Pro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DGSW2H9L?tag=janxsiegmann-21",
+      "werte": {
+        "wlan_standard": "WiFi 7",
+        "geschwindigkeit": "5760",
+        "frequenzbaender": "Tri-Band (2.4 + 5 + 6 GHz)",
+        "lan_ports": "4x Gigabit, 1x 2.5G",
+        "mesh": "Ja (Fritz!Mesh)"
+      }
+    },
+    {
+      "name": "TP-Link Archer BE900",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CM1ZVVF8?tag=janxsiegmann-21",
+      "werte": {
+        "wlan_standard": "WiFi 7",
+        "geschwindigkeit": "24000",
+        "frequenzbaender": "Quad-Band",
+        "lan_ports": "4x 2.5G, 1x 10G",
+        "mesh": "Ja (EasyMesh)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

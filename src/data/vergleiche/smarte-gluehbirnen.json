@@ -1,0 +1,191 @@
+{
+  "slug": "smarte-gluehbirnen",
+  "kategorie": "beleuchtung",
+  "titel": "Smarte Glühbirnen",
+  "beschreibung": "Smarte Glühbirnen Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "smarte glühbirne test",
+    "smart bulb vergleich",
+    "philips hue alternative",
+    "smarte lampe kaufberatung",
+    "smarte glühbirne 2026"
+  ],
+  "einleitung": "Du willst deine Beleuchtung per App oder Sprache steuern, Farben wechseln oder Szenen erstellen? Wir vergleichen vier smarte Glühbirnen.",
+  "kaufberatung": "### WLAN, Zigbee oder Thread — welches Protokoll?\nWLAN-Birnen (Tapo) sind am einfachsten: einschrauben, App installieren, fertig. Aber jede Birne belastet dein WLAN — bei 10+ Birnen kann das Probleme machen. Zigbee-Birnen (IKEA TRÅDFRI, Philips Hue) brauchen einen Hub, sind aber stromsparender und zuverlässiger im Mesh-Netzwerk. Thread-Birnen (Nanoleaf, Eve) sind die Zukunft — mesh-fähig, kein Hub nötig, Matter-kompatibel.\n\n### Lohnt sich Philips Hue?\nPhilips Hue hat das größte Ökosystem (Lampen, Lightstrips, Outdoor, Sync Box), die beste Farbwiedergabe und die zuverlässigste App. Der Nachteil: Du brauchst die Hue Bridge (~50€) und die Birnen sind 3-4× teurer als WLAN-Alternativen. Für 2-3 Birnen gibt es günstigere Optionen, für ein ganzes Haus ist Hue die konsistenteste Lösung.\n\n### Wie wichtig ist die Farbwiedergabe?\nFür Stimmungslicht reicht jede RGB-Birne. Wer satte, tiefe Farben will (z.B. echtes Rot oder Blau), kommt an Philips Hue kaum vorbei. Günstige WLAN-Birnen mischen Farben oft milchig-blass. Für reines Warmweiß sind die Unterschiede geringer.\n\n### Smart-Birne oder smarter Schalter?\nSmart-Birnen sind flexibler (Farbwechsel, Dimmen, Szenen). Nachteil: Wenn jemand den Lichtschalter ausknipst, ist die Birne offline. Smart-Schalter (z.B. Shelly 1) ersetzen den Wandschalter und machen normale Birnen smart — günstiger, aber ohne Farbwechsel.",
+  "vergleichsKategorien": [
+    {
+      "key": "fassung",
+      "label": "Fassung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit",
+      "einheit": "lm",
+      "sortierung": 2
+    },
+    {
+      "key": "farbspektrum",
+      "label": "Farbspektrum",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "hub_noetig",
+      "label": "Hub nötig?",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "lebensdauer",
+      "label": "Lebensdauer",
+      "einheit": "Std.",
+      "sortierung": 6
+    },
+    {
+      "key": "sprachsteuerung",
+      "label": "Sprachsteuerung",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Funktionieren smarte Glühbirnen ohne Internet?",
+      "antwort": "Zigbee- und Thread-Birnen funktionieren lokal über den Hub — auch ohne Internet. WLAN-Birnen brauchen für die Ersteinrichtung Internet, danach funktionieren einfache Schaltbefehle bei einigen Herstellern (Shelly, Tapo) auch lokal. Timer und Automationen brauchen jedoch Cloud-Zugang."
+    },
+    {
+      "frage": "Kann ich normale Dimmer mit smarten Glühbirnen nutzen?",
+      "antwort": "Nein. Herkömmliche Dimmer können smarte Birnen beschädigen oder Flackern verursachen. Smarte Birnen werden ausschließlich per App, Sprachbefehl oder smarten Schaltern gedimmt. Lasse den normalen Schalter immer auf AN."
+    },
+    {
+      "frage": "Wie viel Strom sparen smarte LED-Birnen?",
+      "antwort": "Smarte LED-Birnen verbrauchen wie normale LEDs 8-10W statt 60W bei Glühbirnen. Im Standby (eingeschaltet, aber dunkel) ziehen sie 0,3-0,5W. Bei 20 Birnen sind das 3-4€ Standby-Kosten pro Jahr — vernachlässigbar."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "TP-Link Tapo L530E",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09611DBXH?tag=janxsiegmann-21",
+      "preis": 10,
+      "bewertung": 3.5,
+      "werte": {
+        "fassung": "E27",
+        "helligkeit": "806",
+        "farbspektrum": "16 Mio. Farben (RGBW)",
+        "verbindung": "WLAN 2,4 GHz",
+        "hub_noetig": "Nein",
+        "lebensdauer": "15.000",
+        "sprachsteuerung": "Alexa, Google"
+      },
+      "vorteile": [
+        "Extrem günstig",
+        "16 Mio. Farben",
+        "Kein Hub nötig"
+      ],
+      "nachteile": [
+        "Nur WLAN — belastet Router",
+        "15.000 Std. (weniger als Philips)",
+        "Farben nicht so satt wie Hue"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "IKEA TRÅDFRI E27 RGBW",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07KD4T6KF?tag=janxsiegmann-21",
+      "preis": 15,
+      "bewertung": 4.0,
+      "werte": {
+        "fassung": "E27",
+        "helligkeit": "806",
+        "farbspektrum": "16 Mio. Farben (RGBW)",
+        "verbindung": "Zigbee",
+        "hub_noetig": "Ja (DIRIGERA oder kompatibel)",
+        "lebensdauer": "25.000",
+        "sprachsteuerung": "Alexa, Google, Apple HomeKit (mit DIRIGERA)"
+      },
+      "vorteile": [
+        "Zigbee — belastet WLAN nicht",
+        "25.000 Std. Lebensdauer",
+        "Günstiger als Philips Hue"
+      ],
+      "nachteile": [
+        "Hub nötig (DIRIGERA ~30€)",
+        "App weniger poliert als Hue",
+        "Farbwiedergabe mittelmäßig"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Philips Hue White & Color E27",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07SS377PS?tag=janxsiegmann-21",
+      "preis": 45,
+      "bewertung": 4.5,
+      "werte": {
+        "fassung": "E27",
+        "helligkeit": "1.100",
+        "farbspektrum": "16 Mio. Farben (RGBW)",
+        "verbindung": "Zigbee + Bluetooth",
+        "hub_noetig": "Empfohlen (Hue Bridge)",
+        "lebensdauer": "25.000",
+        "sprachsteuerung": "Alexa, Google, Siri, Matter"
+      },
+      "vorteile": [
+        "Beste Farbwiedergabe am Markt",
+        "Riesiges Hue-Ökosystem",
+        "Matter-kompatibel",
+        "1.100 Lumen — sehr hell"
+      ],
+      "nachteile": [
+        "Teuer",
+        "Hue Bridge empfohlen (~50€)",
+        "Voll-Funktionsumfang nur mit Bridge"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Nanoleaf Essentials A19 E27 (Matter)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BCGLPRD6?tag=janxsiegmann-21",
+      "preis": 25,
+      "bewertung": 4.5,
+      "werte": {
+        "fassung": "E27",
+        "helligkeit": "806",
+        "farbspektrum": "16 Mio. Farben (RGBW)",
+        "verbindung": "Thread + Bluetooth",
+        "hub_noetig": "Nein (Thread Border Router empf.)",
+        "lebensdauer": "25.000",
+        "sprachsteuerung": "Siri, Alexa, Google (via Matter/Thread)"
+      },
+      "vorteile": [
+        "Thread + Matter — zukunftssicher",
+        "Kein Hub nötig",
+        "Gute Farbwiedergabe",
+        "Günstiger als Philips Hue"
+      ],
+      "nachteile": [
+        "Braucht Thread-Router für beste Performance",
+        "Weniger Ökosystem als Hue",
+        "806 lm — nicht die hellste"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

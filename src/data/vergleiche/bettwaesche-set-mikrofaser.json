@@ -1,0 +1,118 @@
+{
+  "slug": "bettwaesche-set-mikrofaser",
+  "kategorie": "schlafen",
+  "titel": "Bettwäsche-Set (Mikrofaser)",
+  "beschreibung": "Mikrofaser-Bettwäsche Test 2026: Die 4 besten Sets im Vergleich ✓ Weich & pflegeleicht ✓ Kaufberatung",
+  "keywords": [
+    "bettwäsche mikrofaser test",
+    "bettwäsche set vergleich",
+    "mikrofaser bettwäsche",
+    "beste bettwäsche",
+    "bettwäsche set test 2026",
+    "bettwäsche kaufberatung",
+    "mikrofaser bettwäsche weich",
+    "bettwäsche 135x200",
+    "bettwäsche allergikerfreundlich",
+    "bettwäsche pflegeleicht"
+  ],
+  "einleitung": "Mikrofaser-Bettwäsche ist pflegeleicht, trocknet schnell und ist ideal für Allergiker. Doch bei der Stoffqualität, dem Reißverschluss und der Farbbeständigkeit gibt es große Unterschiede. Wir vergleichen vier Sets.",
+  "kaufberatung": "### Warum Mikrofaser?\nMikrofaser ist extrem pflegeleicht: schnell trocknend, knitterfrei und bei 60°C waschbar. Sie ist leichter als Baumwolle und ideal für Allergiker, da sie Hausstaubmilben keinen Nährboden bietet.\n\n### Fadenzahl und Stoffqualität\nBei Mikrofaser gibt es keine klassische Fadenzahl wie bei Baumwolle. Entscheidend sind Gewicht (g/m²) und Griffigkeit. Hochwertige Mikrofaser fühlt sich seidig-weich an und pillt nicht.\n\n### Reißverschluss oder Knöpfe?\nReißverschlüsse halten die Decke sicher im Bezug — kein Herausrutschen. Knöpfe sind optisch unauffälliger, können aber offenstehen. Für den Alltag empfehlen wir Reißverschlüsse.\n\n### Farbbeständigkeit\nBillige Mikrofaser verliert nach wenigen Wäschen ihre Farbe. Hochwertige Sets bleiben auch nach 50+ Wäschen farbintensiv. Achte auf Öko-Tex-Zertifizierung — das garantiert schadstofffreie Produktion.\n\n### Größen beachten\nStandard in Deutschland: 135×200 cm (Decke) + 80×80 cm (Kissen). Komfortgröße: 155×220 cm. Für Boxspringbetten: 155×220 cm oder 200×200 cm.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "groesse",
+      "label": "Größe",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "verschluss",
+      "label": "Verschluss",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "oeko_tex",
+      "label": "Öko-Tex zertifiziert",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "waschbar",
+      "label": "Waschbar bis",
+      "einheit": "°C",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist Mikrofaser-Bettwäsche gut für Allergiker?",
+      "antwort": "Ja, Mikrofaser bietet Hausstaubmilben keinen Nährboden und lässt sich bei 60°C waschen. Sie ist eine gute Wahl für Allergiker. Für maximalen Schutz kombiniere Mikrofaser-Bettwäsche mit einem allergikerfreundlichen Matratzenbezug."
+    },
+    {
+      "frage": "Wie oft sollte ich meine Bettwäsche wechseln?",
+      "antwort": "Empfohlen wird ein Wechsel alle 1–2 Wochen. Im Sommer häufiger, da man mehr schwitzt. Mikrofaser trocknet schnell — das erleichtert den häufigen Wechsel."
+    },
+    {
+      "frage": "Pillt Mikrofaser-Bettwäsche?",
+      "antwort": "Günstige Mikrofaser kann nach einigen Wäschen pillen (kleine Knötchen bilden). Hochwertige Mikrofaser ist pillfrei. Wasche immer auf links und bei maximal 40°C, um Pilling zu vermeiden."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Utopia Bedding Bettwäsche-Set",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01GRKNNZW?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Mikrofaser (gebürstet)",
+        "groesse": "135 × 200 cm + 80 × 80 cm",
+        "verschluss": "Reißverschluss",
+        "oeko_tex": "Nein",
+        "waschbar": "40"
+      }
+    },
+    {
+      "name": "Bedsure Bettwäsche-Set",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07Q297PZ9?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Mikrofaser (gebürstet, extra weich)",
+        "groesse": "135 × 200 cm + 80 × 80 cm",
+        "verschluss": "Reißverschluss",
+        "oeko_tex": "Ja",
+        "waschbar": "40"
+      }
+    },
+    {
+      "name": "sleepwise Soft Wonder Bettwäsche",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08PFGT8VL?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Mikrofaser (Premium, seidenweich)",
+        "groesse": "135 × 200 cm + 80 × 80 cm",
+        "verschluss": "Reißverschluss (verdeckt)",
+        "oeko_tex": "Ja",
+        "waschbar": "60"
+      }
+    },
+    {
+      "name": "Jacobson Bettwäsche-Set Mako-Satin",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B014KG5A8Q?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Mako-Satin (100% Baumwolle)",
+        "groesse": "135 × 200 cm + 80 × 80 cm",
+        "verschluss": "Reißverschluss",
+        "oeko_tex": "Ja",
+        "waschbar": "60"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "laufband",
+  "kategorie": "sport",
+  "titel": "Laufband",
+  "beschreibung": "Laufband Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "laufband test",
+    "laufband vergleich",
+    "laufband klappbar kaufberatung",
+    "bestes laufband zuhause",
+    "laufband 2026"
+  ],
+  "einleitung": "Du suchst ein Laufband fürs Home-Training — zum Walken, Joggen oder ambitioniertem Laufen? Wir vergleichen vier Modelle vom platzsparenden Klappband bis zum Gym-Qualitäts-Laufband.",
+  "kaufberatung": "### Welche Motorleistung brauche ich?\nZum Walken (bis 6 km/h) reicht 1-1,5 PS. Zum Joggen (bis 12 km/h) mindestens 2 PS. Zum schnellen Laufen (15+ km/h) brauchst du 2,5-3+ PS. Wichtig: Die Dauerleistung (CHP) zählt, nicht die Spitzenleistung — manche Hersteller werben mit letzterer.\n\n### Wie groß muss die Lauffläche sein?\nMinimum für Joggen: 120 × 40 cm. Komfortabel: 130 × 45 cm. Für großgewachsene Läufer (>185 cm) oder schnelles Laufen: 140+ × 50 cm. Eine zu schmale oder kurze Lauffläche führt dazu, dass du ständig aufpassen musst, nicht daneben zu treten.\n\n### Klappbar oder nicht?\nKlappbare Laufbänder sparen Platz — wichtig für kleine Wohnungen. Der Kompromiss: Sie sind meist weniger stabil als nicht-klappbare Modelle. Für gelegentliches Joggen reicht klappbar, für ambitioniertes Training investiere lieber in ein stabiles Standfußgerät.\n\n### Lohnt sich eine elektrische Steigung?\nJa, wenn du Bergtraining simulieren oder mehr Kalorien verbrennen willst. Schon 5% Steigung erhöht den Kalorienverbrauch um ca. 50%. Premium-Modelle wie der NordicTrack bieten sogar Decline (negative Steigung) für Bergab-Simulation.",
+  "vergleichsKategorien": [
+    {
+      "key": "laufflaecheB",
+      "label": "Lauffläche (L×B)",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "max_geschwindigkeit",
+      "label": "Max. Geschwindigkeit",
+      "einheit": "km/h",
+      "sortierung": 2
+    },
+    {
+      "key": "steigung",
+      "label": "Steigung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "motor",
+      "label": "Motorleistung",
+      "einheit": "PS",
+      "sortierung": 4
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Benutzergewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "klappbar",
+      "label": "Klappbar",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "programme",
+      "label": "Programme",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie laut ist ein Laufband in der Wohnung?",
+      "antwort": "Laufbänder sind laut — typischerweise 65-75 dB beim Joggen. In Mietwohnungen kann das zum Problem werden, besonders bei Nachbarn unter dir. Eine Schutzmatte unter dem Laufband dämpft Vibrationen. Leiser wird es mit riemengetriebenen Modellen statt Rollenantrieb."
+    },
+    {
+      "frage": "Wie viel Platz braucht ein Laufband?",
+      "antwort": "Rechne mit mindestens 200 × 80 cm Stellfläche plus Sicherheitsabstand. Hinter dem Laufband sollten 100 cm frei sein. Klappbare Modelle brauchen aufgestellt ca. 100 × 80 cm — aber du musst sie jedes Mal auf- und zuklappen."
+    },
+    {
+      "frage": "Brauche ich ein iFit-/Kinomap-Abo?",
+      "antwort": "Nicht unbedingt. Die Basis-Funktionen (Geschwindigkeit, Steigung, Programme) funktionieren ohne Abo. Abos wie iFit (39€/Monat) bieten geführte Workouts mit automatischer Geschwindigkeits- und Steigungsanpassung — motivierend, aber nicht essentiell."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Sportstech F10",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0814CRBX5?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 3.5,
+      "werte": {
+        "laufflaecheB": "100 × 34",
+        "max_geschwindigkeit": "10",
+        "steigung": "Nein",
+        "motor": "1,0",
+        "max_gewicht": "120",
+        "klappbar": "Ja",
+        "programme": "Integrierte + App"
+      },
+      "vorteile": [
+        "Günstig",
+        "Klappbar und kompakt",
+        "Tablet-Halterung"
+      ],
+      "nachteile": [
+        "Nur 10 km/h",
+        "Keine Steigung",
+        "Schmale Lauffläche"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sportstech F37",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07Y6NHRR4?tag=janxsiegmann-21",
+      "preis": 700,
+      "bewertung": 4.0,
+      "werte": {
+        "laufflaecheB": "130 × 48",
+        "max_geschwindigkeit": "16",
+        "steigung": "15 Stufen (elektrisch)",
+        "motor": "2,5",
+        "max_gewicht": "150",
+        "klappbar": "Ja",
+        "programme": "12 + App"
+      },
+      "vorteile": [
+        "Elektrische Steigung",
+        "16 km/h",
+        "Große Lauffläche",
+        "Solider Motor"
+      ],
+      "nachteile": [
+        "Schwer (~60 kg)",
+        "Braucht viel Platz",
+        "Display nicht touchfähig"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Horizon Fitness Paragon X",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07R1YDS4S?tag=janxsiegmann-21",
+      "preis": 1200,
+      "bewertung": 4.5,
+      "werte": {
+        "laufflaecheB": "140 × 51",
+        "max_geschwindigkeit": "18",
+        "steigung": "15 Stufen (elektrisch)",
+        "motor": "3,0",
+        "max_gewicht": "159",
+        "klappbar": "Ja",
+        "programme": "Bluetooth + App-kompatibel"
+      },
+      "vorteile": [
+        "3 PS Motor — auch für Sprints",
+        "Große Lauffläche",
+        "Gute Dämpfung",
+        "Johnson-Fitness-Qualität"
+      ],
+      "nachteile": [
+        "Hoher Preis",
+        "Sehr schwer",
+        "Kein integriertes Display"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "NordicTrack Commercial 1750",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09ZG4MG2D?tag=janxsiegmann-21",
+      "preis": 2200,
+      "bewertung": 4.5,
+      "werte": {
+        "laufflaecheB": "152 × 51",
+        "max_geschwindigkeit": "22",
+        "steigung": "-3 bis +15% (Decline+Incline)",
+        "motor": "3,75",
+        "max_gewicht": "136",
+        "klappbar": "Ja",
+        "programme": "iFit-Abo (großes Touchscreen-Display)"
+      },
+      "vorteile": [
+        "22 km/h + Decline-Funktion",
+        "14-Zoll-HD-Touchscreen",
+        "iFit-Bibliothek mit tausenden Workouts",
+        "Automatische Geschwindigkeits-/Steigungsanpassung"
+      ],
+      "nachteile": [
+        "Sehr teuer",
+        "iFit-Abo nötig (~39€/Monat)",
+        "Extrem schwer"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

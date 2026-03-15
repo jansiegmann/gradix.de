@@ -1,0 +1,128 @@
+{
+  "slug": "kompressor-tragbar-12v",
+  "kategorie": "auto",
+  "titel": "Kompressor (tragbar / 12V)",
+  "beschreibung": "Tragbarer Kompressor Test 2026: Die 4 besten 12V-Kompressoren im Vergleich ✓ Für Auto & Fahrrad ✓ Kaufberatung",
+  "keywords": [
+    "kompressor 12v test",
+    "tragbarer kompressor",
+    "akku kompressor auto",
+    "luftkompressor auto",
+    "reifenfüller auto",
+    "mini kompressor test",
+    "kompressor vergleich",
+    "akku luftpumpe auto",
+    "12v kompressor test 2026",
+    "tragbarer kompressor auto"
+  ],
+  "einleitung": "Ein tragbarer Kompressor gehört in jedes Auto — ob für den Reifendruck-Check oder die Notfallhilfe bei einer Panne. Die Unterschiede bei Leistung, Lautstärke und Bedienung sind groß. Wir vergleichen vier Modelle von Budget bis Profi.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDer AstroAI Kompressor ist günstig und reicht für gelegentliche Nutzung. Der Makita DMP180Z bietet Akku-Freiheit für Makita-Nutzer. Der Bosch EasyPump ist ultra-kompakt und ideal für Fahrräder und Bälle. Und der DeWalt DCC018N ist der Profi-Kompressor mit 12V/18V-Akku.\n\n### 12V-Zigarettenanzünder oder Akku?\nKompressoren mit Zigarettenanzünder-Anschluss sind günstig, aber du bist ans Auto gebunden. Akku-Kompressoren sind flexibler — du kannst auch am Straßenrand oder beim Fahrrad pumpen. Die Akkukapazität reicht für 4–8 Reifen.\n\n### Wie viel Druck brauche ich?\nPKW-Reifen brauchen typisch 2,0–2,5 bar. Fahrräder bis zu 6 bar (Rennrad sogar 8 bar). Achte darauf, dass der Kompressor den nötigen Maximaldruck liefert. Für Fahrräder reichen kleine Handkompressoren, für Autoreifen brauchst du ein leistungsstärkeres Modell.\n\n### Lautstärke beachten\nManche Kompressoren sind extrem laut (80+ dB). Wenn du nachts an einer Tankstelle den Reifen aufpumpen willst, ist ein leiseres Modell angenehmer. Die Akku-Modelle von Bosch und Makita sind deutlich leiser als 12V-Kabelmodelle.\n\n### Abschaltautomatik ist Pflicht\nEin guter Kompressor schaltet automatisch ab, wenn der eingestellte Druck erreicht ist. Das verhindert ein Überfüllen und ist ein echtes Sicherheitsfeature. Alle Modelle in unserem Vergleich bieten diese Funktion.",
+  "vergleichsKategorien": [
+    {
+      "key": "max_druck",
+      "label": "Max. Druck",
+      "einheit": "bar",
+      "sortierung": 1
+    },
+    {
+      "key": "stromquelle",
+      "label": "Stromquelle",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "display",
+      "label": "Digitales Display",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "abschaltautomatik",
+      "label": "Abschaltautomatik",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "beleuchtung",
+      "label": "LED-Beleuchtung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange braucht ein tragbarer Kompressor für einen Autoreifen?",
+      "antwort": "Bei einem komplett platten Reifen dauert es 5–10 Minuten. Zum Nachfüllen von 0,3 bar benötigen die meisten Modelle etwa 1–2 Minuten. Akku-Kompressoren sind dabei oft langsamer als 12V-Modelle mit Kabelanschluss."
+    },
+    {
+      "frage": "Kann ich mit einem Mini-Kompressor auch Fahrradreifen aufpumpen?",
+      "antwort": "Ja, die meisten Modelle liefern verschiedene Ventil-Adapter mit — für Auto (Schrader), Fahrrad (Presta/Dunlop) und sogar Bälle. Achte auf den maximalen Druck: Rennradreifen brauchen bis zu 8 bar."
+    },
+    {
+      "frage": "Schadet es der Autobatterie, den 12V-Kompressor zu nutzen?",
+      "antwort": "Bei laufendem Motor nein. Bei abgestelltem Motor solltest du den Kompressor nur kurz nutzen, da er einige Ampere zieht. Nach 10–15 Minuten Dauerbetrieb kann die Autobatterie beansprucht werden."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "AstroAI Luftkompressor 12V",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07QKLMMHM?tag=janxsiegmann-21",
+      "werte": {
+        "max_druck": "10,3",
+        "stromquelle": "12V Zigarettenanzünder",
+        "display": "Ja (digital)",
+        "abschaltautomatik": "Ja",
+        "gewicht": "0,8",
+        "beleuchtung": "Ja"
+      }
+    },
+    {
+      "name": "Bosch EasyPump",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09BCH2RNK?tag=janxsiegmann-21",
+      "werte": {
+        "max_druck": "10,3",
+        "stromquelle": "3,6V Akku (USB-C)",
+        "display": "Ja (digital)",
+        "abschaltautomatik": "Ja",
+        "gewicht": "0,4",
+        "beleuchtung": "Nein"
+      }
+    },
+    {
+      "name": "Makita DMP180Z",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07C6R5GJ1?tag=janxsiegmann-21",
+      "werte": {
+        "max_druck": "8,3",
+        "stromquelle": "18V Makita-Akku",
+        "display": "Ja (digital)",
+        "abschaltautomatik": "Ja",
+        "gewicht": "1,5 (ohne Akku)",
+        "beleuchtung": "Ja"
+      }
+    },
+    {
+      "name": "DeWalt DCC018N",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01MSBSWCO?tag=janxsiegmann-21",
+      "werte": {
+        "max_druck": "11,0",
+        "stromquelle": "12V/18V DeWalt-Akku oder 12V Auto",
+        "display": "Ja (digital)",
+        "abschaltautomatik": "Ja",
+        "gewicht": "2,3 (ohne Akku)",
+        "beleuchtung": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

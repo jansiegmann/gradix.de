@@ -1,0 +1,128 @@
+{
+  "slug": "naehmaschine",
+  "kategorie": "haushalt",
+  "titel": "Nähmaschine",
+  "beschreibung": "Nähmaschine Test 2026: Die 4 besten Nähmaschinen im Vergleich ✓ Anfänger bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "nähmaschine",
+    "nähmaschine test",
+    "nähmaschine anfänger",
+    "nähmaschine vergleich",
+    "beste nähmaschine",
+    "nähmaschine kaufberatung",
+    "nähmaschine testsieger",
+    "singer nähmaschine",
+    "brother nähmaschine",
+    "nähmaschine 2026"
+  ],
+  "einleitung": "Ob Reparaturen, kreative Projekte oder eigene Kleidung — eine gute Nähmaschine ist die Grundlage. Wir vergleichen vier Modelle vom günstigen Einstieg für Anfänger bis zur Computer-Nähmaschine für ambitionierte Hobbyschneider.",
+  "kaufberatung": "### Mechanisch oder Computer-Nähmaschine?\nMechanische Maschinen steuern Stiche über Drehräder — robust, einfach, wartungsarm. Computer-Nähmaschinen bieten hunderte Stichprogramme per Knopfdruck und oft einen automatischen Einfädler. Für Anfänger reicht mechanisch, für Fortgeschrittene lohnt sich Computer.\n\n### Die wichtigsten Sticharten\nGeradstich, Zickzackstich, Blindstich und Knopflochautomatik decken 90% aller Näharbeiten ab. Zierstiche sind nett, aber selten nötig. Wichtiger ist, dass die Grundstiche sauber und gleichmäßig genäht werden.\n\n### Freiarm-Funktion\nEin Freiarm erleichtert das Nähen von Hosensäumen, Ärmeln und Rundungen. Fast alle modernen Nähmaschinen bieten einen Freiarm — achte trotzdem darauf.\n\n### Stofftransport und Nähgeschwindigkeit\nEin zuverlässiger Stofftransport ist entscheidend. Günstige Maschinen können bei dicken Stoffen (Jeans, Leder) ins Stocken geraten. Obertransport oder ein Obertransport-Fuß als Zubehör helfen bei schwierigen Materialien.\n\n### Gewicht und Stabilität\nSchwerere Maschinen (7+ kg) vibrieren weniger und nähen ruhiger. Sehr leichte Maschinen unter 5 kg rutschen beim Nähen dicker Stoffe gerne über den Tisch.",
+  "vergleichsKategorien": [
+    {
+      "key": "maschinentyp",
+      "label": "Maschinentyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "stichprogramme",
+      "label": "Stichprogramme",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "knopflochautomatik",
+      "label": "Knopflochautomatik",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "einfaedler",
+      "label": "Automatischer Einfädler",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "freiarm",
+      "label": "Freiarm",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Nähmaschine ist für Anfänger am besten?",
+      "antwort": "Für absolute Anfänger empfehlen wir die Brother J17s oder die Singer Tradition 2282. Beide sind einfach zu bedienen, haben die wichtigsten Grundstiche und kosten unter 150 Euro. Wichtiger als viele Programme ist eine verständliche Bedienungsanleitung."
+    },
+    {
+      "frage": "Kann ich mit einer Haushaltsnähmaschine auch Jeans nähen?",
+      "antwort": "Ja, die meisten Maschinen schaffen zwei bis drei Lagen Jeansstoff. Für dicke Jeanssäume (vier und mehr Lagen) brauchst du eine Maschine mit kräftigem Motor und eine Jeansnadel (Stärke 90 oder 100). Die Brother Innov-is und die Singer Heavy Duty schaffen das problemlos."
+    },
+    {
+      "frage": "Wie oft muss ich meine Nähmaschine warten lassen?",
+      "antwort": "Bei regelmäßiger Nutzung (wöchentlich) empfiehlt sich eine professionelle Wartung alle 1-2 Jahre. Dazwischen: Spulenkapsel regelmäßig von Fusseln befreien und laut Anleitung ölen. Computergesteuerte Maschinen sind oft wartungsärmer als mechanische."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Singer Tradition 2282",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00RBJFN58?tag=janxsiegmann-21",
+      "werte": {
+        "maschinentyp": "Mechanisch",
+        "stichprogramme": "32",
+        "knopflochautomatik": "4-Schritt",
+        "einfaedler": "Ja",
+        "freiarm": "Ja",
+        "gewicht": "5,8"
+      }
+    },
+    {
+      "name": "Brother J17s",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00DMMW6NM?tag=janxsiegmann-21",
+      "werte": {
+        "maschinentyp": "Mechanisch",
+        "stichprogramme": "17",
+        "knopflochautomatik": "4-Schritt",
+        "einfaedler": "Nein",
+        "freiarm": "Ja",
+        "gewicht": "6,0"
+      }
+    },
+    {
+      "name": "Brother Innov-is A16",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01M3RPCIQ?tag=janxsiegmann-21",
+      "werte": {
+        "maschinentyp": "Computer",
+        "stichprogramme": "16",
+        "knopflochautomatik": "1-Schritt (automatisch)",
+        "einfaedler": "Ja",
+        "freiarm": "Ja",
+        "gewicht": "7,1"
+      }
+    },
+    {
+      "name": "Singer Heavy Duty 4432",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B005T4DP0E?tag=janxsiegmann-21",
+      "werte": {
+        "maschinentyp": "Mechanisch (verstärkt)",
+        "stichprogramme": "32",
+        "knopflochautomatik": "1-Schritt",
+        "einfaedler": "Ja",
+        "freiarm": "Ja",
+        "gewicht": "6,6"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "pulsuhr-gps-sportuhr",
+  "kategorie": "sport",
+  "titel": "Pulsuhr / GPS-Sportuhr",
+  "beschreibung": "GPS-Sportuhr Test 2026: Die 4 besten Pulsuhren im Vergleich ✓ Garmin, Polar & Co. ✓ Für Laufen, Radfahren & Fitness",
+  "keywords": [
+    "gps sportuhr",
+    "pulsuhr test",
+    "sportuhr test",
+    "gps uhr laufen",
+    "garmin sportuhr",
+    "polar sportuhr test",
+    "sportuhr vergleich 2026",
+    "pulsuhr mit gps",
+    "laufuhr test",
+    "beste sportuhr"
+  ],
+  "einleitung": "Du willst dein Training mit einer GPS-Sportuhr auf das nächste Level bringen? Ob Laufen, Radfahren oder Triathlon — wir vergleichen vier Pulsuhren von Budget bis Profi und zeigen dir, welche Uhr wirklich zu deinem Training passt.",
+  "kaufberatung": "### Für wen eignet sich welche GPS-Sportuhr?\nGelegenheitsläufer, die nur Strecke und Puls tracken wollen, kommen mit der Polar Pacer bestens aus. Ambitionierte Hobbysportler greifen zur Garmin Forerunner 265 — die bietet ein AMOLED-Display und umfangreiche Trainingsanalysen. Die Garmin Forerunner 965 richtet sich an Multisportler mit Kartendarstellung und langer Akkulaufzeit. Und Ultraläufer oder Triathleten schwören auf die Garmin Fenix 8, die quasi alles kann.\n\n### GPS-Genauigkeit — worauf kommt es an?\nModerne Sportuhren nutzen Multi-Band-GPS mit mehreren Satellitensystemen gleichzeitig. Das verbessert die Genauigkeit besonders in Städten und Wäldern deutlich. Einsteigermodelle wie die Polar Pacer nutzen oft nur Single-Band-GPS — das reicht für die meisten Läufer, ist aber in schwierigen Umgebungen weniger präzise.\n\n### Pulsmessung am Handgelenk vs. Brustgurt\nDie optische Pulsmessung am Handgelenk ist bequem, aber bei hohen Intensitäten oder Intervallen weniger genau als ein Brustgurt. Alle vier Uhren im Vergleich unterstützen externe Brustgurte via Bluetooth oder ANT+. Für lockeres Training reicht die Handgelenkmessung, für präzise Herzfrequenz-Zonen empfehlen wir zusätzlich einen Brustgurt.\n\n### Akkulaufzeit — wie lange hält die Uhr?\nDie Akkulaufzeit variiert stark: Im GPS-Modus halten Einsteigermodelle 20-30 Stunden, Premium-Uhren bis zu 40+ Stunden. Im Smartwatch-Modus schaffen die meisten Modelle 5-14 Tage. Für Ultramarathons oder Mehrtagestouren brauchst du mindestens 40 Stunden GPS-Laufzeit.\n\n### Brauche ich wirklich Kartendarstellung?\nKarten auf der Uhr sind super, wenn du in unbekanntem Terrain läufst oder wanderst. Für Stadtläufer oder feste Laufstrecken ist das Feature aber überflüssig. Die Forerunner 265 zeigt Brotkrümel-Navigation, die Forerunner 965 und Fenix 8 haben vollwertige Karten an Bord.",
+  "vergleichsKategorien": [
+    {
+      "key": "gps_typ",
+      "label": "GPS-Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "akku_gps",
+      "label": "Akku (GPS-Modus)",
+      "einheit": "h",
+      "sortierung": 2
+    },
+    {
+      "key": "akku_smartwatch",
+      "label": "Akku (Smartwatch)",
+      "einheit": "Tage",
+      "sortierung": 3
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    },
+    {
+      "key": "wasserdicht",
+      "label": "Wasserdicht",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche GPS-Sportuhr ist die beste zum Laufen?",
+      "antwort": "Für die meisten Läufer ist die Garmin Forerunner 265 die beste Wahl. Sie bietet ein brillantes AMOLED-Display, präzises Multi-Band-GPS und umfangreiche Trainingsanalysen zu einem fairen Preis. Gelegenheitsläufer kommen auch mit der günstigeren Polar Pacer gut zurecht."
+    },
+    {
+      "frage": "Wie genau ist die Pulsmessung am Handgelenk?",
+      "antwort": "Die optische Pulsmessung am Handgelenk ist für Steady-State-Training (lockeres Laufen, Radfahren) ausreichend genau. Bei Intervallen, Krafttraining oder hohen Herzfrequenzen kann sie um 5-10 Schläge abweichen. Für maximale Genauigkeit empfehlen wir einen zusätzlichen Brustgurt."
+    },
+    {
+      "frage": "Garmin oder Polar — welche Sportuhr ist besser?",
+      "antwort": "Garmin bietet das größere Ökosystem, mehr Sportprofile und bessere Navigation. Polar punktet mit einfacherer Bedienung, guter Trainingsplanung und oft günstigeren Preisen. Für Laufen sind beide top — die Wahl hängt davon ab, ob du mehr Features (Garmin) oder mehr Einfachheit (Polar) willst."
+    },
+    {
+      "frage": "Lohnt sich eine GPS-Sportuhr oder reicht das Smartphone?",
+      "antwort": "Eine GPS-Sportuhr bietet genaueres GPS-Tracking, Echtzeit-Herzfrequenzmessung am Handgelenk und ist beim Sport deutlich praktischer als ein Smartphone. Für gelegentliches Joggen reicht eine Handy-App, aber sobald du gezielt trainieren willst, lohnt sich eine Sportuhr."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Polar Pacer",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09VKL6PFH?tag=janxsiegmann-21",
+      "werte": {
+        "gps_typ": "GPS + GLONASS",
+        "akku_gps": "35",
+        "akku_smartwatch": "7",
+        "display": "MIP 1,2 Zoll",
+        "gewicht": "40",
+        "wasserdicht": "5 ATM"
+      }
+    },
+    {
+      "name": "Garmin Forerunner 265",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BS1N6LB3?tag=janxsiegmann-21",
+      "werte": {
+        "gps_typ": "Multi-Band GPS",
+        "akku_gps": "24",
+        "akku_smartwatch": "13",
+        "display": "AMOLED 1,3 Zoll",
+        "gewicht": "47",
+        "wasserdicht": "5 ATM"
+      }
+    },
+    {
+      "name": "Garmin Forerunner 965",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BS1JLCNX?tag=janxsiegmann-21",
+      "werte": {
+        "gps_typ": "Multi-Band GPS",
+        "akku_gps": "31",
+        "akku_smartwatch": "23",
+        "display": "AMOLED 1,4 Zoll",
+        "gewicht": "53",
+        "wasserdicht": "5 ATM"
+      }
+    },
+    {
+      "name": "Garmin Fenix 8 (47mm)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DCSQ5WZT?tag=janxsiegmann-21",
+      "werte": {
+        "gps_typ": "Multi-Band GPS + Multifrequenz",
+        "akku_gps": "48",
+        "akku_smartwatch": "29",
+        "display": "AMOLED 1,4 Zoll",
+        "gewicht": "66",
+        "wasserdicht": "10 ATM + Tauchen"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

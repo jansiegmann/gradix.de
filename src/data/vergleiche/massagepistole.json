@@ -1,0 +1,128 @@
+{
+  "slug": "massagepistole",
+  "kategorie": "sport",
+  "titel": "Massagepistole",
+  "beschreibung": "Massagepistole Test 2026: Die 4 besten Massage Guns im Vergleich ✓ Theragun, Bob and Brad & Co. ✓ Für Regeneration & Muskelentspannung",
+  "keywords": [
+    "massagepistole",
+    "massagepistole test",
+    "massage gun test",
+    "massagepistole vergleich",
+    "beste massagepistole",
+    "theragun test",
+    "massagepistole test 2026",
+    "percussion massager",
+    "massagepistole sport",
+    "muskel massagegerät"
+  ],
+  "einleitung": "Verspannte Muskeln nach dem Training? Eine Massagepistole lockert die Muskulatur in Minuten und beschleunigt deine Regeneration. Wir vergleichen vier Modelle von Budget bis Profi — und zeigen dir, welche Massage Gun wirklich was taugt.",
+  "kaufberatung": "### Für wen eignet sich welche Massagepistole?\nFür Gelegenheitsnutzer reicht die Bob and Brad Q2 Mini — kompakt, leise, günstig. Die Renpho R4 bietet mehr Power und Aufsätze für regelmäßige Anwender. Die Therabody Theragun Elite ist die Wahl für ambitionierte Sportler mit professionellem Anspruch. Und die Theragun PRO ist das, was Physiotherapeuten und Profisportler verwenden.\n\n### Hub, Druck und Geschwindigkeit — was ist wichtig?\nDer Hub (Amplitude) bestimmt, wie tief die Massage geht: 10-12 mm für leichte Massage, 14-16 mm für tiefe Gewebemassage. Die Schlagfrequenz (Umdrehungen pro Minute) variiert von 1.500 bis 3.200 U/min. Mehr ist nicht immer besser — die richtige Kombination zählt.\n\n### Wie laut sind Massagepistolen?\nGünstige Modelle können 60-70 dB laut sein — wie ein normales Gespräch. Premium-Geräte arbeiten bei 40-55 dB, was kaum stört. Die Theragun-Modelle sind mit einem leisen bürstenlosen Motor ausgestattet.\n\n### Wann sollte man keine Massagepistole verwenden?\nNicht auf Knochen, Gelenke, Wirbelsäule oder frische Verletzungen. Nicht bei Blutergüssen, Entzündungen oder Krampfadern. Im Zweifel vorher mit dem Arzt sprechen.",
+  "vergleichsKategorien": [
+    {
+      "key": "hub",
+      "label": "Hub (Amplitude)",
+      "einheit": "mm",
+      "sortierung": 1
+    },
+    {
+      "key": "geschwindigkeit",
+      "label": "Geschwindigkeitsstufen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "druck",
+      "label": "Max. Druck",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 4
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 5
+    },
+    {
+      "key": "aufsaetze",
+      "label": "Aufsätze",
+      "einheit": "Stück",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte man eine Massagepistole benutzen?",
+      "antwort": "Pro Muskelgruppe 30-120 Sekunden, 2-3x täglich bei Bedarf. Nicht zu lange auf einer Stelle — das kann Gewebe reizen. Als Warm-up vor dem Training und zur Regeneration danach ideal."
+    },
+    {
+      "frage": "Theragun oder günstige Alternative — lohnt sich der Aufpreis?",
+      "antwort": "Theragun bietet tatsächlich einen tieferen Hub (16 mm), leiseren Motor und bessere Ergonomie als die meisten Alternativen. Für Gelegenheitsnutzer reicht eine günstige Alternative, aber wer täglich massiert, spürt den Unterschied."
+    },
+    {
+      "frage": "Hilft eine Massagepistole bei Rückenschmerzen?",
+      "antwort": "Eine Massagepistole kann verspannte Muskeln im Rückenbereich lockern und so Schmerzen lindern. Achtung: Nie direkt auf die Wirbelsäule — nur die Muskulatur seitlich davon behandeln. Bei chronischen Rückenschmerzen zuerst den Arzt konsultieren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Bob and Brad Q2 Mini",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09ZY7JVBL?tag=janxsiegmann-21",
+      "werte": {
+        "hub": "8",
+        "geschwindigkeit": "5 Stufen",
+        "druck": "k.A.",
+        "lautstaerke": "45",
+        "akkulaufzeit": "150",
+        "aufsaetze": "5"
+      }
+    },
+    {
+      "name": "Renpho R4",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CHL4SV6W?tag=janxsiegmann-21",
+      "werte": {
+        "hub": "12",
+        "geschwindigkeit": "5 Stufen",
+        "druck": "20",
+        "lautstaerke": "50",
+        "akkulaufzeit": "180",
+        "aufsaetze": "6"
+      }
+    },
+    {
+      "name": "Therabody Theragun Elite",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CHDFJ3MC?tag=janxsiegmann-21",
+      "werte": {
+        "hub": "16",
+        "geschwindigkeit": "5 Stufen (1.750-2.400)",
+        "druck": "18",
+        "lautstaerke": "49",
+        "akkulaufzeit": "120",
+        "aufsaetze": "5"
+      }
+    },
+    {
+      "name": "Therabody Theragun PRO",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CHDG2YLZ?tag=janxsiegmann-21",
+      "werte": {
+        "hub": "16",
+        "geschwindigkeit": "5 Stufen (1.750-2.400)",
+        "druck": "27",
+        "lautstaerke": "49",
+        "akkulaufzeit": "150 (Wechselakku)",
+        "aufsaetze": "6"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

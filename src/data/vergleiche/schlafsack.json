@@ -1,0 +1,128 @@
+{
+  "slug": "schlafsack",
+  "kategorie": "camping",
+  "titel": "Schlafsack",
+  "beschreibung": "Schlafsack Test 2026: Die 4 besten Schlafsäcke im Vergleich ✓ Daune & Kunstfaser ✓ Für Sommer bis Winter ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "schlafsack",
+    "schlafsack test",
+    "schlafsack vergleich",
+    "bester schlafsack",
+    "daunenschlafsack test",
+    "schlafsack camping",
+    "schlafsack leicht",
+    "schlafsack test 2026",
+    "schlafsack 3 jahreszeiten",
+    "schlafsack trekking"
+  ],
+  "einleitung": "Der richtige Schlafsack entscheidet über erholsame Nächte oder fröstelndes Wachliegen. Wir vergleichen vier Schlafsäcke von der günstigen Sommervariante bis zum hochwertigen Daunenschlafsack — und zeigen dir, worauf es bei der Wahl wirklich ankommt.",
+  "kaufberatung": "### Für wen eignet sich welcher Schlafsack?\nFür Sommercamping und Hüttenwanderungen reicht der Vaude Sioux 100 — leicht und günstig. Die Deuter Orbit 0° ist der Allrounder für 3-Jahreszeiten-Nutzung. Wer Gewicht sparen will und auch bei Kälte warm bleiben muss, greift zum Deuter Astro Pro 600 mit Daunenfüllung. Und für echte Wintertouren oder Expeditionen ist der Mountain Equipment Helium 400 die Top-Wahl.\n\n### Daune oder Kunstfaser — was ist besser?\nDaune isoliert bei gleichem Gewicht besser als Kunstfaser, ist kompakter packbar und hält länger. Dafür verliert sie bei Nässe ihre Isolationsleistung und trocknet langsamer. Kunstfaser isoliert auch feucht, ist pflegeleichter und günstiger. Für Trekking bei trockenem Wetter ist Daune ideal, für feuchte Bedingungen oder Campingplatz ist Kunstfaser die sicherere Wahl.\n\n### Komforttemperatur vs. Extremtemperatur — was bedeuten die Angaben?\nDie EN/ISO 23537 Norm definiert drei Temperaturbereiche: Komforttemperatur (für Frauen), untere Grenztemperatur (für Männer) und Extremtemperatur (Überlebensgrenze). Orientiere dich an der Komforttemperatur — die Extremtemperatur ist wirklich nur für den Notfall gedacht.\n\n### Mumienform oder Deckenschlafsack?\nMumienschlafsäcke sind leichter, wärmer und kompakter — ideal für Trekking. Deckenschlafsäcke bieten mehr Bewegungsfreiheit und Komfort — besser für Campingplatz und Kinder. Für die meisten Outdoor-Anwendungen empfehlen wir Mumienform.",
+  "vergleichsKategorien": [
+    {
+      "key": "komforttemp",
+      "label": "Komforttemperatur",
+      "einheit": "°C",
+      "sortierung": 1
+    },
+    {
+      "key": "fuellung",
+      "label": "Füllung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "packmass",
+      "label": "Packmaß",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "form",
+      "label": "Form",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "koerpergroesse",
+      "label": "Max. Körpergröße",
+      "einheit": "cm",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Schlafsack ist für den Sommer am besten?",
+      "antwort": "Für den Sommer (Nachttemperaturen über 10°C) empfehlen wir den Vaude Sioux 100. Er ist leicht, günstig und für warme Nächte völlig ausreichend. Auf Hüttenwanderungen reicht oft auch ein Hüttenschlafsack aus Seide oder Mikrofaser."
+    },
+    {
+      "frage": "Wie wasche ich einen Daunenschlafsack richtig?",
+      "antwort": "Daunenschlafsäcke wäschst du am besten im Schonwaschgang bei 30°C mit speziellem Daunenwaschmittel. Danach im Trockner bei niedriger Temperatur mit Tennisbällen trocknen, damit die Daune wieder aufbauscht. Nie im nassen Zustand lagern."
+    },
+    {
+      "frage": "Wie lagere ich meinen Schlafsack richtig?",
+      "antwort": "Lagere deinen Schlafsack nie dauerhaft im Kompressionssack — das zerstört die Bauschkraft. Am besten in einem großen, lockeren Aufbewahrungsbeutel oder lose im Schrank aufhängen. So bleibt die Isolationsleistung über Jahre erhalten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Vaude Sioux 100",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07LGCJ81R?tag=janxsiegmann-21",
+      "werte": {
+        "komforttemp": "12",
+        "fuellung": "Kunstfaser (Sensofiber)",
+        "gewicht": "1050",
+        "packmass": "28 × 20",
+        "form": "Mumie",
+        "koerpergroesse": "190"
+      }
+    },
+    {
+      "name": "Deuter Orbit 0°",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B4THNVV1?tag=janxsiegmann-21",
+      "werte": {
+        "komforttemp": "5",
+        "fuellung": "Kunstfaser (Thinsulate)",
+        "gewicht": "1700",
+        "packmass": "38 × 24",
+        "form": "Mumie (breit)",
+        "koerpergroesse": "195"
+      }
+    },
+    {
+      "name": "Deuter Astro Pro 600",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09BZTF8F9?tag=janxsiegmann-21",
+      "werte": {
+        "komforttemp": "-3",
+        "fuellung": "Daune (600g, 90/10)",
+        "gewicht": "1100",
+        "packmass": "25 × 18",
+        "form": "Mumie",
+        "koerpergroesse": "200"
+      }
+    },
+    {
+      "name": "Mountain Equipment Helium 400",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09MFTQMJV?tag=janxsiegmann-21",
+      "werte": {
+        "komforttemp": "-7",
+        "fuellung": "Daune (400g, 90/10, 700cuin)",
+        "gewicht": "815",
+        "packmass": "20 × 16",
+        "form": "Mumie",
+        "koerpergroesse": "195"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

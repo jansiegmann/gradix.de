@@ -1,0 +1,132 @@
+{
+  "slug": "kinderfahrrad",
+  "kategorie": "kinder",
+  "titel": "Kinderfahrrad",
+  "beschreibung": "Kinderfahrrad Test 2026: Die 4 besten Kinderräder im Vergleich ✓ Von 20 Zoll ✓ Leicht & sicher ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "kinderfahrrad test",
+    "kinderfahrrad 20 zoll",
+    "kinderfahrrad leicht",
+    "bestes kinderfahrrad",
+    "kinderfahrrad ab 6 jahre",
+    "kinderfahrrad vergleich",
+    "kinderfahrrad kaufberatung",
+    "woom kinderfahrrad",
+    "puky kinderfahrrad",
+    "kinderfahrrad shimano"
+  ],
+  "einleitung": "Du suchst ein sicheres und leichtes Kinderfahrrad, das deinem Kind richtig Spaß macht? Die Unterschiede bei Gewicht, Bremsen und Ergonomie sind enorm — und der Preis allein sagt wenig über die Qualität aus. Wir vergleichen vier empfehlenswerte 20-Zoll-Kinderfahrräder von Budget bis Profi.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDas BIKESTAR Mountainbike ist solide und günstig — perfekt als Einstiegsrad. Das Puky LS-Pro 20 bietet deutsche Qualität und ein tolles Preis-Leistungs-Verhältnis. Wer auf Leichtbau setzt, greift zum BIKESTAR Alu-Leichtgewicht mit nur 8 kg. Und für ambitionierte Kinder ist das woom ORIGINAL 4 mit durchdachter Ergonomie die Referenz.\n\n### Warum ist das Gewicht so wichtig?\nBei Kindern macht das Fahrradgewicht einen viel größeren Unterschied als bei Erwachsenen. Ein 25 kg schweres Kind auf einem 12 kg schweren Rad bewegt fast 50 % seines Körpergewichts. Leichte Räder um 8 kg lassen sich besser kontrollieren, bremsen und bergauf fahren. Faustregel: Das Rad sollte maximal 40 % des Körpergewichts wiegen.\n\n### Rücktritt oder Handbremse?\nViele Eltern kennen Rücktrittbremsen aus der eigenen Kindheit. Experten empfehlen heute jedoch Handbremsen: Sie ermöglichen eine feinere Dosierung und bereiten besser auf das spätere Erwachsenenrad vor. Wer ein Laufrad hatte, kommt ohnehin besser mit Handbremsen zurecht.\n\n### Die richtige Größe finden\nEntscheidend ist nicht das Alter, sondern die Schrittlänge. Für 20-Zoll-Räder liegt sie typisch bei 51–62 cm. Dein Kind sollte im Sitzen mit den Fußballen sicher den Boden berühren. Eine Nummer zu groß ist gefährlich — lieber etwas kleiner starten.\n\n### Braucht mein Kind eine Gangschaltung?\nFür Kinder ab etwa 6–7 Jahren ist eine 7-Gang-Schaltung sinnvoll, besonders wenn es hügelig ist. Die Shimano-Drehgriffschaltung ist kindgerecht und leichtgängig. Für jüngere Kinder oder flaches Gelände reicht ein Singlespeed.",
+  "vergleichsKategorien": [
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "radgroesse",
+      "label": "Radgröße",
+      "einheit": "Zoll",
+      "sortierung": 2
+    },
+    {
+      "key": "gaenge",
+      "label": "Gänge",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "rahmenmaterial",
+      "label": "Rahmenmaterial",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "bremsen",
+      "label": "Bremsen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "altersempfehlung",
+      "label": "Altersempfehlung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Kinderfahrrad ist Testsieger 2026?",
+      "antwort": "Im ADAC-Test schnitten woom und Puky regelmäßig am besten ab. Das woom ORIGINAL 4 überzeugt durch extrem niedriges Gewicht und durchdachte Ergonomie. Auch das Puky LS-Pro liefert sehr gute Fahreigenschaften bei fairem Preis."
+    },
+    {
+      "frage": "Ab welchem Alter braucht mein Kind ein 20-Zoll-Fahrrad?",
+      "antwort": "Ein 20-Zoll-Rad passt typischerweise für Kinder ab 6 Jahren mit einer Schrittlänge von ca. 51–62 cm. Entscheidend ist aber nicht das Alter, sondern die Körpergröße — miss am besten die Schrittlänge deines Kindes."
+    },
+    {
+      "frage": "Sind Stützräder sinnvoll?",
+      "antwort": "Experten raten heute von Stützrädern ab. Kinder lernen den Gleichgewichtssinn besser auf einem Laufrad. Wer vom Laufrad aufs Fahrrad umsteigt, braucht in der Regel keine Stützräder und lernt das Radfahren deutlich schneller."
+    },
+    {
+      "frage": "Was ist besser: woom oder Puky?",
+      "antwort": "Beide Marken bieten hervorragende Qualität. woom setzt auf minimales Gewicht und moderne Ergonomie, ist aber teurer. Puky überzeugt durch robuste Verarbeitung, Rücktrittbremse (optional) und ein besseres Preis-Leistungs-Verhältnis. Für leichte Kinder empfehlen wir woom, für robuste Alltagsnutzung Puky."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "BIKESTAR Mountainbike 20 Zoll",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07BNHSM22?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "12,5",
+        "radgroesse": "20",
+        "gaenge": "7-Gang Shimano",
+        "rahmenmaterial": "Stahl",
+        "bremsen": "V-Brake + Rücktritt",
+        "altersempfehlung": "ab 6 Jahre"
+      }
+    },
+    {
+      "name": "Puky LS-Pro 20",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BN4NNR76?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "8,1",
+        "radgroesse": "20",
+        "gaenge": "8-Gang Shimano",
+        "rahmenmaterial": "Aluminium",
+        "bremsen": "V-Brake vorne + hinten",
+        "altersempfehlung": "ab 6 Jahre"
+      }
+    },
+    {
+      "name": "BIKESTAR Leichtgewicht Alu 20 Zoll",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0D53XMYQ7?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "7,8",
+        "radgroesse": "20",
+        "gaenge": "7-Gang Shimano",
+        "rahmenmaterial": "Aluminium",
+        "bremsen": "V-Brake vorne + hinten",
+        "altersempfehlung": "ab 6 Jahre"
+      }
+    },
+    {
+      "name": "woom ORIGINAL 4",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DJHSFQPG?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "7,4",
+        "radgroesse": "20",
+        "gaenge": "8-Gang Shimano",
+        "rahmenmaterial": "Aluminium",
+        "bremsen": "V-Brake (kindgerecht dosiert)",
+        "altersempfehlung": "ab 6 Jahre (115–130 cm)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "auto-handyhalterung",
+  "kategorie": "auto",
+  "titel": "Auto-Handyhalterung",
+  "beschreibung": "Auto-Handyhalterung Test 2026: Die 4 besten Halterungen im Vergleich ✓ Magnetisch & Klemme ✓ Kaufberatung",
+  "keywords": [
+    "auto handyhalterung test",
+    "handyhalterung auto",
+    "kfz handyhalterung",
+    "handyhalterung auto lüftung",
+    "auto handyhalterung magnet",
+    "handyhalterung auto saugnapf",
+    "beste handyhalterung auto",
+    "handyhalterung vergleich",
+    "handy halterung auto test 2026",
+    "auto handyhalterung wireless charging"
+  ],
+  "einleitung": "Eine gute Handyhalterung fürs Auto ist unverzichtbar für Navigation und Freisprechen. Doch zwischen Magnet, Klemme, Saugnapf und Lüftungsclip gibt es große Unterschiede bei Halt, Bedienung und Kompatibilität. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Magnet oder Klemme?\nMagnethalterungen sind schnell und einfach — Handy drauflegen, fertig. Allerdings brauchst du eine Metallplatte im Handycase. Klemmhalterungen halten jedes Handy ohne Zubehör, sind aber etwas umständlicher beim Ein- und Aussetzen. Automatische Klemmhalterungen mit Sensor lösen dieses Problem.\n\n### Lüftung, Saugnapf oder Armaturenbrett?\nLüftungshalterungen sind kompakt und unauffällig, können aber die Klimaanlage blockieren. Saugnapf-Halterungen bieten mehr Flexibilität bei der Positionierung, können sich aber bei Hitze lösen. Armaturenbrett-Halterungen mit Klebepad sind am stabilsten.\n\n### Wireless Charging im Auto\nPremium-Halterungen bieten Qi-Ladefunction — einfach das Handy einlegen und es lädt automatisch. Achte auf die Wattzahl: 15W für schnelles Laden, 7,5W für iPhones. Ohne MagSafe oder Qi-Unterstützung bringt die Ladefunktion nichts.\n\n### Vibrationsfestigkeit\nAuf Kopfsteinpflaster und Schotterwegen zeigt sich, wie gut eine Halterung wirklich hält. Billige Modelle lassen das Handy wackeln oder fallen sogar ab. Kugelgelenke sollten sich fest arretieren lassen.\n\n### Sichtfeld und Erreichbarkeit\nDie Halterung sollte so positioniert sein, dass du die Straße gut im Blick behältst und gleichzeitig das Display ablesen kannst. Zu tief montiert zwingt dich zum Blick nach unten — zu hoch verdeckt die Sicht.",
+  "vergleichsKategorien": [
+    {
+      "key": "befestigung",
+      "label": "Befestigung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "haltemechanismus",
+      "label": "Haltemechanismus",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "wireless_charging",
+      "label": "Wireless Charging",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "kompatibilitaet",
+      "label": "Kompatibilität",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "drehbar",
+      "label": "360° drehbar",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Sind Magnethalterungen schlecht für das Handy?",
+      "antwort": "Nein, die Magnete in hochwertigen Handyhalterungen sind so konzipiert, dass sie weder Display noch Elektronik beschädigen. Bankkarten mit Magnetstreifen solltest du allerdings nicht direkt neben dem Magneten lagern."
+    },
+    {
+      "frage": "Welche Handyhalterung hält am besten auf holprigen Straßen?",
+      "antwort": "Am stabilsten sind Halterungen mit Saugnapf oder Klebepad am Armaturenbrett in Kombination mit einer Klemmhalterung. Reine Lüftungshalterungen können auf Schotterpisten wackeln."
+    },
+    {
+      "frage": "Darf ich mein Handy während der Fahrt in der Halterung bedienen?",
+      "antwort": "Laut StVO darfst du das Handy in der Halterung kurz bedienen — etwa zum Starten der Navigation. Längeres Tippen oder Texten ist verboten. Die Halterung muss so positioniert sein, dass du den Verkehr im Blick behältst."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Lamicall Auto Handyhalterung",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09MFKRF8B?tag=janxsiegmann-21",
+      "werte": {
+        "befestigung": "Lüftungsgitter",
+        "haltemechanismus": "Klemmhalterung (manuell)",
+        "wireless_charging": "Nein",
+        "kompatibilitaet": "4,7–6,8 Zoll",
+        "drehbar": "Ja"
+      }
+    },
+    {
+      "name": "iOttie Easy One Touch 5",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B089LPG4PM?tag=janxsiegmann-21",
+      "werte": {
+        "befestigung": "Saugnapf + Lüftung (2-in-1)",
+        "haltemechanismus": "Automatische Klemme (One-Touch)",
+        "wireless_charging": "Nein",
+        "kompatibilitaet": "5,5–6,7 Zoll",
+        "drehbar": "Ja"
+      }
+    },
+    {
+      "name": "ESR HaloLock MagSafe Autohalterung",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BF3BBN6F?tag=janxsiegmann-21",
+      "werte": {
+        "befestigung": "Lüftungsgitter",
+        "haltemechanismus": "MagSafe-Magnet",
+        "wireless_charging": "Ja (7,5W MagSafe)",
+        "kompatibilitaet": "iPhone 12+ / MagSafe-Cases",
+        "drehbar": "Ja (CryoBoost-Kühlung)"
+      }
+    },
+    {
+      "name": "iOttie Auto Sense Qi",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B089C4KHY3?tag=janxsiegmann-21",
+      "werte": {
+        "befestigung": "Saugnapf + Lüftung",
+        "haltemechanismus": "Automatischer Sensor (motorisiert)",
+        "wireless_charging": "Ja (15W Qi)",
+        "kompatibilitaet": "5,2–7,2 Zoll",
+        "drehbar": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

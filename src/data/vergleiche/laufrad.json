@@ -1,0 +1,128 @@
+{
+  "slug": "laufrad",
+  "kategorie": "kinder",
+  "titel": "Laufrad",
+  "beschreibung": "Laufrad Test 2026: Die 4 besten Laufräder im Vergleich ✓ Ab 2 Jahre ✓ Leicht & sicher ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "laufrad test",
+    "laufrad ab 2 jahre",
+    "bestes laufrad",
+    "laufrad vergleich",
+    "woom laufrad",
+    "puky laufrad",
+    "laufrad leicht",
+    "laufrad kinder",
+    "laufrad kaufberatung",
+    "laufrad holz oder metall"
+  ],
+  "einleitung": "Ein gutes Laufrad ist der beste Einstieg ins Radfahren — Kinder lernen spielerisch Balance und Koordination. Doch bei der Auswahl gibt es große Unterschiede bei Gewicht, Bereifung und Ergonomie. Wir vergleichen vier empfehlenswerte Laufräder für Kinder ab 2 Jahren.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDas Puky LR M ist ein solides Einstiegslaufrad zum fairen Preis. Das Puky LR Light bietet als Mittelklasse-Modell Luftreifen und Bremse. Wer auf Leichtbau und Ergonomie setzt, greift zum elvent BalanceGo. Und das woom GO 1 ist die Premium-Referenz für anspruchsvolle Eltern.\n\n### Luft- oder Schaumreifen?\nLuftreifen bieten bessere Federung und Grip, müssen aber gepumpt werden. Schaumreifen (EVA) sind wartungsfrei, bieten aber weniger Komfort auf unebenen Wegen. Für kurze Strecken auf Asphalt reichen Schaumreifen — für längere Fahrten und Feldwege sind Luftreifen die bessere Wahl.\n\n### Wie leicht sollte ein Laufrad sein?\nDie Faustregel: maximal 30 % des Körpergewichts. Ein 12 kg schweres 2-Jähriges sollte ein Laufrad von maximal 3,5 kg fahren. Leichte Modelle ab 3 kg lassen sich besser kontrollieren und machen mehr Spaß.\n\n### Braucht ein Laufrad eine Bremse?\nFür Kinder unter 2,5 Jahren ist eine Bremse nicht notwendig — sie bremsen intuitiv mit den Füßen. Ab etwa 3 Jahren kann eine Hinterradbremse sinnvoll sein, da die Geschwindigkeit zunimmt. Eine Handbremse bereitet zudem gut auf das spätere Fahrrad vor.\n\n### Sattel und Lenker richtig einstellen\nDer Sattel sollte so eingestellt sein, dass dein Kind mit beiden Füßen flach auf dem Boden steht und die Knie leicht gebeugt sind. Der Lenker sollte auf Brusthöhe sein. Viele Modelle sind höhenverstellbar und wachsen ein bis zwei Jahre mit.",
+  "vergleichsKategorien": [
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "bereifung",
+      "label": "Bereifung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "bremse",
+      "label": "Bremse",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "sitzhoehe",
+      "label": "Sattelhöhe",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "altersempfehlung",
+      "label": "Altersempfehlung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "rahmenmaterial",
+      "label": "Rahmenmaterial",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ab welchem Alter ist ein Laufrad sinnvoll?",
+      "antwort": "Die meisten Kinder sind ab etwa 2 Jahren bereit für ein Laufrad. Wichtig ist, dass dein Kind sicher laufen kann und die Mindest-Sattelhöhe erreicht. Einige Modelle wie das Puky LR M sind speziell für den frühen Einstieg ab 2 Jahren konzipiert."
+    },
+    {
+      "frage": "Welches Laufrad ist Testsieger?",
+      "antwort": "Im Stiftung-Warentest-Laufrad-Test schnitt das Puky LR Light als Testsieger ab. In der Community sind woom und Puky die beliebtesten Marken. Das woom GO 1 gilt als Premium-Referenz, das Puky LR M als solider Preistipp."
+    },
+    {
+      "frage": "Laufrad oder Dreirad — was ist besser?",
+      "antwort": "Ein Laufrad fördert den Gleichgewichtssinn und bereitet optimal aufs Fahrradfahren vor. Dreiräder trainieren dagegen vor allem die Beinkraft. Wenn dein Kind Fahrradfahren lernen soll, ist ein Laufrad die deutlich bessere Wahl."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Puky LR M",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B085RWTGP1?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "3,5",
+        "bereifung": "Schaumreifen (EVA)",
+        "bremse": "Keine",
+        "sitzhoehe": "29–41",
+        "altersempfehlung": "ab 2 Jahre",
+        "rahmenmaterial": "Stahl"
+      }
+    },
+    {
+      "name": "Puky LR Light",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BN4P2QGR?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "3,8",
+        "bereifung": "Luftreifen",
+        "bremse": "Hinterradbremse",
+        "sitzhoehe": "34–43",
+        "altersempfehlung": "ab 2,5 Jahre",
+        "rahmenmaterial": "Aluminium"
+      }
+    },
+    {
+      "name": "elvent BalanceGo 12 Zoll",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0B7R2TMRK?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "3,1",
+        "bereifung": "Luftreifen",
+        "bremse": "Hinterradbremse",
+        "sitzhoehe": "32–42",
+        "altersempfehlung": "ab 2 Jahre",
+        "rahmenmaterial": "Aluminium"
+      }
+    },
+    {
+      "name": "woom GO 1",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DJHT1CHP?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "3,0",
+        "bereifung": "Luftreifen",
+        "bremse": "Hinterradbremse",
+        "sitzhoehe": "31–40",
+        "altersempfehlung": "ab 18 Monate (82 cm)",
+        "rahmenmaterial": "Aluminium"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

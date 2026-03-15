@@ -1,0 +1,191 @@
+{
+  "slug": "gaming-maus",
+  "kategorie": "gaming",
+  "titel": "Gaming-Maus",
+  "beschreibung": "Gaming-Maus Test 2026: Die 4 besten Gaming-Mäuse im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "gaming maus test",
+    "gaming maus vergleich",
+    "beste gaming maus",
+    "gaming maus kabellos",
+    "gaming maus 2026"
+  ],
+  "einleitung": "Du suchst eine Gaming-Maus, die präzise trackt, gut in der Hand liegt und im kompetitiven Gaming den Unterschied macht? Wir haben vier Modelle vom budgetfreundlichen Einstieg bis zur Profi-Maus verglichen.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDie Auswahl hängt von deinem Budget und deinen Anforderungen ab. Das Budget-Modell reicht für gelegentliche Nutzung, die Mittelklasse bietet das beste Preis-Leistungs-Verhältnis, das Premium-Modell deckt anspruchsvolle Anwendungen ab und das Profi-Gerät ist für Enthusiasten.\n\n### Worauf solltest du beim Kauf achten?\nAchte auf die Verarbeitung, die wichtigsten technischen Daten und lies Nutzerbewertungen — dort findest du oft die ehrlichsten Einschätzungen. Ein teureres Produkt ist nicht automatisch besser, aber Qualität hat meist ihren Preis.\n\n### Lohnt sich das Profi-Modell?\nNur wenn du die zusätzlichen Features wirklich nutzt. Für die meisten Anwender ist die Mittelklasse oder das Premium-Modell die klügste Wahl.\n\n### Was ist im Lieferumfang enthalten?\nDas variiert stark — manche Hersteller liefern umfangreiches Zubehör mit, andere sparen daran. Prüfe vor dem Kauf, ob du noch Zusatzteile brauchst.",
+  "vergleichsKategorien": [
+    {
+      "key": "sensor",
+      "label": "Sensor",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "dpi",
+      "label": "Max. DPI",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "tasten",
+      "label": "Tasten",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "Std.",
+      "sortierung": 6
+    },
+    {
+      "key": "polling_rate",
+      "label": "Polling Rate",
+      "einheit": "Hz",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Gaming-Maus ist die beste für Einsteiger?",
+      "antwort": "Für Einsteiger empfehlen wir das Budget- oder Mittelklasse-Modell in unserem Vergleich. Diese bieten das beste Preis-Leistungs-Verhältnis und sind für die meisten Anwendungsfälle ausreichend."
+    },
+    {
+      "frage": "Lohnt sich eine teure Gaming-Maus?",
+      "antwort": "Das kommt auf deine Anforderungen an. Die Premium- und Profi-Modelle bieten spürbar bessere Qualität und Features, die sich im Alltag bemerkbar machen. Wer das Gerät intensiv nutzt, wird den Unterschied schätzen."
+    },
+    {
+      "frage": "Wo kaufe ich am besten eine Gaming-Maus?",
+      "antwort": "Amazon bietet die größte Auswahl und einfache Rückgabe. Die Preise auf Amazon sind in der Regel wettbewerbsfähig. Alle Links in unserem Vergleich führen direkt zur Amazon-Produktseite."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Logitech G203 Lightsync",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07W4DHJ6G?tag=janxsiegmann-21",
+      "preis": 30,
+      "bewertung": 4.0,
+      "werte": {
+        "sensor": "Mercury (Logitech)",
+        "dpi": "8.000",
+        "gewicht": "85",
+        "tasten": "6",
+        "verbindung": "Kabel (USB)",
+        "akkulaufzeit": "k.A.",
+        "polling_rate": "1.000"
+      },
+      "vorteile": [
+        "Sehr günstig",
+        "Guter Sensor für den Preis",
+        "RGB-Beleuchtung"
+      ],
+      "nachteile": [
+        "Nur kabelgebunden",
+        "Kein optischer Sensor der Spitzenklasse",
+        "Nur 85g — manchen zu leicht"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Razer DeathAdder V3",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BXCP9P6C?tag=janxsiegmann-21",
+      "preis": 70,
+      "bewertung": 4.0,
+      "werte": {
+        "sensor": "Focus Pro 26K",
+        "dpi": "26.000",
+        "gewicht": "59",
+        "tasten": "5",
+        "verbindung": "Kabel (USB)",
+        "akkulaufzeit": "k.A.",
+        "polling_rate": "8.000"
+      },
+      "vorteile": [
+        "Extrem leicht (59g)",
+        "Top-Sensor",
+        "Ergonomische Form"
+      ],
+      "nachteile": [
+        "Nur kabelgebunden",
+        "Keine Seitentasten rechts",
+        "Schlichte Optik"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Logitech G Pro X Superlight 2",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CGML2Q4F?tag=janxsiegmann-21",
+      "preis": 140,
+      "bewertung": 4.0,
+      "werte": {
+        "sensor": "HERO 2",
+        "dpi": "32.000",
+        "gewicht": "60",
+        "tasten": "5",
+        "verbindung": "2,4 GHz Funk + Kabel",
+        "akkulaufzeit": "95",
+        "polling_rate": "2.000"
+      },
+      "vorteile": [
+        "Nur 60g kabellos",
+        "Herausragender Sensor",
+        "95 Std. Akku",
+        "E-Sport-Standard"
+      ],
+      "nachteile": [
+        "Keine Bluetooth-Option",
+        "Nur 5 Tasten",
+        "Teuer"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Razer Viper V3 Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0D2YVTJWF?tag=janxsiegmann-21",
+      "preis": 170,
+      "bewertung": 4.0,
+      "werte": {
+        "sensor": "Focus Pro 36K (Gen 2)",
+        "dpi": "36.000",
+        "gewicht": "54",
+        "tasten": "5 + 2",
+        "verbindung": "2,4 GHz Funk + Kabel",
+        "akkulaufzeit": "95",
+        "polling_rate": "8.000"
+      },
+      "vorteile": [
+        "Nur 54g — ultraleicht",
+        "8.000 Hz Polling Rate",
+        "Bester Sensor am Markt",
+        "Optische Switches"
+      ],
+      "nachteile": [
+        "Sehr hoher Preis",
+        "Nicht für große Hände",
+        "Kein Bluetooth"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

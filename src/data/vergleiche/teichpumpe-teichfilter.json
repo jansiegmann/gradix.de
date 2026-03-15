@@ -1,0 +1,118 @@
+{
+  "slug": "teichpumpe-teichfilter",
+  "kategorie": "garten",
+  "titel": "Teichpumpe / Teichfilter",
+  "beschreibung": "Teichpumpe Test 2026: Die 4 besten Teichpumpen im Vergleich ✓ Filter & Bachlauf ✓ Energiesparend ✓ Kaufberatung",
+  "keywords": [
+    "teichpumpe test",
+    "teichfilter test",
+    "teichpumpe vergleich",
+    "teichpumpe bachlauf",
+    "teichpumpe mit filter",
+    "oase teichpumpe",
+    "teichpumpe energiesparend",
+    "teichpumpe test 2026",
+    "teichpumpe kaufberatung",
+    "teichfilter komplett set"
+  ],
+  "einleitung": "Klares Wasser im Gartenteich braucht die richtige Technik — eine Teichpumpe hält das Wasser in Bewegung und versorgt Filter, Bachlauf oder Springbrunnen. Wir vergleichen vier Modelle für verschiedene Teichgrößen.",
+  "kaufberatung": "### Pumpenleistung: Wie viel Liter pro Stunde?\nFaustregel: Die Pumpe sollte das gesamte Teichvolumen mindestens einmal pro Stunde umwälzen. Für einen 5.000-Liter-Teich brauchst du also mindestens 5.000 l/h. Für einen Bachlauf addiere 1.500 l/h pro 10 cm Breite.\n\n### Förderhöhe beachten\nDie Förderhöhe gibt an, wie hoch die Pumpe Wasser pumpen kann. Für einen Bachlauf auf einem Hügel brauchst du eine höhere Förderhöhe als für einen ebenerdigen Teich. Beachte: Die Pumpenleistung sinkt mit zunehmender Förderhöhe.\n\n### Filter: Druck- oder Durchlauffilter?\nDruckfilter können höher als der Teich platziert werden — ideal für erhöhte Bachläufe. Durchlauffilter sind günstiger, müssen aber am Teichrand auf gleicher Höhe stehen. Für Fischteiche empfehlen wir einen UV-C-Filter.\n\n### Energieverbrauch: Läuft ja 24/7\nEine Teichpumpe läuft den ganzen Sommer — das summiert sich. Eine 100W-Pumpe kostet bei 30 Cent/kWh etwa 7 Euro pro Monat. Energiesparende Pumpen mit 50–60W schonen den Geldbeutel bei gleicher Leistung.\n\n### Winterbetrieb\nIm Winter sollte die Pumpe aus dem Teich genommen werden, wenn er zufriert. Frostschäden sind der häufigste Grund für defekte Pumpen. Lagere die Pumpe in einem Eimer Wasser, damit die Dichtungen nicht austrocknen.",
+  "vergleichsKategorien": [
+    {
+      "key": "foerderleistung",
+      "label": "Förderleistung",
+      "einheit": "l/h",
+      "sortierung": 1
+    },
+    {
+      "key": "foerderhoehe",
+      "label": "Max. Förderhöhe",
+      "einheit": "m",
+      "sortierung": 2
+    },
+    {
+      "key": "leistungsaufnahme",
+      "label": "Leistungsaufnahme",
+      "einheit": "W",
+      "sortierung": 3
+    },
+    {
+      "key": "teichgroesse",
+      "label": "Geeignet für Teichgröße",
+      "einheit": "Liter",
+      "sortierung": 4
+    },
+    {
+      "key": "filter_uvc",
+      "label": "Filter / UV-C",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie groß muss meine Teichpumpe sein?",
+      "antwort": "Die Pumpe sollte das Teichvolumen mindestens einmal pro Stunde umwälzen. Für einen 3.000-Liter-Teich brauchst du also mindestens 3.000 l/h. Mit Fischen oder Bachlauf erhöhe auf das 1,5-fache."
+    },
+    {
+      "frage": "Brauche ich einen UV-C-Klärer?",
+      "antwort": "Für klares Wasser in Fischteichen ist ein UV-C-Klärer sehr empfehlenswert. Er tötet Schwebealgen ab und verhindert grünes Wasser. Für reine Pflanzenteiche ohne Fische ist er optional."
+    },
+    {
+      "frage": "Wie oft muss ich den Teichfilter reinigen?",
+      "antwort": "Durchlauffilter sollten alle 2–4 Wochen gereinigt werden. Druckfilter haben oft eine Rückspülfunktion, die die Reinigung vereinfacht. Im Herbst bei Laubfall häufiger kontrollieren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Pontec PondoMax Eco 5000",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B004Q18L7I?tag=janxsiegmann-21",
+      "werte": {
+        "foerderleistung": "5.000",
+        "foerderhoehe": "2,4",
+        "leistungsaufnahme": "55",
+        "teichgroesse": "bis 5.000",
+        "filter_uvc": "Nein (nur Pumpe)"
+      }
+    },
+    {
+      "name": "Oase BioSmart Set 5000",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B002X0TQKK?tag=janxsiegmann-21",
+      "werte": {
+        "foerderleistung": "2.500",
+        "foerderhoehe": "2,0",
+        "leistungsaufnahme": "40",
+        "teichgroesse": "bis 5.000",
+        "filter_uvc": "Ja (Komplett-Set mit UV-C 7W)"
+      }
+    },
+    {
+      "name": "Oase BioPress Set 10000",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B003YIEMOG?tag=janxsiegmann-21",
+      "werte": {
+        "foerderleistung": "4.000",
+        "foerderhoehe": "3,2",
+        "leistungsaufnahme": "70",
+        "teichgroesse": "bis 10.000",
+        "filter_uvc": "Ja (Druckfilter + UV-C 11W)"
+      }
+    },
+    {
+      "name": "Oase BioTec ScreenMatic² Set 40000",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01MZ4GLCS?tag=janxsiegmann-21",
+      "werte": {
+        "foerderleistung": "10.000",
+        "foerderhoehe": "4,5",
+        "leistungsaufnahme": "170",
+        "teichgroesse": "bis 40.000",
+        "filter_uvc": "Ja (Durchlauffilter + UV-C 36W)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

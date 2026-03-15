@@ -1,0 +1,128 @@
+{
+  "slug": "baby-reisebett",
+  "kategorie": "kinder",
+  "titel": "Baby-Reisebett",
+  "beschreibung": "Baby-Reisebett Test 2026: Die 4 besten Reisebetten im Vergleich ✓ Leicht & kompakt ✓ Schneller Aufbau ✓ Kaufberatung",
+  "keywords": [
+    "baby reisebett test",
+    "reisebett baby",
+    "reisebett klappbar",
+    "bestes reisebett baby",
+    "baby reisebett leicht",
+    "reisebett vergleich",
+    "reisebett baby kompakt",
+    "hauck reisebett",
+    "babybjörn reisebett",
+    "reisebett baby test 2026"
+  ],
+  "einleitung": "Ein gutes Baby-Reisebett macht Urlaub und Besuche bei Oma und Opa deutlich entspannter — für Eltern und Kind. Entscheidend sind schneller Aufbau, geringes Gewicht und eine bequeme Matratze. Wir vergleichen vier Reisebetten von Budget bis Premium.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDas Hauck Dream'n Play ist der Klassiker für gelegentliche Nutzung. Das Hauck Play N Relax bietet mit zwei Ebenen mehr Komfort. Wer häufig reist, greift zum leichten Joie Kubbie Sleep. Und das BabyBjörn Travel Crib Light ist die Premium-Referenz für minimalistische Eltern.\n\n### Klassisch oder Pop-up?\nKlassische Reisebetten klappen sich wie ein Zelt auf und bieten mehr Platz. Pop-up-Modelle sind in Sekunden aufgebaut, aber oft kleiner und weniger stabil. Für den Hauptschlafplatz im Urlaub empfehlen wir klassische Modelle.\n\n### Matratze: mitgeliefert oder dazukaufen?\nDie meisten Reisebetten kommen mit einer dünnen Matratze. Für gelegentliche Nutzung reicht diese aus. Wer das Bett häufiger nutzt, sollte eine zusätzliche Reisebett-Matratze kaufen — das verbessert den Schlafkomfort deutlich.\n\n### Wie schwer darf ein Reisebett sein?\nFür Flugreisen oder häufige Autofahrten sind Modelle unter 6 kg ideal. Für Besuche bei Verwandten, wo das Bett im Auto bleibt, sind auch 9–10 kg akzeptabel. Das BabyBjörn wiegt nur 5,9 kg und ist damit ideal für Vielflieger.\n\n### Sicherheit und Normen\nAlle Reisebetten in unserem Vergleich erfüllen die EN 716 Norm. Wichtig: Keine zusätzlichen Matratzen, Kissen oder Decken ins Bett legen. Der Abstand zwischen Matratze und Bettrand sollte maximal 2 cm betragen.",
+  "vergleichsKategorien": [
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "packmass",
+      "label": "Packmaß",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "liegeflaeche",
+      "label": "Liegefläche",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "max_alter",
+      "label": "Max. Alter/Gewicht",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "aufbauzeit",
+      "label": "Aufbauzeit",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "matratze",
+      "label": "Matratze inkl.",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Bis wann kann mein Kind im Reisebett schlafen?",
+      "antwort": "Die meisten Reisebetten sind bis ca. 15 kg oder 3 Jahre zugelassen. Sobald dein Kind klettern kann, wird es Zeit für ein normales Bett — auch wenn das Gewichtslimit noch nicht erreicht ist."
+    },
+    {
+      "frage": "Ist ein Reisebett auch als Dauerschlafplatz geeignet?",
+      "antwort": "Für gelegentliche Übernachtungen (Urlaub, Wochenendbesuche) sind Reisebetten völlig in Ordnung. Als dauerhafter Schlafplatz über Wochen empfehlen wir sie nicht, da die Matratzen dünner und weniger stützend sind als bei einem normalen Kinderbett."
+    },
+    {
+      "frage": "Welches Reisebett ist am leichtesten?",
+      "antwort": "Das BabyBjörn Travel Crib Light wiegt nur 5,9 kg und ist damit eines der leichtesten Modelle auf dem Markt. Es lässt sich in einer Hand tragen und ist ideal für Flugreisen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Hauck Dream'n Play",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B005PE6NE4?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "9,0",
+        "packmass": "76 × 23 × 23",
+        "liegeflaeche": "120 × 60",
+        "max_alter": "bis 15 kg",
+        "aufbauzeit": "ca. 2 Minuten",
+        "matratze": "Ja (dünn)"
+      }
+    },
+    {
+      "name": "Hauck Play N Relax Center",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BSJ1ZHVH?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "10,5",
+        "packmass": "77 × 23 × 23",
+        "liegeflaeche": "120 × 66",
+        "max_alter": "bis 15 kg",
+        "aufbauzeit": "ca. 2 Minuten",
+        "matratze": "Ja + Neugeborenen-Einhang"
+      }
+    },
+    {
+      "name": "Joie Kubbie Sleep",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BSVY9YWB?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "7,0",
+        "packmass": "79 × 28 × 22",
+        "liegeflaeche": "95 × 66",
+        "max_alter": "bis 15 kg",
+        "aufbauzeit": "ca. 1 Minute",
+        "matratze": "Ja (komfortable Faltmatratze)"
+      }
+    },
+    {
+      "name": "BabyBjörn Travel Crib Light",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00BQYVOKY?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "5,9",
+        "packmass": "60 × 49 × 14",
+        "liegeflaeche": "105 × 60",
+        "max_alter": "bis 3 Jahre",
+        "aufbauzeit": "ca. 10 Sekunden",
+        "matratze": "Ja (komfortable Matratze inkl.)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

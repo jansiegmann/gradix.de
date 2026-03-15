@@ -1,0 +1,118 @@
+{
+  "slug": "luftreiniger",
+  "kategorie": "haushalt",
+  "titel": "Luftreiniger",
+  "beschreibung": "Luftreiniger Test 2026: Die 4 besten Modelle ✓ HEPA-Filter ✓ Für Allergiker ✓ Leise & effektiv",
+  "keywords": [
+    "luftreiniger test",
+    "luftreiniger vergleich 2026",
+    "bester luftreiniger",
+    "hepa luftreiniger",
+    "luftreiniger allergiker",
+    "luftreiniger pollen",
+    "luftreiniger kaufberatung",
+    "luftreiniger schlafzimmer",
+    "dyson luftreiniger test",
+    "luftreiniger gegen staub"
+  ],
+  "einleitung": "Pollen, Feinstaub, Tierhaare — ein guter Luftreiniger filtert bis zu 99,97% aller Partikel aus der Luft. Wir vergleichen vier Modelle vom effizienten Budget-Gerät bis zum Smart-Home-fähigen Premium-Luftreiniger.",
+  "kaufberatung": "### HEPA-Filter: Was bedeutet das?\n\nHEPA steht für High Efficiency Particulate Air. Ein HEPA H13 Filter fängt 99,95% aller Partikel ab 0,1 Mikrometer ein — das umfasst Pollen, Feinstaub, Bakterien und die meisten Viren. Achte auf echte HEPA-Zertifizierung, nicht nur \"HEPA-like\" oder \"HEPA-Style\".\n\n### Raumgröße und CADR-Wert\n\nDer CADR-Wert (Clean Air Delivery Rate) gibt an, wie viel Luft pro Stunde gereinigt wird. Faustregel: Der CADR sollte mindestens dem 2-fachen Raumvolumen entsprechen. Ein Luftreiniger mit CADR 300 m³/h eignet sich für Räume bis ca. 40 m².\n\n### Lautstärke im Schlafzimmer\n\nFür das Schlafzimmer ist Lautstärke das wichtigste Kriterium. Unter 25 dB im Nachtmodus ist ideal — das entspricht einem leisen Flüstern. Die meisten Modelle im Test bieten einen dedizierten Schlafmodus.\n\n### Filterkosten beachten\n\nDie Filter müssen je nach Nutzung alle 6-12 Monate gewechselt werden. Ersatzfilter kosten 20-60€. Diese Folgekosten solltest du bei der Kaufentscheidung einplanen.",
+  "vergleichsKategorien": [
+    {
+      "key": "cadr",
+      "label": "CADR",
+      "einheit": "m³/h",
+      "sortierung": 1
+    },
+    {
+      "key": "raumgroesse",
+      "label": "Max. Raumgröße",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "filter",
+      "label": "Filtertyp",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke (min)",
+      "einheit": "dB",
+      "sortierung": 4
+    },
+    {
+      "key": "smart",
+      "label": "Smart-Home",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Hilft ein Luftreiniger bei Allergien?",
+      "antwort": "Ja, besonders bei Pollenallergie und Hausstauballergie. Ein HEPA H13 Filter entfernt Pollen und Hausstaubmilben-Allergene zuverlässig aus der Luft. Viele Allergiker berichten von deutlich weniger Symptomen, besonders nachts im Schlafzimmer."
+    },
+    {
+      "frage": "Wie laut ist ein Luftreiniger?",
+      "antwort": "Im Nachtmodus liegen die meisten Modelle bei 20-30 dB — das ist leiser als ein Flüstern (30 dB). Im Turbo-Modus können es 50-60 dB werden, vergleichbar mit normaler Gesprächslautstärke."
+    },
+    {
+      "frage": "Wie oft muss der Filter gewechselt werden?",
+      "antwort": "Bei durchschnittlicher Nutzung (8-12 Stunden/Tag) alle 6-12 Monate. Die meisten Geräte haben einen Filterindikator, der anzeigt, wann ein Wechsel fällig ist. In stark belasteter Umgebung (Raucher, Straßenverkehr) häufiger."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Levoit Core 300S",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09FJ43DK3?tag=janxsiegmann-21",
+      "werte": {
+        "cadr": "240",
+        "raumgroesse": "50",
+        "filter": "HEPA H13 + Aktivkohle",
+        "lautstaerke": "24",
+        "smart": "Ja (App, Alexa, Google)"
+      }
+    },
+    {
+      "name": "Philips AC0850/11",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BQRY4GLD?tag=janxsiegmann-21",
+      "werte": {
+        "cadr": "190",
+        "raumgroesse": "36",
+        "filter": "HEPA H13 + Aktivkohle",
+        "lautstaerke": "19",
+        "smart": "Ja (App)"
+      }
+    },
+    {
+      "name": "Xiaomi Smart Air Purifier 4 Pro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BXR3SKQM?tag=janxsiegmann-21",
+      "werte": {
+        "cadr": "500",
+        "raumgroesse": "60",
+        "filter": "HEPA H13 + Aktivkohle",
+        "lautstaerke": "23",
+        "smart": "Ja (App, Alexa, Google)"
+      }
+    },
+    {
+      "name": "Dyson Purifier Big+Quiet BP04",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CSC6XYQT?tag=janxsiegmann-21",
+      "werte": {
+        "cadr": "553",
+        "raumgroesse": "100",
+        "filter": "HEPA H13 + Katalytische Oxidation",
+        "lautstaerke": "17",
+        "smart": "Ja (App, Alexa)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

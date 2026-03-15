@@ -1,0 +1,128 @@
+{
+  "slug": "matratze",
+  "kategorie": "schlafen",
+  "titel": "Matratze",
+  "beschreibung": "Matratze Test 2026: Die 4 besten Matratzen im Vergleich ✓ Kaltschaum & Federkern ✓ Alle Schlaftypen ✓ Kaufberatung",
+  "keywords": [
+    "matratze test",
+    "matratze vergleich",
+    "beste matratze",
+    "matratze test 2026",
+    "matratze kaufberatung",
+    "kaltschaummatratze test",
+    "matratze stiftung warentest",
+    "emma matratze",
+    "matratze seitenschläfer",
+    "matratze härtegrad"
+  ],
+  "einleitung": "Rund ein Drittel unseres Lebens verbringen wir im Bett — eine gute Matratze ist entscheidend für Schlafqualität und Rückengesundheit. Die Unterschiede bei Liegezonen, Härtegrad und Material sind enorm. Wir vergleichen vier Matratzen.",
+  "kaufberatung": "### Kaltschaum, Federkern oder Latex?\nKaltschaum passt sich gut an den Körper an und ist leicht — ideal für Seitenschläfer. Taschenfederkernmatratzen bieten gute Belüftung und Punktelastizität — gut für Menschen die nachts schwitzen. Latex ist sehr langlebig und hygienisch, aber schwer und teuer.\n\n### Härtegrad richtig wählen\nH2 (mittel) für Personen bis 80 kg, H3 (fest) für 80–100 kg, H4 für über 100 kg. Seitenschläfer bevorzugen tendenziell weichere, Rückenschläfer festere Matratzen. Viele Hersteller bieten Probeschlafen — nutze das.\n\n### Liegezonen: Sinnvoll oder Marketing?\nMatratzen mit 7 Zonen bieten unterschiedliche Nachgiebigkeit für Schulter, Hüfte und Beine. Das verbessert die Körperlagerung spürbar. 5 Zonen sind das Minimum, weniger ist Marketing.\n\n### Probeschlafen nutzen\nDie meisten Online-Matratzen bieten 100 Nächte Probeschlafen. Nutze das! Dein Körper braucht 2–3 Wochen, um sich an eine neue Matratze zu gewöhnen. Vorher solltest du nicht zurücksenden.\n\n### Matratzenpflege\nAlle 3 Monate drehen, alle 6 Monate wenden. Ein waschbarer Bezug ist Pflicht. Ein Matratzenschoner verlängert die Lebensdauer. Nach 8–10 Jahren sollte eine Matratze ersetzt werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "haertegrad",
+      "label": "Härtegrad",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "liegezonen",
+      "label": "Liegezonen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "bezug_waschbar",
+      "label": "Bezug waschbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "probeschlafen",
+      "label": "Probeschlafen",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Matratze ist Testsieger bei Stiftung Warentest?",
+      "antwort": "Im aktuellen Matratzentest schneiden Modelle von Emma, Bodyguard und Ravensberger regelmäßig gut ab. Die Bodyguard Matratze von bett1.de war mehrfach Testsieger. Wichtig: Der beste Testsieger nützt nichts, wenn er nicht zu deinem Schlaftyp passt."
+    },
+    {
+      "frage": "Welcher Härtegrad ist der richtige für mich?",
+      "antwort": "Bei 70 kg Körpergewicht und normaler Statur ist H2 (mittel) meist richtig. Ab 80 kg H3 (fest). Seitenschläfer wählen tendenziell eine Stufe weicher, Bauchschläfer eine Stufe härter. Im Zweifel: Probeschlafen nutzen."
+    },
+    {
+      "frage": "Wie lange hält eine Matratze?",
+      "antwort": "Eine gute Matratze hält 8–10 Jahre. Kuhlenbildung und nachlassende Stützwirkung sind Zeichen, dass sie ersetzt werden sollte. Regelmäßiges Drehen und Wenden verlängert die Lebensdauer."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Traumnacht Basis Kaltschaummatratze",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01N0MUILO?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kaltschaum",
+        "haertegrad": "H2 & H3",
+        "hoehe": "16",
+        "liegezonen": "7",
+        "bezug_waschbar": "Ja (bis 60°C)",
+        "probeschlafen": "30 Nächte"
+      }
+    },
+    {
+      "name": "Emma One Matratze",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08L4NLH4P?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Kaltschaum (HRX)",
+        "haertegrad": "H2 & H3",
+        "hoehe": "18",
+        "liegezonen": "7",
+        "bezug_waschbar": "Ja (bis 40°C)",
+        "probeschlafen": "100 Nächte"
+      }
+    },
+    {
+      "name": "Emma 25 Matratze",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BJZ8LL1Q?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Federkern + Schaum",
+        "haertegrad": "H2 & H3",
+        "hoehe": "25",
+        "liegezonen": "7",
+        "bezug_waschbar": "Ja (bis 40°C)",
+        "probeschlafen": "100 Nächte"
+      }
+    },
+    {
+      "name": "Ravensberger Latex Oeko-Tex",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00LV5AXN2?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Naturlatex",
+        "haertegrad": "H1/H2/H3/H4 wählbar",
+        "hoehe": "21",
+        "liegezonen": "7",
+        "bezug_waschbar": "Ja (bis 60°C)",
+        "probeschlafen": "90 Nächte"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

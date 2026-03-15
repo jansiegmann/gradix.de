@@ -1,0 +1,128 @@
+{
+  "slug": "haartrockner",
+  "kategorie": "koerperpflege",
+  "titel": "Haartrockner",
+  "beschreibung": "Haartrockner Test 2026: Die 4 besten Föhne ✓ Ionen ✓ Leicht & leistungsstark ✓ Für jeden Haartyp",
+  "keywords": [
+    "haartrockner test",
+    "föhn test 2026",
+    "bester haartrockner",
+    "haartrockner ionen",
+    "dyson airwrap alternative",
+    "haartrockner leicht",
+    "haartrockner kaufberatung",
+    "föhn vergleich",
+    "professioneller haartrockner",
+    "haartrockner leise"
+  ],
+  "einleitung": "Ein guter Haartrockner trocknet schnell, schont die Haare und liegt gut in der Hand. Wir vergleichen vier Modelle — vom bewährten Budget-Föhn bis zum High-Tech-Haartrockner mit Ionentechnologie.",
+  "kaufberatung": "### Ionentechnologie: Was bringt das?\n\nIonen neutralisieren die statische Aufladung der Haare — weniger Frizz, mehr Glanz. Bei trockenem und lockigem Haar macht Ionentechnologie einen deutlichen Unterschied. Bei kurzem Haar ist der Effekt weniger spürbar.\n\n### Leistung: Watt = Trockengeschwindigkeit?\n\nMehr Watt bedeutet generell mehr Luftstrom und schnelleres Trocknen. 2000W sind Standard, 2200W+ ideal für dickes, langes Haar. Hochwertige Motoren (z.B. bei Dyson) erreichen mit weniger Watt gleichwertige Ergebnisse.\n\n### Gewicht: Wichtiger als du denkst\n\nWer täglich föhnt, spürt jedes Gramm. Leichte Modelle unter 500g sind deutlich angenehmer als schwere 700g-Föhne. Dyson und Dreame haben hier die Nase vorn.\n\n### Temperatur und Geschwindigkeitsstufen\n\nMindestens 2 Temperaturstufen und 2 Gebläsestufen sind Standard. Eine Kaltlufttaste ist wichtig zum Fixieren der Frisur. Professionelle Föhne bieten 3+ Stufen für mehr Kontrolle.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 2
+    },
+    {
+      "key": "ionen",
+      "label": "Ionentechnologie",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "temperaturstufen",
+      "label": "Temperaturstufen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "aufsaetze",
+      "label": "Aufsätze",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "kabellaenge",
+      "label": "Kabellänge",
+      "einheit": "m",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Lohnt sich ein teurer Haartrockner?",
+      "antwort": "Für kurzes, pflegeleichtes Haar reicht ein günstiges Modell wie der Remington Ionic Dry. Bei langem, dickem oder lockigem Haar machen Ionentechnologie und ein leistungsstarker Motor einen spürbaren Unterschied — hier lohnt sich die Investition in ein Premium-Modell."
+    },
+    {
+      "frage": "Ist Dyson den Preis wirklich wert?",
+      "antwort": "Der Dyson Supersonic bietet exzellente Trocknungsleistung bei niedrigem Gewicht und ist deutlich leiser als die Konkurrenz. Aber der Dreame Hair Glory bietet vergleichbare Leistung für einen Bruchteil des Preises. Dyson ist ein Luxusprodukt, kein Muss."
+    },
+    {
+      "frage": "Können Haartrockner die Haare schädigen?",
+      "antwort": "Ja, zu heißes Föhnen schädigt die Haarstruktur. Nutze die niedrigste effektive Temperaturstufe, halte mindestens 15 cm Abstand und verwende einen Diffusor für lockiges Haar. Modelle mit Temperatursensor (wie der Dreame Hair Glory) regulieren die Hitze automatisch."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Remington Ionic Dry D3198",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B084BGVT9Z?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "2200",
+        "gewicht": "580",
+        "ionen": "Ja",
+        "temperaturstufen": "3",
+        "aufsaetze": "Konzentrator, Diffusor",
+        "kabellaenge": "1.8"
+      }
+    },
+    {
+      "name": "Dreame Hair Glory",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0DJLLQW8Z?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1600",
+        "gewicht": "400",
+        "ionen": "Ja (110 Mio.)",
+        "temperaturstufen": "3 + Kaltluft",
+        "aufsaetze": "Styling-Düse, Diffusor",
+        "kabellaenge": "2.5"
+      }
+    },
+    {
+      "name": "Dreame Hair Gleam",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DPG4JZ2Y?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1600",
+        "gewicht": "410",
+        "ionen": "Ja",
+        "temperaturstufen": "4 + Kaltluft",
+        "aufsaetze": "Styling-Düse, Diffusor, Glättungsaufsatz",
+        "kabellaenge": "2.5"
+      }
+    },
+    {
+      "name": "Dyson Supersonic",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BRB5MBN3?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1600",
+        "gewicht": "395",
+        "ionen": "Ja",
+        "temperaturstufen": "4 + Kaltluft",
+        "aufsaetze": "Styling-Düse, Diffusor, Glättungsaufsatz, Flyaway",
+        "kabellaenge": "2.7"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

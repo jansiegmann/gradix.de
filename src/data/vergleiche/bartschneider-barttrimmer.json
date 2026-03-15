@@ -1,0 +1,128 @@
+{
+  "slug": "bartschneider-barttrimmer",
+  "kategorie": "koerperpflege",
+  "titel": "Bartschneider / Barttrimmer",
+  "beschreibung": "Barttrimmer Test 2026: Die 4 besten Bartschneider im Vergleich ✓ Philips, Braun & Co. ✓ Für Stoppeln bis Vollbart",
+  "keywords": [
+    "barttrimmer",
+    "bartschneider test",
+    "barttrimmer test",
+    "barttrimmer vergleich",
+    "bester barttrimmer",
+    "bartschneider vergleich",
+    "barttrimmer test 2026",
+    "philips barttrimmer",
+    "braun barttrimmer",
+    "bart trimmen"
+  ],
+  "einleitung": "Der richtige Barttrimmer hält deinen Bart in Form — ob 3-Tage-Bart, Vollbart oder präzise Konturen. Wir vergleichen vier Barttrimmer von Budget bis Profi und zeigen dir, welcher zu deinem Bartstil passt.",
+  "kaufberatung": "### Für wen eignet sich welcher Barttrimmer?\nFür den 3-Tage-Bart reicht der Philips BT3236/14 — günstig, zuverlässig, gute Schnittlängen. Der Braun BT5 bietet mehr Präzision und Längeneinstellungen. Wer einen längeren Vollbart pflegt, greift zum Philips BT9810 mit seinem Lasersensor. Und Barbershop-Qualität gibt es mit dem Panasonic ER-DGP86.\n\n### Wie viele Längeneinstellungen brauche ich?\nFür einen 3-Tage-Bart reichen 10-20 Stufen in 0,5-mm-Schritten. Für Vollbärte brauchst du mehr Stufen und längere Schnittlängen (bis 20 mm). Wirklich feine Abstufungen (0,2 mm) sind vor allem bei Fades und Übergängen wichtig.\n\n### Klingen-Qualität — worauf achten?\nSelbstschärfende Edelstahlklingen halten am längsten. Titan-beschichtete Klingen schneiden schärfer, sind aber teurer. Keramikklingen sind hypoallergen und ideal für empfindliche Haut. Alle Klingen im Vergleich sind selbstschärfend.\n\n### Nass oder Trocken trimmen?\nTrocken trimmen ist präziser und schneller. Nass trimmen (unter der Dusche) ist bequemer und weniger stoppelig. Die meisten modernen Trimmer können beides.",
+  "vergleichsKategorien": [
+    {
+      "key": "laengeneinstellungen",
+      "label": "Längeneinstellungen",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "schnittlaenge",
+      "label": "Schnittlänge",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 3
+    },
+    {
+      "key": "nass_trocken",
+      "label": "Nass/Trocken",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "klingen",
+      "label": "Klingen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "zubehoer",
+      "label": "Aufsätze/Zubehör",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte man den Bart trimmen?",
+      "antwort": "Ein 3-Tage-Bart braucht alle 2-3 Tage Pflege. Ein Vollbart sollte 1-2x pro Woche in Form gebracht werden. Konturen am Hals und Wangen am besten alle 2-3 Tage nachziehen."
+    },
+    {
+      "frage": "Philips oder Braun — welcher Barttrimmer ist besser?",
+      "antwort": "Philips bietet mehr Schnittlängen und einen breiteren Schneidkopf, ideal für Vollbärte. Braun überzeugt mit Präzision und Ergonomie, ideal für kürzere Bärte und Konturen. Beide Marken sind top — die Wahl hängt vom Bartstil ab."
+    },
+    {
+      "frage": "Können Barttrimmer auch Haare schneiden?",
+      "antwort": "Barttrimmer sind nicht als Haarschneider konzipiert, können aber für Nacken- und Seitenkonturen verwendet werden. Für einen richtigen Haarschnitt empfehlen wir eine dedizierte Haarschneidemaschine."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Philips BT3236/14",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B082WYNBGJ?tag=janxsiegmann-21",
+      "werte": {
+        "laengeneinstellungen": "20 (0,5–10 mm)",
+        "schnittlaenge": "0,5-10",
+        "akkulaufzeit": "90",
+        "nass_trocken": "Nein (nur Trocken)",
+        "klingen": "Edelstahl, selbstschärfend",
+        "zubehoer": "2 Kammaufsätze"
+      }
+    },
+    {
+      "name": "Braun BT5 5360",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CJ2F8KP3?tag=janxsiegmann-21",
+      "werte": {
+        "laengeneinstellungen": "39 (0,5–20 mm)",
+        "schnittlaenge": "0,5-20",
+        "akkulaufzeit": "100",
+        "nass_trocken": "Nass & Trocken",
+        "klingen": "Edelstahl, selbstschärfend",
+        "zubehoer": "4 Aufsätze + Gillette Rasierer"
+      }
+    },
+    {
+      "name": "Philips BT9810/15",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0C2XSWB7D?tag=janxsiegmann-21",
+      "werte": {
+        "laengeneinstellungen": "30 (0,4–10 mm)",
+        "schnittlaenge": "0,4-10",
+        "akkulaufzeit": "120",
+        "nass_trocken": "Nass & Trocken",
+        "klingen": "Edelstahl + Titanbeschichtung",
+        "zubehoer": "Ladestation + Reiseetui"
+      }
+    },
+    {
+      "name": "Panasonic ER-DGP86",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0936WXP8T?tag=janxsiegmann-21",
+      "werte": {
+        "laengeneinstellungen": "58+",
+        "schnittlaenge": "0,8-15",
+        "akkulaufzeit": "70",
+        "nass_trocken": "Nein (nur Trocken)",
+        "klingen": "X-Taper DLC Klingen",
+        "zubehoer": "3 Kammaufsätze + Ladestation"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "maulwurfschreck",
+  "kategorie": "garten",
+  "titel": "Maulwurfschreck / Wühlmausschreck",
+  "beschreibung": "Maulwurfschreck Test 2026: Die 4 besten Vertreiber im Vergleich ✓ Solar & Vibration ✓ Kaufberatung",
+  "keywords": [
+    "maulwurfschreck test",
+    "wühlmausschreck",
+    "maulwurfschreck solar",
+    "maulwurfschreck vergleich",
+    "maulwurf vertreiben",
+    "wühlmaus vertreiben",
+    "maulwurfschreck test 2026",
+    "maulwurfschreck kaufberatung",
+    "solar maulwurfschreck",
+    "maulwurfschreck vibration"
+  ],
+  "einleitung": "Maulwurfshügel und Wühlmausgänge zerstören jeden gepflegten Rasen. Maulwurfschrecks sollen die Tiere durch Vibrationen und Schall vertreiben — ganz ohne Gift. Doch funktioniert das wirklich? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Wie funktioniert ein Maulwurfschreck?\nDie Geräte erzeugen in regelmäßigen Abständen Vibrationen und Schallwellen im Erdreich. Diese sollen Maulwürfe und Wühlmäuse irritieren und zum Umzug bewegen. Wichtig: Die Wirkung ist umstritten — manche Tiere gewöhnen sich an die Vibrationen.\n\n### Solar oder Batterie?\nSolar-Modelle laden sich selbstständig auf und laufen unbegrenzt — ideal für den Dauereinsatz. Batteriebetriebene Modelle funktionieren auch im Schatten, müssen aber regelmäßig gewechselt werden.\n\n### Wie viele Stäbe brauche ich?\nDer Wirkungsbereich liegt typisch bei 600–1.200 m². Für einen normalen Garten (200–400 m²) reichen 2–4 Stäbe. Platziere sie gleichmäßig verteilt, mit max. 15 m Abstand zueinander.\n\n### Frequenzwechsel für mehr Effektivität\nGeräte mit wechselnder Frequenz sind effektiver, da sich die Tiere schwerer an das Muster gewöhnen. Einige Modelle bieten 3–4 verschiedene Vibrationsmuster.\n\n### Ehrliche Erwartungshaltung\nMaulwurfschrecks sind kein Wundermittel. Sie können helfen, Maulwürfe in bestimmte Bereiche des Gartens zu lenken — aber eine 100 %ige Vertreibung garantiert kein Hersteller. Maulwürfe stehen unter Naturschutz und dürfen nicht getötet werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "stromquelle",
+      "label": "Stromquelle",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "wirkungsbereich",
+      "label": "Wirkungsbereich",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "frequenz",
+      "label": "Frequenzwechsel",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "lieferumfang",
+      "label": "Stückzahl",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Funktionieren Maulwurfschrecks wirklich?",
+      "antwort": "Die Wirkung ist umstritten. Manche Nutzer berichten von deutlichem Erfolg, andere sehen keinen Unterschied. Entscheidend sind: genügend Stäbe, richtige Platzierung und Geduld (2–4 Wochen). Frequenzwechsel erhöhen die Chance."
+    },
+    {
+      "frage": "Sind Maulwurfschrecks für Haustiere gefährlich?",
+      "antwort": "Nein, die Vibrationen sind für Hunde und Katzen unbedenklich. Die Schallwellen liegen in einem Frequenzbereich, der für Haustiere kaum wahrnehmbar ist."
+    },
+    {
+      "frage": "Darf ich Maulwürfe in meinem Garten töten?",
+      "antwort": "Nein, der Europäische Maulwurf steht in Deutschland unter Naturschutz. Das Töten und Fangen ist verboten und wird mit Bußgeldern bis 50.000 Euro geahndet. Vertreiben ist erlaubt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ISOTRONIC Solar Maulwurfschreck 2er-Set",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01N6OINAK?tag=janxsiegmann-21",
+      "werte": {
+        "stromquelle": "Solar",
+        "wirkungsbereich": "ca. 700",
+        "frequenz": "Ja (wechselnd)",
+        "material": "Aluminium + Kunststoff",
+        "lieferumfang": "2 Stück"
+      }
+    },
+    {
+      "name": "Gardigo Solar Maulwurfschreck 4er-Set",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0118S07QC?tag=janxsiegmann-21",
+      "werte": {
+        "stromquelle": "Solar",
+        "wirkungsbereich": "ca. 700 (pro Stab)",
+        "frequenz": "Ja (3 Muster)",
+        "material": "Aluminium + Kunststoff",
+        "lieferumfang": "4 Stück"
+      }
+    },
+    {
+      "name": "VOSS.sonic 2000 4er-Set",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B071HTL3VZ?tag=janxsiegmann-21",
+      "werte": {
+        "stromquelle": "Solar",
+        "wirkungsbereich": "ca. 1.250 (pro Stab)",
+        "frequenz": "Ja (4 Muster)",
+        "material": "Aluminium",
+        "lieferumfang": "4 Stück"
+      }
+    },
+    {
+      "name": "Windhager Maulwurf-Abwehr Solar 8er-Set",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00A2PBUOI?tag=janxsiegmann-21",
+      "werte": {
+        "stromquelle": "Solar",
+        "wirkungsbereich": "ca. 1.000 (pro Stab)",
+        "frequenz": "Ja (wechselnd)",
+        "material": "Aluminium + ABS",
+        "lieferumfang": "8 Stück"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

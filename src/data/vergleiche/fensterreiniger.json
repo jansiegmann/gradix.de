@@ -1,0 +1,118 @@
+{
+  "slug": "fensterreiniger-elektrisch",
+  "kategorie": "reinigung",
+  "titel": "Fensterreiniger (elektrisch)",
+  "beschreibung": "Elektrischer Fensterreiniger Test 2026: Die 4 besten Fenstersauger ✓ Streifenfrei ✓ Kaufberatung",
+  "keywords": [
+    "fensterreiniger",
+    "fenstersauger",
+    "fenstersauger test",
+    "kärcher fenstersauger",
+    "elektrischer fensterreiniger",
+    "fensterreiniger test",
+    "fenstersauger vergleich",
+    "bester fenstersauger",
+    "fensterreiniger kaufberatung",
+    "fenstersauger 2026"
+  ],
+  "einleitung": "Streifenfrei saubere Fenster ohne lästiges Nachpolieren — ein elektrischer Fenstersauger macht es möglich. Einfach einsprühen, abziehen und das Schmutzwasser wird sofort aufgesaugt. Wir vergleichen vier Modelle für glänzende Fenster.",
+  "kaufberatung": "### Wie funktioniert ein Fenstersauger?\nDu sprühst Reinigungsmittel auf die Scheibe, verteilst es mit dem mitgelieferten Mikrofaser-Wischer und saugst das Schmutzwasser mit dem Fenstersauger ab. Der Gummilippe sei Dank: keine Streifen, kein Tropfen.\n\n### Akkulaufzeit und Flächenleistung\nDie meisten Fenstersauger schaffen 25-35 Minuten pro Akkuladung — das reicht für eine 3-Zimmer-Wohnung. Premium-Modelle wie der Kärcher WV 6 Plus schaffen bis zu 100 Minuten mit Wechselakku.\n\n### Sauglippe: Breite zählt\nEine 280 mm breite Sauglippe ist Standard und passt zu den meisten Fenstern. Für schmale Fenster oder Sprossenfenster bieten manche Hersteller schmalere Aufsätze (170 mm) als Zubehör.\n\n### Auch für Spiegel, Fliesen und Duschkabinen\nFenstersauger sind Multitalente: Sie eignen sich auch für Spiegel, Glasflächen in der Dusche, glatte Fliesen und sogar für Autoscheiben. Ein Gerät, viele Einsatzmöglichkeiten.\n\n### Reinigungsmittel: Brauche ich das?\nDie Hersteller verkaufen eigene Reinigungskonzentrate, aber ein Spritzer Spülmittel in Wasser funktioniert genauso gut. Für besonders hartnäckige Verschmutzungen hilft etwas Essig im Wasser.",
+  "vergleichsKategorien": [
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "Min.",
+      "sortierung": 1
+    },
+    {
+      "key": "flaechenleistung",
+      "label": "Flächenleistung pro Ladung",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "sauglippe_breite",
+      "label": "Sauglippe Breite",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "tankvolumen",
+      "label": "Schmutzwassertank",
+      "einheit": "ml",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Funktioniert ein Fenstersauger auch bei Minusgraden?",
+      "antwort": "Bedingt. Bei Temperaturen unter 0°C friert das Wasser auf der Scheibe, bevor du es absaugen kannst. Tipp: Etwas Frostschutzmittel oder hochprozentigen Alkohol ins Reinigungswasser mischen. Die meisten Hersteller empfehlen aber, Fenster nur bei Temperaturen über 5°C zu reinigen."
+    },
+    {
+      "frage": "Kann ich mit einem Fenstersauger auch die Duschkabine reinigen?",
+      "antwort": "Ja, das ist sogar eine der beliebtesten Zusatzanwendungen. Nach dem Duschen kurz über die Glaswände fahren — so verhinderst du Kalkflecken und musst die Dusche deutlich seltener gründlich putzen."
+    },
+    {
+      "frage": "Warum hinterlässt mein Fenstersauger Streifen?",
+      "antwort": "Häufigste Ursachen: Die Gummilippe ist beschädigt oder verschmutzt, du setzt den Sauger mitten auf der Scheibe an (immer oben beginnen) oder du verwendest zu viel Reinigungsmittel. Auch direktes Sonnenlicht lässt das Wasser schneller trocknen als du saugen kannst — lieber an bewölkten Tagen putzen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Leifheit Fenstersauger Nemo",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01CJYF9JO?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "28",
+        "flaechenleistung": "60",
+        "sauglippe_breite": "280",
+        "tankvolumen": "100",
+        "gewicht": "0,5"
+      }
+    },
+    {
+      "name": "Kärcher WV 2 Plus",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07S4Y6Z5L?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "35",
+        "flaechenleistung": "75",
+        "sauglippe_breite": "280",
+        "tankvolumen": "100",
+        "gewicht": "0,5"
+      }
+    },
+    {
+      "name": "Kärcher WV 5 Premium",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07S7B4VZ2?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "35",
+        "flaechenleistung": "105",
+        "sauglippe_breite": "280",
+        "tankvolumen": "100",
+        "gewicht": "0,6"
+      }
+    },
+    {
+      "name": "Kärcher WV 6 Plus",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08BFGN2QT?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit": "100",
+        "flaechenleistung": "300",
+        "sauglippe_breite": "280",
+        "tankvolumen": "150",
+        "gewicht": "0,6"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

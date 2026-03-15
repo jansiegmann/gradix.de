@@ -1,0 +1,118 @@
+{
+  "slug": "usb-ladegeraet-gan",
+  "kategorie": "elektronik",
+  "titel": "USB-Ladegerät (Mehrfach/GaN)",
+  "beschreibung": "USB-Ladegerät GaN Test 2026: Die 4 besten Mehrfach-Ladegeräte im Vergleich ✓ Schnellladen ✓ Kompakt",
+  "keywords": [
+    "usb ladegerät test",
+    "gan ladegerät",
+    "usb-c ladegerät mehrfach",
+    "schnellladegerät test 2026",
+    "usb ladegerät mehrfach vergleich",
+    "bestes usb ladegerät",
+    "gan charger test",
+    "ladegerät usb-c pd",
+    "anker ladegerät test",
+    "mehrfach ladegerät usb-c"
+  ],
+  "einleitung": "Du lädst noch mit dem Billig-Ladegerät aus der Verpackung? GaN-Ladegeräte sind kleiner, leistungsstärker und laden mehrere Geräte gleichzeitig. Wir vergleichen vier Modelle — vom kompakten Reisebegleiter bis zum Power-Ladegerät für den Schreibtisch.",
+  "kaufberatung": "### Was ist GaN und warum ist es besser?\n\nGalliumnitrid (GaN) ist ein Halbleitermaterial, das effizienter arbeitet als herkömmliches Silizium. Das bedeutet: Mehr Leistung bei weniger Wärme und kleinerem Gehäuse. Ein 65W-GaN-Ladegerät ist heute so klein wie ein altes 20W-Ladegerät.\n\n### Wie viel Watt brauche ich?\n\n20W reichen für ein Smartphone. 45W laden Tablets schnell. 65W+ brauchst du für Laptops. Wichtig: Die Gesamtleistung teilt sich auf die Ports auf. Ein 100W-Ladegerät liefert bei gleichzeitiger Nutzung aller Ports weniger pro Anschluss.\n\n### USB-C PD vs. USB-A\n\nUSB-C Power Delivery ist der Schnellladestandard. USB-A-Ports laden langsamer (max. 12W typischerweise). Für Smartphones und Laptops brauchst du USB-C. USB-A ist noch nützlich für ältere Geräte, Kopfhörer oder Fitness-Tracker.\n\n### Reiseladegerät: Worauf achten?\n\nKompakte Maße und ein klappbarer Stecker sind auf Reisen Gold wert. Manche Modelle haben austauschbare Stecker für verschiedene Länder. Achte auf einen flachen Stecker, damit das Ladegerät nicht wackelt.\n\n### Sicherheitsmerkmale\n\nGute Ladegeräte haben Überspannungs-, Überhitzungs- und Kurzschlussschutz. Kaufe keine No-Name-Produkte ohne Zertifizierung — die können gefährlich sein. Anker, Ugreen und Apple haben strenge Sicherheitsstandards.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Gesamtleistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "ports_usbc",
+      "label": "USB-C-Ports",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "ports_usba",
+      "label": "USB-A-Ports",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gan",
+      "label": "GaN-Technologie",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ein 65W-Ladegerät mein MacBook laden?",
+      "antwort": "Ja, ein USB-C PD Ladegerät mit 65W lädt ein MacBook Air problemlos und ein MacBook Pro (14 Zoll) etwas langsamer als das Original-Ladegerät. Für das 16-Zoll MacBook Pro empfehlen sich 100W+."
+    },
+    {
+      "frage": "Schadet Schnellladen dem Akku?",
+      "antwort": "Nein, moderne Smartphones regulieren die Ladegeschwindigkeit selbst. Das Ladegerät liefert nur so viel Leistung, wie das Gerät anfordert. Ein 100W-Ladegerät lädt ein iPhone nicht schneller als 27W — das iPhone begrenzt selbst."
+    },
+    {
+      "frage": "GaN-Ladegerät oder Standard — lohnt sich der Aufpreis?",
+      "antwort": "Ja, wenn dir Größe und Gewicht wichtig sind. Ein GaN-Ladegerät mit 65W ist etwa halb so groß wie ein herkömmliches. Für den Schreibtisch ist es egal, auf Reisen ein echtes Plus."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Anker Nano II 45W",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B2MLT3FD?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "45",
+        "ports_usbc": "1",
+        "ports_usba": "0",
+        "gan": "Ja",
+        "gewicht": "68"
+      }
+    },
+    {
+      "name": "Ugreen Nexode 100W",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B138WGDJ?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "100",
+        "ports_usbc": "2",
+        "ports_usba": "1",
+        "gan": "Ja",
+        "gewicht": "210"
+      }
+    },
+    {
+      "name": "Anker Prime 100W",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0C6DX66TN?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "100",
+        "ports_usbc": "2",
+        "ports_usba": "1",
+        "gan": "Ja (GaN II)",
+        "gewicht": "196"
+      }
+    },
+    {
+      "name": "Ugreen Nexode 200W",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CTHKZPV3?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "200",
+        "ports_usbc": "3",
+        "ports_usba": "1",
+        "gan": "Ja",
+        "gewicht": "370"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

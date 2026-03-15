@@ -1,0 +1,128 @@
+{
+  "slug": "isomatte-selbstaufblasend",
+  "kategorie": "camping",
+  "titel": "Isomatte (selbstaufblasend)",
+  "beschreibung": "Isomatte Test 2026: Die 4 besten selbstaufblasenden Isomatten ✓ Für Camping & Trekking ✓ Komfort & Isolation ✓ Ehrlicher Vergleich",
+  "keywords": [
+    "isomatte selbstaufblasend",
+    "isomatte test",
+    "selbstaufblasende isomatte",
+    "isomatte camping",
+    "isomatte vergleich",
+    "beste isomatte",
+    "isomatte trekking",
+    "isomatte test 2026",
+    "thermomatte camping",
+    "isomatte leicht"
+  ],
+  "einleitung": "Gut schlafen beim Camping? Mit der richtigen Isomatte kein Problem. Wir vergleichen vier selbstaufblasende Isomatten von Budget bis Profi — und zeigen dir, welche Matte den besten Kompromiss aus Komfort, Gewicht und Isolation bietet.",
+  "kaufberatung": "### Für wen eignet sich welche Isomatte?\nFür Campingplatz und Festivals reicht die günstige Kronenburg Isomatte — bequem genug und robust. Trekkingfans greifen zur Therm-a-Rest ProLite, die einen hervorragenden Kompromiss aus Gewicht und Komfort bietet. Wer auch bei kalten Temperaturen warm schlafen will, braucht die Therm-a-Rest ProLite Plus mit besserem R-Wert. Und für Komfort-Camper und Wintercamper ist die Exped MegaMat 10 das Maß aller Dinge — fast wie ein richtiges Bett.\n\n### R-Wert — was bedeutet das?\nDer R-Wert gibt an, wie gut eine Isomatte isoliert. Je höher, desto wärmer. Für Sommertrips reicht R 1-2, für Frühling/Herbst brauchst du R 3-4, und für Winter mindestens R 5. Seit 2020 gibt es einen standardisierten Teststandard (ASTM F3340), der die R-Werte verschiedener Hersteller vergleichbar macht.\n\n### Selbstaufblasend vs. Aufblasbar — was ist der Unterschied?\nSelbstaufblasende Matten haben einen offenzelligen Schaumstoffkern, der sich beim Öffnen des Ventils ausdehnt. Sie bieten gute Isolation und müssen nur wenig nachgeblasen werden. Rein aufblasbare Matten (Luftmatten) sind leichter und kompakter, isolieren aber ohne spezielle Füllung weniger gut.\n\n### Gewicht vs. Komfort — worauf kommt es an?\nFür Trekking ist jedes Gramm wichtig — hier sind 400-600 g Zielgewicht. Für Autocamping darf es deutlich mehr sein, weil der Komfortgewinn enorm ist. Eine 10 cm dicke Matte schläft sich wie ein Bett, wiegt aber auch 2+ kg.",
+  "vergleichsKategorien": [
+    {
+      "key": "r_wert",
+      "label": "R-Wert",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "dicke",
+      "label": "Dicke",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "packmass",
+      "label": "Packmaß",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "groesse",
+      "label": "Liegefläche",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Isomatte ist für kalte Nächte geeignet?",
+      "antwort": "Für kalte Nächte (unter 5°C) brauchst du mindestens einen R-Wert von 3,5. Die Therm-a-Rest ProLite Plus (R 3,4) reicht für Frühling/Herbst, für echtes Wintercamping empfehlen wir die Exped MegaMat 10 mit ihrem R-Wert von 8,1."
+    },
+    {
+      "frage": "Wie lange dauert es, bis eine selbstaufblasende Isomatte voll aufgeblasen ist?",
+      "antwort": "Die meisten selbstaufblasenden Matten erreichen nach 5-10 Minuten etwa 80% ihrer Füllung. Für volle Festigkeit musst du 2-5 Mal nachblasen. Bei der ersten Benutzung kann es länger dauern, weil der Schaum noch komprimiert ist."
+    },
+    {
+      "frage": "Kann man eine selbstaufblasende Isomatte reparieren?",
+      "antwort": "Ja, kleine Löcher lassen sich mit dem mitgelieferten Reparaturset flicken. Ventil säubern, Loch finden (Matte unter Wasser drücken und Blasen suchen), trocknen lassen und Patch aufkleben. Für unterwegs immer ein Reparaturset dabei haben."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Kronenburg Isomatte",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B005G08IEK?tag=janxsiegmann-21",
+      "werte": {
+        "r_wert": "k.A.",
+        "dicke": "3",
+        "gewicht": "950",
+        "packmass": "28 × 15",
+        "groesse": "188 × 55",
+        "material": "Polyester + PU-Schaum"
+      }
+    },
+    {
+      "name": "Therm-a-Rest ProLite",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07ZG6C6F9?tag=janxsiegmann-21",
+      "werte": {
+        "r_wert": "2,4",
+        "dicke": "2,5",
+        "gewicht": "510",
+        "packmass": "28 × 10",
+        "groesse": "183 × 51",
+        "material": "Nylon + Schaumkern"
+      }
+    },
+    {
+      "name": "Therm-a-Rest ProLite Plus",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07ZG2W261?tag=janxsiegmann-21",
+      "werte": {
+        "r_wert": "3,4",
+        "dicke": "3,8",
+        "gewicht": "680",
+        "packmass": "30 × 11",
+        "groesse": "183 × 51",
+        "material": "Nylon + dicker Schaumkern"
+      }
+    },
+    {
+      "name": "Exped MegaMat 10",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0897WSB5Y?tag=janxsiegmann-21",
+      "werte": {
+        "r_wert": "8,1",
+        "dicke": "10",
+        "gewicht": "2150",
+        "packmass": "54 × 24",
+        "groesse": "197 × 65",
+        "material": "Polyester + 3D-Schaumkern"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

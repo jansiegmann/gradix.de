@@ -1,0 +1,118 @@
+{
+  "slug": "eierkocher",
+  "kategorie": "kueche",
+  "titel": "Eierkocher",
+  "beschreibung": "Eierkocher Test 2026: Die 4 besten Eierkocher im Vergleich ✓ Perfekte Eier ✓ Kaufberatung",
+  "keywords": [
+    "eierkocher",
+    "eierkocher test",
+    "eierkocher vergleich",
+    "bester eierkocher",
+    "eierkocher kaufberatung",
+    "eierkocher testsieger",
+    "eierkocher mit timer",
+    "eierkocher 2026",
+    "eier kochen perfekt",
+    "eierkocher stiftung warentest"
+  ],
+  "einleitung": "Perfekt gekochte Eier auf Knopfdruck — ein guter Eierkocher macht es möglich. Ob weich, wachsweich oder hart: Wir vergleichen vier Modelle von simpel bis smart und zeigen, welcher Eierkocher wirklich hält, was er verspricht.",
+  "kaufberatung": "### Warum ein Eierkocher statt Kochtopf?\nEin Eierkocher spart Wasser, Energie und liefert reproduzierbare Ergebnisse. Während im Topf die Eier mal zu hart, mal zu weich werden, garantiert ein guter Eierkocher konsistente Garstufen. Zusätzlich verbraucht er nur einen Bruchteil des Wassers.\n\n### Wie funktioniert die Härtegrad-Einstellung?\nEs gibt zwei Systeme: Wassermengen-Steuerung und elektronische Steuerung. Bei der Wassermengen-Steuerung bestimmst du mit dem Messbecher, wie viel Wasser eingefüllt wird — weniger Wasser = weicheres Ei. Elektronische Geräte haben einen Timer oder Sensor, der den Garzustand überwacht. Elektronische Steuerung ist genauer, aber teurer.\n\n### Kapazität: 1 bis 7 Eier\nFür Singles reichen 3-Eier-Kocher. Familien sollten zu 7-Eier-Modellen greifen. Wichtig: Du kannst auch weniger Eier kochen als die maximale Kapazität — die Wassermenge passt du einfach an.\n\n### Signalton: Laut genug, aber nicht nervig\nFast alle Eierkocher piepen, wenn die Eier fertig sind. Manche sind dabei unangenehm laut. Modelle mit einstellbarer Lautstärke oder sanftem Signalton sind angenehmer im Alltag.\n\n### Eierpiekser nicht vergessen\nDer kleine Dorn am Messbecher ist wichtig: Er sticht ein kleines Loch in die Schale, damit die Eier beim Kochen nicht platzen. Immer die stumpfe Seite des Eis anpieksen.",
+  "vergleichsKategorien": [
+    {
+      "key": "kapazitaet",
+      "label": "Kapazität",
+      "einheit": "Eier",
+      "sortierung": 1
+    },
+    {
+      "key": "haertegrad_einstellung",
+      "label": "Härtegrad-Einstellung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 3
+    },
+    {
+      "key": "warmhaltefunktion",
+      "label": "Warmhaltefunktion",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "pochierte_eier",
+      "label": "Pochierte Eier möglich",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Warum werden meine Eier im Eierkocher nicht gleichmäßig weich?",
+      "antwort": "Die häufigste Ursache ist die falsche Wassermenge. Benutze immer den mitgelieferten Messbecher und beachte die Markierungen für die Eieranzahl und den gewünschten Härtegrad. Auch die Ausgangstemperatur der Eier (Kühlschrank vs. Raumtemperatur) beeinflusst das Ergebnis erheblich."
+    },
+    {
+      "frage": "Kann ich im Eierkocher auch pochierte Eier machen?",
+      "antwort": "Einige Modelle wie der WMF Stelio und der Severin EK 3163 werden mit einem speziellen Pochiereinsatz geliefert. Die Ergebnisse sind solide, kommen aber nicht ganz an die Qualität klassisch pochierter Eier heran. Für den Alltag ist es aber eine praktische Funktion."
+    },
+    {
+      "frage": "Muss ich die Eier nach dem Kochen abschrecken?",
+      "antwort": "Das Abschrecken mit kaltem Wasser stoppt den Garprozess und erleichtert das Schälen — besonders bei weichen Eiern empfehlenswert. Bei hart gekochten Eiern ist es weniger wichtig. Tipp: Frische Eier lassen sich generell schwerer schälen als ältere."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Severin EK 3161",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07QBP23LG?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "6",
+        "haertegrad_einstellung": "Wassermenge (Messbecher)",
+        "leistung": "400",
+        "warmhaltefunktion": "Nein",
+        "pochierte_eier": "Nein"
+      }
+    },
+    {
+      "name": "WMF Stelio Eierkocher",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B009T2AI0C?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "7",
+        "haertegrad_einstellung": "Wassermenge (Messbecher)",
+        "leistung": "380",
+        "warmhaltefunktion": "Nein",
+        "pochierte_eier": "Ja (Pochiereinsatz)"
+      }
+    },
+    {
+      "name": "WMF KÜCHENminis 2-Eier-Kocher",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07DQNMDFX?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "2",
+        "haertegrad_einstellung": "Elektronisch (Härtegrad-Regler)",
+        "leistung": "250",
+        "warmhaltefunktion": "Ja",
+        "pochierte_eier": "Nein"
+      }
+    },
+    {
+      "name": "Krups F23070 Ovomat Super",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0000C6B3E?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "7",
+        "haertegrad_einstellung": "Elektronisch (Härtegrad-Drehregler)",
+        "leistung": "400",
+        "warmhaltefunktion": "Ja",
+        "pochierte_eier": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

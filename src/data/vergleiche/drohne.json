@@ -1,0 +1,128 @@
+{
+  "slug": "drohne",
+  "kategorie": "elektronik",
+  "titel": "Drohne",
+  "beschreibung": "Drohne Test 2026: Die 4 besten Drohnen ✓ 4K-Kamera ✓ Für Anfänger & Profis ✓ EU-Drohnenverordnung",
+  "keywords": [
+    "drohne test",
+    "drohne vergleich 2026",
+    "beste drohne",
+    "dji mini test",
+    "drohne anfänger",
+    "drohne 4k kamera",
+    "drohne kaufberatung",
+    "dji air test",
+    "drohne unter 250g",
+    "drohne mit kamera test"
+  ],
+  "einleitung": "Drohnen liefern atemberaubende Luftaufnahmen und machen aus jedem Urlaub ein Abenteuer. Wir vergleichen vier DJI-Modelle — vom Einsteigergerät bis zur Profi-Drohne — und klären, welche Regeln du in der EU beachten musst.",
+  "kaufberatung": "### EU-Drohnenverordnung: Was muss ich wissen?\n\nSeit 2024 brauchst du für Drohnen über 250g den EU-Kompetenznachweis (A1/A3) und eine Registrierung beim Luftfahrt-Bundesamt. Drohnen unter 250g (wie die DJI Mini 4 Pro) sind in der Kategorie A1 — sie dürfen näher an Personen fliegen und brauchen keinen Kompetenznachweis. Das macht sie ideal für Einsteiger.\n\n### Unter 250g: Der Sweet Spot\n\nDrohnen unter 250g haben die geringsten gesetzlichen Auflagen. DJI hat mit der Mini-Serie gezeigt, dass auch kompakte Drohnen exzellente Kameras haben können. Für die meisten Hobby-Piloten ist eine Sub-250g-Drohne die beste Wahl.\n\n### Kameraqualität\n\nAlle Modelle in unserem Vergleich filmen in mindestens 4K. Der Unterschied liegt in der Sensorgröße: Größere Sensoren (1 Zoll bei der DJI Air 3S) liefern bessere Low-Light-Performance und mehr Dynamikumfang. Für Social Media reicht ein kleinerer Sensor, für professionelle Aufnahmen ist ein 1-Zoll-Sensor empfehlenswert.\n\n### Flugzeit und Reichweite\n\nModerne Drohnen fliegen 30-45 Minuten pro Akku. Nimm immer 2-3 Akkus mit. Die Reichweite beträgt bis zu 20 km, in der Praxis fliegst du aber selten weiter als 1-2 km (und musst in Sichtweite bleiben).\n\n### Hinderniserkennung\n\nOmnidirektionale Hinderniserkennung (alle Richtungen) ist ab der Mittelklasse Standard und für Anfänger ein echtes Sicherheitsplus. Budget-Modelle erkennen Hindernisse oft nur vorne und unten.",
+  "vergleichsKategorien": [
+    {
+      "key": "kamera",
+      "label": "Kamera",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "flugzeit",
+      "label": "Flugzeit",
+      "einheit": "min",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "reichweite",
+      "label": "Max. Reichweite",
+      "einheit": "km",
+      "sortierung": 4
+    },
+    {
+      "key": "hinderniserkennung",
+      "label": "Hinderniserkennung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "wind",
+      "label": "Max. Windwiderstand",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich einen Drohnenführerschein?",
+      "antwort": "Für Drohnen unter 250g (z.B. DJI Mini 4 Pro) brauchst du in der EU keinen Kompetenznachweis, nur eine Registrierung. Für schwerere Drohnen ist der EU-Kompetenznachweis (A1/A3) Pflicht — ein Online-Kurs mit Multiple-Choice-Test, der ca. 30 Minuten dauert."
+    },
+    {
+      "frage": "Wo darf ich in Deutschland mit meiner Drohne fliegen?",
+      "antwort": "Grundsätzlich im unkontrollierten Luftraum, außerhalb von Flugverbotszonen (Flughäfen, Militärgelände, Naturschutzgebiete). In Wohngebieten nur mit Drohnen unter 250g. Die App DJI Fly zeigt Flugverbotszonen an. Zusätzlich: Immer in Sichtweite, max. 120m Höhe."
+    },
+    {
+      "frage": "Welche Drohne ist die beste für Anfänger?",
+      "antwort": "Die DJI Mini 4 Pro ist die beste Einsteiger-Drohne: Unter 250g (weniger Regulierung), exzellente Kamera, Hinderniserkennung in alle Richtungen und einfache Steuerung. Dazu kommt das kompakte Faltdesign, das in jeden Rucksack passt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "DJI Mini 3",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BMZ2S8HB?tag=janxsiegmann-21",
+      "werte": {
+        "kamera": "4K/30fps, 1/1.3\" CMOS",
+        "flugzeit": "38",
+        "gewicht": "248",
+        "reichweite": "10",
+        "hinderniserkennung": "Vorne, hinten, unten",
+        "wind": "Stufe 5 (29-38 km/h)"
+      }
+    },
+    {
+      "name": "DJI Mini 4 Pro",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0D1LNJX39?tag=janxsiegmann-21",
+      "werte": {
+        "kamera": "4K/100fps, 1/1.3\" CMOS",
+        "flugzeit": "34",
+        "gewicht": "249",
+        "reichweite": "20",
+        "hinderniserkennung": "Omnidirektional",
+        "wind": "Stufe 5 (29-38 km/h)"
+      }
+    },
+    {
+      "name": "DJI Air 3S",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CS3LY42T?tag=janxsiegmann-21",
+      "werte": {
+        "kamera": "4K/120fps, 1\" CMOS (Dual-Kamera)",
+        "flugzeit": "43",
+        "gewicht": "724",
+        "reichweite": "20",
+        "hinderniserkennung": "Omnidirektional",
+        "wind": "Stufe 5 (29-38 km/h)"
+      }
+    },
+    {
+      "name": "DJI Mavic 3 Classic",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DDL2KRD4?tag=janxsiegmann-21",
+      "werte": {
+        "kamera": "5.1K/50fps, 4/3\" CMOS (Hasselblad)",
+        "flugzeit": "46",
+        "gewicht": "895",
+        "reichweite": "15",
+        "hinderniserkennung": "Omnidirektional (APAS 5.0)",
+        "wind": "Stufe 6 (39-49 km/h)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

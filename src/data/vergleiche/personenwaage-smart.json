@@ -1,0 +1,128 @@
+{
+  "slug": "personenwaage-smart",
+  "kategorie": "haushalt",
+  "titel": "Personenwaage (smart)",
+  "beschreibung": "Smarte Personenwaage Test 2026: Die 4 besten Körperfettwaagen im Vergleich ✓ App-Anbindung ✓ Körperfett, Muskelmasse & mehr",
+  "keywords": [
+    "personenwaage smart",
+    "körperfettwaage test",
+    "smarte waage",
+    "personenwaage test",
+    "smart scale",
+    "körperfettwaage vergleich",
+    "withings waage",
+    "personenwaage app",
+    "waage test 2026",
+    "körperanalysewaage"
+  ],
+  "einleitung": "Eine smarte Personenwaage zeigt mehr als nur dein Gewicht — Körperfett, Muskelmasse und BMI werden per App getrackt. Wir vergleichen vier Modelle und zeigen dir, welche Waage die genauesten Werte liefert.",
+  "kaufberatung": "### Für wen eignet sich welche smarte Waage?\nFür den Einstieg reicht die Renpho ES-CS20M — günstig mit guter App. Die Eufy Smart Scale P2 Pro bietet 16 Messwerte und hohe Genauigkeit. Die Withings Body+ ist ideal für Apple-Nutzer und Health-Ökosysteme. Und die Withings Body Comp ist das Premium-Modell mit medizinischen Messwerten.\n\n### Wie genau ist die Körperfettmessung?\nBioelektrische Impedanzanalyse (BIA) über Fußsensoren hat eine Genauigkeit von ±3-5% für Körperfett. Für Trend-Tracking ist das ausreichend, für medizinische Diagnosen nicht. Tipp: Immer zur gleichen Tageszeit messen für vergleichbare Werte.\n\n### App-Anbindung — worauf achten?\nAlle Waagen im Vergleich haben eine eigene App. Wichtig: Kompatibilität mit Apple Health, Google Fit oder Samsung Health, damit du alle Daten zentral hast. Withings und Eufy integrieren sich am besten in Gesundheits-Ökosysteme.\n\n### Mehrere Nutzer — geht das?\nAlle smarten Waagen erkennen mehrere Nutzer automatisch. Die meisten unterstützen 8-16 Profile. Ideal für Familien.",
+  "vergleichsKategorien": [
+    {
+      "key": "messwerte",
+      "label": "Messwerte",
+      "einheit": "Stück",
+      "sortierung": 1
+    },
+    {
+      "key": "genauigkeit",
+      "label": "Gewichtsgenauigkeit",
+      "einheit": "g",
+      "sortierung": 2
+    },
+    {
+      "key": "app",
+      "label": "App",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "nutzer",
+      "label": "Max. Nutzer",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "max_gewicht",
+      "label": "Max. Tragkraft",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "konnektivitaet",
+      "label": "Konnektivität",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie genau sind smarte Personenwaagen?",
+      "antwort": "Das Gewicht wird auf ±50-100 g genau gemessen. Körperfett und Muskelmasse sind weniger präzise (±3-5%) und dienen vor allem zum Trend-Tracking. Für medizinisch genaue Werte brauchst du eine DEXA-Messung."
+    },
+    {
+      "frage": "Wann sollte ich mich am besten wiegen?",
+      "antwort": "Am besten morgens nach dem Aufstehen, nach dem Toilettengang und vor dem Frühstück. Immer zur gleichen Zeit, nackt oder in Unterwäsche. So sind die Werte am besten vergleichbar."
+    },
+    {
+      "frage": "Sind smarte Waagen mit Herzschrittmachern sicher?",
+      "antwort": "Bei der BIA-Messung fließt ein schwacher Strom durch den Körper. Hersteller empfehlen Trägern von Herzschrittmachern oder Defibrillatoren, keine Körperfettwaage zu verwenden. Im Zweifel den Arzt fragen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Renpho ES-CS20M",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07FCBHFHF?tag=janxsiegmann-21",
+      "werte": {
+        "messwerte": "13",
+        "genauigkeit": "50",
+        "app": "Renpho Health",
+        "nutzer": "unbegrenzt",
+        "max_gewicht": "180",
+        "konnektivitaet": "Bluetooth"
+      }
+    },
+    {
+      "name": "Eufy Smart Scale P2 Pro",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BMD73H6J?tag=janxsiegmann-21",
+      "werte": {
+        "messwerte": "16",
+        "genauigkeit": "50",
+        "app": "EufyLife (Apple Health, Google Fit)",
+        "nutzer": "16",
+        "max_gewicht": "180",
+        "konnektivitaet": "Bluetooth + WiFi"
+      }
+    },
+    {
+      "name": "Withings Body+",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B071XW4C5Q?tag=janxsiegmann-21",
+      "werte": {
+        "messwerte": "9",
+        "genauigkeit": "50",
+        "app": "Withings Health Mate",
+        "nutzer": "8",
+        "max_gewicht": "180",
+        "konnektivitaet": "WiFi + Bluetooth"
+      }
+    },
+    {
+      "name": "Withings Body Comp",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B5B8M6TG?tag=janxsiegmann-21",
+      "werte": {
+        "messwerte": "14+",
+        "genauigkeit": "50",
+        "app": "Withings Health Mate",
+        "nutzer": "8",
+        "max_gewicht": "200",
+        "konnektivitaet": "WiFi + Bluetooth"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

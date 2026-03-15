@@ -1,0 +1,194 @@
+{
+  "slug": "sd-karte",
+  "kategorie": "elektronik",
+  "titel": "SD-Karte / Speicherkarte",
+  "beschreibung": "SD-Karte / Speicherkarte Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "sd karte test",
+    "speicherkarte vergleich",
+    "micro sd karte kaufberatung",
+    "beste sd karte kamera",
+    "sd karte 2026"
+  ],
+  "einleitung": "Du suchst eine SD-Karte oder microSD-Karte für Kamera, Drohne, Switch oder Smartphone? Wir vergleichen vier empfehlenswerte Modelle und erklären, welche Geschwindigkeitsklasse du wirklich brauchst.",
+  "kaufberatung": "### Welche Geschwindigkeitsklasse brauche ich?\nFür Full-HD-Video und Smartphone reicht U3/V30 (mindestens 30 MB/s Schreiben). Für 4K-Video brauchst du V30, für 4K bei 60fps besser V60. Für 8K-Video oder professionelle Burst-Fotografie ist V90 Pflicht — aber auch deutlich teurer.\n\n### SD vs. microSD — was ist der Unterschied?\nmicroSD-Karten sind kleiner und passen in Smartphones, Drohnen, Dashcams und mit Adapter auch in SDXC-Kameras. Full-Size-SD-Karten sind robuster und werden direkt in Kameras gesteckt. Für Kameras empfehlen wir Full-Size, für alles andere microSD.\n\n### UHS-I vs. UHS-II — lohnt sich der Aufpreis?\nUHS-I erreicht max. 104 MB/s, UHS-II bis 312 MB/s. Der Unterschied zeigt sich beim Übertragen großer Dateien auf den PC und bei schnellen Serienbildern. Wenn deine Kamera UHS-II unterstützt, lohnt sich der Aufpreis — sonst nicht, weil UHS-II in einem UHS-I-Slot auf UHS-I-Speed gedrosselt wird.\n\n### Wie lange halten SD-Karten?\nModerne SD-Karten halten bei normaler Nutzung 10+ Jahre. Achte auf Markenware (Samsung, SanDisk, Sony) und kaufe nie von dubiosen Drittanbietern — Fälschungen mit falscher Kapazitätsangabe sind weit verbreitet. Kaufe nur bei seriösen Händlern.",
+  "vergleichsKategorien": [
+    {
+      "key": "kapazitaet",
+      "label": "Kapazität",
+      "einheit": "GB",
+      "sortierung": 1
+    },
+    {
+      "key": "lesen",
+      "label": "Lesen max.",
+      "einheit": "MB/s",
+      "sortierung": 2
+    },
+    {
+      "key": "schreiben",
+      "label": "Schreiben max.",
+      "einheit": "MB/s",
+      "sortierung": 3
+    },
+    {
+      "key": "speed_class",
+      "label": "Speed Class",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "formfaktor",
+      "label": "Formfaktor",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "einsatzgebiet",
+      "label": "Empf. Einsatz",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "garantie",
+      "label": "Garantie",
+      "einheit": "Jahre",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche SD-Karte eignet sich am besten für die Nintendo Switch?",
+      "antwort": "Die Samsung EVO Select 128GB (U3, V30, A2) bietet das beste Preis-Leistungs-Verhältnis für die Switch. Die Switch nutzt maximal UHS-I-Geschwindigkeiten, teurere UHS-II-Karten bringen also keinen Vorteil. 128 GB reichen für ca. 15-20 Spiele."
+    },
+    {
+      "frage": "Brauche ich eine V90-Karte für meine Kamera?",
+      "antwort": "Nur wenn du 8K-Video oder extrem schnelle Serienbilder (10+ fps RAW) aufnimmst. Für 4K-Video bei 30fps reicht V30 völlig aus. V90-Karten wie die Sony TOUGH kosten das 3-5-fache und bringen nur bei professionellen Kameras spürbare Vorteile."
+    },
+    {
+      "frage": "Wie erkenne ich gefälschte SD-Karten?",
+      "antwort": "Kaufe nur bei Amazon (Versand durch Amazon), MediaMarkt oder autorisierten Händlern. Teste neue Karten mit dem Tool H2testw — es prüft die tatsächliche Kapazität. Fälschungen zeigen z.B. 256 GB an, haben aber nur 16 GB echten Speicher."
+    },
+    {
+      "frage": "Was bedeutet A1 und A2 bei microSD-Karten?",
+      "antwort": "A1 und A2 (App Performance Class) geben die Geschwindigkeit bei zufälligen Lese-/Schreibzugriffen an — relevant für Smartphones und Tablets, die Apps von der SD-Karte laden. A2 ist schneller als A1. Für Kameras ist diese Angabe irrelevant."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Samsung EVO Select 128GB microSD",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09B1HMJ9Z?tag=janxsiegmann-21",
+      "preis": 12,
+      "bewertung": 3.5,
+      "werte": {
+        "kapazitaet": "128",
+        "lesen": "160",
+        "schreiben": "120",
+        "speed_class": "U3, V30, A2",
+        "formfaktor": "microSD + SD-Adapter",
+        "einsatzgebiet": "Smartphone, Switch, Dashcam",
+        "garantie": "10"
+      },
+      "vorteile": [
+        "Sehr günstig",
+        "Gute Geschwindigkeit",
+        "10 Jahre Garantie"
+      ],
+      "nachteile": [
+        "Nicht die schnellste",
+        "Für 4K60 Video grenzwertig",
+        "Nur 128 GB"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "SanDisk Extreme 256GB microSD",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09X7CRKRZ?tag=janxsiegmann-21",
+      "preis": 28,
+      "bewertung": 4.0,
+      "werte": {
+        "kapazitaet": "256",
+        "lesen": "200",
+        "schreiben": "140",
+        "speed_class": "U3, V30, A2",
+        "formfaktor": "microSD + SD-Adapter",
+        "einsatzgebiet": "Action-Cam, Drohne, Smartphone",
+        "garantie": "Lebenslang (eingeschränkt)"
+      },
+      "vorteile": [
+        "200 MB/s Lesen",
+        "Lebenslange Garantie",
+        "Bewährt und zuverlässig"
+      ],
+      "nachteile": [
+        "Schreiben nur 140 MB/s",
+        "Nicht für 8K Video",
+        "Preislich Mittelfeld"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "SanDisk Extreme PRO 256GB SDXC",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09X7MPX8L?tag=janxsiegmann-21",
+      "preis": 45,
+      "bewertung": 4.5,
+      "werte": {
+        "kapazitaet": "256",
+        "lesen": "200",
+        "schreiben": "140",
+        "speed_class": "U3, V30",
+        "formfaktor": "SD (Full-Size)",
+        "einsatzgebiet": "DSLR, Mirrorless, 4K Video",
+        "garantie": "Lebenslang (eingeschränkt)"
+      },
+      "vorteile": [
+        "Profi-Standard für Fotografen",
+        "Zuverlässig unter allen Bedingungen",
+        "Wasserresistent, stoßfest"
+      ],
+      "nachteile": [
+        "Nur Full-Size SD",
+        "Für UHS-II-Kameras nicht schnell genug",
+        "140 MB/s Schreiben"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Sony TOUGH SF-G256T 256GB",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07H9VX76D?tag=janxsiegmann-21",
+      "preis": 130,
+      "bewertung": 4.5,
+      "werte": {
+        "kapazitaet": "256",
+        "lesen": "300",
+        "schreiben": "299",
+        "speed_class": "UHS-II, V90",
+        "formfaktor": "SD (Full-Size)",
+        "einsatzgebiet": "Profi-Video (8K), Burst-Fotografie",
+        "garantie": "5"
+      },
+      "vorteile": [
+        "V90 — für 8K-Video geeignet",
+        "300 MB/s Lesen UND Schreiben",
+        "Extrem robust (biegefest, staubdicht)",
+        "UHS-II"
+      ],
+      "nachteile": [
+        "Sehr teuer",
+        "Nur für UHS-II-Kameras sinnvoll",
+        "Nur 5 Jahre Garantie"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "dachbox",
+  "kategorie": "auto",
+  "titel": "Dachbox",
+  "beschreibung": "Dachbox Test 2026: Die 4 besten Dachboxen im Vergleich ✓ 300–600 Liter ✓ Sicher & aerodynamisch ✓ Kaufberatung",
+  "keywords": [
+    "dachbox test",
+    "dachbox auto",
+    "dachbox vergleich",
+    "beste dachbox",
+    "thule dachbox",
+    "dachbox 400 liter",
+    "dachbox test 2026",
+    "dachbox kaufberatung",
+    "dachbox aerodynamisch",
+    "dachbox stiftung warentest"
+  ],
+  "einleitung": "Egal ob Skiurlaub, Camping oder Familienausflug — eine Dachbox schafft wertvollen Stauraum fürs Auto. Doch zwischen 300 und 600 Litern Volumen, verschiedenen Montagesystemen und Preisen gibt es große Unterschiede. Wir vergleichen vier Dachboxen.",
+  "kaufberatung": "### Welches Volumen brauche ich?\nFür Paare reichen 300–400 Liter (Ski + Gepäck). Familien mit 2 Kindern sollten mindestens 400–500 Liter einplanen. Für Camping-Ausrüstung oder lange Urlaube sind 500+ Liter sinnvoll. Bedenke: Größer heißt auch mehr Windwiderstand und Spritverbrauch.\n\n### Beidseitige Öffnung — Pflicht oder Nice-to-Have?\nEine beidseitig öffnende Dachbox ist Gold wert: Du kannst von beiden Seiten beladen, egal wie das Auto steht. Günstige Modelle öffnen oft nur einseitig — das wird spätestens in der Tiefgarage zum Problem.\n\n### Montagesystem: Schnell und sicher\nAlle Modelle in unserem Vergleich nutzen eine werkzeuglose Schnellmontage. Thule setzt auf das bewährte PowerClick-System, das mit einem Drehmoment-Indikator signalisiert, wann die Box fest sitzt. Achte darauf, dass die Box zu deinem Dachträger passt.\n\n### Spritverbrauch und Geräusche\nEine Dachbox erhöht den Spritverbrauch um 10–20 %. Aerodynamisch geformte Boxen (Thule, Hapro) sind leiser und sparsamer als kastenförmige Billig-Modelle. Tipp: Box abnehmen, wenn sie nicht gebraucht wird.\n\n### Maximale Zuladung und Dachlast\nDie Box hat ein eigenes Zuladungslimit (meist 50–75 kg). Aber auch dein Auto hat eine maximale Dachlast — meist 75–100 kg inklusive Dachträger und Box. Überprüfe die Angabe in deiner Bedienungsanleitung.",
+  "vergleichsKategorien": [
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "Liter",
+      "sortierung": 1
+    },
+    {
+      "key": "zuladung",
+      "label": "Max. Zuladung",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "oeffnung",
+      "label": "Öffnung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Eigengewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "masse",
+      "label": "Außenmaße (L×B×H)",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "montage",
+      "label": "Montagesystem",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Passt eine Dachbox auf jedes Auto?",
+      "antwort": "Eine Dachbox passt auf jedes Auto mit Dachträger. Achte darauf, dass die Box die Fahrzeugbreite nicht überschreitet und die maximale Dachlast deines Autos nicht überschritten wird. Die Dachlast findest du in der Betriebsanleitung."
+    },
+    {
+      "frage": "Wie schnell darf ich mit Dachbox fahren?",
+      "antwort": "In Deutschland gibt es kein gesetzliches Tempolimit mit Dachbox. Hersteller empfehlen jedoch maximal 130 km/h aus Sicherheitsgründen. Ab 120 km/h steigen Windgeräusche und Spritverbrauch deutlich."
+    },
+    {
+      "frage": "Welche Dachbox ist Testsieger bei Stiftung Warentest?",
+      "antwort": "Im letzten Dachbox-Test der Stiftung Warentest schnitten Thule-Modelle regelmäßig am besten ab. Sie überzeugten bei Sicherheit, Handhabung und Aerodynamik. Die Thule Motion 3 ist aktuell eine der meistempfohlenen Boxen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Menabo Mania 400",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01MYO31PH?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "400",
+        "zuladung": "50",
+        "oeffnung": "Einseitig",
+        "gewicht": "14",
+        "masse": "198 × 79 × 37",
+        "montage": "U-Bügel Schnellmontage"
+      }
+    },
+    {
+      "name": "Hapro Traxer 6.6",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B076DG2YH9?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "410",
+        "zuladung": "75",
+        "oeffnung": "Beidseitig",
+        "gewicht": "16",
+        "masse": "197 × 80 × 42",
+        "montage": "Power-Klick Schnellmontage"
+      }
+    },
+    {
+      "name": "Thule Motion 3 M",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CJLQHQC5?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "400",
+        "zuladung": "75",
+        "oeffnung": "Beidseitig",
+        "gewicht": "17,5",
+        "masse": "200 × 84 × 40",
+        "montage": "PowerClick (Drehmoment-Indikator)"
+      }
+    },
+    {
+      "name": "Thule Motion 3 XL",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CJLQJWJC?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "500",
+        "zuladung": "75",
+        "oeffnung": "Beidseitig",
+        "gewicht": "20",
+        "masse": "215 × 91 × 44",
+        "montage": "PowerClick (Drehmoment-Indikator)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

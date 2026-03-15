@@ -1,0 +1,195 @@
+{
+  "slug": "mobile-klimaanlage",
+  "kategorie": "heizen-klima",
+  "titel": "Mobile Klimaanlage",
+  "beschreibung": "Mobile Klimaanlage Test 2026: Die 4 besten Klimageräte im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "mobile klimaanlage test",
+    "klimagerät vergleich",
+    "mobile klimaanlage kaufberatung",
+    "beste klimaanlage wohnung",
+    "klimaanlage mobil 2026"
+  ],
+  "einleitung": "Du suchst eine mobile Klimaanlage, die deine Wohnung im Sommer wirklich runterkühlt — ohne gleich eine fest installierte Split-Anlage einbauen zu müssen? Wir haben vier empfehlenswerte Monoblock-Klimageräte verglichen und zeigen dir, worauf es beim Kauf ankommt.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nFür gelegentliche Nutzung an besonders heißen Tagen reicht ein günstiges Gerät mit 7.000-9.000 BTU. Wer regelmäßig kühlen will oder größere Räume hat, braucht mindestens 10.000 BTU und sollte auf eine gute Energieeffizienzklasse achten — sonst wird die Stromrechnung zur bösen Überraschung.\n\n### Welche Kühlleistung brauche ich?\nFaustregel: Raumfläche in m² × 60-100 Watt (je nach Dämmung und Sonneneinstrahlung). Für 20 m² mit normaler Dämmung brauchst du etwa 7.000 BTU (2 kW). Für 30 m² mit Dachfenster eher 12.000 BTU (3,5 kW). Lieber etwas zu viel als zu wenig — ein überdimensioniertes Gerät erreicht schneller die Zieltemperatur und schaltet dann ab.\n\n### Monoblock oder mobiles Split-Gerät?\nMonoblock-Klimaanlagen sind günstig und sofort einsatzbereit — Schlauch ans Fenster, fertig. Nachteil: Sie sind lauter und weniger effizient, weil warme Abluft durch Ritzen zurückströmt. Mobile Split-Geräte (wie die Midea PortaSplit) trennen Innen- und Außeneinheit, sind deutlich leiser und effizienter, kosten aber auch mehr.\n\n### Das Problem mit dem Abluftschlauch\nDer größte Schwachpunkt aller Monoblock-Geräte: Der Abluftschlauch muss nach draußen — meist durchs gekippte Fenster. Dabei strömt warme Außenluft rein, was die Effizienz mindert. Investiere unbedingt in eine Fensterabdichtung (ca. 15-30 Euro), das macht einen riesigen Unterschied.\n\n### Stromkosten realistisch einschätzen\nEine mobile Klimaanlage mit 1.000 Watt Leistungsaufnahme kostet bei 8 Stunden Betrieb und 0,40 €/kWh rund 3,20 Euro pro Tag — das sind fast 100 Euro im Monat. Geräte mit höherer Energieeffizienzklasse (A++ oder besser) sparen langfristig deutlich.",
+  "vergleichsKategorien": [
+    {
+      "key": "kuehlleistung",
+      "label": "Kühlleistung",
+      "einheit": "BTU/h",
+      "sortierung": 1
+    },
+    {
+      "key": "raumgroesse",
+      "label": "Max. Raumgröße",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "energieeffizienz",
+      "label": "Energieeffizienzklasse",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB(A)",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "entfeuchtung",
+      "label": "Entfeuchtung",
+      "einheit": "l/h",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie laut ist eine mobile Klimaanlage wirklich?",
+      "antwort": "Die meisten Monoblock-Geräte liegen zwischen 60 und 65 dB — das entspricht etwa normaler Gesprächslautstärke. Im Schlafmodus schaffen gute Modelle 50-55 dB. Wirklich leise wird es erst mit mobilen Split-Geräten wie der Midea PortaSplit (39 dB im Silent-Modus)."
+    },
+    {
+      "frage": "Brauche ich eine Fensterabdichtung?",
+      "antwort": "Unbedingt. Ohne Fensterabdichtung strömt warme Außenluft durch den Fensterspalt zurück ins Zimmer und mindert die Kühlleistung erheblich. Eine gute Abdichtung kostet 15-30 Euro und verbessert die Effizienz um bis zu 30%."
+    },
+    {
+      "frage": "Kann ich eine mobile Klimaanlage auch in der Mietwohnung nutzen?",
+      "antwort": "Ja, das ist der große Vorteil gegenüber fest installierten Split-Anlagen. Mobile Klimageräte erfordern keinen Eingriff in die Bausubstanz. Beachte aber die Lautstärke — in Mehrfamilienhäusern kann das Außenteil des Abluftschlauchs Nachbarn stören."
+    },
+    {
+      "frage": "Wie viel Strom verbraucht eine mobile Klimaanlage?",
+      "antwort": "Das hängt von der Kühlleistung und Energieeffizienz ab. Ein typisches Gerät mit 9.000 BTU verbraucht etwa 900-1.100 Watt. Bei 6 Stunden Betrieb täglich und 0,40 €/kWh sind das 2,16-2,64 Euro pro Tag. Mit Inverter-Technologie oder höherer Effizienzklasse sinkt der Verbrauch deutlich."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Comfee MPPH-09CRN7",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07D3BNLKN?tag=janxsiegmann-21",
+      "preis": 300,
+      "bewertung": 3.5,
+      "werte": {
+        "kuehlleistung": "9.000",
+        "raumgroesse": "32",
+        "energieeffizienz": "A",
+        "lautstaerke": "63",
+        "gewicht": "25",
+        "entfeuchtung": "1,0",
+        "extras": "Timer, Fernbedienung"
+      },
+      "vorteile": [
+        "Gutes Preis-Leistungs-Verhältnis",
+        "Leicht und kompakt",
+        "Einfache Bedienung"
+      ],
+      "nachteile": [
+        "Relativ laut",
+        "Nur Energieeffizienzklasse A",
+        "Schlauch recht kurz"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "De'Longhi Pinguino PAC EM82",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07NRBBKML?tag=janxsiegmann-21",
+      "preis": 480,
+      "bewertung": 4.0,
+      "werte": {
+        "kuehlleistung": "9.400",
+        "raumgroesse": "34",
+        "energieeffizienz": "A",
+        "lautstaerke": "63",
+        "gewicht": "30",
+        "entfeuchtung": "1,2",
+        "extras": "Timer, Fernbedienung, Kondenswasser-Recycling"
+      },
+      "vorteile": [
+        "Bewährte De'Longhi-Qualität",
+        "Real Feel Technologie",
+        "Kondenswasser-Recycling — kein Eimer leeren"
+      ],
+      "nachteile": [
+        "Relativ schwer mit 30 kg",
+        "Nicht die leiseste",
+        "Design etwas klobig"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "De'Longhi Pinguino PAC EX105",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0D1F2PYH2?tag=janxsiegmann-21",
+      "preis": 750,
+      "bewertung": 4.5,
+      "werte": {
+        "kuehlleistung": "10.000",
+        "raumgroesse": "40",
+        "energieeffizienz": "A+++",
+        "lautstaerke": "56",
+        "gewicht": "35",
+        "entfeuchtung": "1,4",
+        "extras": "App-Steuerung, Timer, Silent-Modus, WLAN"
+      },
+      "vorteile": [
+        "A+++ Energieeffizienz — einzigartig bei Monoblocks",
+        "Leiser Silent-Modus",
+        "App-Steuerung per WLAN",
+        "Starke Kühlleistung"
+      ],
+      "nachteile": [
+        "Hoher Anschaffungspreis",
+        "Schwer (35 kg)",
+        "App braucht Einrichtungszeit"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Midea PortaSplit",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DLY6JRZ8?tag=janxsiegmann-21",
+      "preis": 1100,
+      "bewertung": 4.5,
+      "werte": {
+        "kuehlleistung": "12.000",
+        "raumgroesse": "42",
+        "energieeffizienz": "A++",
+        "lautstaerke": "39 (Silent)",
+        "gewicht": "22 + 25",
+        "entfeuchtung": "1,8",
+        "extras": "4-in-1 (Kühlen/Heizen/Entfeuchten/Ventilieren), App, WLAN, Matter-Support"
+      },
+      "vorteile": [
+        "Extrem leise dank Split-Bauweise (39 dB)",
+        "Kann auch heizen",
+        "Hohe Energieeffizienz A++",
+        "Matter Smart-Home-kompatibel"
+      ],
+      "nachteile": [
+        "Hoher Preis",
+        "Zwei Einheiten — weniger mobil",
+        "Installationsaufwand höher als Monoblock"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

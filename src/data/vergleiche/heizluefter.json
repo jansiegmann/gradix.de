@@ -1,0 +1,128 @@
+{
+  "slug": "heizluefter",
+  "kategorie": "heizen-klima",
+  "titel": "Heizlüfter",
+  "beschreibung": "Heizlüfter Test 2026: Die 4 besten Heizlüfter im Vergleich ✓ Schnelle Wärme ✓ Kaufberatung",
+  "keywords": [
+    "heizlüfter",
+    "heizlüfter test",
+    "heizlüfter vergleich",
+    "bester heizlüfter",
+    "schnellheizer",
+    "heizlüfter kaufberatung",
+    "heizlüfter testsieger",
+    "keramik heizlüfter",
+    "heizlüfter bad",
+    "heizlüfter 2026"
+  ],
+  "einleitung": "Schnelle Wärme auf Knopfdruck — ein Heizlüfter heizt kleine Räume in Minuten auf. Ideal als Zusatzheizung fürs Bad, Büro oder Gästezimmer. Wir vergleichen vier Modelle von kompakt bis leistungsstark.",
+  "kaufberatung": "### Wann ist ein Heizlüfter sinnvoll?\nAls Hauptheizung taugt ein Heizlüfter nicht — dafür sind die Stromkosten zu hoch. Als Zusatzheizung für kurze Einsätze ist er aber ideal: Morgens im Bad, im Gästezimmer oder als Übergangslösung in der Übergangszeit.\n\n### Keramik vs. Wendelheizung\nKeramik-Heizlüfter heizen schneller auf, sind sicherer (geringere Oberflächentemperatur) und trocknen die Luft weniger aus. Wendelheizer sind günstiger, können aber bei hoher Leistung riechen (verbrannter Staub). Wir empfehlen Keramik.\n\n### Leistung und Raumgröße\n1.000 Watt reichen für ein kleines Bad (5-8 m²). Für ein Büro oder Schlafzimmer (15-20 m²) sollten es 2.000 Watt sein. Bedenke: 2.000 Watt auf Dauer kosten rund 0,60 Euro pro Stunde.\n\n### Sicherheit: Kippschutz und Überhitzungsschutz\nJeder Heizlüfter sollte einen Kippschutz (schaltet ab, wenn das Gerät umfällt) und einen Überhitzungsschutz haben. Für das Bad: Achte auf einen Spritzwasserschutz (IP21 oder höher).\n\n### Lautstärke und Oszillation\nDie meisten Heizlüfter erzeugen 40-55 dB. Für das Schlafzimmer empfehlen sich Modelle mit Silent-Modus oder niedrigster Stufe unter 40 dB. Oszillation (Schwenkfunktion) verteilt die Wärme gleichmäßiger im Raum.",
+  "vergleichsKategorien": [
+    {
+      "key": "heizart",
+      "label": "Heizart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "heizstufen",
+      "label": "Heizstufen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "thermostat",
+      "label": "Thermostat",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "oszillation",
+      "label": "Oszillation",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "sicherheit",
+      "label": "Sicherheit",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel Strom verbraucht ein Heizlüfter pro Stunde?",
+      "antwort": "Ein Heizlüfter auf maximaler Stufe (2.000 Watt) verbraucht 2 kWh pro Stunde — das sind etwa 0,60 Euro bei aktuellen Strompreisen. Auf halber Leistung (1.000 Watt) entsprechend die Hälfte. Als Dauerheizung ist das teuer, als kurzzeitige Zusatzheizung aber vertretbar."
+    },
+    {
+      "frage": "Kann ich einen Heizlüfter im Bad verwenden?",
+      "antwort": "Ja, aber nur Modelle mit Spritzwasserschutz (mindestens IPX1, besser IPX2). Stelle den Heizlüfter niemals in die Nähe von Wasser (Badewanne, Dusche) und benutze ihn nie mit nassen Händen. Wandmontierte Badheizlüfter sind die sicherste Lösung."
+    },
+    {
+      "frage": "Ist ein Heizlüfter besser als ein Ölradiator?",
+      "antwort": "Heizlüfter heizen schneller, Ölradiatoren halten die Wärme länger und arbeiten geräuschlos. Für kurze Einsätze (Bad morgens) ist ein Heizlüfter besser, für stundenlangen Betrieb (Gästezimmer) ein Ölradiator. Beide verbrauchen ähnlich viel Strom."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Rowenta Instant Comfort Compact SO2320",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00A2B1Q90?tag=janxsiegmann-21",
+      "werte": {
+        "heizart": "Keramik",
+        "leistung": "2000",
+        "heizstufen": "2 + Ventilator",
+        "thermostat": "Ja",
+        "oszillation": "Nein",
+        "sicherheit": "Überhitzungsschutz"
+      }
+    },
+    {
+      "name": "De'Longhi HFX30C18",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08W3HG2YB?tag=janxsiegmann-21",
+      "werte": {
+        "heizart": "Keramik",
+        "leistung": "1800",
+        "heizstufen": "2",
+        "thermostat": "Ja (einstellbar)",
+        "oszillation": "Ja (70°)",
+        "sicherheit": "Kipp- + Überhitzungsschutz"
+      }
+    },
+    {
+      "name": "Dyson Hot+Cool AM09",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01A37MTXW?tag=janxsiegmann-21",
+      "werte": {
+        "heizart": "Keramik (bladeless)",
+        "leistung": "2000",
+        "heizstufen": "10",
+        "thermostat": "Ja (digital, gradgenau)",
+        "oszillation": "Ja (70°)",
+        "sicherheit": "Kippschutz + Überhitzungsschutz + TÜV"
+      }
+    },
+    {
+      "name": "Stadler Form Anna Big",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B06XB8F2FZ?tag=janxsiegmann-21",
+      "werte": {
+        "heizart": "Keramik (PTC)",
+        "leistung": "2000",
+        "heizstufen": "2 + stufenlose Regelung",
+        "thermostat": "Ja (einstellbar)",
+        "oszillation": "Ja (60°)",
+        "sicherheit": "Kipp- + Überhitzungsschutz + Nachtmodus"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "autobatterie-ladegeraet",
+  "kategorie": "auto",
+  "titel": "Autobatterie-Ladegerät",
+  "beschreibung": "Autobatterie-Ladegerät Test 2026: Die 4 besten Ladegeräte im Vergleich ✓ 6V/12V/24V ✓ Für PKW & Motorrad ✓ Kaufberatung",
+  "keywords": [
+    "autobatterie ladegerät test",
+    "batterie ladegerät auto",
+    "kfz ladegerät",
+    "autobatterie ladegerät vergleich",
+    "ctek ladegerät",
+    "noco ladegerät",
+    "batterie ladegerät 12v",
+    "autobatterie laden",
+    "erhaltungsladegerät",
+    "batterie ladegerät test 2026"
+  ],
+  "einleitung": "Wer sein Auto selten fährt, kennt das Problem: Die Batterie ist leer. Ein gutes Ladegerät verlängert die Lebensdauer deiner Autobatterie erheblich und spart teure Pannenservice-Einsätze. Wir vergleichen vier Ladegeräte von einfach bis professionell.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDas NOCO GENIUS1 ist perfekt für den Privatgebrauch — kompakt und idiotensicher. Das CTEK MXS 5.0 ist der bewährte Allrounder für Garagen-Enthusiasten. Wer auch größere Batterien laden will, greift zum CTEK MXS 7.0. Und das CTEK CT5 Time To Go bietet zusätzlich eine Zeitanzeige bis zur Vollladung.\n\n### Ladestrom: Wie viel Ampere brauche ich?\nFür normale PKW-Batterien (40–80 Ah) reichen 4–5A. Für größere Batterien in SUVs oder Wohnmobilen sind 7–10A sinnvoll. Zu hoher Ladestrom schadet der Batterie — intelligente Ladegeräte regeln automatisch.\n\n### Warum ein intelligentes Ladegerät?\nIntelligente Ladegeräte erkennen den Batteriezustand und passen Spannung und Strom automatisch an. Sie schalten auf Erhaltungsladung um und können tiefentladene Batterien oft noch retten. Einfache Ladegeräte ohne Elektronik können die Batterie überladen und beschädigen.\n\n### Erhaltungsladung für Saisonfahrzeuge\nMotorräder, Cabrios und Oldtimer stehen oft monatelang. Ein Erhaltungsladegerät hält die Batterie auf optimalem Ladestand, ohne sie zu überladen. Alle Modelle in unserem Vergleich bieten eine Erhaltungsladefunktion.\n\n### 6V, 12V oder 24V?\nDie meisten PKW haben 12V-Batterien. Motorräder und Oldtimer nutzen teils 6V. LKW und Wohnmobile haben 24V-Systeme. Achte vor dem Kauf auf die Kompatibilität.",
+  "vergleichsKategorien": [
+    {
+      "key": "ladestrom",
+      "label": "Max. Ladestrom",
+      "einheit": "A",
+      "sortierung": 1
+    },
+    {
+      "key": "spannung",
+      "label": "Spannung",
+      "einheit": "V",
+      "sortierung": 2
+    },
+    {
+      "key": "batteriekapazitaet",
+      "label": "Batteriekapazität",
+      "einheit": "Ah",
+      "sortierung": 3
+    },
+    {
+      "key": "batterietypen",
+      "label": "Batterietypen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "schutzart",
+      "label": "Schutzart",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "display",
+      "label": "Display/Anzeige",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange dauert es, eine Autobatterie vollständig zu laden?",
+      "antwort": "Das hängt von Batteriekapazität und Ladestrom ab. Eine typische 60-Ah-Batterie braucht mit einem 5A-Ladegerät etwa 10–12 Stunden bei starker Entladung. Intelligente Ladegeräte zeigen den Fortschritt an."
+    },
+    {
+      "frage": "Kann ich ein Autobatterie-Ladegerät dauerhaft angeschlossen lassen?",
+      "antwort": "Ja, alle Modelle in unserem Vergleich bieten eine sichere Erhaltungsladung. Intelligente Ladegeräte schalten automatisch zwischen Laden und Erhaltung um und können monatelang angeschlossen bleiben."
+    },
+    {
+      "frage": "Was ist besser: CTEK oder NOCO?",
+      "antwort": "Beide sind Premium-Hersteller. CTEK ist der europäische Marktführer mit bewährter Technik. NOCO punktet mit kompakterem Design und moderner App-Anbindung bei den neueren Modellen. Für die meisten Nutzer ist CTEK die sichere Wahl."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "NOCO GENIUS1",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08DLQGHBM?tag=janxsiegmann-21",
+      "werte": {
+        "ladestrom": "1",
+        "spannung": "6/12",
+        "batteriekapazitaet": "bis 30 Ah",
+        "batterietypen": "Blei-Säure, Lithium, AGM, Gel",
+        "schutzart": "IP65",
+        "display": "LED-Anzeige"
+      }
+    },
+    {
+      "name": "CTEK MXS 5.0",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00GQOEMTO?tag=janxsiegmann-21",
+      "werte": {
+        "ladestrom": "5",
+        "spannung": "12",
+        "batteriekapazitaet": "bis 160 Ah",
+        "batterietypen": "Blei-Säure, AGM, Gel, EFB",
+        "schutzart": "IP65",
+        "display": "LED-Anzeige (8 Stufen)"
+      }
+    },
+    {
+      "name": "CTEK MXS 7.0",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B009MN9FQW?tag=janxsiegmann-21",
+      "werte": {
+        "ladestrom": "7",
+        "spannung": "12",
+        "batteriekapazitaet": "bis 225 Ah",
+        "batterietypen": "Blei-Säure, AGM, Gel, EFB",
+        "schutzart": "IP65",
+        "display": "LED-Anzeige (8 Stufen)"
+      }
+    },
+    {
+      "name": "CTEK CT5 Time To Go",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07XBVDKVK?tag=janxsiegmann-21",
+      "werte": {
+        "ladestrom": "5",
+        "spannung": "12",
+        "batteriekapazitaet": "bis 160 Ah",
+        "batterietypen": "Blei-Säure, AGM, Gel, EFB, Lithium",
+        "schutzart": "IP65",
+        "display": "Countdown-Display (Restladezeit)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "luftbefeuchter",
+  "kategorie": "haushalt",
+  "titel": "Luftbefeuchter",
+  "beschreibung": "Luftbefeuchter Test 2026: Die 4 besten Raumbefeuchter ✓ Gesundes Raumklima ✓ Kaufberatung",
+  "keywords": [
+    "luftbefeuchter",
+    "luftbefeuchter test",
+    "raumbefeuchter",
+    "luftbefeuchter vergleich",
+    "bester luftbefeuchter",
+    "luftbefeuchter schlafzimmer",
+    "luftbefeuchter kaufberatung",
+    "luftbefeuchter baby",
+    "luftbefeuchter 2026",
+    "ultraschall luftbefeuchter"
+  ],
+  "einleitung": "Trockene Heizungsluft reizt Augen, Nase und Haut — besonders im Winter. Ein Luftbefeuchter sorgt für angenehmes Raumklima. Wir vergleichen vier Geräte von günstig bis Premium für gesundes Wohnen.",
+  "kaufberatung": "### Warum ist trockene Luft problematisch?\nBei unter 40% Luftfeuchtigkeit trocknen Schleimhäute aus, die Anfälligkeit für Erkältungen steigt und Holzmöbel können reißen. Besonders in beheizten Räumen im Winter sinkt die Luftfeuchtigkeit oft auf 25-30% — deutlich zu trocken.\n\n### Verdunster, Ultraschall oder Verdampfer?\nVerdunster arbeiten hygienisch, leise und energiesparend — die Luft streicht über feuchte Filtermatten. Ultraschall-Befeuchter sind günstig und leise, können aber bei hartem Wasser weißen Kalkstaub auf Möbeln hinterlassen. Verdampfer erhitzen das Wasser (keimfrei!), verbrauchen aber mehr Strom.\n\n### Hygiene: Das unterschätzte Thema\nEin schlecht gewarteter Luftbefeuchter verteilt Keime und Bakterien in der Raumluft. Wechsle das Wasser täglich, reinige den Tank alle 2-3 Tage und tausche Filter regelmäßig aus. Verdunster sind hygienisch am sichersten, da keine Aerosole versprüht werden.\n\n### Raumgröße und Befeuchtungsleistung\nDie Befeuchtungsleistung wird in ml/h oder g/h angegeben. Für ein 20 m²-Zimmer reichen 200-300 ml/h. Für größere Räume oder Büros brauchst du mehr Leistung.\n\n### Lautstärke im Schlafzimmer\nFür das Schlafzimmer sollte der Befeuchter unter 30 dB leise sein. Ultraschall-Befeuchter und hochwertige Verdunster schaffen das problemlos.",
+  "vergleichsKategorien": [
+    {
+      "key": "befeuchtungsart",
+      "label": "Befeuchtungsart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "befeuchtungsleistung",
+      "label": "Befeuchtungsleistung",
+      "einheit": "ml/h",
+      "sortierung": 2
+    },
+    {
+      "key": "raumgroesse",
+      "label": "Empfohlene Raumgröße",
+      "einheit": "m²",
+      "sortierung": 3
+    },
+    {
+      "key": "tankvolumen",
+      "label": "Tankvolumen",
+      "einheit": "L",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich ätherische Öle in den Luftbefeuchter geben?",
+      "antwort": "Nur wenn der Hersteller das explizit erlaubt und ein separates Duftfach vorhanden ist. Ätherische Öle können Kunststoffteile angreifen und den Vernebler beschädigen. Ultraschall-Befeuchter vertragen Öle besonders schlecht — besser einen separaten Aroma-Diffuser nutzen."
+    },
+    {
+      "frage": "Ist ein Luftbefeuchter im Babyzimmer sinnvoll?",
+      "antwort": "Ja, Babys reagieren besonders empfindlich auf trockene Luft. Empfohlen werden Verdunster, da sie keine Aerosole versprühen. Die Luftfeuchtigkeit sollte zwischen 45-55% liegen. Achte auf einen leisen Betrieb und stelle das Gerät außer Reichweite des Kindes auf."
+    },
+    {
+      "frage": "Wie erkenne ich, ob meine Raumluft zu trocken ist?",
+      "antwort": "Typische Symptome: trockene, juckende Haut, häufiges Nasenbluten, gereizte Augen, statische Aufladung an Kleidung und Haaren. Ein digitales Hygrometer (ab 10 Euro) zeigt die genaue Luftfeuchtigkeit an und ist die beste Investition neben dem Befeuchter."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Medisana AH 661 Ultraschall",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B012FGJQSE?tag=janxsiegmann-21",
+      "werte": {
+        "befeuchtungsart": "Ultraschall",
+        "befeuchtungsleistung": "230",
+        "raumgroesse": "30",
+        "tankvolumen": "3,5",
+        "lautstaerke": "30"
+      }
+    },
+    {
+      "name": "Philips HU2716/10",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09FXRK5WT?tag=janxsiegmann-21",
+      "werte": {
+        "befeuchtungsart": "Verdunster (NanoCloud)",
+        "befeuchtungsleistung": "200",
+        "raumgroesse": "32",
+        "tankvolumen": "2,0",
+        "lautstaerke": "34"
+      }
+    },
+    {
+      "name": "Boneco W200 Luftwäscher",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07GJ9Z7NY?tag=janxsiegmann-21",
+      "werte": {
+        "befeuchtungsart": "Verdunster (Luftwäscher)",
+        "befeuchtungsleistung": "250",
+        "raumgroesse": "50",
+        "tankvolumen": "4,5",
+        "lautstaerke": "25"
+      }
+    },
+    {
+      "name": "Venta LW25 Comfort Plus",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07S68Z73C?tag=janxsiegmann-21",
+      "werte": {
+        "befeuchtungsart": "Verdunster (Kaltluft)",
+        "befeuchtungsleistung": "300",
+        "raumgroesse": "45",
+        "tankvolumen": "7,0",
+        "lautstaerke": "24"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

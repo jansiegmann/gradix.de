@@ -1,0 +1,128 @@
+{
+  "slug": "waffeleisen",
+  "kategorie": "kueche",
+  "titel": "Waffeleisen",
+  "beschreibung": "Waffeleisen Test 2026: Die 4 besten Waffeleisen im Vergleich ✓ Belgisch & Herzform ✓ Kaufberatung",
+  "keywords": [
+    "waffeleisen",
+    "waffeleisen test",
+    "waffeleisen belgisch",
+    "waffeleisen herzform",
+    "waffeleisen vergleich",
+    "bestes waffeleisen",
+    "waffeleisen kaufberatung",
+    "waffeleisen testsieger 2026",
+    "waffeleisen antihaft",
+    "belgisches waffeleisen test"
+  ],
+  "einleitung": "Du liebst frische Waffeln, weißt aber nicht, welches Waffeleisen das richtige ist? Ob belgische Waffeln oder klassische Herzwaffeln — wir vergleichen vier Geräte für jeden Geschmack und Geldbeutel, damit dein nächster Waffelsonntag perfekt wird.",
+  "kaufberatung": "### Belgische Waffeln oder Herzwaffeln?\nDas ist die Grundsatzfrage. Belgische Waffeleisen produzieren dicke, rechteckige Waffeln mit tiefen Taschen — perfekt für Toppings wie Sahne und Früchte. Herzwaffeleisen machen die klassischen dünnen, runden Waffeln, die in Deutschland besonders beliebt sind. Manche Geräte bieten Wechselplatten für beide Varianten.\n\n### Worauf kommt es bei der Beschichtung an?\nEine gute Antihaftbeschichtung ist entscheidend. Keramikbeschichtungen gelten als besonders langlebig und frei von PFOA. Wichtig: Verwende nie Metallbesteck auf der Beschichtung und fette das Eisen trotz Antihaftbeschichtung beim ersten Gebrauch leicht ein.\n\n### Temperaturregelung macht den Unterschied\nGünstige Waffeleisen haben oft nur eine Kontrollleuchte, aber keine stufenlose Temperaturregelung. Wer gerne experimentiert — mal knuspriger, mal weicher —, sollte auf ein Thermostat achten. Die Cloer-Modelle sind hier besonders gut.\n\n### Reinigung: Abnehmbare Platten sind Gold wert\nWaffeleisen mit abnehmbaren, spülmaschinenfesten Platten lassen sich viel einfacher reinigen als Geräte mit fest verbauten Platten. Bei letzteren hilft nur ein feuchtes Tuch nach dem Abkühlen.\n\n### Wie viel Leistung brauche ich?\nMehr Watt bedeutet schnelleres Aufheizen — bei den meisten Geräten sind 800-1.200 Watt ausreichend. Wichtiger als die reine Wattzahl ist die gleichmäßige Hitzeverteilung, damit die Waffel rundherum gleichmäßig bräunt.",
+  "vergleichsKategorien": [
+    {
+      "key": "waffelform",
+      "label": "Waffelform",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "temperaturregelung",
+      "label": "Temperaturregelung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "abnehmbare_platten",
+      "label": "Abnehmbare Platten",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "backflaeche",
+      "label": "Backfläche",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Waffeleisen eignet sich für belgische Waffeln?",
+      "antwort": "Für echte belgische Waffeln brauchst du ein Waffeleisen mit tiefen, rechteckigen Formen. Der Krups FDK 251 und der Cloer 1445 sind hier besonders empfehlenswert. Achte darauf, dass die Vertiefungen mindestens 2 cm tief sind — sonst werden die Waffeln zu flach."
+    },
+    {
+      "frage": "Muss ich ein neues Waffeleisen einbrennen?",
+      "antwort": "Moderne Waffeleisen mit Antihaftbeschichtung müssen nicht eingebrannt werden. Es empfiehlt sich aber, die Platten beim ersten Gebrauch leicht einzufetten und eine 'Testwaffel' zu backen, die du nicht isst. Ab der zweiten Waffel stimmt dann die Qualität."
+    },
+    {
+      "frage": "Warum kleben meine Waffeln am Eisen fest?",
+      "antwort": "Häufigste Ursache: zu wenig Fett im Teig oder eine beschädigte Antihaftbeschichtung. Gib mindestens 60 g geschmolzene Butter auf 250 g Mehl in den Teig. Wenn die Beschichtung Kratzer hat, hilft leichtes Einfetten vor jedem Backvorgang."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Cloer 1621",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B000LQOTFI?tag=janxsiegmann-21",
+      "werte": {
+        "waffelform": "Herzform (5 Herzen)",
+        "leistung": "930",
+        "temperaturregelung": "Stufenlos",
+        "abnehmbare_platten": "Nein",
+        "backflaeche": "Ø 18,5 cm",
+        "gewicht": "1,6"
+      }
+    },
+    {
+      "name": "Krups FDK 251 Waffeleisen",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B003P9WQ12?tag=janxsiegmann-21",
+      "werte": {
+        "waffelform": "Belgisch (rechteckig)",
+        "leistung": "850",
+        "temperaturregelung": "Thermostat",
+        "abnehmbare_platten": "Ja",
+        "backflaeche": "2 Waffeln à 11 × 15 cm",
+        "gewicht": "2,4"
+      }
+    },
+    {
+      "name": "Cloer 1445 Brüsseler Waffeleisen",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B002Q0MQT0?tag=janxsiegmann-21",
+      "werte": {
+        "waffelform": "Belgisch (2 Stück)",
+        "leistung": "1200",
+        "temperaturregelung": "Stufenlos",
+        "abnehmbare_platten": "Nein",
+        "backflaeche": "2 Waffeln à 10 × 16 cm",
+        "gewicht": "2,3"
+      }
+    },
+    {
+      "name": "Sage the No-Mess Waffle BWM520",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07KXP4CP6?tag=janxsiegmann-21",
+      "werte": {
+        "waffelform": "Belgisch (rund)",
+        "leistung": "1000",
+        "temperaturregelung": "12 Bräunungsstufen",
+        "abnehmbare_platten": "Ja (spülmaschinenfest)",
+        "backflaeche": "Ø 25 cm",
+        "gewicht": "4,0"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

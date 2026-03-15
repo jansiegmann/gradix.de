@@ -1,0 +1,128 @@
+{
+  "slug": "mikrowelle",
+  "kategorie": "kueche",
+  "titel": "Mikrowelle",
+  "beschreibung": "Mikrowelle Test 2026: Die 4 besten Mikrowellen im Vergleich ✓ Solo & Kombi ✓ Kaufberatung",
+  "keywords": [
+    "mikrowelle",
+    "mikrowelle test",
+    "mikrowelle mit grill",
+    "mikrowelle vergleich",
+    "beste mikrowelle",
+    "mikrowelle kaufberatung",
+    "mikrowelle testsieger",
+    "solo mikrowelle",
+    "kombi mikrowelle test",
+    "mikrowelle 2026"
+  ],
+  "einleitung": "Du suchst eine neue Mikrowelle, die mehr kann als nur Aufwärmen? Von der einfachen Solo-Mikrowelle bis zum Kombigerät mit Grill und Heißluft — wir vergleichen vier Modelle, damit du das passende Gerät für deine Küche findest.",
+  "kaufberatung": "### Solo, Grill oder Kombi — was brauchst du wirklich?\nSolo-Mikrowellen wärmen auf und tauen auf — mehr nicht. Grill-Mikrowellen haben zusätzlich einen Quarzgrill für knusprige Oberflächen. Kombi-Mikrowellen bieten außerdem Heißluft und können fast wie ein Backofen arbeiten. Für die meisten Haushalte reicht eine Grill-Mikrowelle völlig aus.\n\n### Garraum-Volumen richtig wählen\nFür Ein- bis Zwei-Personen-Haushalte reichen 20 Liter. Familien sollten zu Modellen mit 25-30 Litern greifen, damit auch größere Teller und Auflaufformen Platz finden. Der Drehteller sollte mindestens 27 cm Durchmesser haben.\n\n### Inverter-Technologie: Ein echter Unterschied\nKonventionelle Mikrowellen pulsen die volle Leistung an und aus. Inverter-Mikrowellen (z.B. von Panasonic) regeln die Leistung stufenlos herunter. Ergebnis: Gleichmäßigeres Erwärmen, kein Überhitzen am Rand bei kalter Mitte. Für Fisch, Soßen und empfindliche Speisen ein deutlicher Vorteil.\n\n### Leistung und Wattzahl\n800 Watt reichen für die meisten Anwendungen. 1.000 Watt sind besser, wenn du oft größere Portionen aufwärmst. Mehr als 1.000 Watt braucht kaum jemand zu Hause — das geht dann eher in den Gastro-Bereich.\n\n### Reinigung: Keramikboden oder Edelstahl?\nKeramik-Innenräume lassen sich deutlich leichter reinigen als Edelstahl. Festgebrannte Spritzer lösen sich auf Keramik fast von selbst mit einem feuchten Tuch. Bei Edelstahl brauchst du oft Mikrowellenreiniger.",
+  "vergleichsKategorien": [
+    {
+      "key": "garraum",
+      "label": "Garraum",
+      "einheit": "L",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung_mikrowelle",
+      "label": "Leistung Mikrowelle",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "grillfunktion",
+      "label": "Grillfunktion",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "inverter",
+      "label": "Inverter-Technologie",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "programme",
+      "label": "Automatikprogramme",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich Metallgeschirr in die Mikrowelle stellen?",
+      "antwort": "Grundsätzlich nein — Metall kann Funken verursachen und die Mikrowelle beschädigen. Ausnahme: Einige moderne Kombi-Mikrowellen erlauben Metallgeschirr im Grill- oder Heißluftmodus. Lies immer die Bedienungsanleitung deines Geräts."
+    },
+    {
+      "frage": "Wie sinnvoll ist eine Mikrowelle mit Heißluft?",
+      "antwort": "Eine Kombi-Mikrowelle mit Heißluft kann einen Backofen teilweise ersetzen — etwa für kleine Aufläufe, Pizza oder Brötchen. Für größere Gerichte bleibt der Backofen aber unersetzlich. Sinnvoll ist es vor allem in kleinen Küchen ohne Platz für einen separaten Backofen."
+    },
+    {
+      "frage": "Warum wird mein Essen in der Mikrowelle ungleichmäßig warm?",
+      "antwort": "Das liegt am physikalischen Prinzip der Mikrowellenstrahlung, die Hotspots und kalte Stellen erzeugt. Abhilfe: Essen umrühren, den Drehteller nutzen und bei empfindlichen Speisen mit reduzierter Leistung arbeiten. Inverter-Mikrowellen (z.B. Panasonic) lösen dieses Problem deutlich besser als konventionelle Geräte."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Samsung MS23K3515AW",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B072BZ9SGK?tag=janxsiegmann-21",
+      "werte": {
+        "garraum": "23",
+        "leistung_mikrowelle": "800",
+        "grillfunktion": "Nein (Solo)",
+        "inverter": "Nein",
+        "programme": "6",
+        "gewicht": "11,5"
+      }
+    },
+    {
+      "name": "Samsung MG23K3515AK",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B072BWMQ33?tag=janxsiegmann-21",
+      "werte": {
+        "garraum": "23",
+        "leistung_mikrowelle": "800",
+        "grillfunktion": "Ja (1.100 W Quarzgrill)",
+        "inverter": "Nein",
+        "programme": "6",
+        "gewicht": "12,6"
+      }
+    },
+    {
+      "name": "Panasonic NN-CT57JM",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09JP5KVMB?tag=janxsiegmann-21",
+      "werte": {
+        "garraum": "27",
+        "leistung_mikrowelle": "1.000",
+        "grillfunktion": "Ja (Grill + Heißluft)",
+        "inverter": "Ja",
+        "programme": "24",
+        "gewicht": "15,3"
+      }
+    },
+    {
+      "name": "Panasonic NN-CD87KS",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09BFHP2DD?tag=janxsiegmann-21",
+      "werte": {
+        "garraum": "34",
+        "leistung_mikrowelle": "1.000",
+        "grillfunktion": "Ja (Grill + Heißluft + Dampf)",
+        "inverter": "Ja",
+        "programme": "30+",
+        "gewicht": "18,0"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

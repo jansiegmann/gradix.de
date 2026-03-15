@@ -1,0 +1,128 @@
+{
+  "slug": "schreibtisch-hoehenverstellbar",
+  "kategorie": "buero",
+  "titel": "Schreibtisch (höhenverstellbar)",
+  "beschreibung": "Höhenverstellbarer Schreibtisch Test 2026: Die 4 besten Steh-Sitz-Tische ✓ Elektrisch ✓ Stabil ✓ Kaufberatung",
+  "keywords": [
+    "höhenverstellbarer schreibtisch test",
+    "steh sitz schreibtisch",
+    "schreibtisch elektrisch höhenverstellbar",
+    "standing desk test",
+    "höhenverstellbarer schreibtisch vergleich",
+    "ergonomischer schreibtisch",
+    "flexispot schreibtisch",
+    "schreibtisch höhenverstellbar elektrisch test 2026",
+    "stehschreibtisch",
+    "schreibtisch mit memory"
+  ],
+  "einleitung": "Langes Sitzen ist ungesund — ein höhenverstellbarer Schreibtisch lässt dich zwischen Sitzen und Stehen wechseln. Doch die Unterschiede bei Stabilität, Geschwindigkeit und Lautstärke sind enorm. Wir vergleichen vier empfehlenswerte Modelle.",
+  "kaufberatung": "### Einzelmotor oder Doppelmotor?\nGünstige Modelle haben einen Motor in einem Bein, Premium-Modelle zwei Motoren (einen pro Bein). Doppelmotoren sind schneller, leiser und stabiler — besonders bei höherer Belastung. Für leichte Setups reicht ein Einzelmotor.\n\n### Plattengröße und Material\nStandardmaße sind 120×60 cm oder 140×70 cm. Für zwei Monitore empfehlen wir mindestens 140 cm Breite. Das Material (Melamin, Bambus, Massivholz) beeinflusst Optik und Preis, aber kaum die Funktion.\n\n### Memory-Funktion: Pflicht!\nMit Memory-Tasten speicherst du deine Lieblings-Höhen und fährst per Knopfdruck dorthin. Ohne Memory musst du jedes Mal manuell die richtige Höhe suchen — das nervt auf Dauer extrem. Alle Modelle in unserem Vergleich bieten Memory.\n\n### Stabilität bei maximaler Höhe\nViele Schreibtische wackeln in Stehhöhe (110–120 cm). Querstreben und ein schwerer Rahmen helfen. Teste die Stabilität, indem du im Stehen tippst — wenn der Monitor wackelt, ist der Tisch zu instabil.\n\n### Kabelmanagement nicht vergessen\nBeim Hoch- und Runterfahren bewegen sich alle Kabel mit. Eine Kabelkette oder ein Kabelkanal unter der Platte hält alles ordentlich. Manche Modelle bieten integrierten Kabelkanal.",
+  "vergleichsKategorien": [
+    {
+      "key": "hoehenbereich",
+      "label": "Höhenbereich",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "plattengroesse",
+      "label": "Plattengröße",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "tragkraft",
+      "label": "Max. Tragkraft",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "motoren",
+      "label": "Motoren",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "geschwindigkeit",
+      "label": "Hub-Geschwindigkeit",
+      "einheit": "mm/s",
+      "sortierung": 5
+    },
+    {
+      "key": "memory",
+      "label": "Memory-Positionen",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte ich zwischen Sitzen und Stehen wechseln?",
+      "antwort": "Experten empfehlen alle 30–60 Minuten die Position zu wechseln. Ein guter Rhythmus: 40 Minuten sitzen, 20 Minuten stehen. Wichtig ist, dass du nicht den ganzen Tag stehst — auch Dauerstehen ist ungesund."
+    },
+    {
+      "frage": "Welche Höhe ist die richtige zum Stehen?",
+      "antwort": "Im Stehen sollten deine Unterarme waagerecht auf der Tischplatte liegen, die Ellenbogen im 90-Grad-Winkel. Bei 180 cm Körpergröße entspricht das etwa 110–115 cm Tischhöhe."
+    },
+    {
+      "frage": "Sind günstige höhenverstellbare Schreibtische empfehlenswert?",
+      "antwort": "Ja, Modelle ab etwa 300 Euro von FlexiSpot oder Maidesite bieten bereits gute Grundfunktionen. Die Hauptunterschiede zu teureren Modellen liegen bei Geschwindigkeit, Stabilität und Geräuschpegel."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Maidesite T2 Pro Plus",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09TPJL1Y3?tag=janxsiegmann-21",
+      "werte": {
+        "hoehenbereich": "62–127",
+        "plattengroesse": "140 × 70",
+        "tragkraft": "100",
+        "motoren": "Doppelmotor",
+        "geschwindigkeit": "38",
+        "memory": "4 Positionen"
+      }
+    },
+    {
+      "name": "FlexiSpot E7",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08CKPDFMV?tag=janxsiegmann-21",
+      "werte": {
+        "hoehenbereich": "58–123",
+        "plattengroesse": "140 × 70",
+        "tragkraft": "125",
+        "motoren": "Doppelmotor",
+        "geschwindigkeit": "38",
+        "memory": "4 Positionen"
+      }
+    },
+    {
+      "name": "FlexiSpot E7 Pro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0C1J2ZY23?tag=janxsiegmann-21",
+      "werte": {
+        "hoehenbereich": "60–125",
+        "plattengroesse": "160 × 80",
+        "tragkraft": "160",
+        "motoren": "Doppelmotor",
+        "geschwindigkeit": "40",
+        "memory": "4 Positionen + USB"
+      }
+    },
+    {
+      "name": "Ergotopia Desktopia Pro X",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C9CMKFXF?tag=janxsiegmann-21",
+      "werte": {
+        "hoehenbereich": "62–127",
+        "plattengroesse": "160 × 80",
+        "tragkraft": "125",
+        "motoren": "Doppelmotor",
+        "geschwindigkeit": "38",
+        "memory": "4 Positionen + App"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

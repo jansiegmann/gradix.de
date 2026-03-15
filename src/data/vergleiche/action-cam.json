@@ -1,0 +1,128 @@
+{
+  "slug": "action-cam",
+  "kategorie": "elektronik",
+  "titel": "Action-Cam",
+  "beschreibung": "Action-Cam Test 2026: Die 4 besten Action-Kameras ✓ 4K/120fps ✓ Bildstabilisierung ✓ Wasserdicht",
+  "keywords": [
+    "action cam test",
+    "action kamera vergleich",
+    "gopro test",
+    "dji action cam",
+    "action cam 4k test",
+    "beste action cam 2026",
+    "gopro vergleich",
+    "action cam wasserdicht",
+    "action cam kaufberatung",
+    "action kamera test"
+  ],
+  "einleitung": "Ob auf dem Mountainbike, beim Tauchen oder im Urlaub — eine Action-Cam hält deine Abenteuer fest. Wir vergleichen vier Modelle von der günstigen Alternative bis zur GoPro Hero13.",
+  "kaufberatung": "### GoPro vs. DJI vs. Insta360\n\nGoPro ist der Platzhirsch mit dem besten Ökosystem an Zubehör. DJI punktet mit innovativer Bildstabilisierung und Magnethalterungen. Insta360 bietet einzigartige 360°-Aufnahmen. Für klassische Action-Videos sind GoPro und DJI gleichwertig.\n\n### Bildstabilisierung: Das wichtigste Feature\n\nGute Bildstabilisierung ist wichtiger als hohe Auflösung. GoPros HyperSmooth 6.0 und DJIs RockSteady 3.0+ sind beide hervorragend. Ohne Stabilisierung sind Action-Videos kaum nutzbar.\n\n### Wasserdicht: Was bedeuten die Angaben?\n\nDie meisten Action-Cams sind ohne Gehäuse bis 10-16 Meter wasserdicht. Für Tauchen brauchst du ein zusätzliches Unterwassergehäuse, das bis 40-60 Meter reicht.\n\n### 4K/60 vs. 4K/120\n\n4K/60fps reicht für die meisten Anwendungen. 4K/120fps ermöglicht beeindruckende Zeitlupen-Aufnahmen in voller Auflösung. Beachte: Höhere Bildraten brauchen mehr Speicherplatz und Akku.",
+  "vergleichsKategorien": [
+    {
+      "key": "aufloesung",
+      "label": "Max. Auflösung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "stabilisierung",
+      "label": "Bildstabilisierung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "wasserdicht",
+      "label": "Wasserdicht (ohne Gehäuse)",
+      "einheit": "m",
+      "sortierung": 3
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 4
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Action-Cam hat die beste Bildstabilisierung?",
+      "antwort": "GoPro Hero13 mit HyperSmooth 6.0 und DJI Osmo Action 5 Pro mit RockSteady 3.0+ liegen gleichauf. Beide liefern butterweiche Videos, selbst auf holprigen Wegen. Für Extremsportler ist die Stabilisierung der Insta360 Ace Pro 2 ebenfalls hervorragend."
+    },
+    {
+      "frage": "Brauche ich eine Action-Cam oder reicht mein Smartphone?",
+      "antwort": "Für den Urlaub reicht oft das Smartphone. Eine Action-Cam lohnt sich, wenn du wasserdichte Aufnahmen brauchst, extreme Sportarten filmst oder die Kamera per Halterung befestigen willst. Die Bildstabilisierung und Robustheit einer Action-Cam übertrifft jedes Smartphone."
+    },
+    {
+      "frage": "Wie viel Speicherplatz brauche ich?",
+      "antwort": "Bei 4K/30fps verbraucht eine GoPro ca. 400 MB pro Minute. Eine 128-GB-Karte reicht für ca. 5 Stunden Aufnahme. Für einen Tagesausflug empfehlen wir 128-256 GB, für längere Reisen 256 GB+."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "DJI Osmo Action 4",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0DGWFWML1?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K/120fps",
+        "stabilisierung": "RockSteady 3.0",
+        "wasserdicht": "18",
+        "akku": "ca. 150",
+        "display": "Front + Rück",
+        "gewicht": "145"
+      }
+    },
+    {
+      "name": "Insta360 Ace Pro 2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0DJFNJYYZ?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K/120fps",
+        "stabilisierung": "FlowState",
+        "wasserdicht": "12",
+        "akku": "ca. 160",
+        "display": "Flip-Screen 2.4 Zoll",
+        "gewicht": "177"
+      }
+    },
+    {
+      "name": "DJI Osmo Action 5 Pro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DHWFNPZY?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K/120fps",
+        "stabilisierung": "RockSteady 3.0+",
+        "wasserdicht": "20",
+        "akku": "ca. 190",
+        "display": "Front + Rück AMOLED",
+        "gewicht": "145"
+      }
+    },
+    {
+      "name": "GoPro Hero13 Black",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DKC5SFQJ?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "5.3K/60fps",
+        "stabilisierung": "HyperSmooth 6.0",
+        "wasserdicht": "10",
+        "akku": "ca. 140",
+        "display": "Front + Rück",
+        "gewicht": "154"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

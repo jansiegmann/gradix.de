@@ -1,0 +1,118 @@
+{
+  "slug": "milchaufschaeumer",
+  "kategorie": "kueche",
+  "titel": "Milchaufschäumer (elektrisch)",
+  "beschreibung": "Milchaufschäumer Test 2026: Die 4 besten elektrischen Milchaufschäumer ✓ Heiß & kalt ✓ Kaufberatung",
+  "keywords": [
+    "milchaufschäumer",
+    "milchaufschäumer test",
+    "milchaufschäumer elektrisch",
+    "milchaufschäumer vergleich",
+    "bester milchaufschäumer",
+    "milchaufschäumer testsieger",
+    "latte macchiato milchschaum",
+    "milchschaum maschine",
+    "milchaufschäumer induktion",
+    "milchaufschäumer 2026"
+  ],
+  "einleitung": "Perfekter Milchschaum wie im Café — ein elektrischer Milchaufschäumer macht es möglich. Ob cremiger Cappuccino oder kalter Latte Macchiato: Wir vergleichen vier Modelle und zeigen, welcher den besten Schaum produziert.",
+  "kaufberatung": "### Welches System passt zu dir?\nEs gibt drei Typen: Stab-Aufschäumer (batteriebetrieben, günstig), Induktions-Aufschäumer (stehen allein, aufwändigere Technik) und Kannen-Aufschäumer (Kanne mit Magnetrührsystem). Für den täglichen Cappuccino empfehlen sich Induktions- oder Kannen-Aufschäumer mit Heizfunktion.\n\n### Schaummenge und Schaumqualität\nFür einen Cappuccino brauchst du etwa 100-150 ml Milchschaum. Achte auf die Angabe der maximalen Schaummenge — die ist deutlich geringer als die Füllmenge für erwärmte Milch. Premium-Geräte wie der Nespresso Aeroccino oder Severin SM 3585 produzieren feinporigen, stabilen Schaum.\n\n### Heiß und kalt aufschäumen\nGute Milchaufschäumer können beides: Heißen Schaum für Cappuccino und kalten Schaum für Eiskaffee oder Latte Macchiato. Das ist ein echtes Komfort-Feature, das günstige Geräte oft nicht bieten.\n\n### Welche Milch schäumt am besten?\nVollmilch (3,5% Fett) liefert den cremigsten Schaum. Fettarme Milch (1,5%) schäumt stärker auf, der Schaum ist aber weniger stabil. Hafermilch schäumt in Barista-Varianten gut, Sojamilch ist schwieriger. Die Milch sollte frisch und gut gekühlt sein.\n\n### Reinigung: Ein oft unterschätztes Thema\nMilchreste verkleben schnell, wenn sie antrocknen. Spüle den Aufschäumer sofort nach Gebrauch aus. Modelle mit Antihaftbeschichtung und abnehmbarem Quirl sind deutlich pflegeleichter.",
+  "vergleichsKategorien": [
+    {
+      "key": "kapazitaet_schaum",
+      "label": "Max. Schaummenge",
+      "einheit": "ml",
+      "sortierung": 1
+    },
+    {
+      "key": "kapazitaet_milch",
+      "label": "Max. Milcherwärmung",
+      "einheit": "ml",
+      "sortierung": 2
+    },
+    {
+      "key": "kalt_aufschaeumen",
+      "label": "Kalt aufschäumen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "antihaftbeschichtung",
+      "label": "Antihaftbeschichtung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Warum wird mein Milchschaum nicht fest?",
+      "antwort": "Die häufigsten Ursachen: zu warme Milch (immer gut gekühlt starten), zu wenig Fettgehalt (mindestens 1,5%, besser 3,5%) oder zu viel Milch im Gerät (nie über die Schaum-Markierung füllen). Auch UHT-Milch schäumt oft schlechter als Frischmilch."
+    },
+    {
+      "frage": "Kann ich auch Pflanzenmilch aufschäumen?",
+      "antwort": "Ja, aber nicht jede Pflanzenmilch schäumt gleich gut. Hafer-Barista-Milch liefert die besten Ergebnisse, dicht gefolgt von Soja-Barista. Mandelmilch und Kokosmilch schäumen eher schlecht. Achte auf Varianten mit dem Zusatz 'Barista' — diese sind speziell für Milchschaum formuliert."
+    },
+    {
+      "frage": "Wie unterscheidet sich ein Milchaufschäumer vom Dampfstab an der Espressomaschine?",
+      "antwort": "Ein Dampfstab erhitzt und schäumt gleichzeitig durch Dampfdruck — das ergibt den feinsten, seidigsten Schaum. Elektrische Milchaufschäumer arbeiten mit einem rotierenden Quirl, was guten, aber nicht ganz so feinen Schaum ergibt. Für den Alltag reicht ein elektrischer Aufschäumer völlig aus."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Tchibo Induktions-Milchaufschäumer",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08YNMQWNG?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet_schaum": "120",
+        "kapazitaet_milch": "250",
+        "kalt_aufschaeumen": "Nein",
+        "antihaftbeschichtung": "Ja",
+        "leistung": "500"
+      }
+    },
+    {
+      "name": "Severin SM 3585 Milchaufschäumer",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00DSYCPU4?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet_schaum": "120",
+        "kapazitaet_milch": "250",
+        "kalt_aufschaeumen": "Ja",
+        "antihaftbeschichtung": "Ja",
+        "leistung": "500"
+      }
+    },
+    {
+      "name": "Nespresso Aeroccino 4",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01LXC9BQG?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet_schaum": "130",
+        "kapazitaet_milch": "240",
+        "kalt_aufschaeumen": "Ja",
+        "antihaftbeschichtung": "Ja",
+        "leistung": "500"
+      }
+    },
+    {
+      "name": "Sage the Milk Café BMF600",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00K7FM98M?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet_schaum": "250",
+        "kapazitaet_milch": "700",
+        "kalt_aufschaeumen": "Ja",
+        "antihaftbeschichtung": "Ja",
+        "leistung": "500"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "smarte-steckdosen",
+  "kategorie": "elektronik",
+  "titel": "Smarte Steckdosen",
+  "beschreibung": "Smarte Steckdosen Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "smarte steckdose test",
+    "wlan steckdose vergleich",
+    "smart plug kaufberatung",
+    "alexa steckdose",
+    "smarte steckdose 2026"
+  ],
+  "einleitung": "Du willst Geräte per App oder Sprachbefehl ein- und ausschalten? Wir vergleichen vier smarte Steckdosen — von der günstigen WLAN-Steckdose bis zum Energiemess-Profi.",
+  "kaufberatung": "### WLAN oder Zigbee — welches Protokoll?\nWLAN-Steckdosen (Tapo, Shelly) brauchen keinen Hub und sind sofort einsetzbar. Nachteil: Jede Steckdose belastet dein WLAN. Ab 10-15 WLAN-Geräten kann das zum Problem werden. Zigbee/Thread-Steckdosen (Eve Energy, IKEA) brauchen einen Hub, belasten aber nicht das WLAN und sind stromsparender.\n\n### Energiemessung — brauchst du das?\nJa, wenn du Stromfresser identifizieren willst. Eine Steckdose mit Energiemessung zeigt dir, was Geräte im Standby verbrauchen — oft überraschend viel. Die Tapo P110 und Shelly Plug S messen den Echtzeitverbrauch für ca. 15-18€.\n\n### Worauf bei der maximalen Leistung achten?\nStandardgeräte (TV, Lampen, Ladegeräte) verbrauchen unter 500W — da reicht jede smarte Steckdose. Für Heizlüfter (2.000W+) oder Waschmaschinen brauchst du Modelle mit mindestens 3.680W (16A). Prüfe das vor dem Kauf!\n\n### Lokale Steuerung vs. Cloud\nShelly-Steckdosen können komplett ohne Cloud gesteuert werden — per lokaler API, MQTT oder Home Assistant. Tapo und Eve brauchen ihre jeweilige App/Cloud für die Ersteinrichtung, danach funktioniert Eve per Thread auch lokal.",
+  "vergleichsKategorien": [
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "energiemessung",
+      "label": "Energiemessung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "max_leistung",
+      "label": "Max. Leistung",
+      "einheit": "W",
+      "sortierung": 3
+    },
+    {
+      "key": "sprachsteuerung",
+      "label": "Sprachsteuerung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "app",
+      "label": "App",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "zeitsteuerung",
+      "label": "Zeitsteuerung",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "pack",
+      "label": "Lieferumfang",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Blockieren smarte Steckdosen die Nachbarsteckdose?",
+      "antwort": "Viele WLAN-Steckdosen sind klobig und blockieren die zweite Steckdose in einer Doppeldose. Der Shelly Plug S ist der kompakteste in unserem Vergleich und blockiert in den meisten Steckdosen nicht. Alternativ: Mehrfachsteckdose + smarte Steckdose davor."
+    },
+    {
+      "frage": "Kann ich eine smarte Steckdose als Zeitschaltuhr nutzen?",
+      "antwort": "Ja, alle smarten Steckdosen haben Timer- und Zeitplan-Funktionen per App. Du kannst feste Zeiten einstellen, Sonnenauf-/untergang als Trigger nutzen oder die Steckdose nach einer bestimmten Laufzeit automatisch abschalten."
+    },
+    {
+      "frage": "Sind smarte Steckdosen sicher?",
+      "antwort": "Ja, sofern du Markenprodukte mit CE-Kennzeichnung kaufst. Achte auf die maximale Belastbarkeit und schließe keine Geräte an, die die Grenze überschreiten. Brandgefahr besteht nur bei No-Name-Produkten ohne Zertifizierung oder bei Überlastung."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "TP-Link Tapo P100 (4er-Pack)",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BNJ6G98H?tag=janxsiegmann-21",
+      "preis": 30,
+      "bewertung": 3.5,
+      "werte": {
+        "verbindung": "WLAN 2,4 GHz",
+        "energiemessung": "Nein",
+        "max_leistung": "2.300",
+        "sprachsteuerung": "Alexa, Google",
+        "app": "Tapo App",
+        "zeitsteuerung": "Timer + Zeitplan",
+        "pack": "4 Stück"
+      },
+      "vorteile": [
+        "4 Stück für 30€ — unschlagbar günstig",
+        "Einfache Einrichtung",
+        "Alexa & Google"
+      ],
+      "nachteile": [
+        "Keine Energiemessung",
+        "Nur WLAN (kein Zigbee)",
+        "Blockiert Nachbarsteckdose"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "TP-Link Tapo P110 (2er-Pack)",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09YL3VX1T?tag=janxsiegmann-21",
+      "preis": 25,
+      "bewertung": 4.0,
+      "werte": {
+        "verbindung": "WLAN 2,4 GHz",
+        "energiemessung": "Ja (Echtzeit + Verlauf)",
+        "max_leistung": "3.680",
+        "sprachsteuerung": "Alexa, Google",
+        "app": "Tapo App",
+        "zeitsteuerung": "Timer + Zeitplan",
+        "pack": "2 Stück"
+      },
+      "vorteile": [
+        "Energiemessung inklusive",
+        "3.680W — auch für Heizlüfter",
+        "Verbrauchshistorie in der App"
+      ],
+      "nachteile": [
+        "Nur 2 Stück im Pack",
+        "Nur WLAN",
+        "Etwas klobig"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Shelly Plug S",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BJLZ7GVS?tag=janxsiegmann-21",
+      "preis": 18,
+      "bewertung": 4.5,
+      "werte": {
+        "verbindung": "WLAN 2,4 GHz",
+        "energiemessung": "Ja (Echtzeit)",
+        "max_leistung": "2.500",
+        "sprachsteuerung": "Alexa, Google",
+        "app": "Shelly App",
+        "zeitsteuerung": "Timer + Szenen + Skripte",
+        "pack": "1 Stück"
+      },
+      "vorteile": [
+        "Kompaktestes Design — blockiert nicht",
+        "Lokale Steuerung ohne Cloud",
+        "MQTT + REST API für Bastler",
+        "Keine Cloud nötig"
+      ],
+      "nachteile": [
+        "Nur 1 Stück",
+        "2.500W Maximum",
+        "App weniger poliert als Tapo"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Eve Energy (Matter)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C5YX8MB1?tag=janxsiegmann-21",
+      "preis": 40,
+      "bewertung": 4.5,
+      "werte": {
+        "verbindung": "Thread + Matter",
+        "energiemessung": "Ja (Echtzeit + Verlauf)",
+        "max_leistung": "2.500",
+        "sprachsteuerung": "Siri, Alexa, Google (via Matter)",
+        "app": "Eve App / Home App",
+        "zeitsteuerung": "Timer + Automationen",
+        "pack": "1 Stück"
+      },
+      "vorteile": [
+        "Matter + Thread — zukunftssicher",
+        "Kein WLAN nötig (Thread-Mesh)",
+        "Apple HomeKit nativ",
+        "Energiemessung"
+      ],
+      "nachteile": [
+        "Teuer für eine einzelne Steckdose",
+        "Braucht Thread-Border-Router",
+        "2.500W Maximum"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

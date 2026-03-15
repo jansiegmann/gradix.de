@@ -1,0 +1,128 @@
+{
+  "slug": "in-ear-kopfhoerer-true-wireless",
+  "kategorie": "elektronik",
+  "titel": "In-Ear-Kopfhörer (True Wireless)",
+  "beschreibung": "True Wireless In-Ear-Kopfhörer Test 2026: Die 4 besten Modelle im Vergleich ✓ ANC ✓ Hi-Res Audio ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "in ear kopfhörer test",
+    "true wireless kopfhörer",
+    "bluetooth in ear test 2026",
+    "in ear kopfhörer noise cancelling",
+    "kabellose in ear kopfhörer vergleich",
+    "beste in ear kopfhörer",
+    "earbuds test",
+    "tws kopfhörer kaufberatung",
+    "in ear bluetooth vergleich",
+    "wireless earbuds test"
+  ],
+  "einleitung": "Du suchst die besten True Wireless In-Ear-Kopfhörer? Zwischen ANC, Klang und Akkulaufzeit ist die Auswahl riesig. Wir haben vier Top-Modelle von Budget bis Profi verglichen — ehrlich, praxisnah und mit klarer Empfehlung für jeden Nutzertyp.",
+  "kaufberatung": "### Für wen sind True Wireless In-Ears die richtige Wahl?\n\nTrue Wireless In-Ears sind perfekt für alle, die maximale Mobilität wollen — beim Sport, Pendeln oder im Alltag. Im Vergleich zu Over-Ear-Kopfhörern sind sie deutlich kompakter und leichter. Die Klangqualität hat sich in den letzten Jahren massiv verbessert, sodass Top-Modelle wie die Sony WF-1000XM5 klanglich kaum noch hinter Over-Ears zurückstehen.\n\n### Passform: Das A und O bei In-Ears\n\nDie Passform entscheidet über Klang, ANC-Wirkung und Komfort. Die meisten Hersteller liefern Silikonaufsätze in 3-5 Größen mit. Tipp: Nutze den Passform-Test in der App (verfügbar bei Sony, JBL und Samsung) — er zeigt dir, ob die Aufsätze richtig abdichten. Schlechte Abdichtung = schlechter Bass und schwaches ANC.\n\n### ANC bei In-Ears: Reicht das wirklich?\n\nModernes ANC in In-Ears ist erstaunlich gut geworden. Die Sony WF-1000XM5 und die Nothing Ear kommen nah an Over-Ear-Niveau heran. Für den Alltag, Büro und öffentliche Verkehrsmittel reicht das völlig. Nur bei extremem Lärm (Flugzeug, Baustelle) haben Over-Ears noch die Nase vorn.\n\n### Akkulaufzeit: Earbuds vs. Case\n\nBei In-Ears zählt nicht nur die Laufzeit der Earbuds selbst, sondern auch die Nachladekapazität des Cases. Die Samsung Galaxy Buds3 Pro bieten z.B. 6 Stunden in den Buds, aber insgesamt 30 Stunden mit Case. Achte auch auf Schnellladung — 5 Minuten laden für 1 Stunde Wiedergabe ist heute Standard.\n\n### Welche Codecs brauche ich?\n\nAAC ist der Standard für iPhones, LDAC bietet Hi-Res-Audio für Android. Der Samsung-eigene SSC-Codec optimiert den Klang speziell für Galaxy-Geräte. Für die meisten Nutzer reicht AAC völlig — den LDAC-Unterschied hörst du vor allem bei ruhiger, detailreicher Musik.",
+  "vergleichsKategorien": [
+    {
+      "key": "akkulaufzeit_earbuds",
+      "label": "Akkulaufzeit Earbuds",
+      "einheit": "h",
+      "sortierung": 1
+    },
+    {
+      "key": "akkulaufzeit_case",
+      "label": "Akkulaufzeit mit Case",
+      "einheit": "h",
+      "sortierung": 2
+    },
+    {
+      "key": "anc",
+      "label": "ANC-Qualität",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht_earbud",
+      "label": "Gewicht pro Earbud",
+      "einheit": "g",
+      "sortierung": 4
+    },
+    {
+      "key": "wasserschutz",
+      "label": "Wasserschutz",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "codec",
+      "label": "Bluetooth-Codecs",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche True Wireless In-Ears haben das beste ANC?",
+      "antwort": "Die Sony WF-1000XM5 bieten aktuell das stärkste ANC unter den In-Ear-Kopfhörern. Sie nutzen den Integrated Processor V2 und einen Knochenleitungssensor für optimale Geräuschunterdrückung. Die Nothing Ear folgen dicht dahinter mit 45 dB Hybrid-ANC."
+    },
+    {
+      "frage": "Sind True Wireless In-Ears zum Joggen geeignet?",
+      "antwort": "Ja, achte aber auf den IP-Schutz. Mindestens IPX4 (spritzwassergeschützt) sollte es sein. Die Samsung Galaxy Buds FE mit IPX2 sind nur bedingt sporttauglich. Für intensiven Sport empfehlen wir Modelle mit Flügel- oder Bügel-Aufsätzen für besseren Halt."
+    },
+    {
+      "frage": "Lohnt sich der Aufpreis von günstigen zu teuren In-Ears?",
+      "antwort": "Der Sprung von 30 auf 100 Euro bringt die größten Verbesserungen bei Klang und ANC. Ab 150 Euro werden die Unterschiede kleiner. Für Gelegenheitshörer reicht ein Modell wie die Nothing Ear völlig, Audiophile profitieren von den Sony WF-1000XM5."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Samsung Galaxy Buds FE",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CG5HNKZY?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit_earbuds": "6",
+        "akkulaufzeit_case": "21",
+        "anc": "gut",
+        "gewicht_earbud": "5.6",
+        "wasserschutz": "IPX2",
+        "codec": "SBC, AAC, SSC"
+      }
+    },
+    {
+      "name": "Nothing Ear",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0D2DGN9MR?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit_earbuds": "8.3",
+        "akkulaufzeit_case": "40.5",
+        "anc": "sehr gut",
+        "gewicht_earbud": "4.8",
+        "wasserschutz": "IP55",
+        "codec": "SBC, AAC, LDAC, LHDC 5.0"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Buds3 Pro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0D7DHYMZ3?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit_earbuds": "7",
+        "akkulaufzeit_case": "30",
+        "anc": "sehr gut",
+        "gewicht_earbud": "5.4",
+        "wasserschutz": "IP57",
+        "codec": "SBC, AAC, SSC, LDAC"
+      }
+    },
+    {
+      "name": "Sony WF-1000XM5",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C4WXGHYK?tag=janxsiegmann-21",
+      "werte": {
+        "akkulaufzeit_earbuds": "8",
+        "akkulaufzeit_case": "24",
+        "anc": "hervorragend",
+        "gewicht_earbud": "5.9",
+        "wasserschutz": "IPX4",
+        "codec": "SBC, AAC, LDAC, LC3"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "waschmaschine",
+  "kategorie": "haushalt",
+  "titel": "Waschmaschine",
+  "beschreibung": "Waschmaschine Test 2026: Die 4 besten Waschmaschinen im Vergleich ✓ Sparsam & leise ✓ Kaufberatung",
+  "keywords": [
+    "waschmaschine",
+    "waschmaschine test",
+    "waschmaschine vergleich",
+    "beste waschmaschine",
+    "waschmaschine kaufberatung",
+    "waschmaschine testsieger",
+    "waschmaschine 8 kg",
+    "waschmaschine energiesparend",
+    "waschmaschine 2026",
+    "waschmaschine stiftung warentest"
+  ],
+  "einleitung": "Eine gute Waschmaschine wäscht sauber, spart Strom und Wasser und hält jahrelang. Klingt einfach, ist es aber nicht — die Unterschiede zwischen den Modellen sind groß. Wir vergleichen vier Waschmaschinen für jedes Budget.",
+  "kaufberatung": "### Fassungsvermögen: Wie groß muss die Trommel sein?\nFür Singles und Paare reichen 7 kg. Familien mit Kindern sollten zu 8-9 kg greifen. Überdimensionierte Trommeln bei kleinen Wäschemengen verschwenden Wasser und Strom — es sei denn, die Maschine hat eine automatische Beladungserkennung.\n\n### Energieeffizienz: Neue Labels beachten\nSeit 2021 gilt das neue EU-Energielabel (A bis G). Die sparsamsten Maschinen erreichen A oder B. Eine Maschine der Klasse A verbraucht im Jahr rund 50 kWh — das sind etwa 15 Euro. Klasse D verbraucht das Doppelte.\n\n### Schleuderdrehzahl: 1.400 U/min reichen\n1.400 U/min schleudert die Wäsche fast genauso trocken wie 1.600 U/min, ist aber leiser und schonender. 1.200 U/min reichen für Trockner-Nutzer aus. Nur wer die Wäsche an der Luft trocknet, profitiert von hohen Schleuderdrehzahlen.\n\n### Lautstärke: Besonders wichtig in Mietwohnungen\nModerne Waschmaschinen mit Inverter-Motor sind deutlich leiser als ältere Modelle. Achte auf die dB-Angabe beim Schleudern — unter 72 dB gilt als leise. Der Siemens iQ700 schafft sogar 68 dB beim Schleudern.\n\n### Wartung: Regelmäßig die Trommel reinigen\nWasche mindestens einmal im Monat bei 60°C oder höher, um Bakterien und Schimmel in der Trommel zu verhindern. Lass die Tür nach dem Waschen offen stehen und reinige regelmäßig das Flusensieb und die Gummidichtung.",
+  "vergleichsKategorien": [
+    {
+      "key": "fassungsvermoegen",
+      "label": "Fassungsvermögen",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "energieeffizienz",
+      "label": "Energieeffizienzklasse",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "schleuderdrehzahl",
+      "label": "Max. Schleuderdrehzahl",
+      "einheit": "U/min",
+      "sortierung": 3
+    },
+    {
+      "key": "wasserverbrauch",
+      "label": "Wasserverbrauch pro Zyklus",
+      "einheit": "L",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke_schleudern",
+      "label": "Lautstärke Schleudern",
+      "einheit": "dB",
+      "sortierung": 5
+    },
+    {
+      "key": "programme",
+      "label": "Programme",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte ich die Waschmaschine reinigen?",
+      "antwort": "Einmal im Monat einen Leerlauf bei 60-90°C mit einem Maschinenreiniger oder etwas Zitronensäure durchlaufen lassen. Das entfernt Bakterien, Kalk und Waschmittelreste. Zusätzlich die Gummidichtung und das Flusensieb regelmäßig prüfen."
+    },
+    {
+      "frage": "Toplader oder Frontlader — was ist besser?",
+      "antwort": "Frontlader sind in Deutschland Standard und bieten größere Trommeln, bessere Schleudereffizienz und können als Unterbau in die Küche integriert werden. Toplader sind schmaler (45 cm) und ideal für enge Badezimmer. In der Waschleistung gibt es kaum Unterschiede."
+    },
+    {
+      "frage": "Lohnt sich eine teure Miele-Waschmaschine?",
+      "antwort": "Miele-Waschmaschinen sind auf 20 Jahre Lebensdauer ausgelegt — das ist deutlich mehr als bei günstigeren Marken (10-12 Jahre). Gerechnet auf die Lebensdauer ist Miele pro Jahr oft sogar günstiger. Wenn du langfristig denkst, lohnt sich die Investition."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Beko WML 71433 NP",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07JM98HPH?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "7",
+        "energieeffizienz": "D",
+        "schleuderdrehzahl": "1.400",
+        "wasserverbrauch": "44",
+        "lautstaerke_schleudern": "77",
+        "programme": "15"
+      }
+    },
+    {
+      "name": "Bosch WGG244010 Serie 6",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09S9P4BGZ?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "9",
+        "energieeffizienz": "A",
+        "schleuderdrehzahl": "1.400",
+        "wasserverbrauch": "48",
+        "lautstaerke_schleudern": "72",
+        "programme": "14"
+      }
+    },
+    {
+      "name": "Siemens WG56B2040 iQ700",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0B6GWTS3F?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "10",
+        "energieeffizienz": "A",
+        "schleuderdrehzahl": "1.600",
+        "wasserverbrauch": "50",
+        "lautstaerke_schleudern": "68",
+        "programme": "12"
+      }
+    },
+    {
+      "name": "Miele WSD 663 WCS",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CH67H4WK?tag=janxsiegmann-21",
+      "werte": {
+        "fassungsvermoegen": "8",
+        "energieeffizienz": "A",
+        "schleuderdrehzahl": "1.400",
+        "wasserverbrauch": "47",
+        "lautstaerke_schleudern": "72",
+        "programme": "13"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

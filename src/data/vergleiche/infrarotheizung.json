@@ -1,0 +1,195 @@
+{
+  "slug": "infrarotheizung",
+  "kategorie": "heizen-klima",
+  "titel": "Infrarotheizung",
+  "beschreibung": "Infrarotheizung Test 2026: Die 4 besten Infrarotheizungen im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "infrarotheizung test",
+    "infrarotheizung vergleich",
+    "infrarotheizung kaufberatung",
+    "infrarotheizung wand",
+    "infrarotheizung stromverbrauch"
+  ],
+  "einleitung": "Du überlegst, ob eine Infrarotheizung für dein Zuhause sinnvoll ist — als Zusatzheizung fürs Bad, die Werkstatt oder sogar als Hauptheizung? Wir haben vier empfehlenswerte Modelle verglichen und erklären ehrlich, wann sich eine Infrarotheizung lohnt und wann nicht.",
+  "kaufberatung": "### Für wen eignet sich eine Infrarotheizung?\nInfrarotheizungen sind ideal als Zusatzheizung in Bädern, Wintergärten, Werkstätten oder schlecht isolierten Räumen. Als alleinige Heizung für eine ganze Wohnung sind sie aufgrund der Stromkosten nur in sehr gut gedämmten Gebäuden (KfW-55 oder besser) wirtschaftlich.\n\n### Worauf kommt es bei der Leistung an?\nFaustregel: 50-100 Watt pro m², je nach Dämmung. Für ein gut gedämmtes Bad von 8 m² reichen 400-600 Watt. Für einen älteren, schlecht isolierten Raum brauchst du eher 100 Watt pro m². Lieber zwei kleinere Paneele verteilen als ein großes — das verteilt die Wärme besser.\n\n### Wie hoch sind die Stromkosten?\nEine 600-Watt-Infrarotheizung kostet bei 4 Stunden täglichem Betrieb und 0,40 €/kWh rund 28,80 Euro pro Monat. Das ist deutlich mehr als Gas oder Wärmepumpe. Infrarotheizungen lohnen sich daher vor allem dort, wo nur punktuell oder selten geheizt wird.\n\n### Wand- oder Deckenmontage?\nDeckenmontage erwärmt den Raum gleichmäßiger, weil die Strahlung von oben kommt und Boden sowie Möbel direkt erwärmt. Wandmontage ist einfacher und optisch unauffälliger. Einige Modelle gibt es auch als Bild, Spiegel oder Tafel — praktisch für sichtbare Bereiche.\n\n### Sicherheit und Zertifizierung\nAchte auf TÜV/GS-Prüfung und IP-Schutzklasse. Für Bäder brauchst du mindestens IPX4 (spritzwassergeschützt). Die Oberflächentemperatur sollte nicht über 95°C liegen, damit keine Brandgefahr besteht.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "heizflaeche",
+      "label": "Empf. Heizfläche",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "abmessungen",
+      "label": "Abmessungen",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "montage",
+      "label": "Montage",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "thermostat",
+      "label": "Thermostat",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "ip_schutz",
+      "label": "IP-Schutzklasse",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Ist eine Infrarotheizung als Hauptheizung geeignet?",
+      "antwort": "Nur in sehr gut gedämmten Gebäuden (Neubau, KfW-55 oder besser). In Altbauten sind die Stromkosten als alleinige Heizung zu hoch. Als Zusatzheizung in einzelnen Räumen (Bad, Arbeitszimmer, Wintergarten) ist sie aber eine praktische Lösung."
+    },
+    {
+      "frage": "Wie hoch sind die Stromkosten einer Infrarotheizung?",
+      "antwort": "Rechne mit 50-100 Watt pro m² und 0,40 €/kWh Stromkosten. Ein 10 m²-Raum mit 600 Watt Infrarotheizung kostet bei 4 Stunden täglicher Nutzung rund 28,80 Euro pro Monat. Ein gutes Thermostat kann die Kosten um 20-30% senken."
+    },
+    {
+      "frage": "Kann ich eine Infrarotheizung im Bad verwenden?",
+      "antwort": "Ja, aber nur mit IP-Schutzklasse IPX4 oder höher. Die Könighaus 600W und die Viesta F-Serie gibt es speziell für Feuchträume. Achte auf die Mindestabstände zu Wasserquellen — diese stehen in der Montageanleitung."
+    },
+    {
+      "frage": "Wie schnell heizt eine Infrarotheizung einen Raum auf?",
+      "antwort": "Infrarotheizungen erwärmen nicht die Luft, sondern Oberflächen und Körper direkt. Du spürst die Wärme daher sofort, aber der gesamte Raum braucht je nach Größe und Dämmung 15-30 Minuten. Im Vergleich zu Konvektionsheizungen fühlt sich die Wärme bei niedrigerer Lufttemperatur bereits angenehm an."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Könighaus 600W Infrarotheizung",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0716SG2VC?tag=janxsiegmann-21",
+      "preis": 110,
+      "bewertung": 4.0,
+      "werte": {
+        "leistung": "600",
+        "heizflaeche": "8-12",
+        "abmessungen": "100 × 60",
+        "gewicht": "4,5",
+        "montage": "Wand/Decke",
+        "thermostat": "Optional (separat)",
+        "ip_schutz": "IPX4"
+      },
+      "vorteile": [
+        "Sehr günstiger Preis",
+        "Leicht und dünn",
+        "Auch für Feuchträume geeignet"
+      ],
+      "nachteile": [
+        "Thermostat nicht im Lieferumfang",
+        "Schlichtes Design",
+        "Kabel sichtbar"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Viesta F600 Infrarotheizung",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B073PB26JL?tag=janxsiegmann-21",
+      "preis": 170,
+      "bewertung": 4.0,
+      "werte": {
+        "leistung": "600",
+        "heizflaeche": "8-14",
+        "abmessungen": "100 × 60",
+        "gewicht": "4,0",
+        "montage": "Wand/Decke",
+        "thermostat": "Optional (Viesta TH12)",
+        "ip_schutz": "IPX4"
+      },
+      "vorteile": [
+        "Gute Verarbeitung",
+        "Schlankes Carbon-Crystal-Heizelement",
+        "10 Jahre Herstellergarantie"
+      ],
+      "nachteile": [
+        "Thermostat separat kaufen",
+        "Optisch unauffällig aber nicht besonders schick",
+        "Nur weiß verfügbar"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "VASNER Citara M 700W",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07YVNT2MC?tag=janxsiegmann-21",
+      "preis": 280,
+      "bewertung": 4.5,
+      "werte": {
+        "leistung": "700",
+        "heizflaeche": "10-16",
+        "abmessungen": "90 × 60",
+        "gewicht": "5,5",
+        "montage": "Wand/Decke",
+        "thermostat": "Optional (VASNER VUP)",
+        "ip_schutz": "IPX4"
+      },
+      "vorteile": [
+        "Made in Germany",
+        "Hochwertige Verarbeitung",
+        "Verschiedene Farben und Oberflächen",
+        "TÜV/GS-geprüft"
+      ],
+      "nachteile": [
+        "Deutlich teurer als Budget-Modelle",
+        "Thermostat separat (ca. 50€)",
+        "Schwerer als Konkurrenz"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Herschel Select XLS 850W",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07P95VH6S?tag=janxsiegmann-21",
+      "preis": 450,
+      "bewertung": 4.5,
+      "werte": {
+        "leistung": "850",
+        "heizflaeche": "12-18",
+        "abmessungen": "120 × 60",
+        "gewicht": "7,0",
+        "montage": "Wand/Decke",
+        "thermostat": "Kompatibel mit Smart-Thermostaten",
+        "ip_schutz": "IPX4"
+      },
+      "vorteile": [
+        "Britisches Premium-Produkt",
+        "Sehr gleichmäßige Wärmeverteilung",
+        "Extrem flaches Profil (nur 1,5 cm)",
+        "25 Jahre Garantie"
+      ],
+      "nachteile": [
+        "Hoher Preis",
+        "Thermostat nicht inklusive",
+        "Weniger Montagezubehör im Lieferumfang"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

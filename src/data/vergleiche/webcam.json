@@ -1,0 +1,118 @@
+{
+  "slug": "webcam",
+  "kategorie": "elektronik",
+  "titel": "Webcam",
+  "beschreibung": "Webcam Test 2026: Die 4 besten Webcams im Vergleich ✓ 1080p bis 4K ✓ Für Homeoffice & Streaming",
+  "keywords": [
+    "webcam test",
+    "webcam vergleich 2026",
+    "beste webcam",
+    "webcam homeoffice",
+    "4k webcam test",
+    "webcam streaming",
+    "logitech webcam test",
+    "webcam kaufberatung",
+    "webcam hd test",
+    "usb webcam vergleich"
+  ],
+  "einleitung": "Für Videocalls, Streaming oder Content-Erstellung brauchst du eine gute Webcam. Wir vergleichen vier Modelle — von der soliden Homeoffice-Cam bis zur 4K-Streaming-Webcam.",
+  "kaufberatung": "### 1080p vs. 4K: Was brauchst du wirklich?\n\nFür Zoom-Calls und Teams-Meetings reicht 1080p völlig. Die meisten Plattformen komprimieren das Bild ohnehin. 4K lohnt sich für Streamer und Content-Creator, die Ausschnitte vergrößern oder Videos in hoher Qualität aufnehmen wollen.\n\n### Autofokus und Belichtung\n\nGuter Autofokus ist wichtiger als hohe Auflösung. Wenn die Kamera ständig pumpt oder nachfokussiert, stört das im Meeting. Die Logitech MX Brio hat hier den schnellsten und leisesten Autofokus. Bei Belichtung punkten Kameras mit HDR — sie kommen besser mit Gegenlicht klar.\n\n### Mikrofon: Eingebaut oder extern?\n\nDie meisten Webcams haben ein eingebautes Mikrofon. Für Videocalls reicht das meist. Für Streaming oder Podcasts empfehlen wir ein separates USB-Mikrofon — der Qualitätsunterschied ist enorm.\n\n### Sichtfeld und Positionierung\n\nEin Sichtfeld von 70-80° ist ideal für Einzelpersonen. Für Konferenzräume brauchst du 90°+. Achte auf eine stabile Klemme, die auf deinem Monitor hält ohne zu wackeln.",
+  "vergleichsKategorien": [
+    {
+      "key": "aufloesung",
+      "label": "Auflösung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "fps",
+      "label": "Bildrate",
+      "einheit": "fps",
+      "sortierung": 2
+    },
+    {
+      "key": "autofokus",
+      "label": "Autofokus",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "sichtfeld",
+      "label": "Sichtfeld",
+      "einheit": "°",
+      "sortierung": 4
+    },
+    {
+      "key": "mikrofon",
+      "label": "Mikrofon",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Webcam ist die beste für Homeoffice?",
+      "antwort": "Für die meisten Homeoffice-Nutzer empfehlen wir die Logitech Brio 300. Sie liefert scharfes 1080p-Bild, guten Autofokus und ein ordentliches Mikrofon zu einem fairen Preis. Wer mehr investieren möchte, bekommt mit der Logitech MX Brio noch bessere Bildqualität."
+    },
+    {
+      "frage": "Brauche ich eine 4K-Webcam?",
+      "antwort": "Für normale Videocalls nicht — Zoom, Teams und Google Meet komprimieren auf maximal 1080p. 4K lohnt sich für Streamer, die in OBS Ausschnitte vergrößern, oder für hochwertige Videoaufnahmen."
+    },
+    {
+      "frage": "Ist die integrierte Laptop-Kamera ausreichend?",
+      "antwort": "Die meisten Laptop-Kameras liefern nur 720p mit mäßiger Qualität. Selbst eine günstige externe Webcam wie die Logitech C920 liefert ein deutlich besseres Bild. Für regelmäßige Videocalls lohnt sich die Investition."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Logitech C920 HD Pro",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B006A2Q81M?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "1080p",
+        "fps": "30",
+        "autofokus": "Ja",
+        "sichtfeld": "78",
+        "mikrofon": "Stereo"
+      }
+    },
+    {
+      "name": "Logitech Brio 300",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CCX2NNHX?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "1080p",
+        "fps": "30",
+        "autofokus": "Ja",
+        "sichtfeld": "70",
+        "mikrofon": "Mono, Noise Reduction"
+      }
+    },
+    {
+      "name": "Logitech MX Brio",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CX4HTRVQ?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K",
+        "fps": "30 (4K) / 60 (1080p)",
+        "autofokus": "Ja (KI-gestützt)",
+        "sichtfeld": "90",
+        "mikrofon": "Stereo mit Noise Cancelling"
+      }
+    },
+    {
+      "name": "Elgato Facecam Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CHKQ3HFD?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K",
+        "fps": "60 (4K)",
+        "autofokus": "Ja (phasenerkennung)",
+        "sichtfeld": "90",
+        "mikrofon": "Nein (extern empfohlen)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

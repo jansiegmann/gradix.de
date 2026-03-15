@@ -1,0 +1,128 @@
+{
+  "slug": "entsafter-slow-juicer",
+  "kategorie": "kueche",
+  "titel": "Entsafter / Slow Juicer",
+  "beschreibung": "Entsafter Test 2026: Die 4 besten Slow Juicer im Vergleich ✓ Kaltpress-Saft ✓ Kaufberatung",
+  "keywords": [
+    "entsafter",
+    "entsafter test",
+    "slow juicer",
+    "slow juicer test",
+    "kaltpresse",
+    "saftpresse",
+    "entsafter vergleich",
+    "bester entsafter",
+    "slow juicer vergleich",
+    "entsafter 2026"
+  ],
+  "einleitung": "Frisch gepresster Saft voller Vitamine — ein Slow Juicer presst Obst und Gemüse langsam und schonend aus. Wir vergleichen vier Geräte von Budget bis Profi und zeigen, welcher die meiste Saftausbeute liefert.",
+  "kaufberatung": "### Slow Juicer vs. Zentrifugalentsafter\nZentrifugalentsafter arbeiten schnell (10.000+ Umdrehungen), erzeugen aber Hitze und Sauerstoffeintrag — Vitamine gehen verloren. Slow Juicer (40-80 Umdrehungen) pressen langsam und kalt. Der Saft hat mehr Nährstoffe, hält länger und schmeckt intensiver.\n\n### Saftausbeute vergleichen\nDie Saftausbeute variiert stark zwischen den Modellen. Gute Slow Juicer holen aus 1 kg Obst deutlich mehr Saft als günstige Geräte. Der Trester (Pressrückstand) sollte möglichst trocken sein — das zeigt eine gute Ausbeute.\n\n### Einfüllöffnung: Breiter ist besser\nModelle mit breiter Einfüllöffnung (70 mm+) ersparen dir das lästige Vorschneiden von Obst und Gemüse. Äpfel und Karotten passen oft im Ganzen hinein.\n\n### Was kann ein Slow Juicer noch?\nNeben Saft können viele Slow Juicer auch Nussmilch, Sorbets und sogar Babybrei herstellen. Ein praktisches Multitalent, wenn du kreativ kochen willst.\n\n### Reinigung: Der Dealbreaker\nWenn die Reinigung zu aufwändig ist, verstaubt der Entsafter schnell im Schrank. Achte auf wenige Teile, spülmaschinenfeste Komponenten und einen mitgelieferten Reinigungspinsel. Die besten Geräte lassen sich in unter 2 Minuten zerlegen und reinigen.",
+  "vergleichsKategorien": [
+    {
+      "key": "pressart",
+      "label": "Pressart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "umdrehungen",
+      "label": "Umdrehungen",
+      "einheit": "U/min",
+      "sortierung": 2
+    },
+    {
+      "key": "einfuelloeffnung",
+      "label": "Einfüllöffnung",
+      "einheit": "mm",
+      "sortierung": 3
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 4
+    },
+    {
+      "key": "saftbehaelter",
+      "label": "Saftbehälter",
+      "einheit": "ml",
+      "sortierung": 5
+    },
+    {
+      "key": "reinigung",
+      "label": "Reinigung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Lohnt sich ein Slow Juicer gegenüber einem Zentrifugalentsafter?",
+      "antwort": "Wenn dir Saftqualität und Nährstoffgehalt wichtig sind, ja. Der Saft aus einem Slow Juicer hält bis zu 72 Stunden im Kühlschrank, der aus einem Zentrifugalentsafter nur wenige Stunden. Auch die Saftausbeute ist bei Slow Juicern höher."
+    },
+    {
+      "frage": "Kann ich mit einem Slow Juicer auch grüne Säfte machen?",
+      "antwort": "Ja, Slow Juicer eignen sich hervorragend für Blattgemüse wie Spinat, Grünkohl und Weizengras. Zentrifugalentsafter versagen hier oft, da die Blätter nicht genug Widerstand bieten. Horizontale Slow Juicer sind für Blattgemüse besonders gut geeignet."
+    },
+    {
+      "frage": "Wie oft muss ich den Slow Juicer entkalken?",
+      "antwort": "Entkalken ist bei Slow Juicern nicht nötig, da kein Wasser erhitzt wird. Wichtig ist die gründliche Reinigung nach jedem Gebrauch: Alle Teile zerlegen, unter fließendem Wasser abspülen und mit dem Reinigungspinsel Rückstände aus dem Sieb entfernen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Severin ES 3571 Slow Juicer",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07Q6L4TJK?tag=janxsiegmann-21",
+      "werte": {
+        "pressart": "Vertikal (Einzelpressschnecke)",
+        "umdrehungen": "60",
+        "einfuelloeffnung": "60",
+        "leistung": "150",
+        "saftbehaelter": "500",
+        "reinigung": "gut"
+      }
+    },
+    {
+      "name": "Hurom H-AA Slow Juicer",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B071FQ1DLM?tag=janxsiegmann-21",
+      "werte": {
+        "pressart": "Vertikal (Einzelpressschnecke)",
+        "umdrehungen": "43",
+        "einfuelloeffnung": "76",
+        "leistung": "150",
+        "saftbehaelter": "450",
+        "reinigung": "sehr gut"
+      }
+    },
+    {
+      "name": "Kuvings EVO820",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B078XRLFC4?tag=janxsiegmann-21",
+      "werte": {
+        "pressart": "Vertikal (breite Öffnung)",
+        "umdrehungen": "50",
+        "einfuelloeffnung": "82",
+        "leistung": "240",
+        "saftbehaelter": "400",
+        "reinigung": "sehr gut"
+      }
+    },
+    {
+      "name": "Angel Juicer 5500",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B006V6Y5N2?tag=janxsiegmann-21",
+      "werte": {
+        "pressart": "Horizontal (Doppelpresswalze)",
+        "umdrehungen": "82",
+        "einfuelloeffnung": "42",
+        "leistung": "180",
+        "saftbehaelter": "k.A. (direkt)",
+        "reinigung": "befriedigend"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

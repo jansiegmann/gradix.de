@@ -1,0 +1,128 @@
+{
+  "slug": "blutdruckmessgeraet",
+  "kategorie": "haushalt",
+  "titel": "Blutdruckmessgerät",
+  "beschreibung": "Blutdruckmessgerät Test 2026: Die 4 besten Blutdruckmessgeräte im Vergleich ✓ Oberarm & Handgelenk ✓ Klinisch validiert",
+  "keywords": [
+    "blutdruckmessgerät",
+    "blutdruckmessgerät test",
+    "blutdruckmessgerät vergleich",
+    "bestes blutdruckmessgerät",
+    "blutdruck messen",
+    "oberarm blutdruckmessgerät",
+    "blutdruckmessgerät test 2026",
+    "blutdruckmessgerät app",
+    "omron blutdruckmessgerät",
+    "withings blutdruckmessgerät"
+  ],
+  "einleitung": "Bluthochdruck ist ein stiller Risikofaktor — regelmäßiges Messen zu Hause hilft, ihn frühzeitig zu erkennen. Wir vergleichen vier klinisch validierte Blutdruckmessgeräte und zeigen dir, welches am zuverlässigsten misst.",
+  "kaufberatung": "### Oberarm oder Handgelenk — was ist genauer?\nOberarm-Messgeräte gelten als genauer und werden von Ärzten empfohlen. Handgelenk-Messgeräte sind kompakter und reisefreundlicher, erfordern aber eine exaktere Handhaltung. Für die tägliche Messung zu Hause empfehlen wir ein Oberarm-Gerät.\n\n### Klinische Validierung — warum ist das wichtig?\nNur klinisch validierte Geräte liefern verlässliche Werte. Achte auf Prüfsiegel der ESH (European Society of Hypertension) oder der BHS (British Hypertension Society). Alle Geräte in unserem Vergleich sind klinisch validiert.\n\n### Richtig Blutdruck messen\n5 Minuten entspannt sitzen. Manschette auf Herzhöhe anlegen. Nicht sprechen während der Messung. Morgens und abends je 2x messen, Durchschnitt notieren. Kein Kaffee oder Sport 30 Minuten vorher.\n\n### App-Anbindung — sinnvoll oder überflüssig?\nApps machen das Tracking einfacher — du siehst Trends und kannst die Werte mit dem Arzt teilen. Geräte mit Bluetooth oder WiFi übertragen die Daten automatisch. Für ein aussagekräftiges Blutdruck-Tagebuch ist das sehr praktisch.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "validierung",
+      "label": "Klinische Validierung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "speicher",
+      "label": "Speicherplätze",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "nutzer",
+      "label": "Nutzerprofile",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "app",
+      "label": "App-Anbindung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "manschette",
+      "label": "Manschettengröße",
+      "einheit": "cm",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Blutdruckmessgerät empfehlen Ärzte?",
+      "antwort": "Ärzte empfehlen in der Regel klinisch validierte Oberarm-Messgeräte. Omron ist die am häufigsten empfohlene Marke. Das Omron X3 Comfort und das Omron X7 Smart sind beide ESH-validiert und werden von Ärzten geschätzt."
+    },
+    {
+      "frage": "Wie oft sollte man den Blutdruck messen?",
+      "antwort": "Bei bekanntem Bluthochdruck: 2x täglich (morgens und abends), jeweils 2 Messungen im Abstand von 1-2 Minuten. Zur Vorsorge: 1x pro Woche reicht. Immer zur gleichen Tageszeit messen."
+    },
+    {
+      "frage": "Wann ist der Blutdruck zu hoch?",
+      "antwort": "Optimal ist unter 120/80 mmHg. Normal bis 130/85 mmHg. Hochnormal 130-139/85-89 mmHg. Ab 140/90 mmHg spricht man von Bluthochdruck — dann solltest du zum Arzt. Diese Angaben ersetzen keine ärztliche Beratung."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Omron X3 Comfort",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07KJG2NH6?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Oberarm",
+        "validierung": "ESH-validiert",
+        "speicher": "60 (2 × 30)",
+        "nutzer": "2",
+        "app": "Nein",
+        "manschette": "22-42"
+      }
+    },
+    {
+      "name": "Omron X7 Smart",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BVNFGLQH?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Oberarm",
+        "validierung": "ESH-validiert",
+        "speicher": "200 (2 × 100)",
+        "nutzer": "2",
+        "app": "Omron Connect (Bluetooth)",
+        "manschette": "22-42"
+      }
+    },
+    {
+      "name": "Withings BPM Connect",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07PZ3W42X?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Oberarm",
+        "validierung": "ESH-validiert",
+        "speicher": "unbegrenzt (Cloud)",
+        "nutzer": "unbegrenzt",
+        "app": "Withings Health Mate (WiFi)",
+        "manschette": "22-42"
+      }
+    },
+    {
+      "name": "Omron Complete",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0848NHBPV?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Oberarm + EKG",
+        "validierung": "ESH + CE-medizinisch",
+        "speicher": "100 (2 × 50)",
+        "nutzer": "2",
+        "app": "Omron Connect (Bluetooth)",
+        "manschette": "22-42"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "etikettendrucker",
+  "kategorie": "buero",
+  "titel": "Etikettendrucker",
+  "beschreibung": "Etikettendrucker Test 2026: Die 4 besten Labelmaker im Vergleich ✓ Bluetooth & Thermo ✓ Kaufberatung",
+  "keywords": [
+    "etikettendrucker test",
+    "etikettendrucker vergleich",
+    "labelmaker",
+    "etikettendrucker bluetooth",
+    "brother etikettendrucker",
+    "dymo etikettendrucker",
+    "etikettendrucker app",
+    "bester etikettendrucker",
+    "etikettendrucker test 2026",
+    "etikettendrucker büro"
+  ],
+  "einleitung": "Ob für Ordnung im Büro, Versandetiketten oder Beschriftungen im Haushalt — ein Etikettendrucker spart Zeit und sieht professioneller aus als Handschrift. Wir vergleichen vier Modelle von kompakt bis professionell.",
+  "kaufberatung": "### Thermodirekt oder Thermotransfer?\nThermodirektdrucker brauchen keine Tinte — sie drucken durch Hitze auf spezielles Papier. Günstig im Unterhalt, aber die Etiketten verblassen mit der Zeit. Thermotransferdrucker nutzen ein Farbband und erzeugen haltbarere Etiketten. Für Büroorganisation reicht Thermodirekt.\n\n### Smartphone-App oder Tastatur?\nModerne Etikettendrucker werden oft per App gesteuert — bequem und flexibel. Klassische Modelle haben eine eingebaute Tastatur. Die App bietet mehr Gestaltungsmöglichkeiten (Symbole, Rahmen, Barcodes), die Tastatur funktioniert auch ohne Smartphone.\n\n### Etikettenbreite und -formate\nKleine Drucker verarbeiten 6–12 mm breite Bänder — gut für Beschriftungen. Für Adressetiketten und Versand brauchst du breitere Formate (bis 62 mm). Achte auf die Kompatibilität und Folgekosten der Etiketten.\n\n### Folgekosten beachten\nDie Etikettenrollen sind der Hauptkostenfaktor. Marken-Etiketten (Brother, Dymo) sind teurer, aber qualitativ oft besser. Es gibt auch günstige Drittanbieter-Etiketten — teste die Kompatibilität.\n\n### Strom: Akku, USB oder Netzteil?\nKompakte Modelle laufen oft mit Akku und laden per USB — praktisch für unterwegs. Profi-Modelle haben ein Netzteil für Dauerbetrieb.",
+  "vergleichsKategorien": [
+    {
+      "key": "drucktechnologie",
+      "label": "Drucktechnologie",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "max_etikettenbreite",
+      "label": "Max. Etikettenbreite",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "aufloesung",
+      "label": "Auflösung",
+      "einheit": "dpi",
+      "sortierung": 3
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Etikettendrucker ist am günstigsten im Unterhalt?",
+      "antwort": "Thermodirektdrucker wie der Niimbot D11 brauchen keine Tinte und nur günstige Thermopapier-Rollen. Die Folgekosten sind minimal. Bei Markengeräten von Brother oder Dymo sind die Original-Etiketten teurer, aber es gibt günstige Drittanbieter."
+    },
+    {
+      "frage": "Kann ich mit einem Etikettendrucker auch Barcodes drucken?",
+      "antwort": "Ja, die meisten Etikettendrucker unterstützen Barcodes und QR-Codes über die zugehörige App oder PC-Software. Für professionelle Barcode-Etiketten empfehlen wir den Brother QL-820NWBc."
+    },
+    {
+      "frage": "Sind Drittanbieter-Etiketten kompatibel?",
+      "antwort": "Für die meisten Dymo- und Brother-Drucker gibt es günstige Drittanbieter-Etiketten auf Amazon. Die Qualität variiert — am besten Bewertungen lesen. Manche Drucker erkennen Drittanbieter-Rollen nicht."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Niimbot D11",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09BFTBCWC?tag=janxsiegmann-21",
+      "werte": {
+        "drucktechnologie": "Thermodirekt",
+        "max_etikettenbreite": "15",
+        "aufloesung": "203",
+        "verbindung": "Bluetooth + App",
+        "stromversorgung": "Akku (USB-C)"
+      }
+    },
+    {
+      "name": "Brother P-touch Cube Plus",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07C1H7RGW?tag=janxsiegmann-21",
+      "werte": {
+        "drucktechnologie": "Thermotransfer",
+        "max_etikettenbreite": "24",
+        "aufloesung": "180",
+        "verbindung": "Bluetooth + App",
+        "stromversorgung": "Akku + USB"
+      }
+    },
+    {
+      "name": "Dymo LabelWriter 550",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08G1TGQNG?tag=janxsiegmann-21",
+      "werte": {
+        "drucktechnologie": "Thermodirekt",
+        "max_etikettenbreite": "62",
+        "aufloesung": "300",
+        "verbindung": "USB",
+        "stromversorgung": "Netzteil"
+      }
+    },
+    {
+      "name": "Brother QL-820NWBc",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C57RHLX9?tag=janxsiegmann-21",
+      "werte": {
+        "drucktechnologie": "Thermodirekt",
+        "max_etikettenbreite": "62",
+        "aufloesung": "300",
+        "verbindung": "WLAN + Bluetooth + USB",
+        "stromversorgung": "Netzteil + optionaler Akku"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

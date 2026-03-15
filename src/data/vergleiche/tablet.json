@@ -1,0 +1,128 @@
+{
+  "slug": "tablet",
+  "kategorie": "elektronik",
+  "titel": "Tablet",
+  "beschreibung": "Tablet Test 2026: Die 4 besten Tablets im Vergleich ✓ iPad, Samsung, Lenovo ✓ Für jeden Einsatzzweck",
+  "keywords": [
+    "tablet test",
+    "tablet vergleich 2026",
+    "bestes tablet",
+    "ipad test",
+    "samsung tablet test",
+    "tablet kaufberatung",
+    "tablet zum zeichnen",
+    "tablet für studenten",
+    "android tablet test",
+    "tablet vergleich"
+  ],
+  "einleitung": "Ob zum Streamen, Zeichnen, Arbeiten oder Lesen — das richtige Tablet macht den Unterschied. Wir vergleichen vier Top-Modelle von erschwinglich bis Premium.",
+  "kaufberatung": "### iPad vs. Android-Tablet\n\niPads bieten das beste App-Ökosystem und die beste Performance pro Euro. Android-Tablets von Samsung punkten mit Flexibilität und DeX-Desktop-Modus. Für Kreative ist das iPad mit Apple Pencil kaum zu schlagen, für Film- und Serienfans bieten Samsung Galaxy Tabs die besten AMOLED-Displays.\n\n### Welche Größe ist die richtige?\n\n8-9 Zoll sind kompakt und leicht — ideal zum Lesen und als Reisebegleiter. 10-11 Zoll sind der Sweet Spot für die meisten Nutzer. 12-13 Zoll kommen an Laptop-Größe heran und eignen sich für produktives Arbeiten mit Tastatur.\n\n### Brauche ich einen Stift?\n\nFür Notizen in der Uni, Skizzen oder Bildbearbeitung ist ein Stift Gold wert. Apple Pencil und Samsung S Pen bieten exzellente Drucksensitivität. Wenn du nur konsumierst (Videos, Lesen, Surfen), brauchst du keinen.\n\n### WiFi oder Cellular?\n\nWenn du das Tablet hauptsächlich zu Hause oder im Büro nutzt, reicht WiFi. Für unterwegs ohne WLAN lohnt sich die Cellular-Variante — oder du nutzt den Hotspot deines Smartphones.",
+  "vergleichsKategorien": [
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "chip",
+      "label": "Prozessor",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "speicher",
+      "label": "Speicher",
+      "einheit": "GB",
+      "sortierung": 3
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "h",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    },
+    {
+      "key": "stift",
+      "label": "Stift-Unterstützung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Tablet eignet sich am besten für Studenten?",
+      "antwort": "Das Apple iPad (10. Generation) bietet mit Apple-Pencil-Unterstützung, langer Akkulaufzeit und dem besten App-Ökosystem das beste Paket für Studenten. Wer Android bevorzugt, ist mit dem Samsung Galaxy Tab S9 FE gut bedient."
+    },
+    {
+      "frage": "Kann ein Tablet einen Laptop ersetzen?",
+      "antwort": "Für leichte Aufgaben wie E-Mails, Textverarbeitung und Surfen ja — besonders mit einer Bluetooth-Tastatur. Für Softwareentwicklung, Videobearbeitung oder komplexe Tabellenkalkulation bleibt ein Laptop die bessere Wahl."
+    },
+    {
+      "frage": "Wie lange halten Tablets?",
+      "antwort": "iPads erhalten 5-7 Jahre Software-Updates und sind auch danach noch nutzbar. Samsung Galaxy Tabs bekommen 4-5 Jahre Updates. Die Hardware hält bei normaler Nutzung mindestens 4-6 Jahre, der Akku verliert nach 2-3 Jahren an Kapazität."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Samsung Galaxy Tab S9 FE",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CHXFMWF5?tag=janxsiegmann-21",
+      "werte": {
+        "display": "10.9 Zoll, TFT LCD, 90 Hz",
+        "chip": "Exynos 1380",
+        "speicher": "128",
+        "akku": "ca. 12",
+        "gewicht": "523",
+        "stift": "Ja (S Pen inklusive)"
+      }
+    },
+    {
+      "name": "Apple iPad (10. Gen)",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BJLG63QR?tag=janxsiegmann-21",
+      "werte": {
+        "display": "10.9 Zoll, Liquid Retina, 60 Hz",
+        "chip": "A14 Bionic",
+        "speicher": "64",
+        "akku": "ca. 10",
+        "gewicht": "477",
+        "stift": "Ja (Apple Pencil 1. Gen)"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Tab S10 FE",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DTQ4QH8X?tag=janxsiegmann-21",
+      "werte": {
+        "display": "10.9 Zoll, AMOLED, 90 Hz",
+        "chip": "Exynos 1580",
+        "speicher": "128",
+        "akku": "ca. 13",
+        "gewicht": "520",
+        "stift": "Ja (S Pen inklusive)"
+      }
+    },
+    {
+      "name": "Apple iPad Air M3",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DG1TDGC4?tag=janxsiegmann-21",
+      "werte": {
+        "display": "11 Zoll, Liquid Retina, 60 Hz",
+        "chip": "Apple M3",
+        "speicher": "128",
+        "akku": "ca. 10",
+        "gewicht": "462",
+        "stift": "Ja (Apple Pencil Pro)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

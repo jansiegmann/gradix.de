@@ -1,0 +1,128 @@
+{
+  "slug": "stirnlampe",
+  "kategorie": "outdoor",
+  "titel": "Stirnlampe",
+  "beschreibung": "Stirnlampe Test 2026: Die 4 besten Stirnlampen im Vergleich ✓ LED, wiederaufladbar ✓ Für Laufen, Wandern & Camping",
+  "keywords": [
+    "stirnlampe",
+    "stirnlampe test",
+    "beste stirnlampe",
+    "stirnlampe wandern",
+    "stirnlampe laufen",
+    "led stirnlampe test",
+    "stirnlampe vergleich",
+    "stirnlampe wiederaufladbar",
+    "kopflampe test",
+    "stirnlampe hell"
+  ],
+  "einleitung": "Ob beim Joggen im Dunkeln, auf der Nachtwanderung oder beim Camping — eine gute Stirnlampe ist unverzichtbar. Wir vergleichen vier Modelle von Budget bis Profi und zeigen dir, welche Lampe für welchen Einsatz die beste ist.",
+  "kaufberatung": "### Für wen eignet sich welche Stirnlampe?\nFür gelegentliches Camping reicht die günstige Black Diamond Astro 300. Jogger brauchen eine leichte, gut sitzende Lampe wie die Petzl Actik Core. Wanderer und Bergsteiger profitieren von der hellen Petzl Swift RL mit automatischer Helligkeitsanpassung. Und für Trailrunner und Expeditionen ist die Ledlenser NEO10R mit ihrer enormen Leuchtkraft die beste Wahl.\n\n### Wie viel Lumen brauche ich?\n100-200 Lumen reichen für Camping und kurze Nachtwanderungen. Für Trailrunning und technische Wanderungen sollten es 300-500 Lumen sein. Mehr als 700 Lumen brauchst du nur für spezielle Einsätze. Wichtiger als die maximale Helligkeit ist die gute Ausleuchtung — eine gleichmäßige Lichtverteilung ist angenehmer als ein heller Spot.\n\n### Akku oder Batterie — was ist besser?\nWiederaufladbare Akkus (USB-C) sind umweltfreundlicher und auf Dauer günstiger. Batterien haben den Vorteil, dass du überall Ersatz bekommst. Ideal sind Lampen wie die Petzl Actik Core, die beides können — Akku für den Alltag, Batterien als Backup auf langen Touren.\n\n### Rotlicht — wofür braucht man das?\nRotlicht bewahrt die Nachtsicht — wenn du im Dunkeln auf die Karte schaust und danach sofort wieder ins Dunkle schaust, musst du nicht warten, bis sich deine Augen anpassen. Außerdem stört Rotlicht Mitcamper weniger. Für Camping und Hüttenwanderungen ist Rotlicht ein echtes Komfort-Feature.",
+  "vergleichsKategorien": [
+    {
+      "key": "lumen",
+      "label": "Max. Helligkeit",
+      "einheit": "Lumen",
+      "sortierung": 1
+    },
+    {
+      "key": "leuchtweite",
+      "label": "Max. Leuchtweite",
+      "einheit": "m",
+      "sortierung": 2
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit (max.)",
+      "einheit": "h",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 4
+    },
+    {
+      "key": "wasserdicht",
+      "label": "Wasserdicht",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "rotlicht",
+      "label": "Rotlicht",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Stirnlampe ist zum Joggen am besten?",
+      "antwort": "Zum Joggen empfehlen wir die Petzl Actik Core. Sie wiegt nur 82 Gramm, sitzt dank elastischem Band auch beim Laufen stabil und bietet 450 Lumen — hell genug für dunkle Waldwege. Der Akku lässt sich per USB-C aufladen."
+    },
+    {
+      "frage": "Wie viel Lumen braucht eine Stirnlampe zum Wandern?",
+      "antwort": "Für die meisten Wanderungen reichen 200-350 Lumen. Auf technischen Wegen oder beim Trailrunning sollten es 400-700 Lumen sein. Wichtiger als maximale Helligkeit: Eine gute Lichtverteilung und ein langer Akku in der mittleren Stufe."
+    },
+    {
+      "frage": "Sind USB-C Stirnlampen besser als Batterielampen?",
+      "antwort": "USB-C ist umweltfreundlicher und auf Dauer günstiger. Für mehrtägige Touren ohne Stromanschluss sind Lampen mit Batterie-Option praktischer. Am besten sind Modelle wie die Petzl Actik Core, die beides können."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Black Diamond Astro 300",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09B3T2J7J?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "300",
+        "leuchtweite": "75",
+        "akku": "60",
+        "gewicht": "72",
+        "wasserdicht": "IPX4",
+        "rotlicht": "Ja"
+      }
+    },
+    {
+      "name": "Petzl Actik Core",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09TWXKL7R?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "450",
+        "leuchtweite": "90",
+        "akku": "130 (Eco)",
+        "gewicht": "82",
+        "wasserdicht": "IPX4",
+        "rotlicht": "Ja"
+      }
+    },
+    {
+      "name": "Petzl Swift RL",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0B6YXWQRG?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "1100",
+        "leuchtweite": "150",
+        "akku": "50 (Reactive)",
+        "gewicht": "100",
+        "wasserdicht": "IPX4",
+        "rotlicht": "Nein (automatisch)"
+      }
+    },
+    {
+      "name": "Ledlenser NEO10R",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08NCRVXLT?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "600",
+        "leuchtweite": "150",
+        "akku": "50",
+        "gewicht": "127",
+        "wasserdicht": "IPX4",
+        "rotlicht": "Ja (Rücklicht)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

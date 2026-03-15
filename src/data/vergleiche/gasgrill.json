@@ -1,0 +1,128 @@
+{
+  "slug": "gasgrill",
+  "kategorie": "garten",
+  "titel": "Gasgrill / Holzkohlegrill",
+  "beschreibung": "Grill Test 2026: Die 4 besten Gas- & Holzkohlegrills im Vergleich ✓ Für Balkon & Garten ✓ Kaufberatung",
+  "keywords": [
+    "gasgrill test",
+    "grill test",
+    "holzkohlegrill test",
+    "bester gasgrill",
+    "gasgrill vergleich",
+    "weber gasgrill",
+    "gasgrill test 2026",
+    "grill kaufberatung",
+    "gasgrill balkon",
+    "holzkohlegrill vergleich"
+  ],
+  "einleitung": "Gas oder Kohle — diese Gretchenfrage spaltet die Grillgemeinde. Wir nehmen beide Seiten ernst und vergleichen vier herausragende Grills. Entscheidend sind Grillfläche, Temperaturkontrolle und Verarbeitung.",
+  "kaufberatung": "### Gas oder Holzkohle?\nGasgrills sind in 5 Minuten einsatzbereit, die Temperatur ist präzise regelbar — ideal für Alltagsgriller. Holzkohlegrills liefern das authentische Raucharoma und höhere Temperaturen fürs Anbraten. Für schnelles Feierabend-Grillen Gas, für das Wochenend-Event Kohle.\n\n### Grillfläche: Wie groß muss sie sein?\nFür 2–3 Personen reichen 1.500–2.000 cm². Für Familien oder Gäste braucht man 2.500–4.000 cm². Zu groß heißt auch: längere Aufheizzeit und höherer Gasverbrauch.\n\n### Materialqualität: Emailliert oder Edelstahl?\nEmaillierte Stahlteile sind günstig und rostbeständig, aber empfindlich gegen Stöße. Edelstahl ist langlebiger und pflegeleichter, aber teurer. Bei den Brennern ist Edelstahl klar vorzuziehen.\n\n### Indirektes Grillen und Deckelgrillen\nMit einem geschlossenen Deckel wird dein Grill zum Ofen — perfekt für Pulled Pork, Pizza oder Braten. Dafür brauchst du mindestens 2 Brenner und einen integrierten Deckelthermometer.\n\n### Pflege und Reinigung\nNach jedem Grillen: Rost bei geschlossenem Deckel 10 Minuten auf höchster Stufe ausbrennen, dann mit einer Grillbürste reinigen. Fettauffangschalen regelmäßig leeren. Im Winter den Grill trocken lagern.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Grillart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "grillflaeche",
+      "label": "Grillfläche",
+      "einheit": "cm²",
+      "sortierung": 2
+    },
+    {
+      "key": "brenner",
+      "label": "Brenner/Heizquelle",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "kW",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material Kessel",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "thermometer",
+      "label": "Deckelthermometer",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Grill ist besser: Gas oder Kohle?",
+      "antwort": "Das hängt von deinen Prioritäten ab. Gasgrills sind schneller einsatzbereit und einfacher zu reinigen. Holzkohlegrills liefern das klassische Raucharoma. Für Vielfalt empfehlen wir: Gas für den Alltag, Kohle für besondere Anlässe."
+    },
+    {
+      "frage": "Darf ich auf dem Balkon grillen?",
+      "antwort": "Das hängt vom Mietvertrag und der Hausordnung ab. Gasgrills und Elektrogrills werden auf Balkonen eher toleriert als Holzkohlegrills, da sie weniger Rauch erzeugen. Informiere dich bei deinem Vermieter."
+    },
+    {
+      "frage": "Wie oft muss ich den Gasgrill reinigen?",
+      "antwort": "Den Grillrost nach jedem Grillen abbürsten. Brenner und Fettauffangschale alle 5–10 Grillsessions gründlich reinigen. Eine Grundreinigung empfiehlt sich 1–2 Mal pro Saison."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Weber Smokey Joe Premium",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00FGESUV6?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Holzkohlegrill",
+        "grillflaeche": "1.362",
+        "brenner": "Holzkohle",
+        "leistung": "k.A.",
+        "material": "Emaillierter Stahl",
+        "thermometer": "Nein"
+      }
+    },
+    {
+      "name": "Weber Spirit E-310",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B084TV1D1D?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Gasgrill",
+        "grillflaeche": "3.500",
+        "brenner": "3 Brenner",
+        "leistung": "9,4",
+        "material": "Emaillierter Stahl",
+        "thermometer": "Ja (integriert)"
+      }
+    },
+    {
+      "name": "Weber Genesis E-325s",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09TZGKGDP?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Gasgrill",
+        "grillflaeche": "4.300",
+        "brenner": "3 Brenner + Sear Zone",
+        "leistung": "12,1",
+        "material": "Emaillierter Stahl + Edelstahl",
+        "thermometer": "Ja (integriert)"
+      }
+    },
+    {
+      "name": "Napoleon Rogue XT 625 SIB",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07N1K41QV?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Gasgrill",
+        "grillflaeche": "5.400",
+        "brenner": "5 Brenner + Infrarot-Seitenbrenner",
+        "leistung": "18,6",
+        "material": "Edelstahl + emaillierter Stahl",
+        "thermometer": "Ja (integriert)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

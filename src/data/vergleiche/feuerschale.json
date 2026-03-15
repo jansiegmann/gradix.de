@@ -1,0 +1,118 @@
+{
+  "slug": "feuerschale",
+  "kategorie": "garten",
+  "titel": "Feuerschale / Feuertonne",
+  "beschreibung": "Feuerschale Test 2026: Die 4 besten Feuerschalen im Vergleich ✓ Garten & Terrasse ✓ Kaufberatung",
+  "keywords": [
+    "feuerschale test",
+    "feuerschale garten",
+    "feuerschale vergleich",
+    "beste feuerschale",
+    "feuertonne",
+    "feuerschale edelstahl",
+    "feuerschale test 2026",
+    "feuerschale kaufberatung",
+    "feuerschale terrasse",
+    "feuerschale mit grill"
+  ],
+  "einleitung": "Eine Feuerschale verwandelt laue Sommerabende in stimmungsvolle Lagerfeuer-Momente. Ob aus Stahl, Edelstahl oder Gusseisen — die Unterschiede bei Material, Größe und Zusatzfunktionen sind beachtlich.",
+  "kaufberatung": "### Material: Stahl, Edelstahl oder Gusseisen?\nNormaler Stahl rostet mit der Zeit und bekommt eine charakteristische Patina — das ist gewollt. Edelstahl bleibt dauerhaft blank, ist aber teurer. Gusseisen speichert hervorragend Wärme, ist aber extrem schwer.\n\n### Welche Größe brauche ich?\nFür 2–4 Personen reichen 60–70 cm Durchmesser. Für größere Runden empfehlen sich 80+ cm. Bedenke: Größer bedeutet mehr Holzverbrauch und mehr Hitze.\n\n### Funkenflug und Sicherheit\nAuf Holzterrassen ist ein Funkenschutzgitter Pflicht. Halte mindestens 3 Meter Abstand zu brennbaren Materialien. Eine Unterlage schützt den Boden vor Hitze und Funken.\n\n### Feuerschale als Grill nutzen\nViele Feuerschalen haben einen optionalen Grillrost. Das klingt praktisch, aber echte Grillfreunde nutzen lieber einen richtigen Grill. Für gelegentliches Stockbrot oder Würstchen reicht der Rost aber allemal.\n\n### Pflege und Überwinterung\nStahl-Feuerschalen brauchen keine besondere Pflege — Rost ist normal. Edelstahl mit einem feuchten Tuch abwischen. Im Winter trocken lagern oder mit einer Abdeckhaube schützen.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "durchmesser",
+      "label": "Durchmesser",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "grillrost",
+      "label": "Grillrost inklusive",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "funkenschutz",
+      "label": "Funkenschutz",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Darf ich eine Feuerschale im Garten anzünden?",
+      "antwort": "Grundsätzlich ja, sofern die Feuerschale auf einem feuerfesten Untergrund steht und ausreichend Abstand zu Gebäuden und Bäumen besteht. In Wohngebieten solltest du die Nachbarn nicht durch übermäßigen Rauch belästigen. Lokale Verordnungen können Einschränkungen vorsehen."
+    },
+    {
+      "frage": "Welches Holz eignet sich für die Feuerschale?",
+      "antwort": "Trockenes Hartholz wie Buche oder Eiche brennt am besten — gleichmäßig, mit wenig Funkenflug und guter Glutbildung. Nadelholz (Fichte, Kiefer) knistert zwar romantisch, erzeugt aber mehr Funken und Rauch."
+    },
+    {
+      "frage": "Wie lösche ich die Feuerschale richtig?",
+      "antwort": "Am besten das Feuer kontrolliert herunterbrennen lassen. Zum schnellen Löschen Sand oder einen Feuerlöscher nutzen — kein Wasser, da es die Schale durch Temperaturschock beschädigen kann."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Czaja Stanzteile Feuerschale 60 cm",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07KQ6RQMS?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Stahl (rohes Metall)",
+        "durchmesser": "60",
+        "gewicht": "6",
+        "grillrost": "Nein (separat erhältlich)",
+        "funkenschutz": "Nein"
+      }
+    },
+    {
+      "name": "Czaja Stanzteile Feuerschale 80 cm",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00ICOZWV0?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Stahl (rohes Metall)",
+        "durchmesser": "80",
+        "gewicht": "10",
+        "grillrost": "Nein (separat erhältlich)",
+        "funkenschutz": "Nein"
+      }
+    },
+    {
+      "name": "höfats BOWL Feuerschale",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B075RF89S6?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Cortenstahl",
+        "durchmesser": "57",
+        "gewicht": "10",
+        "grillrost": "Ja (als Zubehör)",
+        "funkenschutz": "Nein"
+      }
+    },
+    {
+      "name": "Petromax Feuerschale fs56",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09SQ8HPLF?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Schmiedeeisen",
+        "durchmesser": "56",
+        "gewicht": "8",
+        "grillrost": "Ja (optional mit Grillzubehör)",
+        "funkenschutz": "Nein"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

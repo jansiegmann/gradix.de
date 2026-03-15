@@ -1,0 +1,118 @@
+{
+  "slug": "powerbank",
+  "kategorie": "elektronik",
+  "titel": "Powerbank",
+  "beschreibung": "Powerbank Test 2026: Die 4 besten Powerbanks im Vergleich ✓ Von 10.000 bis 26.800 mAh ✓ USB-C & Schnellladung",
+  "keywords": [
+    "powerbank test",
+    "powerbank vergleich 2026",
+    "beste powerbank",
+    "powerbank 20000mah",
+    "powerbank usb-c",
+    "powerbank schnellladung",
+    "powerbank kaufberatung",
+    "anker powerbank test",
+    "powerbank iphone",
+    "mobile ladegerät test"
+  ],
+  "einleitung": "Dein Smartphone-Akku macht schlapp, wenn du ihn am meisten brauchst? Eine gute Powerbank schafft Abhilfe. Wir vergleichen vier Modelle mit unterschiedlicher Kapazität und Ladeleistung — von der kompakten Alltagsbegleiterin bis zur Reise-Powerbank mit Laptop-Ladung.",
+  "kaufberatung": "### Welche Kapazität brauche ich?\n\n10.000 mAh reichen für ca. 2 volle Smartphone-Ladungen — das genügt für den Alltag. Für Reisen oder wenn du auch ein Tablet laden willst, empfehlen sich 20.000 mAh. Laptop-Nutzer brauchen mindestens 26.000 mAh und eine Ausgangsleistung von 65W+.\n\n### USB-C PD vs. Quick Charge\n\nUSB-C Power Delivery (PD) ist der universelle Standard für Schnellladen und wird von Apple, Samsung und den meisten Herstellern unterstützt. Quick Charge ist Qualcomms Pendant. Die besten Powerbanks unterstützen beides. Achte auf mindestens 20W Ausgangsleistung für schnelles Laden.\n\n### Gewicht und Größe\n\nMehr Kapazität = mehr Gewicht. Eine 10.000-mAh-Powerbank wiegt ca. 200 g, eine 20.000er rund 400 g. Überlege, ob du die Powerbank täglich in der Hosentasche trägst oder nur auf Reisen mitnimmst.\n\n### Flugtauglich: Was darf ins Handgepäck?\n\nDie meisten Airlines erlauben Powerbanks bis 100 Wh (ca. 27.000 mAh bei 3,7V) im Handgepäck. Im aufgegebenen Gepäck sind Powerbanks generell verboten. Alle Modelle in unserem Vergleich sind flugtauglich.\n\n### Pass-Through-Charging\n\nPraktisch: Powerbanks mit Pass-Through-Charging laden dein Gerät, während sie selbst aufgeladen werden. So brauchst du nur ein Ladegerät an der Steckdose und die Powerbank verteilt den Strom weiter.",
+  "vergleichsKategorien": [
+    {
+      "key": "kapazitaet",
+      "label": "Kapazität",
+      "einheit": "mAh",
+      "sortierung": 1
+    },
+    {
+      "key": "ausgang_max",
+      "label": "Max. Ausgangsleistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "anschluesse",
+      "label": "Anschlüsse",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 4
+    },
+    {
+      "key": "schnellladung",
+      "label": "Schnellladung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft kann eine 20.000-mAh-Powerbank mein Handy laden?",
+      "antwort": "Eine 20.000-mAh-Powerbank lädt die meisten Smartphones (ca. 4.500 mAh Akku) ungefähr 3-4 Mal vollständig. Durch Umwandlungsverluste geht etwa 20-30 % der Kapazität verloren, die tatsächliche Nutzkapazität liegt also bei ca. 14.000-16.000 mAh."
+    },
+    {
+      "frage": "Darf ich meine Powerbank im Flugzeug mitnehmen?",
+      "antwort": "Ja, aber nur im Handgepäck. Die meisten Airlines erlauben Powerbanks bis 100 Wh (ca. 27.000 mAh). Alle Modelle in unserem Vergleich liegen unter diesem Limit. Im aufgegebenen Gepäck sind Lithium-Ionen-Akkus grundsätzlich verboten."
+    },
+    {
+      "frage": "Kann eine Powerbank auch Laptops laden?",
+      "antwort": "Ja, wenn sie USB-C Power Delivery mit mindestens 45W, besser 65W unterstützt. Die Anker Prime 200W in unserem Vergleich schafft das problemlos. Achte darauf, dass dein Laptop auch USB-C-Laden unterstützt — bei älteren Modellen ist das nicht immer der Fall."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Anker Nano Power Bank 10K",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0C6XKWZ5R?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "10000",
+        "ausgang_max": "30",
+        "anschluesse": "1x USB-C, 1x USB-A",
+        "gewicht": "220",
+        "schnellladung": "USB-C PD 30W"
+      }
+    },
+    {
+      "name": "Anker 325 Power Bank 20K",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B7CMLJQM?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "20000",
+        "ausgang_max": "20",
+        "anschluesse": "2x USB-C, 1x USB-A",
+        "gewicht": "395",
+        "schnellladung": "USB-C PD 20W"
+      }
+    },
+    {
+      "name": "Anker Prime 200W Power Bank",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BYP47GN4?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "20000",
+        "ausgang_max": "200",
+        "anschluesse": "2x USB-C, 1x USB-A",
+        "gewicht": "490",
+        "schnellladung": "USB-C PD 100W"
+      }
+    },
+    {
+      "name": "Anker 737 Power Bank 25600mAh",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09VPHQG2P?tag=janxsiegmann-21",
+      "werte": {
+        "kapazitaet": "25600",
+        "ausgang_max": "140",
+        "anschluesse": "2x USB-C, 1x USB-A",
+        "gewicht": "640",
+        "schnellladung": "USB-C PD 140W"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

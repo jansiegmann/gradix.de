@@ -1,0 +1,84 @@
+{
+  "slug": "kindersitz-auto",
+  "kategorie": "kinder",
+  "titel": "Kindersitz (Auto)",
+  "beschreibung": "Kindersitz Test 2026: Die 4 besten Autositze im Vergleich ✓ ADAC-geprüft ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": ["kindersitz test", "kindersitz auto", "kindersitz isofix", "bester kindersitz", "kindersitz i-size", "kindersitz ab 3 jahre", "kindersitz vergleich", "kindersitz adac testsieger", "autokindersitz test", "kindersitz 100 150 cm"],
+  "einleitung": "Du suchst einen sicheren und bequemen Kindersitz fürs Auto, der mit deinem Kind mitwächst? Bei der riesigen Auswahl an Modellen, Normen und Sicherheitsfeatures verliert man schnell den Überblick. In unserem Kindersitz-Vergleich 2026 stellen wir dir vier empfehlenswerte Modelle von Budget bis Profi vor — alle i-Size-zertifiziert und auf amazon.de verfügbar.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nWer ein knappes Budget hat, aber trotzdem keinen Schrott kaufen will, liegt beim Kinderkraft Comfort Up i-Size richtig. Er deckt die gesamte Kindheit ab und ist solide verarbeitet. Die Maxi-Cosi Tanza i-Size ist der perfekte Allrounder: klappbar, leicht und mit ISOFIX — ideal für Familien, die den Sitz häufig zwischen Autos wechseln. Wer mehr Wert auf Premium-Materialien und den bewährten L.S.P. Seitenaufprallschutz legt, greift zum Cybex Solution G2 Plus. Und für maximale Sicherheit mit XP-PAD, SICT und SecureGuard ist der Britax Römer Kidfix Pro die erste Wahl.\n\n### i-Size oder ECE R44 — welche Norm ist besser?\nDie i-Size-Norm (UN ECE R129) ist der aktuelle Standard und orientiert sich an der Körpergröße statt am Gewicht. Sie schreibt strengere Seitenaufpralltests vor und sorgt dafür, dass ISOFIX-Sitze passgenauer im Auto sitzen. Alle vier Modelle in unserem Vergleich erfüllen die i-Size-Norm. Sitze nach der älteren ECE R44 sind zwar noch zugelassen, bieten aber weniger Schutz bei Seitenaufprallen. Unser Tipp: Beim Neukauf immer zu i-Size greifen.\n\n### Worauf kommt es bei der Sicherheit wirklich an?\nDer ADAC-Test bewertet Kindersitze in den Kategorien Sicherheit, Bedienung, Ergonomie und Schadstoffe. Entscheidend sind ein guter Seitenaufprallschutz (L.S.P. bei Cybex, SICT bei Britax Römer, G-CELL bei Maxi-Cosi), eine neigbare Kopfstütze, die den Kopf beim Schlafen in der Schutzzone hält, und eine korrekte Gurtführung. ISOFIX ist kein Muss, reduziert aber Einbaufehler erheblich.\n\n### Häufige Fehler beim Kindersitzkauf\nViele Eltern wechseln zu früh auf eine reine Sitzerhöhung ohne Rückenlehne. Diese bietet keinen Seitenaufprallschutz und ist erst ab 125 cm erlaubt. Ein weiterer Fehler: den Sitz nur nach dem Alter auswählen. Entscheidend ist die Körpergröße — ein großes 3-jähriges Kind kann einen anderen Sitz brauchen als ein zierliches 5-jähriges. Auch gebrauchte Sitze sind riskant, da versteckte Schäden nach einem Unfall nicht immer sichtbar sind.\n\n### Brauche ich wirklich ISOFIX?\nISOFIX ist nicht zwingend notwendig — alle vier Modelle lassen sich auch mit dem Dreipunktgurt befestigen. Allerdings sitzt der Kindersitz mit ISOFIX deutlich stabiler und kippt in Kurven weniger. Gerade wenn der Sitz oft ein- und ausgebaut wird, spart ISOFIX Zeit und reduziert Einbaufehler. Unser Rat: Wenn dein Auto ISOFIX hat, nutze es.\n\n### Bezug waschen und Pflege\nKinder kleckern, schwitzen und krümeln — ein waschbarer Bezug ist daher Pflicht. Bei allen vier Modellen lässt sich der Bezug abnehmen. Die meisten Bezüge sind bei 30°C maschinenwaschbar. Im Sommer kann ein zusätzlicher Sommerbezug aus Frottee helfen, damit das Kind weniger schwitzt.",
+  "vergleichsKategorien": [
+    { "key": "gewicht", "label": "Gewicht", "einheit": "kg", "sortierung": 1 },
+    { "key": "altersbereich", "label": "Altersbereich", "einheit": "", "sortierung": 2 },
+    { "key": "groessenbereich", "label": "Größenbereich", "einheit": "cm", "sortierung": 3 },
+    { "key": "befestigung", "label": "Befestigung", "einheit": "", "sortierung": 4 },
+    { "key": "seitenaufprallschutz", "label": "Seitenaufprallschutz", "einheit": "", "sortierung": 5 },
+    { "key": "klappbar", "label": "Klappbar", "einheit": "", "sortierung": 6 },
+    { "key": "kopfstuetze_positionen", "label": "Kopfstützen-Positionen", "einheit": "", "sortierung": 7 }
+  ],
+  "faq": [
+    { "frage": "Welcher Kindersitz ist ADAC-Testsieger 2025?", "antwort": "Im ADAC-Kindersitztest 2025 schnitt der Britax Römer Kidfix Pro mit der Note 1,8 als bester Sitz in der Klasse 100–150 cm ab. Auch der Cybex Solution G2 erzielte mit 2,1 ein gutes Ergebnis. Beide Kindersitze sind in unserem Vergleich enthalten." },
+    { "frage": "Ab wann braucht mein Kind keinen Kindersitz mehr?", "antwort": "In Deutschland gilt die Kindersitzpflicht bis zum 12. Geburtstag oder bis das Kind 150 cm groß ist — je nachdem, was zuerst eintritt. Auch danach empfiehlt der ADAC eine Sitzerhöhung, wenn das Kind noch deutlich unter 150 cm ist." },
+    { "frage": "Kann ich einen Kindersitz auch ohne ISOFIX verwenden?", "antwort": "Ja, alle vier Modelle in unserem Vergleich lassen sich mit dem normalen Dreipunktgurt des Autos befestigen. ISOFIX bietet jedoch eine stabilere Verbindung und reduziert Einbaufehler. Wenn dein Auto über ISOFIX-Verankerungen verfügt, solltest du diese nutzen." },
+    { "frage": "Was ist besser: Cybex oder Britax Römer?", "antwort": "Beide Hersteller liefern erstklassige Qualität. Cybex punktet mit innovativem Design und dem klappbaren Solution G2. Britax Römer überzeugt durch das einzigartige XP-PAD und den SICT-Seitenaufprallschutz im Kidfix Pro. Für maximale Sicherheitsfeatures ist Britax Römer die bessere Wahl, für Flexibilität und Transport Cybex." }
+  ],
+  "produkte": [
+    {
+      "name": "Kinderkraft Comfort Up i-Size",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0DPN849JF?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "6,0",
+        "altersbereich": "ca. 15 Monate – 12 Jahre",
+        "groessenbereich": "76–150",
+        "befestigung": "3-Punkt-Gurt (kein ISOFIX)",
+        "seitenaufprallschutz": "integriert (Basis)",
+        "klappbar": "Nein",
+        "kopfstuetze_positionen": "11"
+      }
+    },
+    {
+      "name": "Maxi-Cosi Tanza i-Size",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0D7PWH9B5?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "5,3",
+        "altersbereich": "ca. 3,5 – 12 Jahre",
+        "groessenbereich": "100–150",
+        "befestigung": "ISOFIX + 3-Punkt-Gurt",
+        "seitenaufprallschutz": "G-CELL Technologie",
+        "klappbar": "Ja (59,5 × 28 × 45 cm)",
+        "kopfstuetze_positionen": "10"
+      }
+    },
+    {
+      "name": "Cybex Solution G2 Plus",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0GD1NPQR6?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "5,8",
+        "altersbereich": "ca. 3 – 12 Jahre",
+        "groessenbereich": "100–150",
+        "befestigung": "ISOFIX + 3-Punkt-Gurt",
+        "seitenaufprallschutz": "L.S.P. System Plus",
+        "klappbar": "Ja (59 × 26 × 55 cm)",
+        "kopfstuetze_positionen": "12 (3-fach neigbar)"
+      }
+    },
+    {
+      "name": "Britax Römer Kidfix Pro M",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DHVH8PDJ?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "6,5",
+        "altersbereich": "ca. 3,5 – 12 Jahre",
+        "groessenbereich": "100–150",
+        "befestigung": "ISOFIX + 3-Punkt-Gurt",
+        "seitenaufprallschutz": "SecureGuard (4. Kontaktpunkt)",
+        "klappbar": "Nein",
+        "kopfstuetze_positionen": "stufenlos verstellbar"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "taschenlampe-led",
+  "kategorie": "outdoor",
+  "titel": "Taschenlampe (LED)",
+  "beschreibung": "LED-Taschenlampe Test 2026: Die 4 besten Taschenlampen im Vergleich ✓ Hell & robust ✓ Für Alltag bis Outdoor ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "taschenlampe",
+    "led taschenlampe test",
+    "taschenlampe test",
+    "taschenlampe hell",
+    "taschenlampe vergleich",
+    "beste taschenlampe",
+    "taschenlampe outdoor",
+    "taschenlampe 2026",
+    "taktische taschenlampe",
+    "mini taschenlampe"
+  ],
+  "einleitung": "Ob für den Alltag, beim Camping oder als Notfall-Ausrüstung — eine gute LED-Taschenlampe gehört in jeden Haushalt. Wir vergleichen vier Modelle von kompakt bis ultra-hell und zeigen dir, welche Lampe zu deinem Bedarf passt.",
+  "kaufberatung": "### Für wen eignet sich welche Taschenlampe?\nFür den Alltag und als Schlüsselanhänger ist die Olight i3T EOS perfekt — klein, hell genug, zuverlässig. Die Fenix PD36R ist der beste Allrounder: kompakt, hell und wiederaufladbar. Wer maximale Helligkeit braucht, greift zur Fenix TK22UE mit ihrem Fernlicht-Modus. Und für professionellen Einsatz oder Suche & Rettung ist die Olight Warrior X Pro die beste Wahl.\n\n### Wie viel Lumen brauche ich wirklich?\n100-300 Lumen reichen für den Alltag und rund ums Haus. 500-1000 Lumen sind ideal für Outdoor und Camping. Mehr als 1000 Lumen brauchst du für Suchscheinwerfer-Aufgaben oder taktischen Einsatz. Bedenke: Mehr Lumen = kürzere Akkulaufzeit.\n\n### Akku vs. Batterie bei Taschenlampen\nWiederaufladbare Modelle mit USB-C sind bequemer und günstiger im Betrieb. Für Notfall-Vorsorge sind Batterie-Lampen besser, weil Batterien jahrelang lagerbar sind. Ideal sind Lampen, die beides können.\n\n### Wasserdicht — was bedeuten die IPX-Werte?\nIPX4 reicht für Regen und Spritzwasser. IPX7 übersteht kurzes Untertauchen. IPX8 ist für Tauchen geeignet. Für normalen Outdoor-Einsatz ist IPX7 der Goldstandard.",
+  "vergleichsKategorien": [
+    {
+      "key": "lumen",
+      "label": "Max. Helligkeit",
+      "einheit": "Lumen",
+      "sortierung": 1
+    },
+    {
+      "key": "leuchtweite",
+      "label": "Max. Leuchtweite",
+      "einheit": "m",
+      "sortierung": 2
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "h",
+      "sortierung": 3
+    },
+    {
+      "key": "laenge",
+      "label": "Länge",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    },
+    {
+      "key": "wasserdicht",
+      "label": "Wasserdicht",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Taschenlampe ist die hellste?",
+      "antwort": "In unserem Vergleich ist die Fenix TK22UE mit 1600 Lumen am hellsten. Für den Alltag braucht man aber selten mehr als 500 Lumen — die Fenix PD36R bietet mit 1600 Lumen trotzdem einen guten Kompromiss aus Helligkeit und Kompaktheit."
+    },
+    {
+      "frage": "Wie lange hält der Akku einer LED-Taschenlampe?",
+      "antwort": "Das hängt stark von der Helligkeitsstufe ab. Auf niedrigster Stufe halten die meisten Lampen 50-200 Stunden. Auf maximaler Helligkeit sind es oft nur 1-2 Stunden. Für den praktischen Einsatz nutzt man meist mittlere Stufen — da halten gute Lampen 5-15 Stunden."
+    },
+    {
+      "frage": "Olight oder Fenix — welche Taschenlampe ist besser?",
+      "antwort": "Beide Marken bieten hervorragende Qualität. Olight punktet mit cleveren Features wie magnetischem Ladeport und Clip. Fenix ist bekannt für robuste Verarbeitung und lange Akkulaufzeit. Die Wahl hängt vom Einsatzzweck ab — für den Alltag Olight, für Outdoor Fenix."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Olight i3T EOS 2",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09XDKDDS5?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "200",
+        "leuchtweite": "60",
+        "akkulaufzeit": "21 (AAA)",
+        "laenge": "9",
+        "gewicht": "46",
+        "wasserdicht": "IPX8"
+      }
+    },
+    {
+      "name": "Fenix PD36R V2.0",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B8RDSPZM?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "1700",
+        "leuchtweite": "396",
+        "akkulaufzeit": "115 (Eco)",
+        "laenge": "13,6",
+        "gewicht": "137",
+        "wasserdicht": "IP68"
+      }
+    },
+    {
+      "name": "Fenix TK22UE",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08L34GYGH?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "1600",
+        "leuchtweite": "405",
+        "akkulaufzeit": "150 (Eco)",
+        "laenge": "15,4",
+        "gewicht": "153",
+        "wasserdicht": "IP68"
+      }
+    },
+    {
+      "name": "Olight Warrior X Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B084Z11S2Q?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "2100",
+        "leuchtweite": "500",
+        "akkulaufzeit": "75 (Eco)",
+        "laenge": "16,2",
+        "gewicht": "218",
+        "wasserdicht": "IPX8"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

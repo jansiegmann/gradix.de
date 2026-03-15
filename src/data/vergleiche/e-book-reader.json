@@ -1,0 +1,128 @@
+{
+  "slug": "e-book-reader",
+  "kategorie": "elektronik",
+  "titel": "E-Book-Reader",
+  "beschreibung": "E-Book-Reader Test 2026: Die 4 besten Reader im Vergleich ✓ Kindle, Tolino, Kobo ✓ Augenschonend lesen",
+  "keywords": [
+    "e-book-reader test",
+    "kindle vergleich",
+    "e-reader test 2026",
+    "tolino test",
+    "kobo test",
+    "ebook reader kaufberatung",
+    "kindle paperwhite test",
+    "e-book reader wasserdicht",
+    "bester e-reader",
+    "e-book reader vergleich"
+  ],
+  "einleitung": "E-Book-Reader machen aus deiner Bibliothek ein Taschenbuch — hunderte Bücher, augenschonendes E-Ink-Display, wochenlange Akkulaufzeit. Wir vergleichen vier Modelle vom Einstieg bis Premium.",
+  "kaufberatung": "### Kindle vs. Tolino vs. Kobo\n\nKindle ist an Amazons Ökosystem gebunden — einfach, wenn du dort kaufst. Tolino unterstützt Onleihe (Bibliotheksausleihe) und offene Formate wie EPUB. Kobo bietet die beste Hardware und das größte Formatspektrum. Wer Onleihe nutzt, kommt an Tolino oder Kobo kaum vorbei.\n\n### E-Ink: Warum ist das besser als ein Tablet?\n\nE-Ink-Displays reflektieren Licht wie Papier — kein Flimmern, kein Blaulicht, kein Augenermüden. Sie sind auch bei direkter Sonneneinstrahlung perfekt lesbar. Der Akku hält wochenlang, weil E-Ink nur beim Seitenumblättern Strom verbraucht.\n\n### Wasserschutz: IPX8 erklärt\n\nDie meisten aktuellen E-Reader sind IPX8-zertifiziert — sie überleben 60 Minuten in 2 Metern Wassertiefe. Perfekt für die Badewanne oder den Pool.\n\n### Displaygröße: 6 vs. 7 Zoll\n\n6 Zoll ist kompakt und leicht — ideal für die Handtasche. 7 Zoll bietet mehr Lesekomfort, besonders bei Comics und PDF-Dokumenten. Die 6-Zoll-Modelle wiegen typischerweise 160-180 g, 7 Zoll rund 200 g.",
+  "vergleichsKategorien": [
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "ppi",
+      "label": "Pixeldichte",
+      "einheit": "ppi",
+      "sortierung": 2
+    },
+    {
+      "key": "speicher",
+      "label": "Speicher",
+      "einheit": "GB",
+      "sortierung": 3
+    },
+    {
+      "key": "wasserschutz",
+      "label": "Wasserschutz",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    },
+    {
+      "key": "formate",
+      "label": "E-Book-Formate",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kindle oder Tolino — was ist besser?",
+      "antwort": "Kindle, wenn du ausschließlich bei Amazon kaufst und kein Onleihe brauchst. Tolino, wenn du EPUB-Dateien nutzen willst, Bücher aus verschiedenen Shops kaufst oder die Onleihe deiner Bibliothek nutzen möchtest. Hardwaretechnisch sind beide auf Augenhöhe."
+    },
+    {
+      "frage": "Kann ich auf einem E-Reader auch PDFs lesen?",
+      "antwort": "Ja, aber die Darstellung ist auf 6-Zoll-Displays oft unbefriedigend, da PDFs ein festes Layout haben. Für PDFs empfehlen wir ein 7-Zoll-Modell oder ein Tablet. E-Books im EPUB- oder AZW-Format passen sich der Displaygröße an und sind deutlich angenehmer zu lesen."
+    },
+    {
+      "frage": "Wie lange hält der Akku eines E-Readers?",
+      "antwort": "Bei normalem Lesetempo (30 Minuten pro Tag) halten aktuelle E-Reader 4-8 Wochen mit einer Ladung. Das liegt am sparsamen E-Ink-Display, das nur beim Umblättern Strom verbraucht. Selbst Vielleser kommen locker 2-3 Wochen durch."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Kindle (2024)",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CNV9BSMX?tag=janxsiegmann-21",
+      "werte": {
+        "display": "6 Zoll E-Ink",
+        "ppi": "300",
+        "speicher": "16",
+        "wasserschutz": "Nein",
+        "gewicht": "158",
+        "formate": "AZW, MOBI, PDF"
+      }
+    },
+    {
+      "name": "Tolino Shine 5",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0DQJYWYHB?tag=janxsiegmann-21",
+      "werte": {
+        "display": "6 Zoll E-Ink Carta 1300",
+        "ppi": "300",
+        "speicher": "16",
+        "wasserschutz": "IPX8",
+        "gewicht": "173",
+        "formate": "EPUB, PDF, TXT"
+      }
+    },
+    {
+      "name": "Kindle Paperwhite Signature Edition",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CFPJYX56?tag=janxsiegmann-21",
+      "werte": {
+        "display": "7 Zoll E-Ink",
+        "ppi": "300",
+        "speicher": "32",
+        "wasserschutz": "IPX8",
+        "gewicht": "211",
+        "formate": "AZW, MOBI, PDF"
+      }
+    },
+    {
+      "name": "Kobo Libra Colour",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0D1FSTZ9H?tag=janxsiegmann-21",
+      "werte": {
+        "display": "7 Zoll E-Ink Kaleido 3 (Farbe)",
+        "ppi": "300 (s/w) / 150 (Farbe)",
+        "speicher": "32",
+        "wasserschutz": "IPX8",
+        "gewicht": "199",
+        "formate": "EPUB, PDF, MOBI, CBZ"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

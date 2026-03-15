@@ -1,0 +1,128 @@
+{
+  "slug": "akku-staubsauger",
+  "kategorie": "haushalt",
+  "titel": "Akku-Staubsauger (kabellos)",
+  "beschreibung": "Akku-Staubsauger Test 2026: Die 4 besten kabellosen Staubsauger ✓ Dyson & Co. ✓ Kaufberatung",
+  "keywords": [
+    "akku staubsauger",
+    "akku staubsauger test",
+    "kabelloser staubsauger",
+    "staubsauger kabellos test",
+    "dyson staubsauger",
+    "akku staubsauger vergleich",
+    "bester akku staubsauger",
+    "staubsauger ohne kabel",
+    "akku staubsauger testsieger",
+    "akku staubsauger 2026"
+  ],
+  "einleitung": "Kabellos saugen mit voller Power — Akku-Staubsauger sind die Zukunft der Bodenreinigung. Wir vergleichen vier Modelle vom günstigen Einstieg bis zum Premium-Dyson und zeigen, worauf es bei Akkulaufzeit, Saugkraft und Handhabung wirklich ankommt.",
+  "kaufberatung": "### Saugkraft: Pa oder Watt?\nDie Saugkraft wird in Pascal (Pa) gemessen — je höher, desto stärker. 20.000 Pa reichen für Hartböden und leichte Teppiche. Für Hochflorteppiche oder Tierhaare sollten es 25.000+ Pa sein. Watt-Angaben sagen über die reine Saugkraft wenig aus.\n\n### Akkulaufzeit realistisch einschätzen\nHersteller geben die Laufzeit im Eco-Modus an. Im Boost-Modus (volle Saugkraft) halbiert sich die Laufzeit oft. Plane mit 20-30 Minuten realer Laufzeit bei normaler Nutzung. Für Wohnungen über 80 m² empfiehlt sich ein Modell mit Wechselakku.\n\n### Staubbehälter oder Beutel?\nDie meisten Akku-Staubsauger sind beutellos mit Zyklontechnologie. Vorteil: Keine Folgekosten für Beutel. Nachteil: Beim Entleeren wirbelt Staub auf — für Allergiker problematisch. Einige Modelle bieten eine Absaugstation, die den Behälter automatisch entleert.\n\n### Gewicht und Balance\nEin Akku-Staubsauger sollte nicht mehr als 2,5 kg wiegen (ohne Bodendüse), damit das Saugen an Decken und Möbeln nicht zur Tortur wird. Achte auf eine gute Gewichtsverteilung — der Schwerpunkt sollte möglichst nah am Griff liegen.\n\n### Filterung: HEPA ist Pflicht für Allergiker\nHEPA-Filter fangen 99,97% aller Partikel ab 0,3 µm ein — wichtig für Allergiker und Haushalte mit Haustieren. Achte darauf, dass das gesamte System abgedichtet ist, nicht nur der Filter selbst.",
+  "vergleichsKategorien": [
+    {
+      "key": "saugkraft",
+      "label": "Saugkraft",
+      "einheit": "Pa",
+      "sortierung": 1
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "Min.",
+      "sortierung": 2
+    },
+    {
+      "key": "ladezeit",
+      "label": "Ladezeit",
+      "einheit": "Std.",
+      "sortierung": 3
+    },
+    {
+      "key": "staubbeh_volumen",
+      "label": "Staubbehälter",
+      "einheit": "L",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "filter",
+      "label": "Filtersystem",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Sind Akku-Staubsauger so stark wie kabelgebundene Modelle?",
+      "antwort": "Premium-Akku-Staubsauger wie der Dyson V15 oder Samsung Jet erreichen inzwischen eine Saugkraft, die mit vielen Kabelmodellen mithalten kann. Für Hartböden sind sie absolut gleichwertig. Auf Hochflorteppichen haben starke Kabelmodelle aber oft noch einen Vorteil."
+    },
+    {
+      "frage": "Wie oft muss ich den Akku eines Akku-Staubsaugers ersetzen?",
+      "antwort": "Lithium-Ionen-Akkus halten typischerweise 2-3 Jahre bei regelmäßiger Nutzung, bevor die Kapazität merklich nachlässt. Ersatzakkus kosten je nach Modell 50-120 Euro. Tipp: Lade den Akku nicht immer auf 100% und vermeide Tiefentladung — das verlängert die Lebensdauer."
+    },
+    {
+      "frage": "Lohnt sich eine Absaugstation für den Akku-Staubsauger?",
+      "antwort": "Wenn du Allergiker bist oder einfach keinen Staub beim Entleeren aufwirbeln willst, ja. Die Station saugt den Staubbehälter automatisch leer und hält den Staub in einem geschlossenen Beutel. Modelle wie der Samsung Bespoke Jet bieten das ab Werk."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Dreame V12",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B6H33ZBH?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "27.000",
+        "akkulaufzeit": "90",
+        "ladezeit": "4",
+        "staubbeh_volumen": "0,5",
+        "gewicht": "1,6",
+        "filter": "5-stufige Filterung"
+      }
+    },
+    {
+      "name": "Samsung Bespoke Jet",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B14VJN4Q?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "210",
+        "akkulaufzeit": "60",
+        "ladezeit": "3,5",
+        "staubbeh_volumen": "0,5",
+        "gewicht": "1,8",
+        "filter": "HEPA + Absaugstation"
+      }
+    },
+    {
+      "name": "Dyson V12 Detect Slim",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BB6PWFBJ?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "150",
+        "akkulaufzeit": "60",
+        "ladezeit": "4,5",
+        "staubbeh_volumen": "0,35",
+        "gewicht": "2,2",
+        "filter": "HEPA (ganzes Gerät)"
+      }
+    },
+    {
+      "name": "Dyson V15 Detect Absolute",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CH4K2R9B?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "240",
+        "akkulaufzeit": "60",
+        "ladezeit": "4,5",
+        "staubbeh_volumen": "0,76",
+        "gewicht": "2,6",
+        "filter": "HEPA (ganzes Gerät) + Laser-Stauberkennung"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

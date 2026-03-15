@@ -1,0 +1,191 @@
+{
+  "slug": "drucker",
+  "kategorie": "buero",
+  "titel": "Drucker (Tintenstrahl/Laser)",
+  "beschreibung": "Drucker Test 2026: Die 4 besten Drucker im Vergleich ✓ Tintenstrahl & Laser ✓ Kaufberatung",
+  "keywords": [
+    "drucker test",
+    "drucker vergleich",
+    "laserdrucker test",
+    "tintenstrahldrucker kaufberatung",
+    "bester drucker 2026"
+  ],
+  "einleitung": "Du suchst einen Drucker für Zuhause oder das Homeoffice — aber welcher Typ passt zu dir: Tintenstrahl, Laser, Tank-System? Wir vergleichen vier empfehlenswerte Modelle und zeigen, welcher für wen am besten geeignet ist.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDie Auswahl hängt von deinem Budget und deinen Anforderungen ab. Das Budget-Modell reicht für gelegentliche Nutzung, die Mittelklasse bietet das beste Preis-Leistungs-Verhältnis, das Premium-Modell deckt anspruchsvolle Anwendungen ab und das Profi-Gerät ist für Enthusiasten.\n\n### Worauf solltest du beim Kauf achten?\nAchte auf die Verarbeitung, die wichtigsten technischen Daten und lies Nutzerbewertungen — dort findest du oft die ehrlichsten Einschätzungen. Ein teureres Produkt ist nicht automatisch besser, aber Qualität hat meist ihren Preis.\n\n### Lohnt sich das Profi-Modell?\nNur wenn du die zusätzlichen Features wirklich nutzt. Für die meisten Anwender ist die Mittelklasse oder das Premium-Modell die klügste Wahl.\n\n### Was ist im Lieferumfang enthalten?\nDas variiert stark — manche Hersteller liefern umfangreiches Zubehör mit, andere sparen daran. Prüfe vor dem Kauf, ob du noch Zusatzteile brauchst.",
+  "vergleichsKategorien": [
+    {
+      "key": "druckart",
+      "label": "Druckart",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "funktionen",
+      "label": "Funktionen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "druckgeschwindigkeit",
+      "label": "Druckgeschw.",
+      "einheit": "S./Min.",
+      "sortierung": 3
+    },
+    {
+      "key": "duplex",
+      "label": "Duplexdruck",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "kosten_pro_seite",
+      "label": "Kosten pro Seite",
+      "einheit": "Cent",
+      "sortierung": 6
+    },
+    {
+      "key": "papierformat",
+      "label": "Max. Papierformat",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Drucker (Tintenstrahl/Laser) ist die beste für Einsteiger?",
+      "antwort": "Für Einsteiger empfehlen wir das Budget- oder Mittelklasse-Modell in unserem Vergleich. Diese bieten das beste Preis-Leistungs-Verhältnis und sind für die meisten Anwendungsfälle ausreichend."
+    },
+    {
+      "frage": "Lohnt sich eine teure Drucker (Tintenstrahl/Laser)?",
+      "antwort": "Das kommt auf deine Anforderungen an. Die Premium- und Profi-Modelle bieten spürbar bessere Qualität und Features, die sich im Alltag bemerkbar machen. Wer das Gerät intensiv nutzt, wird den Unterschied schätzen."
+    },
+    {
+      "frage": "Wo kaufe ich am besten eine Drucker (Tintenstrahl/Laser)?",
+      "antwort": "Amazon bietet die größte Auswahl und einfache Rückgabe. Die Preise auf Amazon sind in der Regel wettbewerbsfähig. Alle Links in unserem Vergleich führen direkt zur Amazon-Produktseite."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "HP DeskJet 2820e",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0C3GWDSXC?tag=janxsiegmann-21",
+      "preis": 55,
+      "bewertung": 4.0,
+      "werte": {
+        "druckart": "Tintenstrahl",
+        "funktionen": "Drucken, Scannen, Kopieren",
+        "druckgeschwindigkeit": "7,5",
+        "duplex": "Nein",
+        "verbindung": "WLAN, USB",
+        "kosten_pro_seite": "~8 (Farbe)",
+        "papierformat": "A4"
+      },
+      "vorteile": [
+        "Sehr günstig in der Anschaffung",
+        "WLAN-Druck direkt eingerichtet",
+        "Kompakt"
+      ],
+      "nachteile": [
+        "Hohe Folgekosten (Tintenpatronen)",
+        "Kein Duplex",
+        "Langsam"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Epson EcoTank ET-2860",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B2M5HL8C?tag=janxsiegmann-21",
+      "preis": 230,
+      "bewertung": 4.0,
+      "werte": {
+        "druckart": "Tintenstrahl (Tank)",
+        "funktionen": "Drucken, Scannen, Kopieren",
+        "druckgeschwindigkeit": "10,5",
+        "duplex": "Ja (automatisch)",
+        "verbindung": "WLAN, USB, Wi-Fi Direct",
+        "kosten_pro_seite": "~0,3 (Farbe)",
+        "papierformat": "A4"
+      },
+      "vorteile": [
+        "Extrem niedrige Seitenkosten (0,3 Cent!)",
+        "Tintentanks statt Patronen",
+        "Duplexdruck"
+      ],
+      "nachteile": [
+        "Höherer Anschaffungspreis",
+        "Fotodruck nur mittelmäßig",
+        "Größer als Patronendrucker"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "HP LaserJet M209dw",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09S81RNY3?tag=janxsiegmann-21",
+      "preis": 180,
+      "bewertung": 4.0,
+      "werte": {
+        "druckart": "Monochrom-Laser",
+        "funktionen": "Drucken",
+        "druckgeschwindigkeit": "29",
+        "duplex": "Ja (automatisch)",
+        "verbindung": "WLAN, USB, Ethernet",
+        "kosten_pro_seite": "~3 (s/w)",
+        "papierformat": "A4"
+      },
+      "vorteile": [
+        "Blitzschnell (29 S./Min.)",
+        "Gestochen scharfer Textdruck",
+        "Ethernet-Anschluss",
+        "Duplexdruck"
+      ],
+      "nachteile": [
+        "Nur Schwarzweiß",
+        "Kein Scanner/Kopierer",
+        "Toner-Erstbefüllung reicht nicht lange"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Brother MFC-L3760CDW",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BYJF5WHM?tag=janxsiegmann-21",
+      "preis": 430,
+      "bewertung": 4.0,
+      "werte": {
+        "druckart": "Farblaser",
+        "funktionen": "Drucken, Scannen, Kopieren, Faxen",
+        "druckgeschwindigkeit": "26",
+        "duplex": "Ja (automatisch)",
+        "verbindung": "WLAN, USB, Ethernet, NFC",
+        "kosten_pro_seite": "~4 (Farbe)",
+        "papierformat": "A4"
+      },
+      "vorteile": [
+        "Farblaser — schnell und wischfest",
+        "Alle Funktionen inkl. Fax",
+        "Touchscreen",
+        "NFC für mobiles Drucken"
+      ],
+      "nachteile": [
+        "Hoher Anschaffungspreis",
+        "Fotoqualität nicht auf Tintenstrahl-Niveau",
+        "Toner teuer in der Erstanschaffung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

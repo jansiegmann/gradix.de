@@ -1,0 +1,118 @@
+{
+  "slug": "wlan-repeater-mesh-system",
+  "kategorie": "elektronik",
+  "titel": "WLAN-Repeater / Mesh-System",
+  "beschreibung": "WLAN-Repeater & Mesh Test 2026: Die 4 besten Systeme ✓ Mehr Reichweite ✓ Kein Funkloch mehr",
+  "keywords": [
+    "wlan repeater test",
+    "mesh system test",
+    "wlan verstärker",
+    "mesh wlan vergleich",
+    "fritz repeater test",
+    "wlan mesh system 2026",
+    "wlan reichweite verbessern",
+    "mesh router vergleich",
+    "wlan extender test",
+    "wlan repeater kaufberatung"
+  ],
+  "einleitung": "WLAN-Funklöcher im Haus? Ein Repeater oder Mesh-System schafft Abhilfe. Wir vergleichen vier Lösungen — vom einfachen Repeater bis zum Premium-Mesh-System für große Häuser.",
+  "kaufberatung": "### Repeater vs. Mesh: Was ist der Unterschied?\n\nEin klassischer Repeater empfängt das WLAN-Signal und sendet es weiter — dabei halbiert sich die Geschwindigkeit. Ein Mesh-System ist intelligenter: Mehrere gleichwertige Zugangspunkte bilden ein Netzwerk, in dem sich Geräte automatisch mit dem stärksten Punkt verbinden. Für große Wohnungen und Häuser ist Mesh klar die bessere Wahl.\n\n### Wie viele Mesh-Punkte brauche ich?\n\nAls Faustregel: Ein Mesh-Punkt deckt ca. 80-120 m² ab. Für ein Einfamilienhaus mit 150 m² reichen meist 2 Punkte (Router + 1 Satellite). Bei 3 Stockwerken empfehlen sich 3 Punkte.\n\n### Dedicated Backhaul — warum ist das wichtig?\n\nBei Tri-Band-Mesh-Systemen wird ein Frequenzband exklusiv für die Kommunikation zwischen den Mesh-Punkten reserviert. Das verhindert Geschwindigkeitsverluste. Günstigere Dual-Band-Systeme teilen sich die Bandbreite mit deinen Geräten.\n\n### Fritz!Repeater im Fritz!Mesh\n\nWenn du bereits eine Fritz!Box hast, ist der einfachste Weg ein Fritz!Repeater. Diese bilden automatisch ein Fritz!Mesh-Netzwerk. Der Nachteil: Fritz!Repeater sind echte Repeater, kein vollwertiges Mesh. Die Geschwindigkeit halbiert sich trotzdem.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "wlan_standard",
+      "label": "WLAN-Standard",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "geschwindigkeit",
+      "label": "Max. Geschwindigkeit",
+      "einheit": "Mbit/s",
+      "sortierung": 3
+    },
+    {
+      "key": "frequenzbaender",
+      "label": "Frequenzbänder",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "abdeckung",
+      "label": "Abdeckung",
+      "einheit": "m²",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Was ist besser: WLAN-Repeater oder Mesh-System?",
+      "antwort": "Für kleine Wohnungen reicht ein Repeater. Für große Wohnungen und Häuser ist ein Mesh-System die deutlich bessere Wahl, da es intelligenter verteilt und keine Geschwindigkeit halbiert. Mesh kostet mehr, liefert aber stabileres und schnelleres WLAN."
+    },
+    {
+      "frage": "Kann ich verschiedene Mesh-Systeme kombinieren?",
+      "antwort": "Grundsätzlich nein — Mesh-Punkte müssen vom gleichen Hersteller sein. Ausnahme: EasyMesh-kompatible Geräte verschiedener Hersteller können theoretisch zusammenarbeiten, in der Praxis gibt es aber oft Kompatibilitätsprobleme."
+    },
+    {
+      "frage": "Wo stelle ich meinen Mesh-Satellite am besten auf?",
+      "antwort": "Ideal ist die Mitte zwischen Router und dem Bereich mit schlechtem Empfang. Nicht in Schränke oder hinter Möbel stellen. Die Mesh-Punkte sollten sich gegenseitig noch gut empfangen können — als Faustregel maximal 10-15 Meter und nicht mehr als 1-2 Wände dazwischen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "AVM Fritz!Repeater 1200 AX",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09N3P75VN?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Repeater",
+        "wlan_standard": "WiFi 6",
+        "geschwindigkeit": "1200",
+        "frequenzbaender": "Dual-Band",
+        "abdeckung": "ca. 50-80"
+      }
+    },
+    {
+      "name": "AVM Fritz!Repeater 6000",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09N3LDQGG?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Repeater (Tri-Band)",
+        "wlan_standard": "WiFi 6",
+        "geschwindigkeit": "6000",
+        "frequenzbaender": "Tri-Band",
+        "abdeckung": "ca. 80-120"
+      }
+    },
+    {
+      "name": "TP-Link Deco XE75 (2er-Pack)",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09YM151H1?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Mesh-System",
+        "wlan_standard": "WiFi 6E",
+        "geschwindigkeit": "5400",
+        "frequenzbaender": "Tri-Band (inkl. 6 GHz)",
+        "abdeckung": "ca. 280"
+      }
+    },
+    {
+      "name": "Netgear Orbi 970 (2er-Pack)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0D8P2FHTY?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Mesh-System",
+        "wlan_standard": "WiFi 7",
+        "geschwindigkeit": "27000",
+        "frequenzbaender": "Quad-Band",
+        "abdeckung": "ca. 465"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

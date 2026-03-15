@@ -1,0 +1,128 @@
+{
+  "slug": "led-strip-lichtleiste",
+  "kategorie": "beleuchtung",
+  "titel": "LED-Strip / LED-Lichtleiste",
+  "beschreibung": "LED-Strip Test 2026: Die 4 besten LED-Streifen im Vergleich ✓ RGB & Smart ✓ Für jedes Zimmer ✓ Kaufberatung",
+  "keywords": [
+    "led strip test",
+    "led lichtleiste test",
+    "led streifen vergleich",
+    "led strip rgb",
+    "led strip smart",
+    "philips hue lightstrip",
+    "led strip alexa",
+    "led strip test 2026",
+    "led lichtband",
+    "led strip kaufberatung"
+  ],
+  "einleitung": "LED-Strips verwandeln jedes Zimmer in eine Stimmungsoase — ob hinter dem TV, unter Küchenschränken oder als indirekte Beleuchtung. Die Unterschiede bei Helligkeit, Farbqualität und Smart-Home-Integration sind aber enorm.",
+  "kaufberatung": "### RGB, RGBW oder RGBWW?\nRGB-Strips mischen Rot, Grün und Blau — das ergibt viele Farben, aber kein echtes Warmweiß. RGBW-Strips haben eine zusätzliche weiße LED für natürliches Weiß. RGBWW hat zwei Weißtöne (warm + kalt) für die beste Farbwiedergabe.\n\n### Smart-Home-Integration\nPhilips Hue arbeitet mit Zigbee und braucht eine Bridge — dafür die beste App und Automation. Govee nutzt WLAN und Bluetooth — günstiger und ohne Bridge. Beide unterstützen Alexa und Google Home.\n\n### Helligkeit: Lumen pro Meter\nFür Ambient-Beleuchtung reichen 500 lm/m. Für Arbeitslicht unter Küchenschränken brauchst du 1.000+ lm/m. Achte auf die Angabe pro Meter, nicht für den gesamten Strip.\n\n### Länge und Kürzbarkeit\nDie meisten Strips lassen sich an markierten Stellen kürzen — ohne Löten. Manche können auch verlängert werden. Plane die Länge großzügig — zu kurz ist ärgerlicher als zu lang.\n\n### Selbstklebend: Wie gut hält das?\nDie meisten Strips haben 3M-Klebeband auf der Rückseite. Auf glatten, sauberen Oberflächen hält das gut. Auf rauen oder staubigen Wänden brauchst du zusätzliche Befestigungsclips.",
+  "vergleichsKategorien": [
+    {
+      "key": "laenge",
+      "label": "Länge",
+      "einheit": "m",
+      "sortierung": 1
+    },
+    {
+      "key": "farben",
+      "label": "Farbtyp",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit",
+      "einheit": "lm/m",
+      "sortierung": 3
+    },
+    {
+      "key": "smart_home",
+      "label": "Smart Home",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "steuerung",
+      "label": "Steuerung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "kuerzbar",
+      "label": "Kürzbar",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher LED-Strip ist am hellsten?",
+      "antwort": "Für maximale Helligkeit empfehlen wir den Philips Hue Lightstrip Plus mit über 1.600 Lumen pro Meter. Govee-Strips bieten ebenfalls gute Helligkeit zu einem günstigeren Preis."
+    },
+    {
+      "frage": "Kann ich LED-Strips im Badezimmer verwenden?",
+      "antwort": "Nur wenn sie die Schutzart IP65 oder höher haben (spritzwassergeschützt). Standard-Strips mit IP20 sind nicht für Feuchträume geeignet. Achte auf die IP-Angabe in der Produktbeschreibung."
+    },
+    {
+      "frage": "Verbrauchen LED-Strips viel Strom?",
+      "antwort": "LED-Strips sind sehr energieeffizient. Ein 5-Meter-Strip verbraucht typisch 20–30 Watt — das sind bei 8 Stunden täglicher Nutzung etwa 2–3 Euro pro Monat. Deutlich weniger als eine herkömmliche Glühbirne."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Govee LED Strip 5m RGB",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07TJXZNLG?tag=janxsiegmann-21",
+      "werte": {
+        "laenge": "5",
+        "farben": "RGB",
+        "helligkeit": "ca. 400",
+        "smart_home": "Ja (WLAN + Bluetooth)",
+        "steuerung": "App + Fernbedienung + Alexa/Google",
+        "kuerzbar": "Ja"
+      }
+    },
+    {
+      "name": "Govee RGBIC LED Strip 5m",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09BFNTLHK?tag=janxsiegmann-21",
+      "werte": {
+        "laenge": "5",
+        "farben": "RGBIC (segmentiert)",
+        "helligkeit": "ca. 500",
+        "smart_home": "Ja (WLAN + Bluetooth)",
+        "steuerung": "App + Alexa/Google + Musiksync",
+        "kuerzbar": "Nein (segmentiert)"
+      }
+    },
+    {
+      "name": "Philips Hue Lightstrip Plus V4",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09MTWBKKD?tag=janxsiegmann-21",
+      "werte": {
+        "laenge": "2 (erweiterbar auf 10)",
+        "farben": "RGBWW (16 Mio. Farben)",
+        "helligkeit": "ca. 1.600",
+        "smart_home": "Ja (Zigbee, Bridge nötig)",
+        "steuerung": "Hue App + Alexa/Google/HomeKit",
+        "kuerzbar": "Ja"
+      }
+    },
+    {
+      "name": "Govee RGBICWW LED Strip 5m Pro",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BX5N3TQ7?tag=janxsiegmann-21",
+      "werte": {
+        "laenge": "5",
+        "farben": "RGBICWW (segmentiert + Weiß)",
+        "helligkeit": "ca. 800",
+        "smart_home": "Ja (WLAN + Bluetooth + Matter)",
+        "steuerung": "App + Alexa/Google/HomeKit + Musiksync",
+        "kuerzbar": "Nein (segmentiert)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

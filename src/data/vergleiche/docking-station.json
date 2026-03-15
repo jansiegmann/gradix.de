@@ -1,0 +1,191 @@
+{
+  "slug": "docking-station",
+  "kategorie": "buero",
+  "titel": "Docking-Station (USB-C)",
+  "beschreibung": "USB-C Docking-Station Test 2026: Die 4 besten Docks im Vergleich ✓ Kaufberatung",
+  "keywords": [
+    "docking station test",
+    "usb-c dock vergleich",
+    "docking station laptop",
+    "thunderbolt dock",
+    "docking station 2026"
+  ],
+  "einleitung": "Du suchst eine USB-C Docking-Station, die aus deinem Laptop einen vollwertigen Desktop macht — mit externen Monitoren, Peripherie und Laden über ein Kabel? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDie Auswahl hängt von deinem Budget und deinen Anforderungen ab. Das Budget-Modell reicht für gelegentliche Nutzung, die Mittelklasse bietet das beste Preis-Leistungs-Verhältnis, das Premium-Modell deckt anspruchsvolle Anwendungen ab und das Profi-Gerät ist für Enthusiasten.\n\n### Worauf solltest du beim Kauf achten?\nAchte auf die Verarbeitung, die wichtigsten technischen Daten und lies Nutzerbewertungen — dort findest du oft die ehrlichsten Einschätzungen. Ein teureres Produkt ist nicht automatisch besser, aber Qualität hat meist ihren Preis.\n\n### Lohnt sich das Profi-Modell?\nNur wenn du die zusätzlichen Features wirklich nutzt. Für die meisten Anwender ist die Mittelklasse oder das Premium-Modell die klügste Wahl.\n\n### Was ist im Lieferumfang enthalten?\nDas variiert stark — manche Hersteller liefern umfangreiches Zubehör mit, andere sparen daran. Prüfe vor dem Kauf, ob du noch Zusatzteile brauchst.",
+  "vergleichsKategorien": [
+    {
+      "key": "anschluesse",
+      "label": "Anschlüsse gesamt",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "monitore",
+      "label": "Max. Monitore",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "max_aufloesung",
+      "label": "Max. Auflösung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "power_delivery",
+      "label": "Power Delivery",
+      "einheit": "W",
+      "sortierung": 4
+    },
+    {
+      "key": "ethernet",
+      "label": "Ethernet",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "kartenleser",
+      "label": "Kartenleser",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "protokoll",
+      "label": "Protokoll",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Docking-Station (USB-C) ist die beste für Einsteiger?",
+      "antwort": "Für Einsteiger empfehlen wir das Budget- oder Mittelklasse-Modell in unserem Vergleich. Diese bieten das beste Preis-Leistungs-Verhältnis und sind für die meisten Anwendungsfälle ausreichend."
+    },
+    {
+      "frage": "Lohnt sich eine teure Docking-Station (USB-C)?",
+      "antwort": "Das kommt auf deine Anforderungen an. Die Premium- und Profi-Modelle bieten spürbar bessere Qualität und Features, die sich im Alltag bemerkbar machen. Wer das Gerät intensiv nutzt, wird den Unterschied schätzen."
+    },
+    {
+      "frage": "Wo kaufe ich am besten eine Docking-Station (USB-C)?",
+      "antwort": "Amazon bietet die größte Auswahl und einfache Rückgabe. Die Preise auf Amazon sind in der Regel wettbewerbsfähig. Alle Links in unserem Vergleich führen direkt zur Amazon-Produktseite."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Anker 553 USB-C Hub",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0C7DK4LHR?tag=janxsiegmann-21",
+      "preis": 50,
+      "bewertung": 4.0,
+      "werte": {
+        "anschluesse": "8",
+        "monitore": "1",
+        "max_aufloesung": "4K@30Hz",
+        "power_delivery": "100",
+        "ethernet": "Gigabit",
+        "kartenleser": "SD + microSD",
+        "protokoll": "USB-C 3.2"
+      },
+      "vorteile": [
+        "Sehr günstig",
+        "Kompakt und tragbar",
+        "100W Power Delivery"
+      ],
+      "nachteile": [
+        "Nur 1 Monitor",
+        "4K nur bei 30Hz",
+        "Kein Thunderbolt"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "CalDigit USB-C SOHO Dock",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0B5HKH8ZB?tag=janxsiegmann-21",
+      "preis": 100,
+      "bewertung": 4.0,
+      "werte": {
+        "anschluesse": "7",
+        "monitore": "2",
+        "max_aufloesung": "4K@60Hz + 4K@30Hz",
+        "power_delivery": "100",
+        "ethernet": "Nein",
+        "kartenleser": "SD + microSD (UHS-II)",
+        "protokoll": "USB-C 3.2"
+      },
+      "vorteile": [
+        "Dual-Monitor mit einem Kabel",
+        "UHS-II Kartenleser",
+        "Hochwertige Verarbeitung"
+      ],
+      "nachteile": [
+        "Kein Ethernet",
+        "Kein Thunderbolt",
+        "Nur 7 Anschlüsse"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "CalDigit TS4 Thunderbolt 4",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09GK8LBWS?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 4.0,
+      "werte": {
+        "anschluesse": "18",
+        "monitore": "2 (oder 1× 8K)",
+        "max_aufloesung": "Dual 4K@60Hz / 1× 8K",
+        "power_delivery": "98",
+        "ethernet": "2,5 GbE",
+        "kartenleser": "SD 4.0 (UHS-II)",
+        "protokoll": "Thunderbolt 4 / USB4"
+      },
+      "vorteile": [
+        "18 Anschlüsse",
+        "Thunderbolt 4",
+        "2,5 GbE Ethernet",
+        "Referenz-Dockingstation"
+      ],
+      "nachteile": [
+        "Hoher Preis",
+        "Braucht Thunderbolt-kompatiblen Laptop",
+        "Groß und schwer"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Plugable TBT4-UDZ",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CBYRD7T7?tag=janxsiegmann-21",
+      "preis": 400,
+      "bewertung": 4.0,
+      "werte": {
+        "anschluesse": "16",
+        "monitore": "3 (oder 2× 4K@120Hz)",
+        "max_aufloesung": "Bis 4K@120Hz / 8K@30Hz",
+        "power_delivery": "140",
+        "ethernet": "2,5 GbE",
+        "kartenleser": "SD 4.0",
+        "protokoll": "Thunderbolt 4 / USB4"
+      },
+      "vorteile": [
+        "140W Power Delivery — auch für Gaming-Laptops",
+        "Bis zu 3 Monitore",
+        "4K@120Hz Unterstützung",
+        "Thunderbolt 4"
+      ],
+      "nachteile": [
+        "Höchster Preis",
+        "Nur mit Thunderbolt 4 voll nutzbar",
+        "Weniger bekannte Marke"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

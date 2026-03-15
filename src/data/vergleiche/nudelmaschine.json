@@ -1,0 +1,118 @@
+{
+  "slug": "nudelmaschine",
+  "kategorie": "kueche",
+  "titel": "Nudelmaschine",
+  "beschreibung": "Nudelmaschine Test 2026: Die 4 besten Pastamaschinen im Vergleich ✓ Manuell & elektrisch ✓ Kaufberatung",
+  "keywords": [
+    "nudelmaschine",
+    "nudelmaschine test",
+    "pastamaschine",
+    "nudelmaschine elektrisch",
+    "nudelmaschine manuell",
+    "pasta selber machen",
+    "nudelmaschine vergleich",
+    "beste nudelmaschine",
+    "pastamaker test",
+    "nudelmaschine 2026"
+  ],
+  "einleitung": "Frische Pasta selber machen wie in Italien — mit der richtigen Nudelmaschine geht das einfacher als gedacht. Ob manuell mit Kurbel oder vollelektrisch: Wir vergleichen vier Modelle für Pasta-Einsteiger und Profis.",
+  "kaufberatung": "### Manuell oder elektrisch?\nManuelle Nudelmaschinen mit Kurbel sind günstiger, bieten mehr Kontrolle über die Teigdicke und haben eine fast unbegrenzte Lebensdauer. Elektrische Maschinen sind bequemer, besonders wenn du regelmäßig große Mengen Pasta herstellst. Für Einsteiger empfehlen wir manuell.\n\n### Walze oder Extruder?\nWalz-Maschinen rollen den Teig flach aus — daraus machst du Tagliatelle, Lasagne oder Ravioli. Extruder pressen den Teig durch Formen und machen Penne, Fusilli oder Spaghetti. Walz-Maschinen sind vielseitiger und liefern bessere Ergebnisse.\n\n### Material: Edelstahl schlägt Kunststoff\nEdelstahl-Nudelmaschinen sind robuster, hygienischer und halten ein Leben lang. Kunststoff-Modelle sind leichter und günstiger, aber weniger langlebig. Für den regelmäßigen Einsatz lohnt sich Edelstahl.\n\n### Walzenbreite und Nudelaufsätze\nDie Standard-Walzenbreite ist 150 mm — das reicht für die meisten Pastasorten. Breitere Walzen (180 mm) sind praktisch für Lasagne. Achte auf die verfügbaren Aufsätze: Tagliatelle und Fettuccine sind Standard, Spaghetti oder Angel Hair oft optional.\n\n### Pflege: Niemals mit Wasser reinigen\nEine Nudelmaschine wird nicht gewaschen! Lass Teigreste trocknen und bürste sie ab. Wasser lässt den verbleibenden Teig quellen und rostet die Mechanik. Ein trockener Pinsel oder Zahnstocher genügt.",
+  "vergleichsKategorien": [
+    {
+      "key": "antrieb",
+      "label": "Antrieb",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "walzenbreite",
+      "label": "Walzenbreite",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "dickeneinstellungen",
+      "label": "Dickeneinstellungen",
+      "einheit": "Stufen",
+      "sortierung": 3
+    },
+    {
+      "key": "mitgelieferte_aufsaetze",
+      "label": "Mitgelieferte Aufsätze",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Mehl eignet sich am besten für die Nudelmaschine?",
+      "antwort": "Für klassische italienische Pasta: Semola di grano duro (Hartweizengrieß) oder eine Mischung aus Semola und Tipo-00-Mehl. Für Eiernudeln: normales Weizenmehl Typ 405 oder 550 funktioniert gut. Der Teig sollte fest und nicht klebrig sein."
+    },
+    {
+      "frage": "Kann ich glutenfreie Pasta mit einer Nudelmaschine machen?",
+      "antwort": "Ja, aber glutenfreier Teig ist deutlich schwieriger zu verarbeiten, da er weniger elastisch ist. Mische etwas Xanthan zum Mehl (ca. 1 TL pro 100 g) für bessere Bindung. Manuelle Maschinen sind hier geduldiger als elektrische."
+    },
+    {
+      "frage": "Wie reinige ich eine Nudelmaschine richtig?",
+      "antwort": "Niemals mit Wasser! Lass Teigreste antrocknen und entferne sie mit einem trockenen Pinsel oder Zahnstocher. Für schwer erreichbare Stellen hilft ein Stück trockener Teig, der die Reste aufnimmt. Einmal pro Jahr die Walzen mit einem Tropfen lebensmittelechtem Öl pflegen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Todeco Nudelmaschine Edelstahl",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07WDF42H5?tag=janxsiegmann-21",
+      "werte": {
+        "antrieb": "Manuell (Kurbel)",
+        "walzenbreite": "150",
+        "dickeneinstellungen": "9",
+        "mitgelieferte_aufsaetze": "Tagliatelle + Fettuccine",
+        "material": "Edelstahl"
+      }
+    },
+    {
+      "name": "Marcato Atlas 150",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0009U5OSO?tag=janxsiegmann-21",
+      "werte": {
+        "antrieb": "Manuell (Kurbel)",
+        "walzenbreite": "150",
+        "dickeneinstellungen": "10",
+        "mitgelieferte_aufsaetze": "Tagliatelle + Fettuccine",
+        "material": "Edelstahl (Made in Italy)"
+      }
+    },
+    {
+      "name": "Marcato Atlas 150 Motor",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B002ITSM2O?tag=janxsiegmann-21",
+      "werte": {
+        "antrieb": "Elektrisch (Motorantrieb)",
+        "walzenbreite": "150",
+        "dickeneinstellungen": "10",
+        "mitgelieferte_aufsaetze": "Tagliatelle + Fettuccine + Motor",
+        "material": "Edelstahl (Made in Italy)"
+      }
+    },
+    {
+      "name": "Philips Pastamaker HR2382/15",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01LYQ6RIK?tag=janxsiegmann-21",
+      "werte": {
+        "antrieb": "Vollautomatisch (Extruder)",
+        "walzenbreite": "k.A. (Extruder)",
+        "dickeneinstellungen": "Automatisch",
+        "mitgelieferte_aufsaetze": "4 Formscheiben (Spaghetti, Penne, Fettuccine, Lasagne)",
+        "material": "Kunststoff + Edelstahl"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

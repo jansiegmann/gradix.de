@@ -1,0 +1,128 @@
+{
+  "slug": "dashcam",
+  "kategorie": "auto",
+  "titel": "Dashcam",
+  "beschreibung": "Dashcam Test 2026: Die 4 besten Dashcams im Vergleich ✓ 4K-Aufnahme ✓ Nachtsicht ✓ GPS-Tracking",
+  "keywords": [
+    "dashcam test",
+    "dashcam vergleich 2026",
+    "beste dashcam",
+    "dashcam auto",
+    "dashcam 4k test",
+    "dashcam mit gps",
+    "dashcam kaufberatung",
+    "autokamera test",
+    "dashcam nachtsicht",
+    "dashcam deutschland erlaubt"
+  ],
+  "einleitung": "Eine Dashcam kann im Ernstfall entscheidende Beweise liefern und schützt dich vor Betrug im Straßenverkehr. Wir vergleichen vier Modelle von der kompakten Budget-Cam bis zur Premium-Dashcam mit 4K und Rückkamera.",
+  "kaufberatung": "### Ist eine Dashcam in Deutschland erlaubt?\n\nJa, grundsätzlich ist das Filmen mit einer Dashcam erlaubt. Die Aufnahmen dürfen vor Gericht als Beweismittel verwendet werden (BGH-Urteil 2018). Wichtig: Permanentes Filmen kann datenschutzrechtlich problematisch sein. Modelle mit Loop-Aufnahme, die ältere Aufnahmen automatisch überschreiben, sind die sicherste Wahl. Aufnahmen sollten nicht öffentlich geteilt werden.\n\n### 1080p, 2K oder 4K?\n\nFür Kennzeichenerkennung reicht 1080p bei guten Lichtverhältnissen. Bei schlechtem Licht oder höherer Geschwindigkeit ist 2K deutlich besser lesbar. 4K ist für Details bei Unfällen optimal, braucht aber mehr Speicherplatz.\n\n### GPS: Wozu ist das nützlich?\n\nGPS zeichnet Geschwindigkeit, Position und Uhrzeit auf — wichtige Daten für Versicherungen und Gerichte. Manche Dashcams warnen auch vor Blitzern (die Nutzung von Blitzerwarner-Apps während der Fahrt ist in Deutschland allerdings verboten).\n\n### Parküberwachung\n\nEinige Dashcams erkennen Erschütterungen im geparkten Zustand und starten automatisch die Aufnahme. Praktisch bei Parkremplern. Beachte: Dafür muss die Dashcam per Hardwire-Kit dauerhaft mit Strom versorgt werden.\n\n### Speicherkarte: Worauf achten?\n\nDashcams brauchen schnelle, robuste microSD-Karten. Mindestens Class 10 / U3, idealerweise mit High Endurance Zertifizierung. Standard-Karten versagen durch die permanente Aufnahme nach wenigen Monaten.",
+  "vergleichsKategorien": [
+    {
+      "key": "aufloesung",
+      "label": "Auflösung Front",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "sichtwinkel",
+      "label": "Sichtwinkel",
+      "einheit": "°",
+      "sortierung": 2
+    },
+    {
+      "key": "gps",
+      "label": "GPS integriert",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "nachtsicht",
+      "label": "Nachtsicht",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "rueckkamera",
+      "label": "Rückkamera",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Sind Dashcam-Aufnahmen vor Gericht in Deutschland zulässig?",
+      "antwort": "Ja, der Bundesgerichtshof hat 2018 entschieden, dass Dashcam-Aufnahmen grundsätzlich als Beweismittel vor Gericht verwendet werden dürfen. Das permanente Filmen ohne konkreten Anlass verstößt zwar gegen das Datenschutzrecht, die Aufnahmen werden aber trotzdem als Beweis zugelassen."
+    },
+    {
+      "frage": "Wie viel Speicherplatz brauche ich?",
+      "antwort": "Bei 1080p reicht eine 64-GB-Karte für ca. 8-10 Stunden Loop-Aufnahme. Bei 4K solltest du mindestens 128 GB einplanen. Die Dashcam überschreibt automatisch die ältesten Aufnahmen, sobald die Karte voll ist — nur als wichtig markierte Aufnahmen bleiben erhalten."
+    },
+    {
+      "frage": "Brauche ich eine Rückkamera?",
+      "antwort": "Wenn du vor allem vor Betrug und Auffahrunfällen geschützt sein willst, reicht eine Frontkamera. Die Rückkamera ist nützlich bei Auffahrunfällen von hinten und als zusätzliche Absicherung. Für den vollen Überblick empfehlen wir ein Modell mit Rückkamera."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Viofo A119 Mini 2",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CRY34WGK?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "2K (2560×1440)",
+        "sichtwinkel": "140",
+        "gps": "Ja (optional via Kabel)",
+        "display": "Kein Display (App)",
+        "nachtsicht": "gut (Starvis 2 Sensor)",
+        "rueckkamera": "Nein"
+      }
+    },
+    {
+      "name": "Vantrue N1 Pro 2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CPMBXVY2?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "2.5K (2560×1440)",
+        "sichtwinkel": "155",
+        "gps": "Ja (integriert)",
+        "display": "1.5 Zoll LCD",
+        "nachtsicht": "sehr gut (Starvis 2)",
+        "rueckkamera": "Nein (optional)"
+      }
+    },
+    {
+      "name": "Viofo A229 Plus Duo",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DCKQ3RKG?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "2K+2K (Front+Heck)",
+        "sichtwinkel": "140",
+        "gps": "Ja (integriert)",
+        "display": "2.4 Zoll IPS",
+        "nachtsicht": "sehr gut",
+        "rueckkamera": "Ja (inkl.)"
+      }
+    },
+    {
+      "name": "Thinkware U3000",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DJKLSXRJ?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K (3840×2160)",
+        "sichtwinkel": "162",
+        "gps": "Ja (integriert)",
+        "display": "Kein Display (App)",
+        "nachtsicht": "hervorragend (Starvis 2)",
+        "rueckkamera": "Ja (2K, optional)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

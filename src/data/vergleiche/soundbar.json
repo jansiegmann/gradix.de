@@ -1,0 +1,128 @@
+{
+  "slug": "soundbar",
+  "kategorie": "elektronik",
+  "titel": "Soundbar",
+  "beschreibung": "Soundbar Test 2026: Die 4 besten Soundbars im Vergleich ✓ Dolby Atmos ✓ mit Subwoofer ✓ Für jeden Fernseher",
+  "keywords": [
+    "soundbar test",
+    "soundbar vergleich 2026",
+    "beste soundbar",
+    "soundbar mit subwoofer",
+    "dolby atmos soundbar",
+    "soundbar kaufberatung",
+    "tv soundbar test",
+    "soundbar für fernseher",
+    "samsung soundbar test",
+    "sonos soundbar vergleich"
+  ],
+  "einleitung": "Dein Fernseher klingt flach und blechern? Eine Soundbar löst das Problem sofort. Wir vergleichen vier Modelle von der günstigen Einstiegslösung bis zur Premium-Soundbar mit Dolby Atmos — damit du den richtigen TV-Sound für dein Wohnzimmer findest.",
+  "kaufberatung": "### Soundbar mit oder ohne Subwoofer?\n\nSoundbars ohne separaten Subwoofer sind kompakter und einfacher aufzustellen. Für Dialoge, Nachrichten und Serien reicht das oft. Wer aber Filme mit Wumms und Musik mit Bass erleben will, kommt um einen separaten Subwoofer nicht herum. Die Samsung HW-Q990D liefert mit ihrem kabellosen Sub echten Kinosound.\n\n### Dolby Atmos: Lohnt sich das?\n\nDolby Atmos erzeugt 3D-Sound — Geräusche kommen auch von oben. Das funktioniert mit nach oben abstrahlenden Lautsprechern, die den Schall von der Decke reflektieren. In der Praxis klappt das am besten in Räumen unter 3 Meter Deckenhöhe. Für Filmfans ist Atmos ein echtes Upgrade, für Musikhörer weniger relevant.\n\n### HDMI eARC: Warum ist das wichtig?\n\nHDMI eARC (Enhanced Audio Return Channel) überträgt unkomprimierten Surround-Sound vom Fernseher zur Soundbar. Ohne eARC bekommst du maximal Dolby Digital 5.1 — kein Atmos. Achte darauf, dass dein Fernseher einen eARC-Anschluss hat, wenn du eine Atmos-Soundbar kaufst.\n\n### Wie breit sollte die Soundbar sein?\n\nOrientiere dich an der Breite deines Fernsehers. Eine Soundbar sollte nicht breiter als der TV sein, aber mindestens halb so breit, damit der Sound nicht zu schmal klingt. Für 55-Zoll-Fernseher sind Soundbars um 100 cm ideal.\n\n### Multiroom und Streaming\n\nViele Soundbars lassen sich in ein Multiroom-System einbinden. Sonos-Nutzer profitieren von der nahtlosen Integration mit anderen Sonos-Lautsprechern. Samsung-Soundbars arbeiten über SmartThings und Q-Symphony mit Samsung-TVs zusammen — der Fernseher wird dann zum Center-Speaker.",
+  "vergleichsKategorien": [
+    {
+      "key": "kanaele",
+      "label": "Kanäle",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "dolby_atmos",
+      "label": "Dolby Atmos",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "subwoofer",
+      "label": "Subwoofer inklusive",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "hdmi_earc",
+      "label": "HDMI eARC",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "breite",
+      "label": "Breite",
+      "einheit": "cm",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Soundbar passt zu einem 55-Zoll-Fernseher?",
+      "antwort": "Für einen 55-Zoll-TV empfehlen wir eine Soundbar mit ca. 90-110 cm Breite. Die Sonos Beam Gen 2 mit 65 cm ist etwas schmaler, klingt aber dank Raumeinmessung trotzdem breit. Die Samsung HW-Q990D mit 123 cm passt optimal zu 65-Zoll-TVs und größer."
+    },
+    {
+      "frage": "Brauche ich einen separaten Subwoofer?",
+      "antwort": "Wenn du hauptsächlich Nachrichten und Serien schaust, nicht unbedingt. Für Filme, Gaming und Musik macht ein Subwoofer aber einen riesigen Unterschied. Die Sonos Beam Gen 2 und Samsung HW-S60D kommen ohne Sub, lassen sich aber nachrüsten."
+    },
+    {
+      "frage": "Kann ich meine Soundbar auch zum Musikhören nutzen?",
+      "antwort": "Ja, die meisten Soundbars haben Bluetooth oder WLAN-Streaming. Sonos-Modelle unterstützen zusätzlich AirPlay 2, Spotify Connect und viele weitere Dienste direkt über WLAN — das klingt besser als Bluetooth."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Samsung HW-S60D",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CX5BGM18?tag=janxsiegmann-21",
+      "werte": {
+        "kanaele": "5.0",
+        "leistung": "200",
+        "dolby_atmos": "Ja",
+        "subwoofer": "Nein",
+        "hdmi_earc": "Ja",
+        "breite": "67"
+      }
+    },
+    {
+      "name": "Sonos Beam Gen 2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09GFLBHGZ?tag=janxsiegmann-21",
+      "werte": {
+        "kanaele": "5.0",
+        "leistung": "k.A.",
+        "dolby_atmos": "Ja",
+        "subwoofer": "Nein (optional)",
+        "hdmi_earc": "Ja",
+        "breite": "65"
+      }
+    },
+    {
+      "name": "Sonos Arc",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B087CJ3YSG?tag=janxsiegmann-21",
+      "werte": {
+        "kanaele": "5.0.2",
+        "leistung": "k.A.",
+        "dolby_atmos": "Ja",
+        "subwoofer": "Nein (optional)",
+        "hdmi_earc": "Ja",
+        "breite": "114"
+      }
+    },
+    {
+      "name": "Samsung HW-Q990D",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CX5CLC6J?tag=janxsiegmann-21",
+      "werte": {
+        "kanaele": "11.1.4",
+        "leistung": "656",
+        "dolby_atmos": "Ja",
+        "subwoofer": "Ja (kabellos)",
+        "hdmi_earc": "Ja",
+        "breite": "123"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

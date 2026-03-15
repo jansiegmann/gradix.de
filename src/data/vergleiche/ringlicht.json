@@ -1,0 +1,191 @@
+{
+  "slug": "ringlicht",
+  "kategorie": "elektronik",
+  "titel": "Ringlicht / Videolicht",
+  "beschreibung": "Ringlicht / Videolicht Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "ringlicht test",
+    "videolicht vergleich",
+    "ringlicht streaming",
+    "led videolicht kaufberatung",
+    "ringlicht 2026"
+  ],
+  "einleitung": "Du suchst ein Ringlicht oder Videolicht für Streaming, YouTube, Videocalls oder Content Creation? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Ringlicht oder Paneel-Licht — was ist besser?\nRinglichter erzeugen den charakteristischen Lichtring in den Augen — ideal für Beauty, Selfies und Nahaufnahmen. Paneel-Lichter (Elgato Key Light) beleuchten gleichmäßiger und wirken natürlicher — besser für längere Streams und professionelle Videoproduktion. Für YouTube-Thumbnails und TikTok: Ringlicht. Für Twitch-Streams und Videokonferenzen: Paneel.\n\n### Welche Größe brauche ich?\n26 cm (10\"): Für Nahaufnahmen, Produktfotos und den Schreibtisch. 46 cm (18\"): Für Halbtotale und Portrait — der Standard für YouTuber und Beauty-Content. Für Ganzkörperaufnahmen brauchst du eher zwei separate Lichtquellen als ein größeres Ringlicht.\n\n### Farbtemperatur — warum ist das wichtig?\nAnpassbare Farbtemperatur (3.200-5.600K oder breiter) ermöglicht natürliches Licht bei jeder Umgebung. Warmes Licht (3.200K) wirkt gemütlich und schmeichelt der Haut. Kühles Licht (5.600K) wirkt wacher und professioneller. Für YouTube empfehlen wir ca. 5.000K — nah am Tageslicht.\n\n### Stativ oder Tischklemme?\nBodenstative sind flexibler und erreichen Gesichtshöhe, brauchen aber Platz. Tischklemmen sparen Platz und lassen sich am Schreibtisch befestigen. Für Streaming am Schreibtisch: Klemme. Für YouTube-Aufnahmen: Stativ.",
+  "vergleichsKategorien": [
+    {
+      "key": "durchmesser",
+      "label": "Durchmesser",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "farbtemperatur",
+      "label": "Farbtemperatur",
+      "einheit": "K",
+      "sortierung": 3
+    },
+    {
+      "key": "dimmbar",
+      "label": "Dimmbar",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "stativ",
+      "label": "Stativ inklusive",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Ringlicht eignet sich am besten für Videocalls?",
+      "antwort": "Für Videocalls reicht ein 26cm-Ringlicht (z.B. Neewer 10\") mit USB-Betrieb — kompakt, günstig und macht schon einen riesigen Unterschied zur Laptop-Webcam. Das Elgato Ring Light bietet softeres Licht und Software-Steuerung, kostet aber das Vierfache."
+    },
+    {
+      "frage": "Brauche ich ein Ringlicht, wenn mein Raum gut beleuchtet ist?",
+      "antwort": "Auch in hellen Räumen hilft ein Ringlicht, weil es gleichmäßiges Frontlicht liefert und Schatten im Gesicht reduziert. Besonders bei Deckenbeleuchtung (die von oben kommt) entstehen unschöne Augenschatten, die ein Ringlicht ausgleicht."
+    },
+    {
+      "frage": "Kann ich ein Ringlicht als Dauerlicht nutzen?",
+      "antwort": "Ja, LED-Ringlichter werden nicht heiß und können stundenlang laufen. Achte aber auf Flackern — günstige Modelle flackern bei bestimmten Kameraeinstellungen (Shutter Speed). Markenprodukte wie Elgato und Neewer sind in der Regel flackerfrei."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Neewer 10\" LED Ringlicht",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07T8FBZC2?tag=janxsiegmann-21",
+      "preis": 25,
+      "bewertung": 3.5,
+      "werte": {
+        "durchmesser": "26",
+        "leistung": "14",
+        "farbtemperatur": "3.200-5.600",
+        "dimmbar": "Ja (stufenlos)",
+        "stativ": "Ja (Tischstativ)",
+        "stromversorgung": "USB",
+        "extras": "3 Farbfilter, Handyhalter"
+      },
+      "vorteile": [
+        "Sehr günstig",
+        "USB-Betrieb (auch Powerbank)",
+        "Tischstativ inklusive"
+      ],
+      "nachteile": [
+        "Nur 26cm — für Ganzkörper zu klein",
+        "Tischstativ nicht höhenverstellbar",
+        "Plastik-Verarbeitung"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Elgato Ring Light",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0C8SMSLQ3?tag=janxsiegmann-21",
+      "preis": 100,
+      "bewertung": 4.0,
+      "werte": {
+        "durchmesser": "34",
+        "leistung": "25",
+        "farbtemperatur": "2.900-7.000",
+        "dimmbar": "Ja (Software + Tasten)",
+        "stativ": "Tischklemme (optional)",
+        "stromversorgung": "Netzteil",
+        "extras": "Elgato Control Center, Multi-Layer-Diffusor"
+      },
+      "vorteile": [
+        "Steuerung per Software/Stream Deck",
+        "Multi-Layer-Diffusor — weiches Licht",
+        "Breiter Farbtemperaturbereich"
+      ],
+      "nachteile": [
+        "Stativ/Klemme separat kaufen",
+        "Teurer als No-Name",
+        "Braucht Steckdose"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Neewer 18\" Ringlicht",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07GJ7X3CH?tag=janxsiegmann-21",
+      "preis": 60,
+      "bewertung": 4.5,
+      "werte": {
+        "durchmesser": "46",
+        "leistung": "55",
+        "farbtemperatur": "3.200-5.600",
+        "dimmbar": "Ja (1-100%)",
+        "stativ": "Ja (Bodenstativ 155cm)",
+        "stromversorgung": "Netzteil",
+        "extras": "2× Handyhalter, Bluetooth-Fernbedienung, Tasche"
+      },
+      "vorteile": [
+        "46cm — ideal für Beauty/Portrait",
+        "Bodenstativ bis 155cm",
+        "Bluetooth-Fernbedienung",
+        "Viel Zubehör"
+      ],
+      "nachteile": [
+        "Groß und sperrig",
+        "Nur 55W",
+        "Stativ nicht super stabil"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Elgato Key Light",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07L755X9G?tag=janxsiegmann-21",
+      "preis": 170,
+      "bewertung": 4.5,
+      "werte": {
+        "durchmesser": "k.A. (Paneel 35×25)",
+        "leistung": "45",
+        "farbtemperatur": "2.900-7.000",
+        "dimmbar": "Ja (1-100%, Software)",
+        "stativ": "Tischklemme inklusive",
+        "stromversorgung": "Netzteil",
+        "extras": "WLAN-Steuerung, Elgato Control Center, Stream Deck-kompatibel"
+      },
+      "vorteile": [
+        "Profi-Standard für Streamer",
+        "WLAN-Steuerung + Stream Deck",
+        "Flaches Paneel — kein Ringschatten in den Augen",
+        "Tischklemme inklusive"
+      ],
+      "nachteile": [
+        "Teuer",
+        "Kein Ringlicht-Effekt in den Augen",
+        "Nur eine Seite beleuchtet (Panel)"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

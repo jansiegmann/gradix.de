@@ -1,0 +1,128 @@
+{
+  "slug": "epilierer",
+  "kategorie": "koerperpflege",
+  "titel": "Epilierer",
+  "beschreibung": "Epilierer Test 2026: Die 4 besten Epilierer im Vergleich ✓ Braun, Philips & Co. ✓ Nass & Trocken ✓ Kaufberatung",
+  "keywords": [
+    "epilierer",
+    "epilierer test",
+    "epilierer vergleich",
+    "bester epilierer",
+    "braun epilierer test",
+    "philips epilierer",
+    "epilierer test 2026",
+    "epilierer nass trocken",
+    "epilierer damen",
+    "epilierer kaufen"
+  ],
+  "einleitung": "Glatte Haut ohne Rasierer? Ein guter Epilierer entfernt Haare an der Wurzel und hält die Haut wochenlang glatt. Wir vergleichen vier Epilierer von Budget bis Profi und zeigen dir, welcher am besten epiliert — und am wenigsten wehtut.",
+  "kaufberatung": "### Für wen eignet sich welcher Epilierer?\nFür Einsteigerinnen ist der Braun Silk-épil 3 eine gute, günstige Wahl. Der Braun Silk-épil 5 bietet Nass/Trocken-Funktion und ist sanfter zur Haut. Der Philips Satinelle Advanced ist ideal für empfindliche Haut mit seinem breiten Kopf. Und der Braun Silk-épil 9 Flex ist der Premium-Epilierer mit flexiblem Kopf und umfangreichem Zubehör.\n\n### Wie viele Pinzetten sollte ein Epilierer haben?\nMehr Pinzetten = schnellere Epilation. Budget-Geräte haben 20-28 Pinzetten, Premium-Modelle 40+. Mit 40 Pinzetten erfasst du mehr Haare in einem Durchgang — das spart Zeit und reduziert die Schmerzwahrnehmung.\n\n### Tut Epilieren weh?\nBeim ersten Mal: ja. Die Schmerzen lassen aber mit jeder Anwendung nach, weil die Haare feiner nachwachsen. Tipps: Vorher warm duschen, Nass-Epilation unter Wasser ist weniger schmerzhaft, und ein Peeling am Vortag verhindert eingewachsene Haare.\n\n### Nass oder Trocken — was ist besser?\nNass-Epiliation (unter der Dusche oder in der Badewanne) ist deutlich weniger schmerzhaft. Trocken-Epiliation ist schneller und praktischer. Ideal sind Geräte, die beides können.",
+  "vergleichsKategorien": [
+    {
+      "key": "pinzetten",
+      "label": "Pinzetten",
+      "einheit": "Stück",
+      "sortierung": 1
+    },
+    {
+      "key": "nass_trocken",
+      "label": "Nass/Trocken",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 3
+    },
+    {
+      "key": "aufsaetze",
+      "label": "Aufsätze",
+      "einheit": "Stück",
+      "sortierung": 4
+    },
+    {
+      "key": "geschwindigkeiten",
+      "label": "Geschwindigkeitsstufen",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "licht",
+      "label": "Smartlight",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft muss man epilieren?",
+      "antwort": "Anfangs alle 1-2 Wochen, später reicht alle 3-4 Wochen. Die Haare wachsen feiner nach und es werden weniger. Nach einigen Monaten regelmäßiger Epilation hält die glatte Haut deutlich länger."
+    },
+    {
+      "frage": "Ist Epilieren besser als Rasieren?",
+      "antwort": "Epilieren entfernt Haare an der Wurzel — die Haut bleibt 2-4 Wochen glatt. Rasieren schneidet nur die Oberfläche — nach 1-3 Tagen sind Stoppeln zurück. Epilieren ist langfristig weniger Aufwand, tut aber anfangs mehr weh."
+    },
+    {
+      "frage": "Kann man den Epilierer auch im Gesicht verwenden?",
+      "antwort": "Nur mit speziellem Gesichtsaufsatz, den viele Premium-Modelle mitliefern. Normale Epilierköpfe sind für das Gesicht zu aggressiv. Der Braun Silk-épil 9 Flex enthält einen speziellen Gesichtsaufsatz."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Braun Silk-épil 3 3-170",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08BHFH9YF?tag=janxsiegmann-21",
+      "werte": {
+        "pinzetten": "20",
+        "nass_trocken": "Nur Trocken",
+        "akkulaufzeit": "Netzbetrieb",
+        "aufsaetze": "1",
+        "geschwindigkeiten": "2",
+        "licht": "Nein"
+      }
+    },
+    {
+      "name": "Braun Silk-épil 5 5-810",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BXJL78Z4?tag=janxsiegmann-21",
+      "werte": {
+        "pinzetten": "28",
+        "nass_trocken": "Nass & Trocken",
+        "akkulaufzeit": "30",
+        "aufsaetze": "5",
+        "geschwindigkeiten": "2",
+        "licht": "Ja"
+      }
+    },
+    {
+      "name": "Philips Satinelle Advanced BRE740",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CLZFQHH8?tag=janxsiegmann-21",
+      "werte": {
+        "pinzetten": "32",
+        "nass_trocken": "Nass & Trocken",
+        "akkulaufzeit": "40",
+        "aufsaetze": "8",
+        "geschwindigkeiten": "2",
+        "licht": "Ja"
+      }
+    },
+    {
+      "name": "Braun Silk-épil 9 Flex 9-300",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CQXLCHTZ?tag=janxsiegmann-21",
+      "werte": {
+        "pinzetten": "40",
+        "nass_trocken": "Nass & Trocken",
+        "akkulaufzeit": "50",
+        "aufsaetze": "8+",
+        "geschwindigkeiten": "2",
+        "licht": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

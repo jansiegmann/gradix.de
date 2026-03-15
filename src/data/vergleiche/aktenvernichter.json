@@ -1,0 +1,128 @@
+{
+  "slug": "aktenvernichter",
+  "kategorie": "buero",
+  "titel": "Aktenvernichter",
+  "beschreibung": "Aktenvernichter Test 2026: Die 4 besten Schredder im Vergleich ✓ Sicherheitsstufe P-4/P-5 ✓ Kaufberatung",
+  "keywords": [
+    "aktenvernichter test",
+    "aktenvernichter vergleich",
+    "schredder büro",
+    "aktenvernichter p-4",
+    "bester aktenvernichter",
+    "aktenvernichter test 2026",
+    "aktenvernichter partikelschnitt",
+    "aktenvernichter kaufberatung",
+    "aktenvernichter leise",
+    "aktenvernichter cd"
+  ],
+  "einleitung": "Sensible Dokumente gehören nicht in den Papierkorb — ein guter Aktenvernichter schützt deine Daten zuverlässig. Doch bei Sicherheitsstufen, Schnittarten und Auffangvolumen gibt es große Unterschiede. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Sicherheitsstufen verstehen\nP-1 bis P-3 reichen für allgemeine Dokumente. P-4 (Partikelschnitt) ist der Standard für persönliche Daten und Geschäftsdokumente. P-5 und höher sind für vertrauliche oder geheime Unterlagen gedacht. Für Privathaushalte und kleine Büros empfehlen wir mindestens P-4.\n\n### Schnittart: Streifen, Partikel oder Mikro?\nStreifenschnitt (P-1/P-2) schneidet das Papier in Streifen — theoretisch rekonstruierbar. Partikelschnitt (P-3/P-4) zerschneidet in kleine Schnipsel. Mikroschnitt (P-5+) macht eine Rekonstruktion praktisch unmöglich. Für die DSGVO empfehlen wir mindestens Partikelschnitt.\n\n### Auffangbehälter und Kapazität\nKleine Behälter (10–15 Liter) müssen häufig geleert werden. Für regelmäßige Nutzung empfehlen wir mindestens 20 Liter. Achte auf einen herausnehmbaren Behälter — das erleichtert die Entsorgung.\n\n### Lautstärke und Betriebsdauer\nGünstige Modelle sind oft laut (65+ dB) und überhitzen nach 5–10 Minuten Dauerbetrieb. Premium-Modelle laufen 20+ Minuten am Stück und sind deutlich leiser. Für Großraumbüros ist die Lautstärke ein wichtiges Kriterium.\n\n### CDs, Kreditkarten und Büroklammern\nViele Aktenvernichter können auch CDs, Kreditkarten und sogar Büroklammern vernichten. Das spart separate Entsorgung. Achte auf einen separaten Einzug für CDs — Plastikstaub sollte nicht ins Papier gelangen.",
+  "vergleichsKategorien": [
+    {
+      "key": "sicherheitsstufe",
+      "label": "Sicherheitsstufe",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "schnittart",
+      "label": "Schnittart",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "blattkapazitaet",
+      "label": "Blatt-Kapazität",
+      "einheit": "Blatt",
+      "sortierung": 3
+    },
+    {
+      "key": "auffangvolumen",
+      "label": "Auffangvolumen",
+      "einheit": "Liter",
+      "sortierung": 4
+    },
+    {
+      "key": "betriebsdauer",
+      "label": "Betriebsdauer",
+      "einheit": "min",
+      "sortierung": 5
+    },
+    {
+      "key": "cd_kreditkarte",
+      "label": "CDs/Kreditkarten",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Sicherheitsstufe brauche ich privat?",
+      "antwort": "Für private Dokumente wie Kontoauszüge, Rechnungen und Verträge empfehlen wir mindestens Sicherheitsstufe P-4 (Partikelschnitt). Damit sind deine Daten DSGVO-konform vernichtet und praktisch nicht rekonstruierbar."
+    },
+    {
+      "frage": "Kann ich Aktenvernichter-Schnipsel im Altpapier entsorgen?",
+      "antwort": "Ja, Partikelschnitt-Schnipsel aus Papier können ins Altpapier. CD-Reste gehören in den Restmüll oder zum Wertstoffhof. Achte darauf, Papier- und CD-Reste getrennt zu sammeln."
+    },
+    {
+      "frage": "Warum überhitzt mein Aktenvernichter?",
+      "antwort": "Günstige Modelle haben einen Überhitzungsschutz, der nach 5–10 Minuten Dauerbetrieb abschaltet. Die Abkühlzeit beträgt 20–30 Minuten. Premium-Modelle laufen deutlich länger durch."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Rexel Mercury RES1523",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09HBZY7JJ?tag=janxsiegmann-21",
+      "werte": {
+        "sicherheitsstufe": "P-4",
+        "schnittart": "Kreuzschnitt",
+        "blattkapazitaet": "15",
+        "auffangvolumen": "23",
+        "betriebsdauer": "10",
+        "cd_kreditkarte": "Ja / Ja"
+      }
+    },
+    {
+      "name": "Fellowes 225Mi",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08NCLN4LN?tag=janxsiegmann-21",
+      "werte": {
+        "sicherheitsstufe": "P-5",
+        "schnittart": "Mikroschnitt",
+        "blattkapazitaet": "16",
+        "auffangvolumen": "30",
+        "betriebsdauer": "20",
+        "cd_kreditkarte": "Nein / Ja"
+      }
+    },
+    {
+      "name": "Fellowes AutoMax 200M",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01C35TQNM?tag=janxsiegmann-21",
+      "werte": {
+        "sicherheitsstufe": "P-5",
+        "schnittart": "Mikroschnitt",
+        "blattkapazitaet": "200 (Auto-Feed)",
+        "auffangvolumen": "32",
+        "betriebsdauer": "Dauerbetrieb (Auto-Feed)",
+        "cd_kreditkarte": "Ja / Ja"
+      }
+    },
+    {
+      "name": "HSM Securio AF500",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01M0OQHMC?tag=janxsiegmann-21",
+      "werte": {
+        "sicherheitsstufe": "P-5",
+        "schnittart": "Mikroschnitt",
+        "blattkapazitaet": "500 (Auto-Feed)",
+        "auffangvolumen": "82",
+        "betriebsdauer": "Dauerbetrieb",
+        "cd_kreditkarte": "Ja / Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

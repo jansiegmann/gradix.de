@@ -1,0 +1,118 @@
+{
+  "slug": "rasierer-elektrisch",
+  "kategorie": "koerperpflege",
+  "titel": "Rasierer (elektrisch)",
+  "beschreibung": "Elektrischer Rasierer Test 2026: Die 4 besten Rasierer ✓ Folien & Rotations ✓ Nass & Trocken",
+  "keywords": [
+    "elektrischer rasierer test",
+    "rasierer vergleich 2026",
+    "bester rasierer",
+    "braun rasierer test",
+    "philips rasierer test",
+    "folienrasierer test",
+    "rotationsrasierer test",
+    "rasierer nass trocken",
+    "rasierer kaufberatung",
+    "herrenrasierer test"
+  ],
+  "einleitung": "Glatt rasiert oder 3-Tage-Bart — der richtige elektrische Rasierer macht beides zum Kinderspiel. Ob Folien oder Rotation, Nass oder Trocken — wir vergleichen vier Top-Modelle für die perfekte Rasur.",
+  "kaufberatung": "### Folienrasierer vs. Rotationsrasierer\n\nFolienrasierer (Braun, Panasonic) schneiden mit oszillierenden Klingen unter einer dünnen Metallfolie — ideal für glatte Rasuren und empfindliche Haut. Rotationsrasierer (Philips) nutzen rotierende Scherköpfe, die sich an Konturen anpassen — besser für den Hals und bei längeren Bartstoppeln.\n\n### Nass- oder Trockenrasur?\n\nDie meisten Premium-Rasierer können beides. Trockenrasur ist schneller, Nassrasur mit Schaum oder Gel gründlicher und hautschonender. Für empfindliche Haut empfehlen wir die Nassrasur.\n\n### Reinigungsstation: Lohnt sich das?\n\nReinigungsstationen desinfizieren, trocknen und ölen den Rasierer automatisch. Das verlängert die Lebensdauer der Scherteile und ist hygienischer. Die Reinigungskartuschen kosten ca. 3-5€ pro Stück (ca. 2 Monate Nutzungsdauer). Wer den Rasierer regelmäßig unter Wasser ausspült, kann darauf verzichten.\n\n### Wie oft müssen Scherteile gewechselt werden?\n\nBei täglicher Nutzung alle 12-18 Monate. Ersatzscherteile kosten 20-40€. Das sollte man bei der Kaufentscheidung einkalkulieren.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "rasur",
+      "label": "Nass/Trocken",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 3
+    },
+    {
+      "key": "reinigung",
+      "label": "Reinigungsstation",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "schnellladung",
+      "label": "Schnellladung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Braun oder Philips — welcher Rasierer ist besser?",
+      "antwort": "Braun (Folienrasierer) rasiert in der Regel glatter und ist besser für empfindliche Haut. Philips (Rotationsrasierer) ist leiser, sanfter bei 3-Tage-Bart und besser an Konturen (Kinn, Hals). Für die glatteste Rasur: Braun. Für Komfort bei längeren Stoppeln: Philips."
+    },
+    {
+      "frage": "Wie oft sollte ich meinen Rasierer reinigen?",
+      "antwort": "Idealerweise nach jeder Nutzung unter fließendem Wasser ausspülen. Bei Rasierern mit Reinigungsstation reicht es, den Rasierer nach der Rasur einzusetzen. Eine gründliche Reinigung verlängert die Lebensdauer der Scherteile und sorgt für eine hygienische Rasur."
+    },
+    {
+      "frage": "Reicht ein günstiger Rasierer für die tägliche Rasur?",
+      "antwort": "Für eine akzeptable Rasur ja. Der Unterschied zu Premium-Modellen liegt in der Gründlichkeit (weniger Züge nötig), dem Hautkomfort (weniger Irritation) und der Langlebigkeit. Wer täglich rasiert und empfindliche Haut hat, profitiert deutlich von einem Mittelklasse-Modell."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Philips Shaver Series 3000 S3233/52",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CG3SBP68?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Rotationsrasierer",
+        "rasur": "Nass & Trocken",
+        "akku": "60",
+        "reinigung": "Nein",
+        "schnellladung": "5 Min = 1 Rasur"
+      }
+    },
+    {
+      "name": "Braun Series 5 51-M1850s",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BHWFMFN2?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Folienrasierer",
+        "rasur": "Nass & Trocken",
+        "akku": "50",
+        "reinigung": "Nein",
+        "schnellladung": "5 Min = 1 Rasur"
+      }
+    },
+    {
+      "name": "Braun Series 7 71-S7201cc",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BHWG7YDX?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Folienrasierer",
+        "rasur": "Nass & Trocken",
+        "akku": "50",
+        "reinigung": "Ja (SmartCare Center)",
+        "schnellladung": "5 Min = 1 Rasur"
+      }
+    },
+    {
+      "name": "Braun Series 9 Pro+ 9527s",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09DVHCCK8?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Folienrasierer",
+        "rasur": "Nass & Trocken",
+        "akku": "60",
+        "reinigung": "Ja (SmartCare Center)",
+        "schnellladung": "5 Min = 1 Rasur"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

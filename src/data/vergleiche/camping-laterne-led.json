@@ -1,0 +1,128 @@
+{
+  "slug": "camping-laterne-led",
+  "kategorie": "camping",
+  "titel": "Camping-Laterne (LED)",
+  "beschreibung": "Camping-Laterne Test 2026: Die 4 besten LED-Laternen im Vergleich ✓ Wiederaufladbar ✓ Hell & langlebig ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "camping laterne",
+    "camping laterne led",
+    "campinglampe test",
+    "led laterne camping",
+    "camping licht",
+    "campinglaterne test 2026",
+    "camping lampe vergleich",
+    "led laterne outdoor",
+    "aufladbare campinglaterne",
+    "beste camping laterne"
+  ],
+  "einleitung": "Gemütliches Licht beim Camping macht jeden Abend besser. Wir vergleichen vier LED-Camping-Laternen von Budget bis Profi — ob als Tischlampe, zum Aufhängen oder als Powerbank-Ersatz.",
+  "kaufberatung": "### Für wen eignet sich welche Camping-Laterne?\nFür Gelegenheits-Camper ist die LE LED Camping Laterne ein günstiger Allrounder. Die Goal Zero Lighthouse Micro ist perfekt als ultraleichte Backpacking-Laterne mit USB-Ladefunktion. Wer ein stimmungsvolles, dimmbares Licht will, greift zur Ledlenser ML6 — die kann auch als Powerbank dienen. Und die Black Diamond Apollo 200 ist die hellste Option für Gruppenausflüge.\n\n### Wie viel Lumen braucht eine Camping-Laterne?\n100-200 Lumen reichen für den Zeltvorbau und gemütliches Licht. 200-400 Lumen beleuchten eine Campingküche gut. Mehr als 400 Lumen sind nur für größere Gruppen oder Arbeitslicht nötig. Wichtig: Dimmbares Licht ist angenehmer als volle Helligkeit.\n\n### Wiederaufladbar oder Batterie?\nWiederaufladbare Laternen (USB-C) sind praktischer und umweltfreundlicher. Batterie-Laternen sind für mehrtägige Touren ohne Strom besser. Ideal sind Modelle, die beides können oder als Powerbank für andere Geräte dienen.\n\n### Extras: Powerbank, Farbtemperatur, Magnethalterung\nViele moderne Laternen haben Zusatzfunktionen wie USB-Ladeport (Powerbank), einstellbare Farbtemperatur (warm/kalt) oder Magnete zur Befestigung. Überlege, welche Extras dir wirklich wichtig sind.",
+  "vergleichsKategorien": [
+    {
+      "key": "lumen",
+      "label": "Max. Helligkeit",
+      "einheit": "Lumen",
+      "sortierung": 1
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit (min. Stufe)",
+      "einheit": "h",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "laden",
+      "label": "Laden",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "dimmbar",
+      "label": "Dimmbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "wasserdicht",
+      "label": "Wasserdicht",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Camping-Laterne ist am hellsten?",
+      "antwort": "In unserem Vergleich ist die Black Diamond Apollo 200 mit 200 Lumen die hellste Option für gleichmäßige Zeltbeleuchtung. Für die meisten Camping-Situationen reichen aber 100-150 Lumen völlig aus."
+    },
+    {
+      "frage": "Kann ich meine Camping-Laterne als Powerbank nutzen?",
+      "antwort": "Die Ledlenser ML6 und die Goal Zero Lighthouse Micro haben einen USB-Ausgang und können Smartphones laden. Die Kapazität reicht nicht für eine volle Ladung, ist aber als Notfall-Backup praktisch."
+    },
+    {
+      "frage": "Wie lange hält der Akku einer LED-Campinglaterne?",
+      "antwort": "Auf niedrigster Stufe halten gute Camping-Laternen 50-200 Stunden. Auf voller Helligkeit sind es meist 3-10 Stunden. Für ein Wochenende reicht ein Akku auf mittlerer Stufe in der Regel aus."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "LE LED Camping Laterne",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B018P05N7C?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "140",
+        "akku": "12",
+        "gewicht": "180",
+        "laden": "3x AA Batterien",
+        "dimmbar": "3 Stufen",
+        "wasserdicht": "IPX4"
+      }
+    },
+    {
+      "name": "Goal Zero Lighthouse Micro Charge",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07BMJPH8L?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "150",
+        "akku": "170 (low)",
+        "gewicht": "68",
+        "laden": "USB-C (wiederaufladbar)",
+        "dimmbar": "Stufenlos",
+        "wasserdicht": "IPX6"
+      }
+    },
+    {
+      "name": "Ledlenser ML6",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07V43KJZC?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "750",
+        "akku": "200 (low)",
+        "gewicht": "260",
+        "laden": "Magnetischer USB",
+        "dimmbar": "Stufenlos + Farbtemp.",
+        "wasserdicht": "IPX6"
+      }
+    },
+    {
+      "name": "Black Diamond Apollo 200",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CXMT8VJJ?tag=janxsiegmann-21",
+      "werte": {
+        "lumen": "200",
+        "akku": "75",
+        "gewicht": "236",
+        "laden": "USB-C + 3x AA",
+        "dimmbar": "Stufenlos",
+        "wasserdicht": "IPX4"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

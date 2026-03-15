@@ -1,0 +1,118 @@
+{
+  "slug": "wassersprudler",
+  "kategorie": "kueche",
+  "titel": "Wassersprudler",
+  "beschreibung": "Wassersprudler Test 2026: Die 4 besten Sprudler im Vergleich ✓ SodaStream & Co. ✓ Kaufberatung",
+  "keywords": [
+    "wassersprudler",
+    "wassersprudler test",
+    "sodastream",
+    "sodastream vergleich",
+    "wassersprudler vergleich",
+    "bester wassersprudler",
+    "sprudelwasser selber machen",
+    "wassersprudler kaufberatung",
+    "aarke wassersprudler",
+    "wassersprudler 2026"
+  ],
+  "einleitung": "Kein Kistenschleppen mehr — ein Wassersprudler verwandelt Leitungswasser in frisches Sprudelwasser. Wir vergleichen vier Modelle von günstig bis Premium und zeigen, welcher Sprudler sich wirklich lohnt.",
+  "kaufberatung": "### Warum ein Wassersprudler?\nEin Wassersprudler spart Geld, Plastik und Schlepperei. Ein CO2-Zylinder reicht für etwa 60 Liter Sprudelwasser — das entspricht rund 100 PET-Flaschen. Langfristig sparst du gegenüber gekauftem Mineralwasser deutlich.\n\n### CO2-Zylinder: Welches System?\nDie meisten Wassersprudler nutzen Standard-CO2-Zylinder (425 g). SodaStream hat ein Quick-Connect-System für werkzeugloses Wechseln. Tauschzylinder kosten zwischen 7 und 10 Euro und sind in vielen Supermärkten und Drogerien erhältlich.\n\n### Glasflaschen oder Plastik?\nGlasflaschen sind geschmacksneutral, hygienischer und langlebiger. Kunststoffflaschen sind leichter und bruchsicher, können aber nach einigen Monaten Geschmack annehmen und müssen regelmäßig ersetzt werden. Wir empfehlen Glas.\n\n### Kohlensäure-Intensität einstellen\nGute Sprudler lassen dich die Kohlensäure in mehreren Stufen dosieren — von leicht prickelnd bis stark sprudelnd. Das ist Geschmackssache und ein echtes Komfort-Feature.\n\n### Pflege und Wartung\nDer Sprudler selbst braucht kaum Pflege. Die Flaschen sollten regelmäßig mit warmem Wasser und Spülmittel gereinigt werden. Glasflaschen können auch in die Spülmaschine. Tipp: Nie warmes oder kohlensäurehaltiges Wasser sprudeln — das führt zum Überschäumen.",
+  "vergleichsKategorien": [
+    {
+      "key": "flaschentyp",
+      "label": "Flaschentyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "flaschenvolumen",
+      "label": "Flaschenvolumen",
+      "einheit": "L",
+      "sortierung": 2
+    },
+    {
+      "key": "co2_zylinder",
+      "label": "CO2-Zylinder",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "kohlensaeure_stufen",
+      "label": "Kohlensäure-Stufen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material Gerät",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel kostet ein Liter Sprudelwasser mit einem Wassersprudler?",
+      "antwort": "Mit einem Standard-CO2-Zylinder (ca. 8 Euro Tausch) produzierst du etwa 60 Liter Sprudelwasser. Das entspricht rund 13 Cent pro Liter — deutlich günstiger als gekauftes Mineralwasser (30-80 Cent pro Liter). Die Ersparnis ist über ein Jahr gerechnet erheblich."
+    },
+    {
+      "frage": "Kann ich mit einem Wassersprudler auch Sirup aufsprudeln?",
+      "antwort": "Nein, sprudle immer nur reines Leitungswasser. Sirup und andere Zusätze erst nach dem Sprudeln in das fertige Sprudelwasser geben. Zucker oder Säure im Sprudelvorgang kann zu Überschäumen und Beschädigung des Geräts führen."
+    },
+    {
+      "frage": "Wie oft muss ich den CO2-Zylinder wechseln?",
+      "antwort": "Ein Zylinder reicht für etwa 60 Liter Sprudelwasser. Bei einem Zwei-Personen-Haushalt, der täglich 1,5 Liter trinkt, hält ein Zylinder etwa 40 Tage. Du merkst den leeren Zylinder daran, dass das Wasser trotz mehrmaligem Drücken nicht mehr richtig sprudelt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "SodaStream Terra",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09DKKCLT2?tag=janxsiegmann-21",
+      "werte": {
+        "flaschentyp": "Kunststoff (BPA-frei)",
+        "flaschenvolumen": "1,0",
+        "co2_zylinder": "Quick-Connect (SodaStream)",
+        "kohlensaeure_stufen": "Individuell (Druckknopf)",
+        "material": "Kunststoff"
+      }
+    },
+    {
+      "name": "SodaStream Crystal 3.0",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BTRHX97C?tag=janxsiegmann-21",
+      "werte": {
+        "flaschentyp": "Glas",
+        "flaschenvolumen": "0,7",
+        "co2_zylinder": "Quick-Connect (SodaStream)",
+        "kohlensaeure_stufen": "Individuell (Druckknopf)",
+        "material": "Kunststoff + Metall"
+      }
+    },
+    {
+      "name": "SodaStream DUO",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0977F9LF3?tag=janxsiegmann-21",
+      "werte": {
+        "flaschentyp": "Glas + Kunststoff (beide kompatibel)",
+        "flaschenvolumen": "1,0 / 0,7",
+        "co2_zylinder": "Quick-Connect (SodaStream)",
+        "kohlensaeure_stufen": "Individuell (Druckknopf)",
+        "material": "Metall + Kunststoff"
+      }
+    },
+    {
+      "name": "Aarke Carbonator 3",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08LMNX4MX?tag=janxsiegmann-21",
+      "werte": {
+        "flaschentyp": "PET (Aarke)",
+        "flaschenvolumen": "0,8",
+        "co2_zylinder": "Standard 60L (Schraubgewinde)",
+        "kohlensaeure_stufen": "Individuell (Hebel)",
+        "material": "Edelstahl"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "kontaktgrill",
+  "kategorie": "kueche",
+  "titel": "Kontaktgrill / Elektrogrill",
+  "beschreibung": "Kontaktgrill Test 2026: Die 4 besten Elektrogrills im Vergleich ✓ Indoor-Grillen ✓ Kaufberatung",
+  "keywords": [
+    "kontaktgrill",
+    "kontaktgrill test",
+    "elektrogrill",
+    "tischgrill",
+    "kontaktgrill vergleich",
+    "bester kontaktgrill",
+    "indoor grill",
+    "kontaktgrill testsieger",
+    "elektrogrill test 2026",
+    "george foreman grill"
+  ],
+  "einleitung": "Du willst auch ohne Balkon oder Garten richtig grillen? Ein Kontaktgrill macht es möglich — Fleisch, Gemüse und Sandwiches werden von beiden Seiten gleichzeitig gegrillt. Wir vergleichen vier Modelle vom einfachen Tischgrill bis zum vielseitigen Premium-Gerät.",
+  "kaufberatung": "### Kontaktgrill vs. offener Tischgrill\nEin Kontaktgrill presst das Grillgut zwischen zwei beheizte Platten — dadurch wird es schneller gar und Fett läuft ab. Offene Tischgrills bieten mehr Grillfläche und ein authentischeres Grillgefühl, brauchen aber länger. Für die Küche ist der Kontaktgrill praktischer, da weniger Rauch entsteht.\n\n### Die richtige Grillfläche wählen\nFür ein bis zwei Personen reichen 500-600 cm². Familien sollten auf mindestens 800 cm² achten. Manche Modelle wie der Tefal OptiGrill lassen sich aufklappen und verdoppeln so die Grillfläche — ideal für Gesellschaftsabende.\n\n### Temperaturregelung und Automatik\nEinfache Kontaktgrills haben nur einen Ein/Aus-Schalter. Bessere Modelle bieten eine stufenlose Temperaturregelung, und Premium-Geräte wie der Tefal OptiGrill+ erkennen sogar automatisch die Dicke des Grillguts und passen Temperatur und Garzeit an.\n\n### Fettauffangschale nicht vergessen\nEin guter Kontaktgrill braucht eine gut erreichbare Fettauffangschale. Ohne sie wird jedes Grillen zur Sauerei. Am besten sind Modelle mit leicht geneigten Grillplatten, die das Fett gezielt in die Schale leiten.\n\n### Reinigung: Abnehmbare Platten sparen Zeit\nGrillplatten, die sich abnehmen und in die Spülmaschine stecken lassen, sind ein enormer Komfortgewinn. Fest verbaute Platten müssen nach jedem Gebrauch mühsam mit feuchtem Tuch gereinigt werden.",
+  "vergleichsKategorien": [
+    {
+      "key": "grillflaeche",
+      "label": "Grillfläche",
+      "einheit": "cm²",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "temperaturregelung",
+      "label": "Temperaturregelung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "abnehmbare_platten",
+      "label": "Abnehmbare Platten",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "aufklappbar",
+      "label": "180° aufklappbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Kontaktgrill auch Sandwiches machen?",
+      "antwort": "Ja, die meisten Kontaktgrills eignen sich hervorragend für Panini und gegrillte Sandwiches. Achte darauf, dass der Grill eine höhenverstellbare Oberhitze hat, damit auch dickere Sandwiches gleichmäßig gepresst und gebräunt werden."
+    },
+    {
+      "frage": "Wie viel Rauch entsteht beim Kontaktgrill in der Wohnung?",
+      "antwort": "Deutlich weniger als bei einem offenen Grill, aber ganz rauchfrei ist auch ein Kontaktgrill nicht. Fett, das auf die heiße Platte tropft, kann rauchen. Tipp: Verwende mageres Grillgut und stelle den Grill in die Nähe der Dunstabzugshaube oder eines offenen Fensters."
+    },
+    {
+      "frage": "Welcher Kontaktgrill ist am einfachsten zu reinigen?",
+      "antwort": "Modelle mit abnehmbaren, spülmaschinenfesten Grillplatten sind am pflegeleichtesten. Der Tefal OptiGrill und der Sage Smart Grill Pro bieten diese Funktion. Alternativ hilft ein feuchtes Tuch direkt nach dem Grillen, solange die Platten noch leicht warm sind."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "George Foreman 25811-56 Fit Grill Medium",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07XDJYLQ5?tag=janxsiegmann-21",
+      "werte": {
+        "grillflaeche": "600",
+        "leistung": "1630",
+        "temperaturregelung": "Nein (automatisch)",
+        "abnehmbare_platten": "Ja",
+        "aufklappbar": "Nein",
+        "gewicht": "3,5"
+      }
+    },
+    {
+      "name": "Tefal OptiGrill GC714D",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BHWHQG99?tag=janxsiegmann-21",
+      "werte": {
+        "grillflaeche": "600",
+        "leistung": "2000",
+        "temperaturregelung": "6 Programme + manuell",
+        "abnehmbare_platten": "Ja (spülmaschinenfest)",
+        "aufklappbar": "Ja",
+        "gewicht": "5,5"
+      }
+    },
+    {
+      "name": "Tefal OptiGrill+ GC712D",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00IRJGS9O?tag=janxsiegmann-21",
+      "werte": {
+        "grillflaeche": "600",
+        "leistung": "2000",
+        "temperaturregelung": "Automatik + 4 Stufen",
+        "abnehmbare_platten": "Ja (spülmaschinenfest)",
+        "aufklappbar": "Nein",
+        "gewicht": "5,0"
+      }
+    },
+    {
+      "name": "Sage the Smart Grill Pro BGR840",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B078XBKBKM?tag=janxsiegmann-21",
+      "werte": {
+        "grillflaeche": "930",
+        "leistung": "2400",
+        "temperaturregelung": "Stufenlos (bis 230°C)",
+        "abnehmbare_platten": "Ja (spülmaschinenfest)",
+        "aufklappbar": "Ja",
+        "gewicht": "9,2"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

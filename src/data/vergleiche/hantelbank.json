@@ -1,0 +1,191 @@
+{
+  "slug": "hantelbank",
+  "kategorie": "sport",
+  "titel": "Hantelbank / Kraftstation",
+  "beschreibung": "Hantelbank / Kraftstation Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "hantelbank test",
+    "kraftstation vergleich",
+    "hantelbank klappbar kaufberatung",
+    "beste hantelbank",
+    "hantelbank 2026"
+  ],
+  "einleitung": "Du suchst eine Hantelbank fürs Heimtraining — für Bankdrücken, Schrägbank-Übungen oder als Basis für dein Home Gym? Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Flachbank, Schrägbank oder beides?\nEine verstellbare Bank, die Flach-, Schräg- und Negativposition bietet, ist am vielseitigsten. Reine Flachbänke sind stabiler und günstiger, aber in den Übungsmöglichkeiten begrenzt. Für ein Home Gym lohnt sich immer eine verstellbare Bank.\n\n### Wie viel Belastbarkeit brauche ich?\n200 kg reichen für die meisten Hobbyathleten (Körpergewicht + Hantelgewicht). Wer ernsthaft Kraftsport betreibt und 100+ kg Bankdrücken plant, sollte mindestens 300 kg Belastbarkeit wählen. Die ATX Warrior mit 500 kg ist semi-professionell und quasi unkaputtbar.\n\n### Klappbar oder fest?\nKlappbare Bänke sparen Platz, haben aber Spiel an den Gelenken — das stört bei schweren Gewichten. Feste Bänke sind stabiler und langlebiger. Wenn Platz kein Problem ist, wähle eine feste Bank. Wenn die Bank nach jedem Training weg muss, geht klappbar.\n\n### Polsterung — worauf achten?\nDie Polsterung sollte fest genug sein, um nicht durchzudrücken, aber weich genug für Komfort. Vinyl-Bezug ist rutschfest und leicht zu reinigen. Die Polsterbreite sollte mindestens 25 cm betragen, damit die Schulterblätter beim Bankdrücken vollen Kontakt haben.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "max_belastung",
+      "label": "Max. Belastung",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "verstellbar",
+      "label": "Verstellbarkeit",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "polsterung",
+      "label": "Polsterung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "klappbar",
+      "label": "Klappbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "abmessungen",
+      "label": "Abmessungen",
+      "einheit": "cm",
+      "sortierung": 6
+    },
+    {
+      "key": "gewicht",
+      "label": "Eigengewicht",
+      "einheit": "kg",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Hantelbank für Bankdrücken?",
+      "antwort": "Für Bankdrücken mit freien Gewichten brauchst du eine stabile Flachbank (mind. 200 kg Belastung) plus einen separaten Hantelständer oder ein Power Rack. Die Bowflex 5.1S oder ATX Warrior sind ideal. Bänke mit integrierter Hantelablage sind weniger flexibel und oft instabiler."
+    },
+    {
+      "frage": "Brauche ich eine Beinrolle an der Hantelbank?",
+      "antwort": "Eine Beinrolle ist praktisch für Sit-ups, Leg Curls und Negativbankdrücken (sie fixiert die Beine). Für reines Bankdrücken und Kurzhantel-Übungen brauchst du sie nicht. Die Sportstech BRT200 hat eine integrierte Beinrolle."
+    },
+    {
+      "frage": "Welcher Untergrund ist für eine Hantelbank geeignet?",
+      "antwort": "Idealerweise Bodenschutzmatten aus Gummi (mind. 1,5 cm dick) — sie schützen Boden und Gelenke und verhindern Rutschen. Teppich geht auch, ist aber schwerer zu reinigen. Fliesen oder Laminat direkt: Vorsicht, Kratzer- und Rutschgefahr."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ISE SY-5430",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B078HGLZYN?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 3.5,
+      "werte": {
+        "typ": "Flach- & Schrägbank",
+        "max_belastung": "200",
+        "verstellbar": "6 Positionen (Rückenlehne)",
+        "polsterung": "Standard-Schaum",
+        "klappbar": "Ja",
+        "abmessungen": "126 × 50 × 110",
+        "gewicht": "12"
+      },
+      "vorteile": [
+        "Sehr günstig",
+        "Klappbar",
+        "6 Positionen"
+      ],
+      "nachteile": [
+        "Wackelt bei hohen Gewichten",
+        "Dünne Polsterung",
+        "200 kg Grenze"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sportstech BRT200",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09HZD6VXM?tag=janxsiegmann-21",
+      "preis": 180,
+      "bewertung": 4.0,
+      "werte": {
+        "typ": "Flach-, Schräg- & Negativbank",
+        "max_belastung": "300",
+        "verstellbar": "7+3 Positionen (Rücken+Sitz)",
+        "polsterung": "Hochdichte Schaumstoffpolster",
+        "klappbar": "Ja",
+        "abmessungen": "130 × 55 × 120",
+        "gewicht": "18"
+      },
+      "vorteile": [
+        "Negativ-Position möglich",
+        "300 kg Belastung",
+        "Beinrolle inklusive",
+        "Gute Polsterung"
+      ],
+      "nachteile": [
+        "Nicht die stabilste",
+        "Klappbar geht auf Kosten der Steifigkeit",
+        "Beinrolle etwas wackelig"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Bowflex 5.1S",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B078T5Y5HC?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Flach-, Schräg- & Negativbank",
+        "max_belastung": "272",
+        "verstellbar": "6 Positionen",
+        "polsterung": "Komfort-Polster",
+        "klappbar": "Nein",
+        "abmessungen": "135 × 56 × 120",
+        "gewicht": "24"
+      },
+      "vorteile": [
+        "Sehr stabil",
+        "Bewährte Bowflex-Qualität",
+        "Transport-Rollen"
+      ],
+      "nachteile": [
+        "Nicht klappbar",
+        "272 kg Grenze",
+        "Teuer"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "ATX Warrior Bench",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C5KZVY7L?tag=janxsiegmann-21",
+      "preis": 500,
+      "bewertung": 4.5,
+      "werte": {
+        "typ": "Flach- & Schrägbank",
+        "max_belastung": "500",
+        "verstellbar": "7 Positionen",
+        "polsterung": "Schwerlast-Polster, rutschfest",
+        "klappbar": "Nein",
+        "abmessungen": "140 × 65 × 50",
+        "gewicht": "32"
+      },
+      "vorteile": [
+        "500 kg Belastung — semi-professionell",
+        "Extrem stabil",
+        "Kommerzielle Qualität",
+        "Breite Polsterauflage"
+      ],
+      "nachteile": [
+        "Teuer",
+        "Sehr schwer",
+        "Nicht klappbar"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

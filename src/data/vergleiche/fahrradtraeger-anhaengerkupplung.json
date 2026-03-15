@@ -1,0 +1,128 @@
+{
+  "slug": "fahrradtraeger-anhaengerkupplung",
+  "kategorie": "auto",
+  "titel": "Fahrradträger (Anhängerkupplung)",
+  "beschreibung": "Fahrradträger Test 2026: Die 4 besten AHK-Träger im Vergleich ✓ 2–4 Räder ✓ E-Bike-tauglich ✓ Kaufberatung",
+  "keywords": [
+    "fahrradträger anhängerkupplung test",
+    "fahrradträger test",
+    "fahrradträger ahk",
+    "bester fahrradträger",
+    "fahrradträger e-bike",
+    "thule fahrradträger",
+    "fahrradträger vergleich",
+    "fahrradträger anhängerkupplung 2 räder",
+    "fahrradträger test 2026",
+    "fahrradträger anhängerkupplung klappbar"
+  ],
+  "einleitung": "Ein Fahrradträger für die Anhängerkupplung ist die sicherste und komfortabelste Lösung, um Fahrräder zu transportieren. Doch gerade mit schweren E-Bikes wird die Zuladung entscheidend. Wir vergleichen vier Modelle von Budget bis Profi.",
+  "kaufberatung": "### Für 2 oder 3 Fahrräder?\nDie meisten Familien kommen mit einem 2er-Träger aus. 3er- oder 4er-Träger sind sinnvoll, wenn regelmäßig mehr Räder transportiert werden. Beachte: Mehr Räder bedeuten mehr Gewicht — die Stützlast deiner AHK ist begrenzt (meist 75 kg).\n\n### E-Bike-Tauglichkeit prüfen\nE-Bikes wiegen 20–30 kg. Bei zwei E-Bikes bist du schnell bei 60 kg — plus Träger. Achte auf die maximale Zuladung pro Rad (meist 25–30 kg) und die Gesamtzuladung. Ein stabiler Rahmen und breite Reifenrinnen sind bei E-Bikes Pflicht.\n\n### Abklappbar für den Kofferraum\nDie meisten Träger lassen sich mit beladenen Rädern abklappen, sodass der Kofferraum zugänglich bleibt. Das ist im Alltag extrem praktisch — kein Träger-Abbauen nur weil du an den Kofferraum musst.\n\n### Diebstahlschutz\nAchte auf abschließbare Rahmenhalter und eine Diebstahlsicherung am AHK-Kugelkopf. Ohne Schloss kann der gesamte Träger samt Räder in Sekunden gestohlen werden. Hochwertige Modelle von Thule und Uebler bieten integrierte Schlösser.\n\n### Stützlast und Kennzeichen\nDer Träger darf das Kennzeichen nicht verdecken. Alle Modelle haben einen Kennzeichenhalter und eine Beleuchtungsleiste. Prüfe die maximale Stützlast deiner AHK — sie muss Träger + Räder tragen können.",
+  "vergleichsKategorien": [
+    {
+      "key": "anzahl_raeder",
+      "label": "Anzahl Räder",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "zuladung_gesamt",
+      "label": "Max. Zuladung",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "zuladung_rad",
+      "label": "Max. pro Rad",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "eigengewicht",
+      "label": "Eigengewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "abklappbar",
+      "label": "Abklappbar",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "abschliessbar",
+      "label": "Abschließbar",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Passt ein Fahrradträger auf jede Anhängerkupplung?",
+      "antwort": "Fahrradträger für Kugelkopf-Anhängerkupplungen sind genormt (50 mm Kugel) und passen auf praktisch jede europäische AHK. Bei abnehmbaren Kupplungen musst du die Kupplung natürlich montiert haben."
+    },
+    {
+      "frage": "Darf ich mit Fahrradträger auf die Autobahn?",
+      "antwort": "Ja, die meisten Träger sind bis 130 km/h zugelassen. Achte auf die Herstellerangabe und überprüfe vor der Fahrt, ob alle Räder fest sitzen. Der Träger darf nicht breiter sein als dein Auto."
+    },
+    {
+      "frage": "Brauche ich ein zusätzliches Kennzeichen für den Fahrradträger?",
+      "antwort": "Wenn der Träger das Kennzeichen verdeckt, brauchst du ein drittes Kennzeichen. Alle Modelle in unserem Vergleich haben einen Kennzeichenhalter. Das Zusatzkennzeichen beantragst du bei deiner Zulassungsstelle."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Eufab Crow Basic",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B3JN7G6W?tag=janxsiegmann-21",
+      "werte": {
+        "anzahl_raeder": "2",
+        "zuladung_gesamt": "60",
+        "zuladung_rad": "30",
+        "eigengewicht": "16",
+        "abklappbar": "Ja",
+        "abschliessbar": "Ja (Rahmenhalter + AHK)"
+      }
+    },
+    {
+      "name": "Thule VeloSpace XT 2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B073S2TT2X?tag=janxsiegmann-21",
+      "werte": {
+        "anzahl_raeder": "2 (erw. auf 3)",
+        "zuladung_gesamt": "60",
+        "zuladung_rad": "30",
+        "eigengewicht": "18,2",
+        "abklappbar": "Ja",
+        "abschliessbar": "Ja (integriert)"
+      }
+    },
+    {
+      "name": "Thule EasyFold XT 2",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B071WTDF7Z?tag=janxsiegmann-21",
+      "werte": {
+        "anzahl_raeder": "2",
+        "zuladung_gesamt": "60",
+        "zuladung_rad": "30",
+        "eigengewicht": "17,9",
+        "abklappbar": "Ja (kompakt faltbar)",
+        "abschliessbar": "Ja (integriert)"
+      }
+    },
+    {
+      "name": "Uebler X21 S",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B075R98R2F?tag=janxsiegmann-21",
+      "werte": {
+        "anzahl_raeder": "2",
+        "zuladung_gesamt": "60",
+        "zuladung_rad": "30",
+        "eigengewicht": "16,5",
+        "abklappbar": "Ja",
+        "abschliessbar": "Ja (integriert + Fernbedienung)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "munddusche",
+  "kategorie": "koerperpflege",
+  "titel": "Munddusche",
+  "beschreibung": "Munddusche Test 2026: Die 4 besten Mundduschen im Vergleich ✓ Oral-B, Waterpik & Panasonic ✓ Für gesundes Zahnfleisch",
+  "keywords": [
+    "munddusche",
+    "munddusche test",
+    "munddusche vergleich",
+    "beste munddusche",
+    "waterpik test",
+    "oral-b munddusche",
+    "munddusche test 2026",
+    "munddusche zahnfleisch",
+    "munddusche empfehlung",
+    "elektrische munddusche"
+  ],
+  "einleitung": "Zahnseide ist dir zu umständlich? Eine Munddusche reinigt Zahnzwischenräume und Zahnfleischtaschen effektiv mit Wasser. Wir vergleichen vier Mundduschen und zeigen dir, welche am besten zu deiner Zahnpflege-Routine passt.",
+  "kaufberatung": "### Für wen eignet sich welche Munddusche?\nFür Einsteiger ist die Oral-B Aquacare 4 ein guter Start — kompakt und einfach. Die Waterpik WP-660 ist der Goldstandard mit großem Wassertank. Unterwegs ist die Panasonic EW1311 mit ihrem integrierten Tank perfekt. Und die Waterpik WP-580 bietet Profi-Funktionen in kompaktem Format.\n\n### Munddusche vs. Zahnseide — was ist besser?\nMundduschen sind kein Ersatz für Zahnseide, sondern eine Ergänzung. Sie reinigen Zahnfleischtaschen und unter Brücken besser als Zahnseide. Für enge Zahnzwischenräume ist Zahnseide nach wie vor unschlagbar. Am besten: beides kombinieren.\n\n### Wie viel Wasserdruck brauche ich?\nEinsteiger starten mit niedrigem Druck und steigern langsam. Zu hoher Druck kann das Zahnfleisch verletzen. Die meisten Geräte haben 3-10 Druckstufen — das reicht für alle Bedürfnisse.\n\n### Stationär oder mobil?\nStationäre Mundduschen haben größere Tanks und konstanten Druck. Mobile Geräte sind kompakter und reisefreundlich. Für zu Hause empfehlen wir ein stationäres Gerät, für unterwegs ein mobiles.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "tankvolumen",
+      "label": "Tankvolumen",
+      "einheit": "ml",
+      "sortierung": 2
+    },
+    {
+      "key": "druckstufen",
+      "label": "Druckstufen",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "duesen",
+      "label": "Düsen im Lieferumfang",
+      "einheit": "Stück",
+      "sortierung": 4
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte man eine Munddusche benutzen?",
+      "antwort": "1-2x täglich nach dem Zähneputzen. Am besten abends, um Essensreste und Plaque aus den Zahnzwischenräumen zu entfernen. Nicht als Ersatz für Zähneputzen verwenden."
+    },
+    {
+      "frage": "Ist eine Munddusche bei Zahnspange sinnvoll?",
+      "antwort": "Ja, sehr sogar. Eine Munddusche reinigt effektiv um Brackets und Drähte herum, wo Zahnbürste und Zahnseide schwer hinkommen. Waterpik bietet spezielle Orthodontie-Düsen dafür."
+    },
+    {
+      "frage": "Kann man Mundwasser in die Munddusche füllen?",
+      "antwort": "Einige Hersteller erlauben warmes Wasser, manche auch verdünntes Mundwasser. Prüfe die Herstellerangaben — unverdünntes Mundwasser kann Dichtungen beschädigen. Im Zweifel nur lauwarmes Wasser verwenden."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Oral-B Aquacare 4",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B085C5YK1N?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Mobil (kabellos)",
+        "tankvolumen": "150",
+        "druckstufen": "2",
+        "duesen": "1",
+        "akkulaufzeit": "ca. 45 Sek. pro Füllung",
+        "gewicht": "230"
+      }
+    },
+    {
+      "name": "Waterpik WP-660",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00HFQQ0VU?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Stationär",
+        "tankvolumen": "650",
+        "druckstufen": "10",
+        "duesen": "7",
+        "akkulaufzeit": "Netzbetrieb",
+        "gewicht": "780"
+      }
+    },
+    {
+      "name": "Panasonic EW1311",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00EOTLTIO?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Mobil (kabellos)",
+        "tankvolumen": "130",
+        "druckstufen": "3",
+        "duesen": "2",
+        "akkulaufzeit": "ca. 15 Min.",
+        "gewicht": "305"
+      }
+    },
+    {
+      "name": "Waterpik WP-580 Cordless Advanced",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07L5GBSBB?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Mobil (kabellos)",
+        "tankvolumen": "210",
+        "druckstufen": "3",
+        "duesen": "4",
+        "akkulaufzeit": "ca. 45 Sek./Füllung",
+        "gewicht": "340"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

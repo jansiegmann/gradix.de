@@ -1,0 +1,128 @@
+{
+  "slug": "elektrische-zahnbuerste",
+  "kategorie": "koerperpflege",
+  "titel": "Elektrische Zahnbürste",
+  "beschreibung": "Elektrische Zahnbürste Test 2026: Die 4 besten Modelle ✓ Oral-B, Philips Sonicare ✓ Schall & Rotation",
+  "keywords": [
+    "elektrische zahnbürste test",
+    "zahnbürste vergleich 2026",
+    "oral-b test",
+    "philips sonicare test",
+    "schallzahnbürste test",
+    "beste elektrische zahnbürste",
+    "zahnbürste kaufberatung",
+    "oral-b io test",
+    "elektrische zahnbürste vergleich",
+    "zahnbürste empfehlung"
+  ],
+  "einleitung": "Elektrische Zahnbürsten reinigen gründlicher als Handzahnbürsten — das bestätigt die Zahnmedizin seit Jahren. Ob Schall oder Rotation, günstig oder Premium — wir vergleichen vier Modelle für strahlend saubere Zähne.",
+  "kaufberatung": "### Schall oder Rotation?\n\nRotierende Zahnbürsten (Oral-B) bewegen den Bürstenkopf kreisend. Schallzahnbürsten (Philips Sonicare) vibrieren mit hoher Frequenz. Beide reinigen nachweislich besser als Handzahnbürsten. Rotations-Zahnbürsten entfernen Plaque minimal besser, Schallzahnbürsten sind sanfter zum Zahnfleisch. Am Ende zählt die richtige Putztechnik mehr als die Technologie.\n\n### Wie viele Putzmodi brauche ich?\n\nEhrlich gesagt: 2-3 reichen. Ein Standardmodus, ein Sensitiv-Modus für empfindliches Zahnfleisch und vielleicht ein Aufhellungsmodus. Premium-Modelle bieten 5+ Modi, von denen die meisten Nutzer nur 1-2 verwenden.\n\n### Aufsteckbürsten: Folgekosten beachten\n\nDie Bürstenköpfe sollten alle 3 Monate gewechselt werden. Oral-B Aufsteckbürsten kosten 3-8€ pro Stück, Philips Sonicare ähnlich. Drittanbieter bieten günstigere Alternativen, die Qualität variiert aber.\n\n### Timer und Drucksensor\n\nEin 2-Minuten-Timer ist bei allen Modellen Standard und hilft, die empfohlene Putzzeit einzuhalten. Ein Drucksensor warnt, wenn du zu fest aufdrückst — das schont Zahnschmelz und Zahnfleisch. Ab der Mittelklasse ist ein Drucksensor Standard.",
+  "vergleichsKategorien": [
+    {
+      "key": "technologie",
+      "label": "Technologie",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "putzprogramme",
+      "label": "Putzprogramme",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "Tage",
+      "sortierung": 3
+    },
+    {
+      "key": "drucksensor",
+      "label": "Drucksensor",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "timer",
+      "label": "Timer",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "app",
+      "label": "App-Anbindung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Oral-B oder Philips Sonicare — was ist besser?",
+      "antwort": "Beide reinigen nachweislich gut. Oral-B (Rotation) entfernt Plaque minimal gründlicher, Philips Sonicare (Schall) ist sanfter zum Zahnfleisch. Wenn du zu empfindlichem Zahnfleisch neigst, ist eine Schallzahnbürste die bessere Wahl. Ansonsten ist es Geschmackssache."
+    },
+    {
+      "frage": "Wie oft muss ich den Bürstenkopf wechseln?",
+      "antwort": "Alle 3 Monate oder wenn die Borsten ausgefranst sind. Viele Modelle haben Erinnerungsfunktionen oder farbige Indikatorborsten, die anzeigen, wann ein Wechsel fällig ist."
+    },
+    {
+      "frage": "Lohnt sich eine elektrische Zahnbürste mit App?",
+      "antwort": "Die App zeigt Putzstatistiken und optimiert die Putztechnik. Für die ersten Wochen kann das motivierend sein. Langfristig nutzen die wenigsten die App regelmäßig. Eine gute Zahnbürste ohne App reinigt genauso gut."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Oral-B Vitality Pro",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CX2LMNZP?tag=janxsiegmann-21",
+      "werte": {
+        "technologie": "Rotation (2D)",
+        "putzprogramme": "3",
+        "akku": "ca. 14",
+        "drucksensor": "Nein",
+        "timer": "2 Min + 30-Sek-Intervall",
+        "app": "Nein"
+      }
+    },
+    {
+      "name": "Philips Sonicare 3100",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0757RMJWQ?tag=janxsiegmann-21",
+      "werte": {
+        "technologie": "Schall (31.000 Bewegungen/Min)",
+        "putzprogramme": "1",
+        "akku": "ca. 14",
+        "drucksensor": "Ja",
+        "timer": "2 Min + 30-Sek-Intervall",
+        "app": "Nein"
+      }
+    },
+    {
+      "name": "Oral-B iO Series 6",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CDY8VG5G?tag=janxsiegmann-21",
+      "werte": {
+        "technologie": "Rotation (3D, Magnetantrieb)",
+        "putzprogramme": "5",
+        "akku": "ca. 14",
+        "drucksensor": "Ja (Smart)",
+        "timer": "Ja + KI-Tracking",
+        "app": "Ja (Oral-B App)"
+      }
+    },
+    {
+      "name": "Philips Sonicare DiamondClean 9000",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09BCRYLMJ?tag=janxsiegmann-21",
+      "werte": {
+        "technologie": "Schall (62.000 Bewegungen/Min)",
+        "putzprogramme": "4",
+        "akku": "ca. 14",
+        "drucksensor": "Ja (3 Stufen)",
+        "timer": "2 Min + 30-Sek-Intervall",
+        "app": "Ja (Philips Sonicare App)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

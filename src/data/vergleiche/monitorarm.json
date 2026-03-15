@@ -1,0 +1,128 @@
+{
+  "slug": "monitorarm",
+  "kategorie": "buero",
+  "titel": "Monitorarm / Halterung",
+  "beschreibung": "Monitorarm Test 2026: Die 4 besten Monitor-Halterungen im Vergleich ✓ Für 17–35 Zoll ✓ Ergonomisch ✓ Kaufberatung",
+  "keywords": [
+    "monitorarm test",
+    "monitor halterung",
+    "monitorarm vergleich",
+    "monitor schwenkarm",
+    "monitorarm 27 zoll",
+    "monitorarm ergotron",
+    "monitorarm schreibtisch",
+    "beste monitorhalterung",
+    "monitorarm test 2026",
+    "monitor tischhalterung"
+  ],
+  "einleitung": "Ein Monitorarm befreit deinen Schreibtisch von klobigen Standfüßen und bringt den Bildschirm auf die perfekte ergonomische Höhe. Die Unterschiede bei Tragkraft, Bewegungsfreiheit und Stabilität sind größer als man denkt. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Warum ein Monitorarm?\nDer Standfuß deines Monitors verschwendet wertvollen Platz und zwingt dich oft in eine ungünstige Höhe. Ein Monitorarm schafft Platz, ermöglicht die perfekte ergonomische Position und lässt dich den Monitor zur Seite schwenken.\n\n### VESA-Kompatibilität prüfen\nFast alle Monitore haben VESA-Bohrungen auf der Rückseite (75×75 mm oder 100×100 mm). Prüfe das vor dem Kauf — iMacs und einige Design-Monitore haben kein VESA. Für große Monitore ab 32 Zoll brauchst du oft einen Adapter.\n\n### Gasfeder oder mechanisch?\nGasfeder-Arme lassen sich stufenlos und leichtgängig verstellen — ideal für häufiges Anpassen. Mechanische Arme werden mit Schrauben fixiert und sind stabiler, aber umständlicher zu verstellen. Für den täglichen Gebrauch empfehlen wir Gasfedern.\n\n### Klemme oder Durchführung?\nDie meisten Arme werden mit einer Klemme am Schreibtischrand befestigt — schnell und ohne Bohren. Alternativ gibt es Durchführungsbefestigungen durch ein Loch in der Platte. Die Klemme reicht für 95 % der Anwendungen.\n\n### Tragkraft richtig einschätzen\nEin 27-Zoll-Monitor wiegt 4–7 kg, ein 34-Zoll-Ultrawide 7–10 kg. Wähle einen Arm mit mindestens 20 % Reserve über dem Monitorgewicht. Zu schwache Arme sacken ab, zu starke lassen sich schwer bewegen.",
+  "vergleichsKategorien": [
+    {
+      "key": "tragkraft",
+      "label": "Tragkraft",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "monitorgroesse",
+      "label": "Monitorgröße",
+      "einheit": "Zoll",
+      "sortierung": 2
+    },
+    {
+      "key": "vesa",
+      "label": "VESA-Kompatibilität",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "bewegung",
+      "label": "Bewegungstyp",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "kabelmanagement",
+      "label": "Kabelmanagement",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "befestigung",
+      "label": "Befestigung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Passt ein Monitorarm an jeden Schreibtisch?",
+      "antwort": "Klemm-Monitorarme passen an Schreibtische mit maximal 6–8 cm Plattenstärke. Bei sehr dünnen oder sehr dicken Platten kann es Probleme geben. Glasplatten sind meist nicht geeignet. Alternativ gibt es Standfuß-Monitorarme."
+    },
+    {
+      "frage": "Kann ich meinen Monitor im Hochformat drehen?",
+      "antwort": "Die meisten Monitorarme erlauben eine 90°-Drehung ins Hochformat (Portrait-Modus). Prüfe die VESA-Aufnahme und ob dein Monitor die Drehung unterstützt. Besonders für Programmierer und Texter ist das Hochformat praktisch."
+    },
+    {
+      "frage": "Was ist besser: Einzel- oder Doppelarm?",
+      "antwort": "Wenn du zwei Monitore nutzt, ist ein Doppelarm platzsparender als zwei Einzelarme — er braucht nur einen Befestigungspunkt. Für einen einzelnen großen Monitor (32 Zoll+) empfehlen wir einen kräftigen Einzelarm."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Amazon Basics Monitor-Tischhalterung",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00MIBN16O?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "2–11,3",
+        "monitorgroesse": "bis 32",
+        "vesa": "75×75 / 100×100",
+        "bewegung": "Gasfeder",
+        "kabelmanagement": "Integriert",
+        "befestigung": "Klemme / Durchführung"
+      }
+    },
+    {
+      "name": "ErGear Monitor-Halterung",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B085Y4HN5R?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "2–12",
+        "monitorgroesse": "13–35",
+        "vesa": "75×75 / 100×100",
+        "bewegung": "Gasfeder",
+        "kabelmanagement": "Integriert",
+        "befestigung": "Klemme / Durchführung"
+      }
+    },
+    {
+      "name": "Ergotron LX",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00689HXI4?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "3,2–11,3",
+        "monitorgroesse": "bis 34",
+        "vesa": "75×75 / 100×100",
+        "bewegung": "Patentierte Gasfeder",
+        "kabelmanagement": "Integriert",
+        "befestigung": "Klemme / Durchführung"
+      }
+    },
+    {
+      "name": "Ergotron HX",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01N5FTCJE?tag=janxsiegmann-21",
+      "werte": {
+        "tragkraft": "9,1–19,1",
+        "monitorgroesse": "bis 49",
+        "vesa": "100×100 / 200×100",
+        "bewegung": "Patentierte Gasfeder",
+        "kabelmanagement": "Integriert + Kabelclips",
+        "befestigung": "Klemme / Durchführung"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

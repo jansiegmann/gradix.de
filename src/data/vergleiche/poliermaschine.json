@@ -1,0 +1,128 @@
+{
+  "slug": "poliermaschine",
+  "kategorie": "auto",
+  "titel": "Poliermaschine",
+  "beschreibung": "Poliermaschine Test 2026: Die 4 besten Poliermaschinen im Vergleich ✓ Exzenter & Rotation ✓ Kaufberatung",
+  "keywords": [
+    "poliermaschine test",
+    "poliermaschine auto",
+    "exzenterpolierer test",
+    "autopoliermaschine",
+    "poliermaschine vergleich",
+    "poliermaschine anfänger",
+    "beste poliermaschine",
+    "poliermaschine 2026 test",
+    "poliermaschine kaufberatung",
+    "auto polieren maschine"
+  ],
+  "einleitung": "Kratzer entfernen, Lack auffrischen und Hochglanz erzeugen — mit der richtigen Poliermaschine gelingt das auch Hobbyisten. Doch zwischen Exzenter- und Rotationsmaschinen gibt es große Unterschiede bei Abtrag, Sicherheit und Bedienung. Wir vergleichen vier empfehlenswerte Modelle.",
+  "kaufberatung": "### Exzenter oder Rotation — was ist der Unterschied?\nExzenterpolierer bewegen den Teller in einer unregelmäßigen Kreisbewegung. Das macht sie anfängerfreundlich, weil man den Lack kaum durchpolieren kann. Rotationspolierer haben mehr Abtrag, erfordern aber Erfahrung — ein Fehler kann den Lack beschädigen. Für Einsteiger empfehlen wir immer einen Exzenter.\n\n### Drehzahl und Hub\nDer Hub (in mm) bestimmt die Arbeitsgeschwindigkeit des Exzenters. Ein größerer Hub (15–21 mm) arbeitet schneller, ein kleiner Hub (8–12 mm) feiner. Für die meisten Auto-Anwendungen ist ein Hub von 12–15 mm ideal.\n\n### Telleraufnahme: 125 mm oder 150 mm?\nKleinere Teller (125 mm) bieten mehr Kontrolle in Ecken und Kanten. Größere Teller (150 mm) arbeiten schneller auf großen Flächen. Die meisten Maschinen können mit beiden Tellergrößen betrieben werden.\n\n### Kabel oder Akku?\nKabelmaschinen bieten konstante Leistung und unbegrenzte Laufzeit. Akku-Polierer sind flexibler, aber Laufzeit und Leistung sind begrenzt. Für eine komplette Fahrzeugpolitur empfehlen wir Kabelmaschinen.\n\n### Zubehör: Was brauche ich?\nZum Einstieg brauchst du: Poliermaschine, Stützpad, 2–3 Polierpads (Schnitt, Medium, Finish) und eine Polierpaste. Sets sind oft günstiger als Einzelkauf.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "hub",
+      "label": "Hub",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "drehzahl",
+      "label": "Drehzahl",
+      "einheit": "U/min",
+      "sortierung": 3
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 5
+    },
+    {
+      "key": "tellergroesse",
+      "label": "Tellergröße",
+      "einheit": "mm",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Poliermaschine ist für Anfänger geeignet?",
+      "antwort": "Für Einsteiger empfehlen wir einen Exzenterpolierer wie den SPTA Mini Polierer oder den Einhell CE-CP 18/150. Der Exzenter-Mechanismus verhindert, dass du den Lack versehentlich durchpolierst."
+    },
+    {
+      "frage": "Kann ich mit einer Poliermaschine Kratzer entfernen?",
+      "antwort": "Leichte Kratzer und Swirl Marks lassen sich mit einer Poliermaschine und passender Schleifpaste gut entfernen. Tiefe Kratzer, die bis auf die Grundierung gehen, erfordern eine Lackreparatur."
+    },
+    {
+      "frage": "Wie oft sollte ich mein Auto polieren?",
+      "antwort": "Eine gründliche Politur empfiehlt sich 1–2 Mal pro Jahr. Zu häufiges Polieren trägt unnötig Klarlack ab. Nach der Politur solltest du immer eine Versiegelung oder Wachs auftragen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "SPTA Mini Exzenterpolierer",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07RLPTFCS?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Exzenter",
+        "hub": "12",
+        "drehzahl": "2.000–7.500",
+        "leistung": "700",
+        "gewicht": "1,5",
+        "tellergroesse": "75/100/125"
+      }
+    },
+    {
+      "name": "Einhell CE-CP 18/150 Li",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B083RLNLKV?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Exzenter",
+        "hub": "k.A.",
+        "drehzahl": "800–2.600",
+        "leistung": "18V Akku",
+        "gewicht": "1,7 (ohne Akku)",
+        "tellergroesse": "150"
+      }
+    },
+    {
+      "name": "Liquid Elements T3000 V2",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09LCQHB33?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Exzenter (Dual Action)",
+        "hub": "15",
+        "drehzahl": "1.800–5.500",
+        "leistung": "900",
+        "gewicht": "2,4",
+        "tellergroesse": "125/150"
+      }
+    },
+    {
+      "name": "Rupes LHR 15 Mark III",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09X2Z5K38?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Exzenter (BigFoot)",
+        "hub": "15",
+        "drehzahl": "2.000–5.500",
+        "leistung": "500",
+        "gewicht": "2,2",
+        "tellergroesse": "125"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

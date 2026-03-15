@@ -1,0 +1,128 @@
+{
+  "slug": "haarschneidemaschine",
+  "kategorie": "koerperpflege",
+  "titel": "Haarschneidemaschine",
+  "beschreibung": "Haarschneidemaschine Test 2026: Die 4 besten Haarschneider im Vergleich ✓ Profi-Qualität für zuhause ✓ Wahl, Panasonic & Co.",
+  "keywords": [
+    "haarschneidemaschine",
+    "haarschneidemaschine test",
+    "haarschneider test",
+    "haarschneidemaschine vergleich",
+    "bester haarschneider",
+    "haarschneidemaschine profi",
+    "wahl haarschneider",
+    "haarschneider test 2026",
+    "hair clipper test",
+    "haarschneidemaschine kaufen"
+  ],
+  "einleitung": "Selbst Haare schneiden spart Geld und gibt dir Kontrolle über deinen Look. Wir vergleichen vier Haarschneidemaschinen und zeigen dir, welche auch zuhause Barbershop-Ergebnisse liefert.",
+  "kaufberatung": "### Für wen eignet sich welche Haarschneidemaschine?\nFür einfache Kurzhaarschnitte und Buzz Cuts reicht der Philips HC5612/15. Der Wahl Color Pro bietet farbcodierte Aufsätze für Familien. Der Panasonic ER-GP84 ist ein Semi-Profi-Gerät für ambitionierte Heimanwender. Und der Wahl Senior Cordless ist das, was auch Barbiere benutzen.\n\n### Schneidwerk — worauf kommt es an?\nDie Qualität der Klingen entscheidet über ein sauberes Schnittergebnis. Hochwertige Geräte haben gehärtete Edelstahl- oder Keramikklingen, die scharf bleiben und nicht ziehen. Günstige Geräte haben oft weichere Klingen, die schneller stumpf werden.\n\n### Akku oder Kabel?\nKabellose Haarschneider sind flexibler, Kabelgeräte haben konstante Power. Ideal: Geräte mit Akku + Kabelbetrieb, damit du nie mitten im Schnitt ohne Saft dastehst.\n\n### Selbst Haare schneiden — Tipps für Anfänger\nStarte immer mit einem längeren Aufsatz und arbeite dich vor. Schneide gegen die Wuchsrichtung. Für Übergänge: Verschiedene Längen mit fließendem Übergang kämmen. Ein zweiter Spiegel für den Hinterkopf ist Pflicht.",
+  "vergleichsKategorien": [
+    {
+      "key": "schnittlaengen",
+      "label": "Schnittlängen",
+      "einheit": "mm",
+      "sortierung": 1
+    },
+    {
+      "key": "aufsaetze",
+      "label": "Kammaufsätze",
+      "einheit": "Stück",
+      "sortierung": 2
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 3
+    },
+    {
+      "key": "kabel_akku",
+      "label": "Betriebsart",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "klingen",
+      "label": "Klingenmaterial",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Haarschneidemaschine ist für Anfänger geeignet?",
+      "antwort": "Für Anfänger empfehlen wir den Philips HC5612/15 oder den Wahl Color Pro. Beide sind einfach zu bedienen, haben viele Aufsätze und verzeihen kleine Fehler dank gleichmäßigem Schnittbild."
+    },
+    {
+      "frage": "Wie oft muss man die Klingen ölen?",
+      "antwort": "Nach jeder 2-3. Nutzung ein paar Tropfen Klingenöl auftragen. Das hält die Klingen scharf und verlängert die Lebensdauer. Die meisten Geräte werden mit Öl geliefert."
+    },
+    {
+      "frage": "Kann ich mir mit einer Haarschneidemaschine einen Fade schneiden?",
+      "antwort": "Ja, mit Übung und dem richtigen Gerät. Du brauchst einen Haarschneider mit feinen Schnittlängen-Abstufungen (0,5-mm-Schritte). Der Panasonic ER-GP84 und der Wahl Senior Cordless eignen sich dafür am besten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Philips HC5612/15",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07R5K8LGG?tag=janxsiegmann-21",
+      "werte": {
+        "schnittlaengen": "0,5-28",
+        "aufsaetze": "3",
+        "akkulaufzeit": "90",
+        "kabel_akku": "Akku + Kabel",
+        "klingen": "Edelstahl (selbstschärfend)",
+        "gewicht": "195"
+      }
+    },
+    {
+      "name": "Wahl Color Pro Cordless",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08LQMT5VX?tag=janxsiegmann-21",
+      "werte": {
+        "schnittlaengen": "1,5-25",
+        "aufsaetze": "10 (farbcodiert)",
+        "akkulaufzeit": "60",
+        "kabel_akku": "Nur Akku",
+        "klingen": "Edelstahl",
+        "gewicht": "210"
+      }
+    },
+    {
+      "name": "Panasonic ER-GP84",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07PQHDGKY?tag=janxsiegmann-21",
+      "werte": {
+        "schnittlaengen": "0,8-15",
+        "aufsaetze": "3",
+        "akkulaufzeit": "50",
+        "kabel_akku": "Akku + Kabel",
+        "klingen": "X-Taper DLC",
+        "gewicht": "245"
+      }
+    },
+    {
+      "name": "Wahl Senior Cordless",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B084MNR1N1?tag=janxsiegmann-21",
+      "werte": {
+        "schnittlaengen": "0,5-13",
+        "aufsaetze": "8",
+        "akkulaufzeit": "70",
+        "kabel_akku": "Akku + Kabel",
+        "klingen": "Chrom-Stahl (Profi)",
+        "gewicht": "280"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

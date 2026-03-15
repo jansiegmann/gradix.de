@@ -1,0 +1,128 @@
+{
+  "slug": "doerrgeraet",
+  "kategorie": "kueche",
+  "titel": "Dörrgerät / Dörrautomat",
+  "beschreibung": "Dörrgerät Test 2026: Die 4 besten Dörrautomaten im Vergleich ✓ Obst, Fleisch & mehr ✓ Kaufberatung",
+  "keywords": [
+    "dörrgerät",
+    "dörrgerät test",
+    "dörrautomat",
+    "dörrautomat vergleich",
+    "bester dörrautomat",
+    "obst dörren",
+    "beef jerky selber machen",
+    "dörrgerät testsieger",
+    "dörrgerät kaufberatung",
+    "dörrautomat 2026"
+  ],
+  "einleitung": "Trockenfrüchte, Beef Jerky oder Gemüsechips selber machen? Ein Dörrgerät entzieht Lebensmitteln schonend das Wasser und konserviert sie natürlich. Wir vergleichen vier Modelle für Einsteiger und Profis.",
+  "kaufberatung": "### Warum ein Dörrgerät statt Backofen?\nEin Dörrgerät arbeitet bei niedrigen Temperaturen (35-70°C) mit konstantem Luftstrom. Im Backofen ist die Temperatur oft zu hoch und die Luftzirkulation unzureichend — das Ergebnis sind ungleichmäßig getrocknete Lebensmittel. Ein Dörrgerät spart außerdem Strom, da es weniger Energie benötigt.\n\n### Stapeltrockner vs. Einschubtrockner\nStapeltrockner haben übereinander gestapelte Ebenen — günstig, aber ungleichmäßige Trocknung (oben schneller als unten). Einschubtrockner arbeiten wie ein Backofen mit Einschüben und horizontaler Luftzirkulation — gleichmäßigere Ergebnisse, aber teurer.\n\n### Temperaturbereich entscheidet über die Möglichkeiten\nFür Rohkost-Qualität brauchst du unter 42°C. Kräuter trocknen bei 35-40°C, Obst bei 50-60°C, Beef Jerky bei 65-70°C. Achte auf einen möglichst breiten Temperaturbereich.\n\n### Dörrdauer: Geduld ist gefragt\nDörren dauert — je nach Lebensmittel 4 bis 24 Stunden. Ein Timer mit Abschaltautomatik ist deshalb fast Pflicht, damit du nachts trocknen lassen kannst.\n\n### Lautstärke beachten\nDörrgeräte laufen stundenlang — da fällt die Lautstärke auf. Einschubtrockner sind in der Regel leiser als Stapeltrockner. Wer das Gerät im Wohnbereich aufstellt, sollte auf maximal 40-50 dB achten.",
+  "vergleichsKategorien": [
+    {
+      "key": "doerrebenen",
+      "label": "Dörrebenen",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "doerr_flaeche",
+      "label": "Dörrfläche",
+      "einheit": "m²",
+      "sortierung": 2
+    },
+    {
+      "key": "temperaturbereich",
+      "label": "Temperaturbereich",
+      "einheit": "°C",
+      "sortierung": 3
+    },
+    {
+      "key": "timer",
+      "label": "Timer",
+      "einheit": "Std.",
+      "sortierung": 4
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 5
+    },
+    {
+      "key": "bauart",
+      "label": "Bauart",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange dauert es, Apfelringe zu dörren?",
+      "antwort": "Bei 60°C dauert das Trocknen von Apfelringen etwa 8-12 Stunden, je nach Dicke der Scheiben. Schneide die Scheiben gleichmäßig (ca. 5 mm dick) für ein einheitliches Ergebnis. Die Ringe sind fertig, wenn sie sich ledrig-biegsam anfühlen, aber nicht mehr klebrig sind."
+    },
+    {
+      "frage": "Kann ich mit einem Dörrgerät auch Beef Jerky machen?",
+      "antwort": "Ja, Beef Jerky ist eines der beliebtesten Dörr-Projekte. Schneide mageres Rindfleisch in dünne Streifen, mariniere es über Nacht und trockne es bei 65-70°C für 4-8 Stunden. Wichtig: Die Temperatur muss hoch genug sein, um Bakterien abzutöten."
+    },
+    {
+      "frage": "Lohnt sich ein Einschubtrockner gegenüber einem Stapeltrockner?",
+      "antwort": "Wenn du regelmäßig dörren willst, ja. Einschubtrockner trocknen gleichmäßiger, du musst die Ebenen nicht tauschen und die Reinigung ist einfacher. Stapeltrockner sind günstiger und für Gelegenheitsnutzer ausreichend."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Klarstein Bananarama Dörrgerät",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07D4JNMSS?tag=janxsiegmann-21",
+      "werte": {
+        "doerrebenen": "6",
+        "doerr_flaeche": "0,31",
+        "temperaturbereich": "40-70",
+        "timer": "Bis 48",
+        "leistung": "550",
+        "bauart": "Stapeltrockner"
+      }
+    },
+    {
+      "name": "Severin OD 2940 Dörrautomat",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07YFNQRZ1?tag=janxsiegmann-21",
+      "werte": {
+        "doerrebenen": "5",
+        "doerr_flaeche": "0,29",
+        "temperaturbereich": "35-70",
+        "timer": "Bis 24",
+        "leistung": "250",
+        "bauart": "Einschubtrockner"
+      }
+    },
+    {
+      "name": "Rommelsbacher DA 750",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B003MXRR2E?tag=janxsiegmann-21",
+      "werte": {
+        "doerrebenen": "4",
+        "doerr_flaeche": "0,32",
+        "temperaturbereich": "35-70",
+        "timer": "Bis 24",
+        "leistung": "700",
+        "bauart": "Einschubtrockner"
+      }
+    },
+    {
+      "name": "Excalibur 4926T 9-Tray",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B002P3GN0S?tag=janxsiegmann-21",
+      "werte": {
+        "doerrebenen": "9",
+        "doerr_flaeche": "1,39",
+        "temperaturbereich": "35-74",
+        "timer": "Bis 26",
+        "leistung": "600",
+        "bauart": "Einschubtrockner (horizontal)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

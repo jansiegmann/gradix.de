@@ -1,0 +1,128 @@
+{
+  "slug": "dachzelt",
+  "kategorie": "camping",
+  "titel": "Dachzelt",
+  "beschreibung": "Dachzelt Test 2026: Die 4 besten Dachzelte im Vergleich ✓ Hartschale & Softcover ✓ Für 2-4 Personen ✓ Kaufberatung",
+  "keywords": [
+    "dachzelt",
+    "dachzelt test",
+    "dachzelt vergleich",
+    "bestes dachzelt",
+    "dachzelt auto",
+    "dachzelt hartschale",
+    "dachzelt kaufen",
+    "dachzelt test 2026",
+    "autodachzelt",
+    "dachzelt 2 personen"
+  ],
+  "einleitung": "Camping mit dem Dachzelt liegt voll im Trend — kein Wunder, denn in wenigen Minuten steht dein Schlafplatz auf dem Autodach. Wir vergleichen vier Dachzelte von Budget bis Premium und zeigen dir, worauf es bei der Wahl ankommt.",
+  "kaufberatung": "### Hartschale oder Klappzelt — was ist besser?\nHartschalen-Dachzelte lassen sich in Sekunden öffnen, haben ein geringes Packmaß und sind aerodynamischer. Dafür sind sie teurer und bieten weniger Platz. Klappzelte (Softcover) sind günstiger, bieten mehr Liegefläche und oft einen Vorbau, sind aber beim Auf- und Abbau aufwändiger.\n\n### Welche Dachlast brauche ich?\nEin Dachzelt wiegt 40-80 kg, plus Insassen. Prüfe unbedingt die dynamische (fahrend) und statische (stehend) Dachlast deines Autos. Die meisten PKW haben eine dynamische Dachlast von 50-100 kg — das reicht fürs Fahren mit Dachzelt, aber informiere dich vorher genau.\n\n### Matratze und Komfort\nDie Matratzendicke variiert von 4 bis 10 cm. Dickere Matratzen sind bequemer, aber das Zelt wird auch höher und schwerer. Gute Dachzelte haben eine hochdichte Schaumstoffmatratze mit abnehmbarem, waschbarem Bezug.\n\n### Häufige Fehler beim Dachzelt-Kauf\nDer größte Fehler: Die Dachlast nicht prüfen. Zweiter Fehler: Das Gewicht auf der Dachbox unterschätzen — es beeinflusst das Fahrverhalten. Dritter Fehler: Nur das Zelt kaufen, aber keine passende Leiter einplanen.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Typ",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "personen",
+      "label": "Personen",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "liegeflaeche",
+      "label": "Liegefläche",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "matratzendicke",
+      "label": "Matratzendicke",
+      "einheit": "cm",
+      "sortierung": 5
+    },
+    {
+      "key": "aufbauzeit",
+      "label": "Aufbauzeit",
+      "einheit": "min",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel kostet ein gutes Dachzelt?",
+      "antwort": "Gute Dachzelte beginnen bei ca. 1.000 Euro für einfache Klappzelte. Hochwertige Hartschalen-Modelle kosten 2.000-4.000 Euro. Dazu kommen Kosten für Dachträger, Leiter und ggf. Vorzelt."
+    },
+    {
+      "frage": "Passt ein Dachzelt auf jedes Auto?",
+      "antwort": "Nicht auf jedes Auto — du brauchst geeignete Dachträger und genug Dachlast. Die meisten SUVs, Kombis und Vans sind geeignet. Kleinstwagen und Cabrios sind in der Regel nicht geeignet. Prüfe immer die zulässige Dachlast in deinem Fahrzeugschein."
+    },
+    {
+      "frage": "Ist ein Dachzelt TÜV-relevant?",
+      "antwort": "Ein korrekt montiertes Dachzelt ist nicht TÜV-relevant, solange du die dynamische Dachlast nicht überschreitest. Es muss aber auf zugelassenen Dachträgern montiert sein und darf die Gesamthöhe von 4 Metern nicht überschreiten."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Qeedo Freedom Light 140",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CCFNDJ3H?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Klappzelt (Softcover)",
+        "personen": "2",
+        "liegeflaeche": "215 × 140",
+        "gewicht": "48",
+        "matratzendicke": "5",
+        "aufbauzeit": "5-10"
+      }
+    },
+    {
+      "name": "Front Runner Feather Lite",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BR1YXHFH?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Klappzelt (Softcover)",
+        "personen": "2",
+        "liegeflaeche": "240 × 140",
+        "gewicht": "52",
+        "matratzendicke": "6",
+        "aufbauzeit": "5"
+      }
+    },
+    {
+      "name": "Thule Approach M",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0C4YN6RHH?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Klappzelt (Softcover)",
+        "personen": "2-3",
+        "liegeflaeche": "240 × 142",
+        "gewicht": "60",
+        "matratzendicke": "8",
+        "aufbauzeit": "3-5"
+      }
+    },
+    {
+      "name": "iKamper Skycamp 3.0 Mini",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C36XSL7L?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Hartschale",
+        "personen": "2",
+        "liegeflaeche": "210 × 130",
+        "gewicht": "55",
+        "matratzendicke": "7",
+        "aufbauzeit": "1"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

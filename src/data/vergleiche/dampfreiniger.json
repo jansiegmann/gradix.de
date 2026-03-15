@@ -1,0 +1,128 @@
+{
+  "slug": "dampfreiniger-dampfmop",
+  "kategorie": "reinigung",
+  "titel": "Dampfreiniger / Dampfmop",
+  "beschreibung": "Dampfreiniger Test 2026: Die 4 besten Dampfmops im Vergleich ✓ Ohne Chemie ✓ Kaufberatung",
+  "keywords": [
+    "dampfreiniger",
+    "dampfreiniger test",
+    "dampfmop",
+    "dampfmop test",
+    "dampfreiniger vergleich",
+    "bester dampfreiniger",
+    "dampfreiniger boden",
+    "dampfmop kaufberatung",
+    "dampfreiniger ohne chemie",
+    "dampfreiniger 2026"
+  ],
+  "einleitung": "Hygienisch saubere Böden ohne Chemie — ein Dampfreiniger macht es möglich. Mit heißem Dampf werden Bakterien abgetötet und hartnäckiger Schmutz gelöst. Wir vergleichen vier Modelle vom kompakten Dampfmop bis zum leistungsstarken Dampfreiniger.",
+  "kaufberatung": "### Dampfmop vs. Bodendampfreiniger vs. Dampfsauger\nDampfmops sind schlank, leicht und ideal für die tägliche Bodenreinigung. Bodendampfreiniger haben einen separaten Wassertank auf Rollen und bieten mehr Dampf und Zubehör für verschiedene Oberflächen. Dampfsauger kombinieren Dampf mit Saugfunktion — die Königsklasse, aber auch am teuersten.\n\n### Aufheizzeit und Dampfdruck\nGute Dampfreiniger sind in 15-30 Sekunden einsatzbereit. Der Dampfdruck sollte mindestens 3 bar betragen für eine effektive Reinigung. Mehr Druck bedeutet bessere Schmutzlösung, aber auch mehr Vorsicht auf empfindlichen Böden.\n\n### Für welche Böden geeignet?\nDampfreiniger eignen sich für Fliesen, Stein und versiegeltes Laminat/Parkett. Vorsicht bei unversiegeltem Holz oder weichem Vinyl — hier kann der Dampf Schäden verursachen. Empfindliche Böden immer auf niedrigster Dampfstufe behandeln.\n\n### Wassertank und Nachfüllen\nEin größerer Tank bedeutet längeres Arbeiten ohne Nachfüllen. 400-500 ml reichen für eine Drei-Zimmer-Wohnung. Modelle mit herausnehmbarem Tank sind praktischer als solche, die du zum Wasserhahn tragen musst.\n\n### Mikrofasertücher regelmäßig waschen\nDie Reinigungstücher sind entscheidend für das Ergebnis. Wasche sie nach jedem Einsatz bei mindestens 60°C. Schmutzige Tücher verteilen Dreck nur, statt ihn aufzunehmen.",
+  "vergleichsKategorien": [
+    {
+      "key": "dampfdruck",
+      "label": "Dampfdruck",
+      "einheit": "bar",
+      "sortierung": 1
+    },
+    {
+      "key": "aufheizzeit",
+      "label": "Aufheizzeit",
+      "einheit": "Sek.",
+      "sortierung": 2
+    },
+    {
+      "key": "tankvolumen",
+      "label": "Tankvolumen",
+      "einheit": "ml",
+      "sortierung": 3
+    },
+    {
+      "key": "betriebsdauer",
+      "label": "Betriebsdauer",
+      "einheit": "Min.",
+      "sortierung": 4
+    },
+    {
+      "key": "kabellänge",
+      "label": "Kabellänge",
+      "einheit": "m",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Dampfreiniger auch Teppiche reinigen?",
+      "antwort": "Bedingt. Die meisten Dampfmops sind für Hartböden konzipiert. Für Teppiche brauchst du einen Dampfreiniger mit speziellem Teppichgleiter oder einen Dampfsauger. Der Dampf frischt den Teppich auf und tötet Milben, entfernt aber keine tiefsitzenden Flecken."
+    },
+    {
+      "frage": "Ist Dampfreinigung wirklich hygienischer als normales Wischen?",
+      "antwort": "Ja. Heißer Dampf (über 100°C) tötet 99,9% der Bakterien ab — ganz ohne chemische Reinigungsmittel. Für Haushalte mit Kleinkindern, Allergikern oder Haustieren ist das ein echter Vorteil. Normales Wischen verteilt Keime oft nur, statt sie abzutöten."
+    },
+    {
+      "frage": "Wie oft sollte ich die Mikrofasertücher wechseln?",
+      "antwort": "Bei normaler Wohnungsgröße reicht ein Tuch pro Reinigungsvorgang. Wenn das Tuch sichtbar verschmutzt ist, sofort wechseln — ein dreckiges Tuch schmiert den Schmutz nur über den Boden. Wasche die Tücher bei 60°C ohne Weichspüler."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Vileda Steam Plus",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07QF4B1DF?tag=janxsiegmann-21",
+      "werte": {
+        "dampfdruck": "k.A.",
+        "aufheizzeit": "15",
+        "tankvolumen": "400",
+        "betriebsdauer": "15",
+        "kabellänge": "6",
+        "gewicht": "2,4"
+      }
+    },
+    {
+      "name": "Leifheit CleanTenso",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07Z8V7RY4?tag=janxsiegmann-21",
+      "werte": {
+        "dampfdruck": "k.A.",
+        "aufheizzeit": "30",
+        "tankvolumen": "550",
+        "betriebsdauer": "20",
+        "kabellänge": "7,5",
+        "gewicht": "3,0"
+      }
+    },
+    {
+      "name": "Kärcher SC 3 EasyFix",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07DG42TQX?tag=janxsiegmann-21",
+      "werte": {
+        "dampfdruck": "3,5",
+        "aufheizzeit": "30",
+        "tankvolumen": "1000",
+        "betriebsdauer": "unbegrenzt (nachfüllbar)",
+        "kabellänge": "4",
+        "gewicht": "3,1"
+      }
+    },
+    {
+      "name": "Kärcher SC 4 EasyFix",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B5K3CRTL?tag=janxsiegmann-21",
+      "werte": {
+        "dampfdruck": "3,5",
+        "aufheizzeit": "240",
+        "tankvolumen": "800",
+        "betriebsdauer": "unbegrenzt (nachfüllbar)",
+        "kabellänge": "4",
+        "gewicht": "4,0"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

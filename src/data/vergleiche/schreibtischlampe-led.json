@@ -1,0 +1,118 @@
+{
+  "slug": "schreibtischlampe-led",
+  "kategorie": "buero",
+  "titel": "Schreibtischlampe (LED)",
+  "beschreibung": "LED-Schreibtischlampe Test 2026: Die 4 besten Lampen im Vergleich ✓ Augenschonend ✓ Dimmbar ✓ Kaufberatung",
+  "keywords": [
+    "schreibtischlampe led test",
+    "schreibtischlampe test",
+    "led schreibtischlampe",
+    "schreibtischlampe dimmbar",
+    "beste schreibtischlampe",
+    "benq screenbar",
+    "schreibtischlampe vergleich",
+    "augenschonende schreibtischlampe",
+    "schreibtischlampe büro",
+    "schreibtischlampe test 2026"
+  ],
+  "einleitung": "Eine gute LED-Schreibtischlampe beleuchtet deinen Arbeitsplatz gleichmäßig und augenschonend — ohne den Bildschirm zu blenden. Die Unterschiede bei Lichtqualität, Farbtemperatur und Bedienung sind enorm. Wir vergleichen vier Modelle.",
+  "kaufberatung": "### Farbtemperatur: Warm oder kalt?\nKaltes Licht (5.000–6.500K) fördert die Konzentration, warmes Licht (2.700–3.000K) ist gemütlicher. Ideal sind Lampen mit einstellbarer Farbtemperatur, damit du je nach Tageszeit wechseln kannst.\n\n### Lux und Lumen verstehen\nLumen beschreibt die Gesamthelligkeit, Lux die Helligkeit an einer bestimmten Stelle. Für Schreibtischarbeit empfiehlt die DIN 500 Lux auf der Arbeitsfläche. Eine gute Schreibtischlampe liefert das mit 500–1.000 Lumen.\n\n### Monitor-Lightbar vs. klassische Lampe\nMonitor-Lightbars (wie die BenQ ScreenBar) werden auf dem Monitor befestigt und beleuchten nur den Schreibtisch — ohne den Bildschirm zu blenden. Für Monitor-Arbeitsplätze sind sie oft die bessere Wahl als klassische Lampen.\n\n### Augenschonung: Flimmerfrei und blendfrei\nBillige LEDs können unsichtbar flimmern und Kopfschmerzen verursachen. Hochwertige Lampen sind flimmerfrei (kein PWM-Dimming) und haben eine asymmetrische Lichtverteilung, die Blendung vermeidet.\n\n### USB-Ladeport und Smart-Features\nViele moderne Schreibtischlampen haben einen USB-Port zum Laden des Smartphones. Manche bieten sogar App-Steuerung. Nett, aber kein Kaufgrund — die Lichtqualität ist wichtiger.",
+  "vergleichsKategorien": [
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit",
+      "einheit": "Lumen",
+      "sortierung": 1
+    },
+    {
+      "key": "farbtemperatur",
+      "label": "Farbtemperatur",
+      "einheit": "K",
+      "sortierung": 2
+    },
+    {
+      "key": "dimmbar",
+      "label": "Dimmbar",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "bauform",
+      "label": "Bauform",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "usb_port",
+      "label": "USB-Port",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Schreibtischlampe ist am besten für die Augen?",
+      "antwort": "Flimmerfreie LED-Lampen mit einstellbarer Farbtemperatur und asymmetrischer Lichtverteilung sind am augenschonendsten. Die BenQ ScreenBar Plus ist speziell für Bildschirmarbeitsplätze entwickelt und blendet den Monitor nicht."
+    },
+    {
+      "frage": "Wie hell sollte eine Schreibtischlampe sein?",
+      "antwort": "Für Büroarbeit empfiehlt die DIN 500 Lux auf der Arbeitsfläche. Eine Lampe mit 500–1.000 Lumen erreicht das in der Regel. Für detaillierte Arbeiten wie Zeichnen oder Löten dürfen es auch 750+ Lux sein."
+    },
+    {
+      "frage": "Lohnt sich eine BenQ ScreenBar?",
+      "antwort": "Wenn du viel am Monitor arbeitest, ja. Sie beleuchtet nur den Schreibtisch und blendet den Bildschirm nicht. Allerdings sind klassische Schreibtischlampen flexibler einsetzbar und beleuchten auch Bereiche neben dem Monitor."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "TaoTronics TT-DL16",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07V8JZRYL?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "ca. 600",
+        "farbtemperatur": "2.700–6.500",
+        "dimmbar": "Ja (5 Stufen)",
+        "bauform": "Klassisch (Schwenkarm)",
+        "usb_port": "Ja"
+      }
+    },
+    {
+      "name": "BenQ ScreenBar",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B076VNFZJG?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "ca. 800",
+        "farbtemperatur": "2.700–6.500",
+        "dimmbar": "Ja (stufenlos)",
+        "bauform": "Monitor-Lightbar",
+        "usb_port": "Nein (USB-C Stromversorgung)"
+      }
+    },
+    {
+      "name": "BenQ ScreenBar Halo",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08WT889V3?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "ca. 800",
+        "farbtemperatur": "2.700–6.500",
+        "dimmbar": "Ja (stufenlos + Sensor)",
+        "bauform": "Monitor-Lightbar + Hintergrundlicht",
+        "usb_port": "Nein (USB-C)"
+      }
+    },
+    {
+      "name": "Dyson Solarcycle Morph",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0BKR58FVM?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "ca. 1.000",
+        "farbtemperatur": "2.700–6.500 (automatisch)",
+        "dimmbar": "Ja (stufenlos + Tageslichtsensor)",
+        "bauform": "Klassisch (Design-Schwenkarm)",
+        "usb_port": "Ja (USB-C)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "fitness-tracker",
+  "kategorie": "sport",
+  "titel": "Fitness-Tracker",
+  "beschreibung": "Fitness-Tracker Test 2026: Die 4 besten Tracker ✓ Herzfrequenz ✓ Schlaftracking ✓ Günstig & gut",
+  "keywords": [
+    "fitness tracker test",
+    "fitness armband vergleich",
+    "fitness tracker 2026",
+    "bester fitness tracker",
+    "fitness armband test",
+    "fitness tracker herzfrequenz",
+    "fitness tracker schlaf",
+    "xiaomi band test",
+    "fitbit test",
+    "fitness tracker kaufberatung"
+  ],
+  "einleitung": "Ein Fitness-Tracker motiviert dich zu mehr Bewegung, trackt deinen Schlaf und überwacht deine Herzfrequenz — und kostet dabei nur einen Bruchteil einer Smartwatch. Wir vergleichen vier Modelle für jeden Anspruch.",
+  "kaufberatung": "### Fitness-Tracker vs. Smartwatch\n\nFitness-Tracker sind leichter, günstiger und haben eine deutlich längere Akkulaufzeit als Smartwatches. Dafür fehlen ihnen App-Installation, NFC-Payment und Telefonie. Wer vor allem Schritte, Schlaf und Herzfrequenz tracken will, braucht keine Smartwatch.\n\n### Genauigkeit der Sensoren\n\nDie Herzfrequenzmessung am Handgelenk ist bei allen aktuellen Trackern für den Alltag ausreichend genau. Beim Sprint oder Intervalltraining können Abweichungen auftreten — für präzises Training empfiehlt sich ein Brustgurt. GPS ist bei günstigen Trackern oft nur via Smartphone (Connected GPS) verfügbar.\n\n### Akkulaufzeit\n\nDie meisten Fitness-Tracker halten 7-14 Tage. Das Xiaomi Smart Band 9 schafft sogar bis zu 21 Tage. Damit muss man sich ums Laden kaum Gedanken machen.\n\n### Wasserresistenz\n\nAlle Modelle im Vergleich sind mindestens 5 ATM (50 Meter) wasserdicht und damit zum Schwimmen geeignet.",
+  "vergleichsKategorien": [
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "Tage",
+      "sortierung": 2
+    },
+    {
+      "key": "herzfrequenz",
+      "label": "Herzfrequenzmessung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gps",
+      "label": "GPS",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "wasserschutz",
+      "label": "Wasserschutz",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Fitness-Tracker ist der genaueste?",
+      "antwort": "Bei der Herzfrequenzmessung liegen Samsung Galaxy Fit3 und Fitbit Charge 6 vorne. Schritte werden von allen Trackern relativ genau gezählt (±5%). Für GPS-Genauigkeit ist die Huawei Band 9 mit eigenem GPS die beste Wahl unter den Trackern."
+    },
+    {
+      "frage": "Funktionieren Fitness-Tracker auch ohne Smartphone?",
+      "antwort": "Grundlegende Funktionen wie Schrittzähler und Herzfrequenzmessung funktionieren ohne Smartphone. Für GPS-Tracking, Benachrichtigungen und Datenauswertung brauchst du aber die zugehörige App auf dem Handy. Die Ersteinrichtung ist immer per Smartphone nötig."
+    },
+    {
+      "frage": "Stört ein Fitness-Tracker beim Schlafen?",
+      "antwort": "Die meisten Tracker wiegen unter 25 Gramm und stören kaum. Manche Nutzer empfinden das Tragen am Handgelenk anfangs als ungewohnt, gewöhnen sich aber innerhalb weniger Nächte daran. Das Schlaftracking ist eine der nützlichsten Funktionen moderner Tracker."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Xiaomi Smart Band 9",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0D9TLCYQ6?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.62 Zoll AMOLED",
+        "akku": "21",
+        "herzfrequenz": "Ja (optisch)",
+        "gps": "Connected GPS (via Smartphone)",
+        "wasserschutz": "5 ATM",
+        "gewicht": "16"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Fit3",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CXLNF7K9?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.6 Zoll AMOLED",
+        "akku": "13",
+        "herzfrequenz": "Ja (optisch)",
+        "gps": "Connected GPS",
+        "wasserschutz": "5 ATM + IP68",
+        "gewicht": "37"
+      }
+    },
+    {
+      "name": "Huawei Band 9",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0D2R3DLVC?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.47 Zoll AMOLED",
+        "akku": "14",
+        "herzfrequenz": "Ja (TruSeen 5.5)",
+        "gps": "Connected GPS",
+        "wasserschutz": "5 ATM",
+        "gewicht": "14"
+      }
+    },
+    {
+      "name": "Fitbit Charge 6",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CCSHGQH8?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.04 Zoll AMOLED",
+        "akku": "7",
+        "herzfrequenz": "Ja (optisch + EDA)",
+        "gps": "Integriertes GPS",
+        "wasserschutz": "5 ATM",
+        "gewicht": "37"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

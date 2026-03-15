@@ -1,0 +1,192 @@
+{
+  "slug": "klimmzugstange",
+  "kategorie": "sport",
+  "titel": "Klimmzugstange",
+  "beschreibung": "Klimmzugstange Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "klimmzugstange test",
+    "klimmzugstange türrahmen vergleich",
+    "pull up bar kaufberatung",
+    "klimmzugstange wand",
+    "klimmzugstange 2026"
+  ],
+  "einleitung": "Du suchst eine Klimmzugstange für Zuhause — im Türrahmen, an der Wand oder freistehend? Wir vergleichen vier Modelle für verschiedene Anforderungen.",
+  "kaufberatung": "### Türrahmen, Wand oder freistehend — was passt zu dir?\nTürrahmen-Stangen sind am schnellsten montiert und hinterlassen (meist) keine Löcher. Nachteil: Begrenzte Belastbarkeit und Kippgefahr bei dynamischen Übungen. Wand-Klimmzugstangen sind die stabilste Lösung, erfordern aber Bohren in eine tragfähige Wand. Freistehende Stationen brauchen viel Platz, bieten aber die meisten Übungsmöglichkeiten.\n\n### Wie belastbar muss die Stange sein?\nRechne dein Körpergewicht + 20% Sicherheitsmarge. Bei 80 kg Körpergewicht brauchst du mindestens 100 kg Belastbarkeit. Für Kipping Pull-ups oder Muscle-ups brauchst du 200+ kg, weil dynamische Belastungen die statische Last um ein Vielfaches übersteigen.\n\n### Welche Griffarten sind wichtig?\nMindestens drei: Normaler Griff (schulterbreit), enger Griff (eng, Handflächen zueinander) und breiter Griff. Verschiedene Griffe beanspruchen unterschiedliche Muskeln — Normalgriff trainiert den Latissimus, enger Griff betont den Bizeps, breiter Griff die obere Rückenmuskulatur.\n\n### Kann mein Türrahmen das aushalten?\nStandard-Türrahmen aus Holz oder Stahl halten 100-150 kg, wenn sie fest in der Wand verankert sind. Hohle oder dünne Zargen (häufig bei Billig-Innentüren) können brechen. Prüfe vor dem Kauf die Stabilität deines Türrahmens — im Zweifelsfall lieber eine Wandmontage-Stange.",
+  "vergleichsKategorien": [
+    {
+      "key": "montage",
+      "label": "Montage",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "max_belastung",
+      "label": "Max. Belastung",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "griffweite",
+      "label": "Griffweite",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "griffarten",
+      "label": "Griffarten",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "tuerbriete",
+      "label": "Türbreite",
+      "einheit": "cm",
+      "sortierung": 6
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Beschädigt eine Türrahmen-Klimmzugstange die Tür?",
+      "antwort": "Klemm-Stangen (Ultrasport) üben Druck auf den Rahmen aus und können Druckstellen oder Kratzer hinterlassen. Einhänge-Stangen (Sportsroyals) schonen den Rahmen besser, weil sie oben aufliegen statt seitlich zu klemmen. Gummipads an den Kontaktpunkten helfen in jedem Fall."
+    },
+    {
+      "frage": "Wie viele Klimmzüge sollte ein Einsteiger schaffen?",
+      "antwort": "Die meisten Einsteiger schaffen 0-3 saubere Klimmzüge. Das ist normal. Starte mit negativen Klimmzügen (hochspringen, langsam ablassen) oder Widerstandsbändern. Ziel: In 8-12 Wochen 5 saubere Wiederholungen. Danach steigere auf 3 Sätze à 8-10."
+    },
+    {
+      "frage": "Kann ich an einer Klimmzugstange auch andere Übungen machen?",
+      "antwort": "Ja — Hanging Leg Raises (Bauch), Knee Raises, Dead Hangs (Griffkraft und Schultergesundheit), Toes-to-Bar. Freistehende Stationen erlauben zusätzlich Dips und Beinheben mit Polsterung. Eine Klimmzugstange ist eines der vielseitigsten Trainingsgeräte überhaupt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Ultrasport 2-Wege Türreck",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B001EJMS6K?tag=janxsiegmann-21",
+      "preis": 20,
+      "bewertung": 3.5,
+      "werte": {
+        "montage": "Türrahmen (Klemme)",
+        "max_belastung": "100",
+        "griffweite": "63–93",
+        "griffarten": "Normal, Eng",
+        "material": "Stahl",
+        "tuerbriete": "63–93",
+        "extras": "Keine Bohrung nötig"
+      },
+      "vorteile": [
+        "Extrem günstig",
+        "Keine Bohrung nötig",
+        "In Sekunden montiert"
+      ],
+      "nachteile": [
+        "Nur 100 kg",
+        "Nur 2 Griffarten",
+        "Kann Türrahmen beschädigen"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Sportsroyals Türreck Multi-Grip",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07D993GHZ?tag=janxsiegmann-21",
+      "preis": 35,
+      "bewertung": 4.0,
+      "werte": {
+        "montage": "Türrahmen (Einhängen)",
+        "max_belastung": "150",
+        "griffweite": "65–95",
+        "griffarten": "Normal, Eng, Neutral, Breit",
+        "material": "Stahl",
+        "tuerbriete": "65–95",
+        "extras": "6 Griffpositionen, Polsterung"
+      },
+      "vorteile": [
+        "6 verschiedene Griffpositionen",
+        "150 kg Belastung",
+        "Gepolsterte Griffe",
+        "Einhänge-Montage — kein Verkratzen"
+      ],
+      "nachteile": [
+        "Ragt über Tür hinaus",
+        "Kippgefahr bei Kipping Pull-ups",
+        "Nicht für alle Türrahmen"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "K-Sport Klimmzugstange Wand",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09H4T3GT3?tag=janxsiegmann-21",
+      "preis": 60,
+      "bewertung": 4.5,
+      "werte": {
+        "montage": "Wandmontage (Bohren)",
+        "max_belastung": "250",
+        "griffweite": "100",
+        "griffarten": "Normal, Eng, Neutral",
+        "material": "Stahl (pulverbeschichtet)",
+        "tuerbriete": "k.A. (Wand)",
+        "extras": "Wandhalterung, Polsterungen"
+      },
+      "vorteile": [
+        "250 kg — für schweres Training",
+        "Stabil und wackelfrei",
+        "Verschiedene Griffarten",
+        "Kein Türrahmen nötig"
+      ],
+      "nachteile": [
+        "Muss gebohrt werden",
+        "Nicht für Mietwohnungen ideal",
+        "Braucht stabile Wand"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "GORILLA SPORTS Klimmzugstation",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07GDQN52Y?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.5,
+      "werte": {
+        "montage": "Freistehend",
+        "max_belastung": "200",
+        "griffweite": "100+",
+        "griffarten": "Normal, Eng, Neutral, Dip-Griffe",
+        "material": "Stahl",
+        "tuerbriete": "k.A. (freistehend)",
+        "extras": "Dip-Station integriert, Beinpolster, Rückenpolster"
+      },
+      "vorteile": [
+        "Keine Montage an Wand/Tür",
+        "Dip-Station inklusive",
+        "Rücken- und Armpolster",
+        "Vielseitigstes Training"
+      ],
+      "nachteile": [
+        "Braucht viel Platz",
+        "Schwer (>30 kg)",
+        "Stabilität bei Schwingen begrenzt"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

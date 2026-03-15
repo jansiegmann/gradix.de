@@ -1,0 +1,191 @@
+{
+  "slug": "kurzhanteln-verstellbar",
+  "kategorie": "sport",
+  "titel": "Kurzhanteln (verstellbar)",
+  "beschreibung": "Kurzhanteln (verstellbar) Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "kurzhanteln verstellbar test",
+    "verstellbare hantel vergleich",
+    "beste kurzhanteln zuhause",
+    "adjustable dumbbell",
+    "kurzhanteln 2026"
+  ],
+  "einleitung": "Du suchst verstellbare Kurzhanteln fürs Home Gym — platzsparend und flexibel statt einem ganzen Hantelregal? Wir vergleichen vier Systeme.",
+  "kaufberatung": "### Drehwähler, Steckpin oder Schraubverschluss?\nDrehwähler-Systeme (Bowflex, Nuobell) ermöglichen Gewichtswechsel in 2-3 Sekunden — ideal für Supersätze und Drop-Sets. Steckpin-Systeme (PowerBlock) sind robuster, aber etwas langsamer. Klassische Schraubhanteln sind am günstigsten, aber das Um- und Anschrauben kostet Zeit und nervt bei häufigen Gewichtswechseln.\n\n### Wie viel Maximalgewicht brauche ich?\n24 kg (Bowflex 552) reichen für die meisten Übungen der oberen Körperhälfte — Bizeps-Curls, Schulterdrücken, Seitheben. Für schwere Compound-Übungen (Kurzhantel-Bankdrücken, Rudern) brauchst du 32+ kg (Nuobell 32). Fortgeschrittene Kraftsportler kommen mit 24 kg schnell an die Grenze.\n\n### Fühlt sich eine verstellbare Hantel wie eine normale an?\nDie Nuobell kommt einer normalen Kurzhantel am nächsten — kurze Baulänge (38 cm), kompakte Form. Bowflex-Hanteln sind deutlich länger und klobiger, was bei einigen Übungen (z.B. Flies) stören kann. ATIVAFIT liegt dazwischen.\n\n### Lohnt sich der hohe Preis?\nRechne nach: 15 Paar feste Kurzhanteln (2-32 kg) kosten 500-800€ und brauchen ein ganzes Hantelregal. Ein Nuobell-Set kostet 650€ und passt auf einen Beistelltisch. Für kleine Wohnungen und Flexibilität ist der Aufpreis gerechtfertigt.",
+  "vergleichsKategorien": [
+    {
+      "key": "gewichtsbereich",
+      "label": "Gewichtsbereich",
+      "einheit": "kg",
+      "sortierung": 1
+    },
+    {
+      "key": "abstufung",
+      "label": "Abstufung",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "mechanismus",
+      "label": "Verstellmechanismus",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "laenge",
+      "label": "Länge",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "griffdurchmesser",
+      "label": "Griffdurchmesser",
+      "einheit": "mm",
+      "sortierung": 5
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "garantie",
+      "label": "Garantie",
+      "einheit": "Jahre",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche verstellbaren Kurzhanteln sind die besten?",
+      "antwort": "Die Nuobell 32 kg bieten das beste Gesamtpaket: hohes Maximalgewicht, kompakte Form, schneller Wechsel. Die Bowflex SelectTech 552 sind der Preis-Leistungs-Klassiker mit feiner Abstufung. Für Einsteiger reicht das günstigere ATIVAFIT-Set."
+    },
+    {
+      "frage": "Kann ich mit verstellbaren Hanteln alle Übungen machen?",
+      "antwort": "Fast alle — Curls, Presses, Rows, Flies, Lunges. Einschränkung: Übungen, bei denen die Hantel auf dem Oberschenkel abgelegt wird (z.B. vor dem Bankdrücken in Position kommen), sind mit klobigeren Modellen wie Bowflex etwas umständlicher. Die Nuobell hat dieses Problem nicht."
+    },
+    {
+      "frage": "Wie langlebig sind verstellbare Hantelsysteme?",
+      "antwort": "Hochwertige Systeme (Bowflex, Nuobell) halten bei normaler Nutzung viele Jahre. Wichtig: Nie die Hanteln fallen lassen — das beschädigt den Verstellmechanismus. Günstigere Modelle haben manchmal Plastikteile, die nach 1-2 Jahren verschleißen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ATIVAFIT 25 kg Kurzhantel-Set",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08CK39JJX?tag=janxsiegmann-21",
+      "preis": 80,
+      "bewertung": 3.5,
+      "werte": {
+        "gewichtsbereich": "2,5–25",
+        "abstufung": "2,5",
+        "mechanismus": "Drehscheibe",
+        "laenge": "42",
+        "griffdurchmesser": "32",
+        "material": "Stahl + Kunststoff",
+        "garantie": "2"
+      },
+      "vorteile": [
+        "Günstig",
+        "Kompaktes Design",
+        "Einfache Drehscheiben-Verstellung"
+      ],
+      "nachteile": [
+        "Kunststoff-Ummantelung",
+        "Max. 25 kg pro Hantel",
+        "Verarbeitung nicht Premium"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Bowflex SelectTech 552",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B001ARYU58?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 4.0,
+      "werte": {
+        "gewichtsbereich": "2–24",
+        "abstufung": "1,5 (ab 9 kg: 2,3)",
+        "mechanismus": "Drehwähler",
+        "laenge": "43",
+        "griffdurchmesser": "35",
+        "material": "Stahl + Kunststoff",
+        "garantie": "2"
+      },
+      "vorteile": [
+        "Legendäres Design",
+        "Feine Abstufung",
+        "Schneller Wechsel",
+        "Sehr kompakt"
+      ],
+      "nachteile": [
+        "Max. nur 24 kg",
+        "Fühlt sich klobig an",
+        "Teuer für das Gewicht"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "NordicTrack Select-A-Weight 55lb",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09DRCC54G?tag=janxsiegmann-21",
+      "preis": 450,
+      "bewertung": 4.5,
+      "werte": {
+        "gewichtsbereich": "4,5–25",
+        "abstufung": "2,3",
+        "mechanismus": "Drehwähler",
+        "laenge": "42",
+        "griffdurchmesser": "33",
+        "material": "Stahl + Gummi",
+        "garantie": "2"
+      },
+      "vorteile": [
+        "Gummierte Platten — leiser",
+        "Solider Drehwähler",
+        "Kompaktes Design"
+      ],
+      "nachteile": [
+        "Nur bis 25 kg",
+        "Teuer",
+        "In DE schwer verfügbar"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Nuobell 32 kg",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09H34DP69?tag=janxsiegmann-21",
+      "preis": 650,
+      "bewertung": 4.5,
+      "werte": {
+        "gewichtsbereich": "2–32",
+        "abstufung": "2",
+        "mechanismus": "Drehgriff (Bajonett)",
+        "laenge": "38",
+        "griffdurchmesser": "33",
+        "material": "Stahl",
+        "garantie": "2"
+      },
+      "vorteile": [
+        "32 kg pro Hantel — ernstes Training",
+        "Fühlt sich an wie normale Hantel",
+        "Kürzeste Baulänge (38cm)",
+        "Premium-Verarbeitung"
+      ],
+      "nachteile": [
+        "Sehr teuer",
+        "Schwedisches Design — längere Lieferzeit",
+        "Gummi-Beschichtung fehlt"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

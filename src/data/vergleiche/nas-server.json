@@ -1,0 +1,196 @@
+{
+  "slug": "nas-server",
+  "kategorie": "elektronik",
+  "titel": "NAS-Server (Heimnetzwerk)",
+  "beschreibung": "NAS-Server Test 2026: Die 4 besten NAS für Zuhause im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "nas server test",
+    "nas kaufberatung",
+    "synology nas vergleich",
+    "bestes nas heimnetzwerk",
+    "nas server 2026"
+  ],
+  "einleitung": "Du suchst einen NAS-Server fürs Heimnetzwerk — für Backups, Medienstreaming oder als private Cloud? Wir haben vier NAS-Systeme vom Einsteiger-Gerät bis zur Profi-Lösung verglichen und zeigen dir, welches Modell zu deinen Anforderungen passt.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nFür einfache Backups und Dateifreigabe reicht ein 2-Bay-NAS wie die Synology DS224+ oder WD My Cloud. Wer Plex-Streaming, Docker-Container oder Virtualisierung plant, braucht einen stärkeren Prozessor und mehr RAM — hier sind 4-Bay-Geräte wie die QNAP TS-464 oder Synology DS923+ die bessere Wahl.\n\n### Synology oder QNAP — was ist besser?\nSynology punktet mit dem intuitiven Betriebssystem DSM, exzellenten Mobile-Apps und langfristigem Software-Support. QNAP bietet dafür stärkere Hardware zum gleichen Preis, mehr Anschlüsse (oft 2,5 GbE ab Werk) und höhere Flexibilität. Einsteiger fahren mit Synology besser, Technik-Enthusiasten mit QNAP.\n\n### Wie viele Festplatten-Einschübe brauche ich?\n2 Bays reichen für Heimanwender, die RAID 1 (Spiegelung) nutzen wollen — du bekommst die Kapazität einer Festplatte, aber mit Ausfallschutz. 4 Bays erlauben RAID 5 oder SHR mit mehr Kapazität und Flexibilität. Mehr als 4 Bays brauchst du zu Hause selten.\n\n### Welche Festplatten sollte ich einbauen?\nNAS-optimierte Festplatten wie WD Red Plus, Seagate IronWolf oder Toshiba N300 sind für den Dauerbetrieb ausgelegt und haben längere Garantie. Gewöhnliche Desktop-Festplatten funktionieren zwar auch, sind aber nicht für 24/7-Betrieb optimiert.\n\n### Was kostet ein NAS wirklich?\nZum Gehäusepreis kommen noch die Festplatten hinzu. Zwei 4-TB-NAS-Festplatten kosten ca. 200 Euro. Kalkuliere also das Gesamtbudget: Gehäuse + Festplatten + ggf. RAM-Upgrade.",
+  "vergleichsKategorien": [
+    {
+      "key": "bays",
+      "label": "Festplatten-Einschübe",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "cpu",
+      "label": "Prozessor",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "ram",
+      "label": "Arbeitsspeicher",
+      "einheit": "GB",
+      "sortierung": 3
+    },
+    {
+      "key": "lan",
+      "label": "LAN-Anschluss",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "max_speicher",
+      "label": "Max. Speicher",
+      "einheit": "TB",
+      "sortierung": 5
+    },
+    {
+      "key": "betriebssystem",
+      "label": "Betriebssystem",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "besonderheiten",
+      "label": "Besonderheiten",
+      "einheit": "",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Was ist ein NAS und wofür brauche ich das?",
+      "antwort": "Ein NAS (Network Attached Storage) ist ein Netzwerkspeicher, der als zentrale Datenablage für alle Geräte im Heimnetzwerk dient. Du kannst Backups speichern, Fotos und Videos streamen, eine private Cloud betreiben oder sogar Docker-Container laufen lassen. Im Gegensatz zu externen Festplatten ist ein NAS von jedem Gerät im Netzwerk erreichbar."
+    },
+    {
+      "frage": "Wie viel Strom verbraucht ein NAS im Dauerbetrieb?",
+      "antwort": "Ein 2-Bay-NAS wie die Synology DS224+ verbraucht im Betrieb etwa 15-20 Watt, im Ruhezustand 5-8 Watt. Bei 24/7-Betrieb und 0,40 €/kWh sind das rund 4-6 Euro pro Monat. Ein 4-Bay-NAS liegt bei 25-35 Watt und entsprechend höheren Kosten."
+    },
+    {
+      "frage": "Kann ich ein NAS auch von unterwegs erreichen?",
+      "antwort": "Ja, sowohl Synology (QuickConnect) als auch QNAP (myQNAPcloud) bieten einfache Fernzugriffslösungen ohne komplizierte Router-Konfiguration. Du kannst so von überall auf deine Dateien zugreifen, Fotos hochladen oder Medien streamen."
+    },
+    {
+      "frage": "Welches RAID sollte ich für Zuhause wählen?",
+      "antwort": "Für ein 2-Bay-NAS ist RAID 1 (Spiegelung) Standard — du hast eine Festplatte als Kopie und bei einem Ausfall sind deine Daten sicher. Bei 4 Bays ist Synology SHR oder RAID 5 empfehlenswert: Du verlierst nur eine Festplatte an Redundanz und kannst den Rest als Speicher nutzen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "WD My Cloud EX2 Ultra",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01AWH05GE?tag=janxsiegmann-21",
+      "preis": 170,
+      "bewertung": 3.0,
+      "werte": {
+        "bays": "2",
+        "cpu": "Marvell ARMADA 385 Dual-Core 1,3 GHz",
+        "ram": "1",
+        "lan": "1× Gigabit",
+        "max_speicher": "36",
+        "betriebssystem": "My Cloud OS",
+        "besonderheiten": "Plex-kompatibel, USB 3.0"
+      },
+      "vorteile": [
+        "Günstigstes NAS im Vergleich",
+        "Einfache Einrichtung",
+        "Plex-Unterstützung"
+      ],
+      "nachteile": [
+        "Schwaches Betriebssystem",
+        "Nur 1 GB RAM",
+        "Keine M.2-Slots"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "Synology DS224+",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CKVF7M97?tag=janxsiegmann-21",
+      "preis": 320,
+      "bewertung": 4.5,
+      "werte": {
+        "bays": "2",
+        "cpu": "Intel Celeron J4125 Quad-Core 2,0 GHz",
+        "ram": "2 (erweiterbar auf 6)",
+        "lan": "2× Gigabit",
+        "max_speicher": "36+",
+        "betriebssystem": "Synology DSM 7",
+        "besonderheiten": "2× M.2 NVMe, Docker, SHR, Surveillance Station"
+      },
+      "vorteile": [
+        "Exzellentes DSM-Betriebssystem",
+        "Gute Mobile-Apps",
+        "M.2-Slots für SSD-Cache",
+        "Sehr aktive Community"
+      ],
+      "nachteile": [
+        "Nur 2 Bays",
+        "RAM-Erweiterung etwas fummelig",
+        "Kein 2,5 GbE ab Werk"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "QNAP TS-464-8G",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09ZB9Z8MC?tag=janxsiegmann-21",
+      "preis": 500,
+      "bewertung": 4.5,
+      "werte": {
+        "bays": "4",
+        "cpu": "Intel Celeron N5095 Quad-Core 2,9 GHz",
+        "ram": "8 (erweiterbar auf 16)",
+        "lan": "2× 2,5 GbE",
+        "max_speicher": "72+",
+        "betriebssystem": "QTS 5",
+        "besonderheiten": "2× M.2 NVMe, HDMI 2.0, PCIe Gen 3, 2,5 GbE"
+      },
+      "vorteile": [
+        "2,5 GbE ab Werk",
+        "8 GB RAM",
+        "HDMI-Ausgang für Medienwiedergabe",
+        "PCIe-Erweiterungsslot"
+      ],
+      "nachteile": [
+        "QTS weniger intuitiv als DSM",
+        "Höherer Stromverbrauch",
+        "Etwas lauter"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "Synology DS923+",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B9NXMLY1?tag=janxsiegmann-21",
+      "preis": 580,
+      "bewertung": 4.5,
+      "werte": {
+        "bays": "4 (erweiterbar auf 9)",
+        "cpu": "AMD Ryzen R1600 Dual-Core 2,6 GHz",
+        "ram": "4 (erweiterbar auf 32)",
+        "lan": "2× Gigabit (10 GbE nachrüstbar)",
+        "max_speicher": "108+",
+        "betriebssystem": "Synology DSM 7",
+        "besonderheiten": "Erweiterbar auf 9 Bays, ECC-RAM-Support, 10 GbE nachrüstbar, Virtualisierung"
+      },
+      "vorteile": [
+        "Erweiterbar auf 9 Festplatten",
+        "AMD Ryzen — deutlich mehr CPU-Power",
+        "Bis 32 GB RAM aufrüstbar",
+        "10 GbE nachrüstbar"
+      ],
+      "nachteile": [
+        "Höchster Preis im Vergleich",
+        "Kein 2,5 GbE ab Werk",
+        "10 GbE-Karte extra kaufen"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

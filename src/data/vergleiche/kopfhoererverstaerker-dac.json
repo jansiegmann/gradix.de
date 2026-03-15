@@ -1,0 +1,191 @@
+{
+  "slug": "kopfhoererverstaerker-dac",
+  "kategorie": "musik",
+  "titel": "Kopfhörerverstärker / DAC",
+  "beschreibung": "Kopfhörerverstärker / DAC Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "kopfhörerverstärker test",
+    "dac vergleich",
+    "usb dac kaufberatung",
+    "kopfhörer dac amp",
+    "dac 2026"
+  ],
+  "einleitung": "Du willst mehr aus deinen Kopfhörern rausholen — besseren Klang, mehr Dynamik, weniger Rauschen? Wir vergleichen vier DAC/Amp-Kombinationen.",
+  "kaufberatung": "### Brauche ich überhaupt einen externen DAC?\nWenn dein Kopfhörer am Laptop oder Smartphone leise, dünn oder rauschig klingt — ja. Ein externer DAC wandelt die digitalen Audiodaten sauberer um als die meisten eingebauten Soundkarten. Besonders bei hochwertigen Kopfhörern (ab 100€) macht ein DAC einen hörbaren Unterschied.\n\n### Portabel oder Desktop — was passt zu mir?\nPortable DACs (FiiO KA3) sind USB-Sticks, die du an Laptop oder Handy steckst — perfekt für unterwegs. Desktop-DACs (iFi Zen, FiiO K7) haben eigene Netzteile, mehr Leistung und bessere Anschlüsse — ideal fürs Homeoffice oder den Schreibtisch.\n\n### Wie viel Leistung brauche ich?\nNiedrigohmige Kopfhörer (16-32 Ohm, z.B. In-Ears, geschlossene Over-Ears) brauchen wenig Leistung — der FiiO KA3 reicht. Hochohmige Kopfhörer (250-600 Ohm, z.B. Beyerdynamic DT 880/990) brauchen deutlich mehr Power — hier ist der FiiO K7 mit 2.000mW die bessere Wahl.\n\n### Balanced vs. Single-Ended — was bringt's?\nBalanced-Ausgänge (4,4mm oder XLR) liefern mehr Leistung und weniger Rauschen als Single-Ended (3,5mm/6,3mm). Der Unterschied ist bei empfindlichen In-Ears am deutlichsten. Dein Kopfhörer braucht allerdings ein Balanced-Kabel — das ist nicht bei jedem dabei.",
+  "vergleichsKategorien": [
+    {
+      "key": "dac_chip",
+      "label": "DAC-Chip",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "ausgangsleistung",
+      "label": "Leistung",
+      "einheit": "mW",
+      "sortierung": 2
+    },
+    {
+      "key": "snr",
+      "label": "Signal-Rausch-Verhältnis",
+      "einheit": "dB",
+      "sortierung": 3
+    },
+    {
+      "key": "anschluesse",
+      "label": "Ausgänge",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "eingang",
+      "label": "Eingang",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "hi_res",
+      "label": "Hi-Res Audio",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Lohnt sich ein DAC für Spotify?",
+      "antwort": "Spotify streamt mit max. 320 kbit/s (OGG Vorbis) — das ist kein Hi-Res, profitiert aber trotzdem von einem sauberen DAC. Der Unterschied zeigt sich vor allem durch weniger Rauschen und mehr Dynamik. Für den vollen Hi-Res-Vorteil brauchst du Tidal, Qobuz oder Apple Music Lossless."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen DAC und Verstärker?",
+      "antwort": "Ein DAC (Digital-to-Analog Converter) wandelt digitale Signale in analoge um. Ein Verstärker verstärkt das analoge Signal für den Kopfhörer. Die meisten Geräte in unserem Vergleich kombinieren beides — daher DAC/Amp. Wenn du bereits einen DAC hast, brauchst du nur einen separaten Amp."
+    },
+    {
+      "frage": "Hört man wirklich einen Unterschied?",
+      "antwort": "Bei guten Kopfhörern (ab 100€) und aufmerksamen Hören: ja. Der Unterschied ist subtil — mehr Detail, sauberere Höhen, präziserer Bass. Bei Bluetooth-Kopfhörern oder günstigen In-Ears bringt ein DAC dagegen wenig, weil der Flaschenhals woanders liegt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "FiiO KA3",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B7JDD9F8?tag=janxsiegmann-21",
+      "preis": 60,
+      "bewertung": 3.5,
+      "werte": {
+        "dac_chip": "ESS ES9038Q2M",
+        "ausgangsleistung": "240 (32Ω)",
+        "snr": "117",
+        "anschluesse": "3,5mm + 4,4mm Balanced",
+        "eingang": "USB-C",
+        "hi_res": "Ja (32bit/384kHz, DSD256)",
+        "gewicht": "28"
+      },
+      "vorteile": [
+        "Hi-Res Audio für 60€",
+        "4,4mm Balanced-Ausgang",
+        "Extrem kompakt"
+      ],
+      "nachteile": [
+        "Nur USB-Stromversorgung",
+        "Kein Bluetooth",
+        "Begrenzte Leistung für hochohmige KH"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "iFi Zen DAC V2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09P32PTNN?tag=janxsiegmann-21",
+      "preis": 170,
+      "bewertung": 4.0,
+      "werte": {
+        "dac_chip": "Burr-Brown DSD1793",
+        "ausgangsleistung": "280 (32Ω)",
+        "snr": "113",
+        "anschluesse": "6,3mm + 4,4mm Balanced",
+        "eingang": "USB-B",
+        "hi_res": "Ja (32bit/384kHz, DSD256, MQA)",
+        "gewicht": "172"
+      },
+      "vorteile": [
+        "MQA-Decoder integriert",
+        "XBass-Funktion für mehr Tiefton",
+        "Desktop-Gerät mit eigenem Netzteil"
+      ],
+      "nachteile": [
+        "Größer als portable DACs",
+        "USB-B statt USB-C",
+        "Kein Bluetooth"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "FiiO K7",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BMS3K2CW?tag=janxsiegmann-21",
+      "preis": 200,
+      "bewertung": 4.5,
+      "werte": {
+        "dac_chip": "AK4493SEQ × 2",
+        "ausgangsleistung": "2.000 (32Ω)",
+        "snr": "120",
+        "anschluesse": "6,3mm + 4,4mm Balanced + RCA Line-Out",
+        "eingang": "USB-C, Optisch, Koaxial",
+        "hi_res": "Ja (32bit/768kHz, DSD512)",
+        "gewicht": "460"
+      },
+      "vorteile": [
+        "2.000mW — treibt ALLE Kopfhörer",
+        "Dual-DAC-Architektur",
+        "Optischer + Koax-Eingang",
+        "RCA Line-Out für Aktivboxen"
+      ],
+      "nachteile": [
+        "Desktop-only",
+        "Braucht Platz",
+        "Keine Bluetooth-Option"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "RME ADI-2 DAC FS",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07QWR8TXN?tag=janxsiegmann-21",
+      "preis": 1100,
+      "bewertung": 4.5,
+      "werte": {
+        "dac_chip": "AKM AK4493",
+        "ausgangsleistung": "1.500 (32Ω)",
+        "snr": "123",
+        "anschluesse": "6,3mm + IEM-Ausgang + XLR + RCA",
+        "eingang": "USB, SPDIF, AES",
+        "hi_res": "Ja (32bit/768kHz, DSD256)",
+        "gewicht": "560"
+      },
+      "vorteile": [
+        "Referenz-DAC für Audiophile",
+        "Parametrischer 5-Band-EQ",
+        "IEM-Ausgang mit Kreuzspeisung",
+        "Made in Germany"
+      ],
+      "nachteile": [
+        "Sehr teuer",
+        "Komplexe Bedienung",
+        "Overkill für Einsteiger"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

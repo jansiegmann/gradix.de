@@ -1,0 +1,193 @@
+{
+  "slug": "beamer",
+  "kategorie": "elektronik",
+  "titel": "Beamer / Projektor",
+  "beschreibung": "Beamer Test 2026: Die 4 besten Projektoren im Vergleich ✓ Budget bis Profi ✓ Kaufberatung",
+  "keywords": [
+    "beamer test",
+    "projektor vergleich",
+    "beamer kaufberatung",
+    "heimkino beamer",
+    "beamer 2026"
+  ],
+  "einleitung": "Du suchst einen Beamer fürs Heimkino, Präsentationen oder den Garten? Wir haben vier Projektoren vom günstigen LED-Beamer bis zum High-End-Heimkino-Modell verglichen.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nDie Auswahl hängt von deinem Budget und deinen Anforderungen ab. Das Budget-Modell reicht für gelegentliche Nutzung, die Mittelklasse bietet das beste Preis-Leistungs-Verhältnis, das Premium-Modell deckt anspruchsvolle Anwendungen ab und das Profi-Gerät ist für Enthusiasten.\n\n### Worauf solltest du beim Kauf achten?\nAchte auf die Verarbeitung, die wichtigsten technischen Daten und lies Nutzerbewertungen — dort findest du oft die ehrlichsten Einschätzungen. Ein teureres Produkt ist nicht automatisch besser, aber Qualität hat meist ihren Preis.\n\n### Lohnt sich das Profi-Modell?\nNur wenn du die zusätzlichen Features wirklich nutzt. Für die meisten Anwender ist die Mittelklasse oder das Premium-Modell die klügste Wahl.\n\n### Was ist im Lieferumfang enthalten?\nDas variiert stark — manche Hersteller liefern umfangreiches Zubehör mit, andere sparen daran. Prüfe vor dem Kauf, ob du noch Zusatzteile brauchst.",
+  "vergleichsKategorien": [
+    {
+      "key": "aufloesung",
+      "label": "Native Auflösung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit",
+      "einheit": "Lumen",
+      "sortierung": 2
+    },
+    {
+      "key": "technologie",
+      "label": "Technologie",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "kontrast",
+      "label": "Kontrastverh.",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "lampenlebensdauer",
+      "label": "Lampenlebensdauer",
+      "einheit": "Std.",
+      "sortierung": 5
+    },
+    {
+      "key": "anschluesse",
+      "label": "Anschlüsse",
+      "einheit": "",
+      "sortierung": 6
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 7
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Beamer / Projektor ist die beste für Einsteiger?",
+      "antwort": "Für Einsteiger empfehlen wir das Budget- oder Mittelklasse-Modell in unserem Vergleich. Diese bieten das beste Preis-Leistungs-Verhältnis und sind für die meisten Anwendungsfälle ausreichend."
+    },
+    {
+      "frage": "Lohnt sich eine teure Beamer / Projektor?",
+      "antwort": "Das kommt auf deine Anforderungen an. Die Premium- und Profi-Modelle bieten spürbar bessere Qualität und Features, die sich im Alltag bemerkbar machen. Wer das Gerät intensiv nutzt, wird den Unterschied schätzen."
+    },
+    {
+      "frage": "Wo kaufe ich am besten eine Beamer / Projektor?",
+      "antwort": "Amazon bietet die größte Auswahl und einfache Rückgabe. Die Preise auf Amazon sind in der Regel wettbewerbsfähig. Alle Links in unserem Vergleich führen direkt zur Amazon-Produktseite."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "XGIMI MoGo 2",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0BVRJTS2V?tag=janxsiegmann-21",
+      "preis": 350,
+      "bewertung": 4.0,
+      "werte": {
+        "aufloesung": "1080p (Full HD)",
+        "helligkeit": "400 ISO Lumen",
+        "technologie": "DLP",
+        "kontrast": "k.A.",
+        "lampenlebensdauer": "25.000",
+        "anschluesse": "HDMI, USB, WLAN, Bluetooth",
+        "gewicht": "1,1"
+      },
+      "vorteile": [
+        "Extrem kompakt und leicht",
+        "Eingebauter Lautsprecher (Harman Kardon)",
+        "Android TV integriert"
+      ],
+      "nachteile": [
+        "Nur 400 Lumen — nur im Dunkeln gut",
+        "Kein 4K",
+        "Lüfter hörbar"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": true
+    },
+    {
+      "name": "XGIMI Halo+",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09V56QCLM?tag=janxsiegmann-21",
+      "preis": 600,
+      "bewertung": 4.0,
+      "werte": {
+        "aufloesung": "1080p (Full HD)",
+        "helligkeit": "900 ISO Lumen",
+        "technologie": "DLP",
+        "kontrast": "k.A.",
+        "lampenlebensdauer": "25.000",
+        "anschluesse": "HDMI, USB, WLAN, Bluetooth",
+        "gewicht": "1,6"
+      },
+      "vorteile": [
+        "900 Lumen — auch bei Restlicht nutzbar",
+        "Akku eingebaut",
+        "Android TV",
+        "Automatischer Keystone"
+      ],
+      "nachteile": [
+        "Kein 4K",
+        "Akku hält nur ~2 Std.",
+        "Kein optischer Zoom"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    },
+    {
+      "name": "BenQ TK700STi",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B095FRP5PY?tag=janxsiegmann-21",
+      "preis": 1100,
+      "bewertung": 4.0,
+      "werte": {
+        "aufloesung": "4K UHD (3840×2160)",
+        "helligkeit": "3.000 ANSI Lumen",
+        "technologie": "DLP",
+        "kontrast": "10.000:1",
+        "lampenlebensdauer": "15.000",
+        "anschluesse": "2× HDMI 2.0, USB, RS-232",
+        "gewicht": "3,1"
+      },
+      "vorteile": [
+        "Echtes 4K",
+        "3.000 Lumen — auch tagsüber nutzbar",
+        "Kurzdistanz (2,5m → 100 Zoll)",
+        "Gaming-Modus (16ms Input Lag)"
+      ],
+      "nachteile": [
+        "Kein integriertes Smart-TV",
+        "Lüfter auf voller Leistung hörbar",
+        "Kein Akku"
+      ],
+      "istTestsieger": true,
+      "istPreistipp": false
+    },
+    {
+      "name": "Epson EH-TW9400",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07X71RB95?tag=janxsiegmann-21",
+      "preis": 2200,
+      "bewertung": 4.0,
+      "werte": {
+        "aufloesung": "4K Enhancement (1080p native)",
+        "helligkeit": "2.600 Lumen",
+        "technologie": "3LCD",
+        "kontrast": "1.200.000:1",
+        "lampenlebensdauer": "5.000",
+        "anschluesse": "2× HDMI, USB, RS-232, Trigger",
+        "gewicht": "11,2"
+      },
+      "vorteile": [
+        "Gigantischer Kontrast (1,2 Mio:1)",
+        "3LCD — kein Regenbogeneffekt",
+        "Motorisiertes Objektiv mit Lens-Shift",
+        "Referenz-Schwarzwert"
+      ],
+      "nachteile": [
+        "Sehr groß und schwer",
+        "Kürzere Lampenlebensdauer",
+        "Hoher Preis",
+        "Kein nativer 4K-Chip"
+      ],
+      "istTestsieger": false,
+      "istPreistipp": false
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

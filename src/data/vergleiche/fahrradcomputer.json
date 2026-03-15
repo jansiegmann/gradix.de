@@ -1,0 +1,128 @@
+{
+  "slug": "fahrradcomputer",
+  "kategorie": "sport",
+  "titel": "Fahrradcomputer",
+  "beschreibung": "Fahrradcomputer Test 2026: Die 4 besten GPS-Radcomputer im Vergleich ✓ Garmin, Wahoo & Sigma ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "fahrradcomputer",
+    "fahrradcomputer test",
+    "gps fahrradcomputer",
+    "fahrradnavi test",
+    "radcomputer vergleich",
+    "garmin fahrradcomputer",
+    "wahoo elemnt",
+    "sigma rox test",
+    "fahrradcomputer mit gps",
+    "bester fahrradcomputer"
+  ],
+  "einleitung": "Du willst beim Radfahren Strecke, Geschwindigkeit und Navigation im Blick haben? Wir vergleichen vier Fahrradcomputer von Budget bis Profi — vom einfachen Sigma bis zum Garmin Edge mit Karten und Sensorkopplung.",
+  "kaufberatung": "### Für wen eignet sich welcher Fahrradcomputer?\nFür Gelegenheitsfahrer und Pendler reicht der Sigma ROX 2.0 mit den Basisfunktionen. Ambitionierte Rennradfahrer profitieren vom Wahoo ELEMNT BOLT mit seiner einfachen Bedienung und guten Sensoranbindung. Tourenfahrer und Gravelbiker brauchen die Kartennavigation des Garmin Edge 540. Und für Profis und Datennerds ist der Garmin Edge 1050 mit seinem großen Touchscreen und allen erdenklichen Metriken das Nonplusultra.\n\n### GPS-Navigation auf dem Rad — brauche ich das?\nWenn du immer die gleichen Strecken fährst, brauchst du keine Navigation. Sobald du aber neue Routen erkunden willst oder längere Touren planst, ist ein Fahrradcomputer mit Karten Gold wert. Der Garmin Edge 540 und 1050 zeigen vollwertige Karten mit Abbiegehinweisen — das macht die Routenplanung deutlich komfortabler als ständig aufs Handy zu schauen.\n\n### Sensoren koppeln — ANT+ und Bluetooth\nModerne Fahrradcomputer kommunizieren per ANT+ und Bluetooth mit externen Sensoren wie Herzfrequenz-Brustgurten, Trittfrequenzsensoren und Leistungsmessern. Achte darauf, dass dein Computer beide Standards unterstützt — so bist du maximal flexibel. Der Wahoo ELEMNT BOLT und die Garmin-Modelle können das alle.\n\n### Akkulaufzeit — wie lange hält der Computer?\nDie Akkulaufzeit variiert stark: Einfache Modelle halten mit GPS 10-15 Stunden, Premium-Geräte 20-35 Stunden. Für Tagestouren reichen 15 Stunden locker, für Brevets oder Ultracycling solltest du mindestens 20 Stunden einplanen.",
+  "vergleichsKategorien": [
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "h",
+      "sortierung": 2
+    },
+    {
+      "key": "navigation",
+      "label": "Navigation",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "sensoren",
+      "label": "Sensoranbindung",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    },
+    {
+      "key": "touchscreen",
+      "label": "Touchscreen",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Fahrradcomputer hat die beste Navigation?",
+      "antwort": "Der Garmin Edge 1050 bietet die beste Navigation mit großem Farb-Touchscreen, detaillierten Karten und Echtzeit-Routenvorschlägen. Für die meisten Radfahrer reicht aber auch der Edge 540 mit seiner Kartennavigation — der ist deutlich günstiger."
+    },
+    {
+      "frage": "Brauche ich einen Fahrradcomputer oder reicht mein Smartphone?",
+      "antwort": "Ein Fahrradcomputer ist besser ablesbar bei Sonnenlicht, wasserdicht, hat eine längere Akkulaufzeit und koppelt direkt mit Radsensoren. Für Gelegenheitsfahrer reicht ein Smartphone mit Halterung, aber regelmäßige Radfahrer profitieren klar von einem dedizierten Gerät."
+    },
+    {
+      "frage": "Garmin oder Wahoo — welcher Radcomputer ist besser?",
+      "antwort": "Garmin bietet mehr Features, Karten und ein größeres Ökosystem. Wahoo punktet mit einfacherer Einrichtung und Bedienung per Smartphone-App. Für Technik-Enthusiasten ist Garmin die bessere Wahl, für Nutzer, die es simpel mögen, ist Wahoo top."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Sigma ROX 2.0",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09KBVNDVG?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1,6 Zoll s/w",
+        "akku": "15",
+        "navigation": "Brotkrümel",
+        "sensoren": "ANT+ & Bluetooth",
+        "gewicht": "50",
+        "touchscreen": "Nein"
+      }
+    },
+    {
+      "name": "Wahoo ELEMNT BOLT V2",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09M8W9RJR?tag=janxsiegmann-21",
+      "werte": {
+        "display": "2,2 Zoll Farbe",
+        "akku": "15",
+        "navigation": "Karten + Routing",
+        "sensoren": "ANT+ & Bluetooth",
+        "gewicht": "68",
+        "touchscreen": "Nein (Tasten)"
+      }
+    },
+    {
+      "name": "Garmin Edge 540",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0BX5YDLG2?tag=janxsiegmann-21",
+      "werte": {
+        "display": "2,6 Zoll Farbe",
+        "akku": "26",
+        "navigation": "Vollwertige Karten",
+        "sensoren": "ANT+ & Bluetooth",
+        "gewicht": "80",
+        "touchscreen": "Nein (Tasten)"
+      }
+    },
+    {
+      "name": "Garmin Edge 1050",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0D5NRJR8T?tag=janxsiegmann-21",
+      "werte": {
+        "display": "3,5 Zoll Farbe",
+        "akku": "20",
+        "navigation": "Vollwertige Karten + Echtzeit",
+        "sensoren": "ANT+ & Bluetooth & WiFi",
+        "gewicht": "161",
+        "touchscreen": "Ja"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

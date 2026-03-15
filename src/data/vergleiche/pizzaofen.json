@@ -1,0 +1,128 @@
+{
+  "slug": "pizzaofen-tisch",
+  "kategorie": "kueche",
+  "titel": "Pizzaofen (Tisch)",
+  "beschreibung": "Pizzaofen Test 2026: Die 4 besten Tisch-Pizzaöfen im Vergleich ✓ Neapel-Stil ✓ Kaufberatung",
+  "keywords": [
+    "pizzaofen",
+    "pizzaofen test",
+    "pizzaofen tisch",
+    "mini pizzaofen",
+    "pizza ofen elektrisch",
+    "pizzaofen vergleich",
+    "bester pizzaofen",
+    "ooni pizzaofen",
+    "pizzaofen test 2026",
+    "pizzaofen kaufberatung"
+  ],
+  "einleitung": "Echte Pizza wie aus dem Steinofen — direkt auf deinem Küchentisch? Tisch-Pizzaöfen erreichen Temperaturen über 400°C und backen eine Pizza in 60-90 Sekunden. Wir vergleichen vier Modelle von günstig bis Profi.",
+  "kaufberatung": "### Warum ein Pizzaofen statt normaler Backofen?\nDein Backofen schafft maximal 250-300°C. Für eine authentische neapolitanische Pizza brauchst du aber 400-500°C. Nur so wird der Boden knusprig und der Belag bleibt saftig. Tisch-Pizzaöfen schaffen genau das.\n\n### Gas, Elektrisch oder Holzpellets?\nGas-Pizzaöfen heizen am schnellsten auf und liefern die authentischste Hitzeverteilung. Elektrische Modelle sind am bequemsten für den Indoor-Einsatz. Holzpellet-Öfen geben dem Pizza-Rauchgeschmack. Für die Küche oder den Balkon empfehlen sich Gas oder Elektrisch.\n\n### Temperatur und Aufheizzeit\nJe schneller der Ofen seine Betriebstemperatur erreicht, desto besser. Gute Modelle brauchen 10-15 Minuten. Der Pizzastein (Cordierit oder Schamott) speichert die Hitze und sorgt für einen knusprigen Boden.\n\n### Pizzagröße beachten\nDie meisten Tisch-Pizzaöfen sind für Pizzen mit 30-33 cm Durchmesser ausgelegt. Das reicht für eine normale Pizza. Wer größere Pizzen (36 cm+) backen möchte, braucht ein entsprechend großes Modell.\n\n### Lernkurve einplanen\nDie erste Pizza wird wahrscheinlich nicht perfekt. Bei über 400°C verbrennt der Belag in Sekunden, wenn du nicht aufpasst. Drehe die Pizza alle 15-20 Sekunden für gleichmäßiges Backen. Nach 5-10 Pizzen hast du den Dreh raus.",
+  "vergleichsKategorien": [
+    {
+      "key": "max_temperatur",
+      "label": "Max. Temperatur",
+      "einheit": "°C",
+      "sortierung": 1
+    },
+    {
+      "key": "aufheizzeit",
+      "label": "Aufheizzeit",
+      "einheit": "Min.",
+      "sortierung": 2
+    },
+    {
+      "key": "pizzagroesse",
+      "label": "Max. Pizzagröße",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "heizart",
+      "label": "Heizart",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "backzeit",
+      "label": "Backzeit pro Pizza",
+      "einheit": "Sek.",
+      "sortierung": 5
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich einen Gas-Pizzaofen auch auf dem Balkon nutzen?",
+      "antwort": "Ja, Gas-Pizzaöfen sind sogar primär für den Außenbereich gedacht. Achte auf ausreichend Abstand zu brennbaren Materialien und eine gute Belüftung. In geschlossenen Räumen solltest du Gas-Öfen nicht verwenden — dafür gibt es elektrische Modelle."
+    },
+    {
+      "frage": "Welchen Teig brauche ich für einen Pizzaofen?",
+      "antwort": "Für hohe Temperaturen eignet sich ein neapolitanischer Teig aus Tipo-00-Mehl am besten. Dieser Teig ist elastischer und verträgt die extreme Hitze, ohne zu verbrennen. Normaler Pizzateig aus Standardmehl funktioniert auch, wird aber schneller dunkel."
+    },
+    {
+      "frage": "Lohnt sich ein Tisch-Pizzaofen wirklich?",
+      "antwort": "Wenn du regelmäßig Pizza isst und Wert auf Qualität legst, definitiv ja. Die Ergebnisse sind einem Backofen haushoch überlegen. Selbst günstige Modelle liefern bessere Pizza als die meisten Lieferdienste. Für Gelegentlichbäcker ist der Anschaffungspreis aber schwer zu rechtfertigen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Ariete 909 Pizzaofen",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0725GYNG1?tag=janxsiegmann-21",
+      "werte": {
+        "max_temperatur": "400",
+        "aufheizzeit": "10",
+        "pizzagroesse": "32",
+        "heizart": "Elektrisch",
+        "backzeit": "240-300",
+        "gewicht": "3,9"
+      }
+    },
+    {
+      "name": "G3 Ferrari G10006 Delizia",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B003YKZC82?tag=janxsiegmann-21",
+      "werte": {
+        "max_temperatur": "400",
+        "aufheizzeit": "10",
+        "pizzagroesse": "31",
+        "heizart": "Elektrisch (Stein)",
+        "backzeit": "180-300",
+        "gewicht": "5,0"
+      }
+    },
+    {
+      "name": "Ooni Volt 12",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0C5KHXBF5?tag=janxsiegmann-21",
+      "werte": {
+        "max_temperatur": "480",
+        "aufheizzeit": "20",
+        "pizzagroesse": "30",
+        "heizart": "Elektrisch (Indoor+Outdoor)",
+        "backzeit": "60-90",
+        "gewicht": "18,0"
+      }
+    },
+    {
+      "name": "Ooni Koda 16 Gas",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08P56QCHJ?tag=janxsiegmann-21",
+      "werte": {
+        "max_temperatur": "500",
+        "aufheizzeit": "15",
+        "pizzagroesse": "40",
+        "heizart": "Gas (Propan)",
+        "backzeit": "60",
+        "gewicht": "18,2"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

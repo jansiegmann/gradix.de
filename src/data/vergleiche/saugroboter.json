@@ -1,0 +1,128 @@
+{
+  "slug": "saugroboter",
+  "kategorie": "haushalt",
+  "titel": "Saugroboter",
+  "beschreibung": "Saugroboter Test 2026: Die 4 besten Modelle ✓ Wischfunktion ✓ Selbstentleerung ✓ LiDAR-Navigation",
+  "keywords": [
+    "saugroboter test",
+    "saugroboter vergleich 2026",
+    "bester saugroboter",
+    "saugroboter mit wischfunktion",
+    "saugroboter selbstentleerung",
+    "roborock test",
+    "dreame test",
+    "saugroboter kaufberatung",
+    "wischroboter test",
+    "saugroboter navigation"
+  ],
+  "einleitung": "Ein Saugroboter hält deine Wohnung sauber, während du andere Dinge erledigst. Mit Wischfunktion, Selbstentleerung und smarter Navigation werden die Geräte immer besser. Wir vergleichen vier Top-Modelle.",
+  "kaufberatung": "### LiDAR vs. Kamera-Navigation\n\nLiDAR-Roboter erstellen präzise Raumkarten per Laser und navigieren systematisch. Kamera-basierte Modelle sind günstiger, aber weniger genau. Für eine gründliche Reinigung empfehlen wir LiDAR.\n\n### Saugkraft: Wie viel Pa brauche ich?\n\n3.000 Pa reichen für Hartböden und niedrigen Teppich. Für Hochflorteppich und Tierhaare empfehlen wir 6.000 Pa+. Die Spitzenmodelle von Dreame und Roborock bieten 10.000+ Pa.\n\n### Wischfunktion: Sinnvoll oder Spielerei?\n\nModerne Saugroboter mit rotierenden Wischpads liefern erstaunlich gute Ergebnisse auf Hartböden. Für die tägliche Grundreinigung ersetzen sie das manuelle Wischen. Für hartnäckige Flecken musst du aber weiterhin selbst ran.\n\n### Selbstentleerungsstation\n\nPremium-Modelle entleeren ihren Staubbehälter automatisch in eine Station. Das ist extrem praktisch — du musst nur alle 1-2 Monate den Staubbeutel wechseln. Die Stationen waschen teilweise auch die Wischpads und trocknen sie mit Heißluft.\n\n### Hinderniserkennung\n\nAktuelle Top-Modelle erkennen Kabel, Schuhe und Tierkot per KI-Kamera und umfahren sie. Das verhindert, dass der Roboter Gegenstände durch die Wohnung schiebt oder sich verheddert.",
+  "vergleichsKategorien": [
+    {
+      "key": "saugkraft",
+      "label": "Saugkraft",
+      "einheit": "Pa",
+      "sortierung": 1
+    },
+    {
+      "key": "wischen",
+      "label": "Wischfunktion",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "navigation",
+      "label": "Navigation",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "min",
+      "sortierung": 4
+    },
+    {
+      "key": "station",
+      "label": "Basisstation",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Saugroboter ist der beste für Tierhaare?",
+      "antwort": "Der Dreame L40 Ultra mit seiner hohen Saugkraft und Anti-Verhedderungs-Bürste ist ideal für Haustierhaushalte. Wichtig ist auch die Selbstentleerung, da sich Tierhaare im Staubbehälter schnell ansammeln."
+    },
+    {
+      "frage": "Kann ein Saugroboter einen normalen Staubsauger ersetzen?",
+      "antwort": "Für die tägliche Grundreinigung ja. In Ecken, auf Treppen und bei punktueller Verschmutzung brauchst du aber weiterhin einen Handstaubsauger. Die Kombination aus Saugroboter für den Alltag und Handstaubsauger für Sondereinsätze ist ideal."
+    },
+    {
+      "frage": "Wie laut sind Saugroboter?",
+      "antwort": "Im Normalmodus ca. 60-65 dB (Gesprächslautstärke), im Leise-Modus 50-55 dB. Im Turbo-Modus für Teppiche können es 70+ dB werden. Die meisten Nutzer lassen den Roboter arbeiten, wenn sie nicht zu Hause sind."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Dreame L10s Ultra",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CKD5YGDC?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "5300",
+        "wischen": "Rotierende Doppelmopps",
+        "navigation": "LiDAR + 3D",
+        "akku": "210",
+        "station": "Selbstentleerung + Moppwäsche",
+        "lautstaerke": "64"
+      }
+    },
+    {
+      "name": "Roborock Q Revo",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0D7VP93RN?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "5500",
+        "wischen": "Rotierende Doppelmopps",
+        "navigation": "LiDAR",
+        "akku": "180",
+        "station": "Selbstentleerung + Moppwäsche + Trocknung",
+        "lautstaerke": "62"
+      }
+    },
+    {
+      "name": "Dreame L40 Ultra",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DL3D4D38?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "11000",
+        "wischen": "Rotierende Mopps + anhebbar",
+        "navigation": "LiDAR + KI-Kamera",
+        "akku": "210",
+        "station": "Selbstentleerung + Moppwäsche + Heißlufttrocknung",
+        "lautstaerke": "63"
+      }
+    },
+    {
+      "name": "Roborock S8 MaxV Ultra",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0D52Z23QF?tag=janxsiegmann-21",
+      "werte": {
+        "saugkraft": "10000",
+        "wischen": "VibraRise 3.0 (anhebbar)",
+        "navigation": "LiDAR + KI-Kamera (ReactiveAI 3.0)",
+        "akku": "180",
+        "station": "Selbstentleerung + Moppwäsche + Heißlufttrocknung + Selbstreinigung",
+        "lautstaerke": "62"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

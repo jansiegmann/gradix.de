@@ -1,0 +1,128 @@
+{
+  "slug": "fahrradhelm",
+  "kategorie": "sport",
+  "titel": "Fahrradhelm",
+  "beschreibung": "Fahrradhelm Test 2026: Die 4 besten Fahrradhelme im Vergleich ✓ Sicher & bequem ✓ MIPS-Technologie ✓ Für City, Rennrad & MTB",
+  "keywords": [
+    "fahrradhelm",
+    "fahrradhelm test",
+    "bester fahrradhelm",
+    "fahrradhelm mips",
+    "fahrradhelm test 2026",
+    "fahrradhelm vergleich",
+    "rennradhelm test",
+    "fahrradhelm sicher",
+    "helm fahrrad test",
+    "fahrradhelm kaufen"
+  ],
+  "einleitung": "Sicherheit geht vor — aber ein guter Fahrradhelm muss auch bequem sitzen und gut belüftet sein. Wir vergleichen vier Fahrradhelme von Budget bis Profi und zeigen dir, worauf es bei der Wahl wirklich ankommt.",
+  "kaufberatung": "### Für wen eignet sich welcher Fahrradhelm?\nFür City-Fahrer und Pendler ist der Uvex i-vo CC eine solide, günstige Wahl mit guter Belüftung. Ambitionierte Radfahrer greifen zum Giro Register MIPS — der bietet zusätzlichen Rotationsschutz. Der Uvex Rise CC eignet sich für sportliche Fahrer, die einen leichten, gut belüfteten Helm wollen. Und der POC Omne Air MIPS ist die Wahl für Sicherheitsbewusste, die das Beste vom Besten wollen.\n\n### Was ist MIPS und brauche ich das?\nMIPS (Multi-directional Impact Protection System) ist eine Technologie, die bei schrägen Aufprällen den Kopf zusätzlich vor Rotationskräften schützt. Studien zeigen, dass MIPS bei bestimmten Unfalltypen die Belastung auf das Gehirn reduzieren kann. Wir empfehlen MIPS grundsätzlich — der Aufpreis von 10-20 Euro ist die zusätzliche Sicherheit wert.\n\n### Die richtige Helmgröße finden\nMiss deinen Kopfumfang etwa 1 cm über den Augenbrauen mit einem Maßband. Die meisten Helme gibt es in S, M und L. Der Helm muss fest sitzen, ohne zu drücken. Ein zu großer Helm kann bei einem Sturz verrutschen und schützt dann nicht richtig.\n\n### Wann muss ein Fahrradhelm ausgetauscht werden?\nNach einem Sturz immer sofort ersetzen — auch wenn äußerlich keine Schäden sichtbar sind. Ohne Sturz empfehlen Hersteller einen Austausch alle 3-5 Jahre, da das Material durch UV-Strahlung und Schweiß altert.",
+  "vergleichsKategorien": [
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 1
+    },
+    {
+      "key": "mips",
+      "label": "MIPS-Schutz",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "belueftung",
+      "label": "Belüftungsöffnungen",
+      "einheit": "Stück",
+      "sortierung": 3
+    },
+    {
+      "key": "groessen",
+      "label": "Größen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "visier",
+      "label": "Visier/Schild",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "verschluss",
+      "label": "Verschlusssystem",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Fahrradhelm ist der sicherste?",
+      "antwort": "Alle in der EU verkauften Fahrradhelme erfüllen die EN 1078 Norm. Für zusätzlichen Schutz empfehlen wir Helme mit MIPS-Technologie wie den POC Omne Air MIPS oder den Giro Register MIPS — die bieten besseren Schutz bei schrägen Aufprällen."
+    },
+    {
+      "frage": "Wie schwer sollte ein Fahrradhelm sein?",
+      "antwort": "Leichte Helme (200-250 g) sind komfortabler, besonders auf langen Touren. Für City-Fahrten ist das Gewicht weniger kritisch — hier zählt der Sitz mehr. Die meisten guten Helme wiegen zwischen 250 und 350 Gramm."
+    },
+    {
+      "frage": "Sind teure Fahrradhelme sicherer als günstige?",
+      "antwort": "Nicht unbedingt — alle müssen die gleiche Norm erfüllen. Teurere Helme bieten aber oft bessere Belüftung, weniger Gewicht und Extras wie MIPS. Der Sicherheitsunterschied liegt vor allem in der MIPS-Technologie, nicht im Preis an sich."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Uvex i-vo CC",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01NCQWYU9?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "270",
+        "mips": "Nein",
+        "belueftung": "24",
+        "groessen": "52-57, 56-60",
+        "visier": "Ja (abnehmbar)",
+        "verschluss": "Uvex IAS"
+      }
+    },
+    {
+      "name": "Giro Register MIPS",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07GKY7L1N?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "310",
+        "mips": "Ja",
+        "belueftung": "22",
+        "groessen": "Universalgröße (54-61)",
+        "visier": "Ja (abnehmbar)",
+        "verschluss": "Roc Loc Sport"
+      }
+    },
+    {
+      "name": "Uvex Rise CC",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09NRTBB1R?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "230",
+        "mips": "Nein",
+        "belueftung": "36",
+        "groessen": "52-56, 56-59",
+        "visier": "Nein",
+        "verschluss": "Uvex IAS 3D"
+      }
+    },
+    {
+      "name": "POC Omne Air MIPS",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B3X1PB1K?tag=janxsiegmann-21",
+      "werte": {
+        "gewicht": "290",
+        "mips": "Ja",
+        "belueftung": "14",
+        "groessen": "S, M, L",
+        "visier": "Nein",
+        "verschluss": "Micro-Adjust"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

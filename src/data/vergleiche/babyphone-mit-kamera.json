@@ -1,0 +1,128 @@
+{
+  "slug": "babyphone-mit-kamera",
+  "kategorie": "kinder",
+  "titel": "Babyphone (mit Kamera)",
+  "beschreibung": "Babyphone mit Kamera Test 2026: Die 4 besten Babyphones im Vergleich ✓ Video & Nachtsicht ✓ Sicher & zuverlässig",
+  "keywords": [
+    "babyphone mit kamera",
+    "babyphone test",
+    "babyphone kamera",
+    "babyphone vergleich",
+    "bestes babyphone",
+    "video babyphone",
+    "babyphone test 2026",
+    "babyphone nachtsicht",
+    "babyphone kaufen",
+    "babyphone empfehlung"
+  ],
+  "einleitung": "Dein Baby schläft nebenan und du willst es jederzeit im Blick haben? Ein Babyphone mit Kamera gibt dir Sicherheit. Wir vergleichen vier Modelle und zeigen dir, welches Babyphone am zuverlässigsten arbeitet — ohne Sicherheitsrisiken.",
+  "kaufberatung": "### DECT oder WLAN — was ist sicherer?\nDECT-Babyphones (wie das Philips Avent) nutzen eine verschlüsselte Funkverbindung, die nicht hackbar ist. WLAN-Babyphones bieten mehr Features (Fernzugriff per App), haben aber theoretische Sicherheitsrisiken. Für maximale Sicherheit: DECT. Für maximale Funktionalität: WLAN mit guter Verschlüsselung.\n\n### Reichweite — wie weit reicht das Signal?\nDECT-Babyphones erreichen im Haus 50-100 Meter, im Freien bis zu 300 Meter. WLAN-Babyphones haben die Reichweite deines WLANs — mit gutem Router durchs ganze Haus. Dicke Wände und Stahlbeton reduzieren die Reichweite bei beiden Technologien.\n\n### Nachtsicht — worauf achten?\nAlle Kamera-Babyphones haben Infrarot-Nachtsicht. Unterschiede gibts bei der Auflösung und dem Sichtwinkel. Ein großer Blickwinkel ist wichtig, damit du das ganze Bettchen siehst, ohne die Kamera ständig nachjustieren zu müssen.\n\n### Akku oder Netzbetrieb?\nDie Kamera läuft immer am Netz (Netzteil). Der Elternteil (Monitor) sollte einen guten Akku haben, damit du dich frei bewegen kannst. 10+ Stunden Akku sind ideal. Alternativ kannst du eine WLAN-Kamera mit deinem Smartphone verbinden — dann brauchst du keinen separaten Monitor.",
+  "vergleichsKategorien": [
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindungstyp",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "nachtsicht",
+      "label": "Nachtsicht",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "reichweite",
+      "label": "Reichweite",
+      "einheit": "m",
+      "sortierung": 4
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit (Monitor)",
+      "einheit": "h",
+      "sortierung": 5
+    },
+    {
+      "key": "extras",
+      "label": "Extras",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Babyphone ist am sichersten?",
+      "antwort": "DECT-Babyphones wie das Philips Avent SCD923 bieten die sicherste Verbindung, da sie verschlüsselt funken und nicht über das Internet laufen. WLAN-Kameras können theoretisch gehackt werden — verwende immer ein starkes WLAN-Passwort und regelmäßige Firmware-Updates."
+    },
+    {
+      "frage": "Ab wann brauche ich ein Babyphone?",
+      "antwort": "Ab Geburt, sobald das Baby in einem separaten Raum schläft. Viele Eltern nutzen ein Babyphone auch, wenn das Baby im selben Raum schläft, aber sie sich in einem anderen Raum aufhalten — zum Beispiel in der Küche."
+    },
+    {
+      "frage": "Strahlt ein Babyphone schädlich?",
+      "antwort": "DECT-Babyphones senden nur bei aktivierter Verbindung. Modelle mit ECO-Mode reduzieren die Strahlung auf ein Minimum. Die Strahlungswerte liegen weit unter den Grenzwerten. Wenn du besorgt bist, wähle ein Gerät mit ECO-Modus und stelle die Kamera mindestens 1 Meter vom Baby entfernt auf."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "GHB Babyphone mit Kamera",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B079GXJQWB?tag=janxsiegmann-21",
+      "werte": {
+        "display": "3,2 Zoll LCD",
+        "verbindung": "FHSS 2,4 GHz",
+        "nachtsicht": "Ja (IR)",
+        "reichweite": "260",
+        "akku": "8",
+        "extras": "Temperaturanzeige, Schlaflieder"
+      }
+    },
+    {
+      "name": "Philips Avent SCD923/26",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0C1TJ8ZQ5?tag=janxsiegmann-21",
+      "werte": {
+        "display": "3,5 Zoll",
+        "verbindung": "DECT (verschlüsselt)",
+        "nachtsicht": "Ja (IR)",
+        "reichweite": "300",
+        "akku": "12",
+        "extras": "Gegensprechfunktion, Temperatur, Schlaflied"
+      }
+    },
+    {
+      "name": "Eufy SpaceView Pro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B094ZZPHV5?tag=janxsiegmann-21",
+      "werte": {
+        "display": "5 Zoll HD",
+        "verbindung": "FHSS 2,4 GHz",
+        "nachtsicht": "Ja (IR, 330°)",
+        "reichweite": "140 (im Haus)",
+        "akku": "12",
+        "extras": "Schwenk/Neige/Zoom, Temp., Schlaflieder"
+      }
+    },
+    {
+      "name": "Owlet Cam 2 + Monitor Duo",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C7TW82XV?tag=janxsiegmann-21",
+      "werte": {
+        "display": "5 Zoll + App",
+        "verbindung": "WLAN (verschlüsselt)",
+        "nachtsicht": "Ja (IR, HD 1080p)",
+        "reichweite": "unbegrenzt (WLAN)",
+        "akku": "10+ (Monitor)",
+        "extras": "HD-Video, 130° Weitwinkel, App + Monitor"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

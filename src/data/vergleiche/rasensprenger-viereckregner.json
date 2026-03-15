@@ -1,0 +1,118 @@
+{
+  "slug": "rasensprenger-viereckregner",
+  "kategorie": "garten",
+  "titel": "Rasensprenger (Viereckregner)",
+  "beschreibung": "Rasensprenger Test 2026: Die 4 besten Viereckregner im Vergleich ✓ Gleichmäßige Bewässerung ✓ Kaufberatung",
+  "keywords": [
+    "rasensprenger test",
+    "viereckregner test",
+    "rasensprenger vergleich",
+    "gardena rasensprenger",
+    "rasensprenger viereckregner",
+    "rasensprenger test 2026",
+    "bewässerung rasen",
+    "rasensprenger kaufberatung",
+    "viereckregner gardena",
+    "rasensprenger einstellbar"
+  ],
+  "einleitung": "Ein guter Viereckregner bewässert deinen Rasen gleichmäßig und spart dabei Wasser. Doch zwischen 50 und 350 Quadratmeter Reichweite und verschiedenen Einstellmöglichkeiten gibt es große Unterschiede.",
+  "kaufberatung": "### Warum ein Viereckregner?\nViereckregner bewässern rechteckige Flächen gleichmäßig — ideal für die meisten Gärten. Im Gegensatz zu Kreisregnern treffen sie keine Hauswand oder Terrasse. Die Wurfweite und -breite lässt sich bei guten Modellen individuell einstellen.\n\n### Fläche und Reichweite\nAchte auf die maximale Beregnungsfläche in m². Bei niedrigem Wasserdruck sinkt die Reichweite deutlich. Für große Gärten über 200 m² brauchst du ein leistungsstarkes Modell wie den Gardena Aqua S oder Kärcher OS 5.320 SV.\n\n### Wasserdruck und Anschluss\nDie meisten Viereckregner brauchen 2–4 bar Wasserdruck. Miss deinen Druck am Außenhahn — in oberen Stockwerken ist er oft niedriger. Alle Modelle nutzen Standard-Gardena-Anschlüsse.\n\n### Gleichmäßigkeit der Verteilung\nBillige Regner erzeugen in der Mitte zu viel und am Rand zu wenig Wasser. Hochwertige Modelle haben eine Randüberlappungsfunktion oder asymmetrisch angeordnete Düsen für gleichmäßige Verteilung.\n\n### Bewässerungstimer\nEin Bewässerungscomputer automatisiert die Bewässerung — morgens vor der Hitze ist ideal. Viele Gardena-Regner sind direkt mit dem Gardena-Bewässerungssystem kompatibel.",
+  "vergleichsKategorien": [
+    {
+      "key": "max_flaeche",
+      "label": "Max. Beregnungsfläche",
+      "einheit": "m²",
+      "sortierung": 1
+    },
+    {
+      "key": "wurfweite",
+      "label": "Wurfweite (stufenlos)",
+      "einheit": "m",
+      "sortierung": 2
+    },
+    {
+      "key": "duesen",
+      "label": "Düsenanzahl",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "einstellbar",
+      "label": "Bereich einstellbar",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wann ist die beste Zeit zum Rasen bewässern?",
+      "antwort": "Am besten frühmorgens zwischen 5 und 8 Uhr. Dann verdunstet weniger Wasser und die Grashalme trocknen tagsüber ab — das beugt Pilzkrankheiten vor. Abends bewässern ist die zweitbeste Option."
+    },
+    {
+      "frage": "Wie lange sollte ich den Rasen bewässern?",
+      "antwort": "Pro Bewässerung sollten 15–20 Liter pro Quadratmeter auftreffen. Bei einem typischen Viereckregner dauert das 30–60 Minuten. Lieber seltener und dafür durchdringend bewässern als täglich kurz."
+    },
+    {
+      "frage": "Welcher Gardena-Regner ist der beste?",
+      "antwort": "Der Gardena Aqua S ist der aktuelle Top-Viereckregner mit 18 Düsen und großer Reichweite. Für kleinere Gärten reicht der Gardena Aqua M. Beide lassen sich in Wurfweite und -breite stufenlos einstellen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Gardena Aqua M",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CJL3LJHH?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "220",
+        "wurfweite": "3,5–14",
+        "duesen": "14",
+        "material": "Kunststoff",
+        "einstellbar": "Ja (Weite + Breite)"
+      }
+    },
+    {
+      "name": "Gardena Aqua S",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CJL3WY84?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "320",
+        "wurfweite": "3,5–18",
+        "duesen": "18",
+        "material": "Kunststoff + Metall",
+        "einstellbar": "Ja (Weite + Breite + Turbomodus)"
+      }
+    },
+    {
+      "name": "Kärcher OS 5.320 SV",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B083GRNTLX?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "320",
+        "wurfweite": "bis 20",
+        "duesen": "20",
+        "material": "Kunststoff + Metall",
+        "einstellbar": "Ja (Weite + Breite + Sektoren)"
+      }
+    },
+    {
+      "name": "Gardena Aqua L",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CJL2ZWXB?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "400",
+        "wurfweite": "3,5–22",
+        "duesen": "22",
+        "material": "Kunststoff + Metall",
+        "einstellbar": "Ja (Weite + Breite + Turbomodus)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

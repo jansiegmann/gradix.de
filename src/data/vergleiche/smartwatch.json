@@ -1,0 +1,128 @@
+{
+  "slug": "smartwatch",
+  "kategorie": "elektronik",
+  "titel": "Smartwatch",
+  "beschreibung": "Smartwatch Test 2026: Die 4 besten Smartwatches ✓ Apple, Samsung, Garmin ✓ Sport & Alltag",
+  "keywords": [
+    "smartwatch test",
+    "smartwatch vergleich 2026",
+    "beste smartwatch",
+    "apple watch test",
+    "samsung galaxy watch",
+    "smartwatch kaufberatung",
+    "smartwatch android",
+    "smartwatch sport",
+    "garmin smartwatch test",
+    "smartwatch mit gps"
+  ],
+  "einleitung": "Eine Smartwatch ist mehr als nur eine Uhr — sie trackt deine Gesundheit, zeigt Benachrichtigungen und navigiert dich durch den Tag. Wir vergleichen vier Top-Modelle für Apple- und Android-Nutzer.",
+  "kaufberatung": "### Apple Watch vs. Samsung vs. Garmin\n\nApple Watch nur für iPhones, Samsung Galaxy Watch optimal für Android (aber auch iPhone-kompatibel), Garmin für Sportler mit wochenlanger Akkulaufzeit. Dein Smartphone bestimmt die Auswahl.\n\n### Gesundheitsfeatures: Was ist wirklich nützlich?\n\nHerzfrequenzmessung und Schrittzähler sind Standard und zuverlässig. EKG und Blutdruckmessung gibt es bei Apple und Samsung. SpO2-Messung (Blutsauerstoff) ist nett, aber medizinisch wenig aussagekräftig. Schlaftracking funktioniert bei allen vier Modellen gut.\n\n### Akkulaufzeit: 1 Tag vs. 2 Wochen\n\nApple Watch: 18 Stunden (täglich laden). Samsung: 2-3 Tage. Garmin: 7-14 Tage. Wenn dich tägliches Laden stört, ist Garmin die einzige echte Option.\n\n### GPS-Genauigkeit für Sport\n\nFür Läufer und Radfahrer ist präzises GPS wichtig. Garmin bietet Multi-Band-GPS mit höchster Genauigkeit. Apple und Samsung nutzen L1-GPS, das für den Alltag reicht, aber in Häuserschluchten und Wäldern ungenauer sein kann.",
+  "vergleichsKategorien": [
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "akku",
+      "label": "Akkulaufzeit",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "gps",
+      "label": "GPS",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "wasserschutz",
+      "label": "Wasserschutz",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gesundheit",
+      "label": "Gesundheitssensoren",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "kompatibilitaet",
+      "label": "Kompatibilität",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Smartwatch ist die beste für Android?",
+      "antwort": "Die Samsung Galaxy Watch7 bietet die beste Integration mit Android-Smartphones und hat den vollen Zugriff auf Google Play. Google Pay, Samsung Pay, Google Maps — alles an Bord. Garmin ist für Sportler die bessere Wahl, bietet aber weniger Smart-Features."
+    },
+    {
+      "frage": "Kann ich mit einer Smartwatch schwimmen?",
+      "antwort": "Ja, alle Modelle in unserem Vergleich sind mindestens 5 ATM (50 Meter) wasserdicht und für Schwimmen geeignet. Die Apple Watch Ultra 2 ist sogar zum Tauchen bis 40 Meter zertifiziert. Saunagänge solltest du allerdings mit keiner Smartwatch machen."
+    },
+    {
+      "frage": "Wie genau ist die Herzfrequenzmessung?",
+      "antwort": "Optische Herzfrequenzsensoren moderner Smartwatches sind für den Alltag und Sport ausreichend genau (±3-5 Schläge). Für medizinische Zwecke reichen sie nicht aus. Für präzises Training empfehlen viele Sportler zusätzlich einen Brustgurt."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Samsung Galaxy Watch FE",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0D7V5GLNY?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.2 Zoll AMOLED",
+        "akku": "ca. 1.5 Tage",
+        "gps": "Ja (L1)",
+        "wasserschutz": "5 ATM + IP68",
+        "gesundheit": "Herzfrequenz, SpO2, Schlaf",
+        "kompatibilitaet": "Android"
+      }
+    },
+    {
+      "name": "Samsung Galaxy Watch7",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0D7VZM1MT?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.3 Zoll AMOLED (40mm) / 1.5 Zoll (44mm)",
+        "akku": "ca. 2 Tage",
+        "gps": "Ja (Dual-Band)",
+        "wasserschutz": "5 ATM + IP68",
+        "gesundheit": "Herzfrequenz, EKG, SpO2, Blutdruck, Schlaf, BIA",
+        "kompatibilitaet": "Android"
+      }
+    },
+    {
+      "name": "Apple Watch Series 10",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DG1TDXWH?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.96 Zoll OLED (46mm)",
+        "akku": "ca. 18 Stunden",
+        "gps": "Ja (L1 + L5)",
+        "wasserschutz": "WR50 + EN13319",
+        "gesundheit": "Herzfrequenz, EKG, SpO2, Temperatur, Schlaf",
+        "kompatibilitaet": "iPhone"
+      }
+    },
+    {
+      "name": "Garmin Venu 3",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CZ3LM5GK?tag=janxsiegmann-21",
+      "werte": {
+        "display": "1.4 Zoll AMOLED",
+        "akku": "ca. 14 Tage (Smartwatch), 26h (GPS)",
+        "gps": "Ja (Multi-Band)",
+        "wasserschutz": "5 ATM",
+        "gesundheit": "Herzfrequenz, SpO2, Body Battery, HRV, Schlaf-Coach",
+        "kompatibilitaet": "Android + iPhone"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

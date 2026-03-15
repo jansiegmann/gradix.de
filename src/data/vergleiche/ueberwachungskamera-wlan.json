@@ -1,0 +1,128 @@
+{
+  "slug": "ueberwachungskamera-wlan",
+  "kategorie": "sicherheit",
+  "titel": "Überwachungskamera (WLAN)",
+  "beschreibung": "WLAN-Überwachungskamera Test 2026: Die 4 besten Modelle ✓ Innen & Außen ✓ Nachtsicht ✓ Ohne Abo",
+  "keywords": [
+    "überwachungskamera wlan test",
+    "ip kamera test",
+    "wlan kamera vergleich",
+    "überwachungskamera außen",
+    "überwachungskamera innen",
+    "ip kamera outdoor",
+    "überwachungskamera ohne abo",
+    "sicherheitskamera test",
+    "wlan kamera nachtsicht",
+    "überwachungskamera kaufberatung"
+  ],
+  "einleitung": "Dein Zuhause im Blick — auch wenn du nicht da bist. WLAN-Überwachungskameras überwachen Haus und Garten per App auf deinem Smartphone. Wir vergleichen vier Modelle von der kompakten Innenkamera bis zur wetterfesten Outdoor-Lösung.",
+  "kaufberatung": "### Innen- oder Außenkamera?\n\nInnenkameras sind kompakter und günstiger, aber nicht wetterfest. Für den Außenbereich brauchst du mindestens IP65-Schutz (staub- und strahlwasserdicht). Manche Modelle wie die Reolink Argus 4 Pro sind kabellos und per Akku oder Solar betrieben — ideal, wenn keine Steckdose in der Nähe ist.\n\n### Cloud vs. lokaler Speicher\n\nViele Kameras bieten Cloud-Speicher per Abo (2-10 €/Monat). Alternativ speichern Modelle mit SD-Karten-Slot oder NAS-Unterstützung lokal — ohne laufende Kosten. Wer auf Datenschutz achtet, bevorzugt lokale Speicherung.\n\n### Nachtsicht: Infrarot vs. Farb-Nachtsicht\n\nInfrarot-Nachtsicht liefert Schwarz-Weiß-Bilder und ist Standard. Farb-Nachtsicht nutzt einen Scheinwerfer oder einen besonders lichtempfindlichen Sensor — Personen sind dann deutlich besser erkennbar. Beachte: Scheinwerfer können Nachbarn stören.\n\n### Personenerkennung statt Bewegungserkennung\n\nGünstige Kameras lösen bei jeder Bewegung aus — auch bei Katzen, Autos oder Bäumen im Wind. Kameras mit KI-Personenerkennung filtern Fehlalarme effektiv. Das spart Nerven und Speicherplatz.\n\n### Datenschutz in Deutschland\n\nDu darfst nur dein eigenes Grundstück filmen. Öffentliche Wege und Nachbargrundstücke müssen ausgespart werden. Informiere Besucher mit einem Hinweisschild.",
+  "vergleichsKategorien": [
+    {
+      "key": "aufloesung",
+      "label": "Auflösung",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "nachtsicht",
+      "label": "Nachtsicht",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "wetterschutz",
+      "label": "Wetterschutz",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "speicher",
+      "label": "Speicheroptionen",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "ki",
+      "label": "KI-Erkennung",
+      "einheit": "",
+      "sortierung": 5
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich ein Abo für meine Überwachungskamera?",
+      "antwort": "Nicht zwingend. Kameras mit microSD-Slot speichern lokal ohne Folgekosten. Cloud-Speicher ist bequemer und sicherer (Einbrecher können die SD-Karte mitnehmen), kostet aber monatlich. Reolink bietet auch ohne Abo vollen Funktionsumfang."
+    },
+    {
+      "frage": "Darf ich meine Haustür mit einer Kamera überwachen?",
+      "antwort": "Ja, solange du nur deinen eigenen Eingangsbereich filmst. Öffentliche Gehwege und Nachbarbereiche dürfen nicht erfasst werden. Viele Kameras bieten Privatzonen, in denen bestimmte Bildbereiche geschwärzt werden. Ein Hinweisschild am Eingang ist Pflicht."
+    },
+    {
+      "frage": "Wie viel Strom verbraucht eine WLAN-Kamera?",
+      "antwort": "Kabelgebundene Kameras verbrauchen ca. 5-15 Watt, das sind etwa 3-8 Euro Stromkosten pro Jahr. Akkubetriebene Kameras halten je nach Aktivität 2-6 Monate und lassen sich per Solar nachladen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "TP-Link Tapo C225",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CN2D3S7J?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "2K (2560×1440)",
+        "nachtsicht": "Infrarot + Farbe",
+        "wetterschutz": "Nur innen",
+        "speicher": "microSD (max. 512 GB)",
+        "ki": "Personen, Haustiere, Fahrzeuge",
+        "stromversorgung": "Netzteil (USB-C)"
+      }
+    },
+    {
+      "name": "Reolink E1 Zoom",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B086HG4V7R?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "5 MP (2560×1920)",
+        "nachtsicht": "Infrarot",
+        "wetterschutz": "Nur innen",
+        "speicher": "microSD / NAS",
+        "ki": "Personen, Fahrzeuge",
+        "stromversorgung": "Netzteil"
+      }
+    },
+    {
+      "name": "Reolink Argus 4 Pro",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DF7M2DQR?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K (3840×2160)",
+        "nachtsicht": "Farb-Nachtsicht (ColorX)",
+        "wetterschutz": "IP65 (Außen)",
+        "speicher": "microSD / Cloud",
+        "ki": "Personen, Fahrzeuge, Tiere",
+        "stromversorgung": "Akku + Solar"
+      }
+    },
+    {
+      "name": "Reolink RLC-842A",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0B8MJ1LFW?tag=janxsiegmann-21",
+      "werte": {
+        "aufloesung": "4K (3840×2160)",
+        "nachtsicht": "Infrarot + Spotlight",
+        "wetterschutz": "IP66 (Außen)",
+        "speicher": "microSD / NAS / NVR",
+        "ki": "Personen, Fahrzeuge",
+        "stromversorgung": "PoE (Netzwerkkabel)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

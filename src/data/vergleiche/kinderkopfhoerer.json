@@ -1,0 +1,128 @@
+{
+  "slug": "kinderkopfhoerer",
+  "kategorie": "kinder",
+  "titel": "Kinderkopfhörer (lautstärkebegrenzt)",
+  "beschreibung": "Kinderkopfhörer Test 2026: Die 4 besten Kopfhörer mit Lautstärkebegrenzung ✓ Sicher fürs Gehör ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "kinderkopfhörer test",
+    "kopfhörer kinder lautstärkebegrenzung",
+    "kinderkopfhörer bluetooth",
+    "beste kinderkopfhörer",
+    "kopfhörer kinder",
+    "kinderkopfhörer vergleich",
+    "kopfhörer kinder ab 3",
+    "kinderkopfhörer test 2026",
+    "jbl kinderkopfhörer",
+    "onanoff buddyphones"
+  ],
+  "einleitung": "Ob im Auto, auf Reisen oder zu Hause — Kinderkopfhörer mit Lautstärkebegrenzung schützen empfindliche Kinderohren vor zu lauter Musik und Hörspielen. Doch nicht alle Modelle halten, was sie versprechen. Wir vergleichen vier Kinderkopfhörer von günstig bis premium.",
+  "kaufberatung": "### Warum brauchen Kinder spezielle Kopfhörer?\nKinderohren sind empfindlicher als die von Erwachsenen. Die WHO empfiehlt maximal 85 dB für Kinder. Normale Kopfhörer können bis zu 110 dB erreichen — das kann schon nach kurzer Zeit Gehörschäden verursachen. Kinderkopfhörer begrenzen die maximale Lautstärke elektronisch.\n\n### Bluetooth oder Kabel?\nKabellose Kopfhörer bieten mehr Bewegungsfreiheit, müssen aber regelmäßig geladen werden. Kabelgebundene Modelle funktionieren immer und sind oft günstiger. Die meisten Premium-Modelle bieten heute beides — Bluetooth und ein abnehmbares Kabel als Backup.\n\n### Over-Ear oder On-Ear?\nOver-Ear-Modelle umschließen das Ohr komplett und schirmen Umgebungsgeräusche besser ab. On-Ear-Modelle sind leichter und kompakter, lassen aber mehr Außengeräusche durch. Für längere Nutzung (Reisen, Hörbücher) empfehlen wir Over-Ear.\n\n### Worauf bei der Verarbeitung achten?\nKinder gehen nicht zimperlich mit ihren Sachen um. Achte auf flexible Bügel, die sich verbiegen lassen ohne zu brechen. Ein abnehmbares Kabel überlebt länger. Und Ohrpolster sollten austauschbar sein.\n\n### Lautstärkebegrenzung: 85 dB oder 94 dB?\nDie meisten Kindermodelle bieten 85 dB als Standard. Manche haben einen umschaltbaren Modus mit 94 dB für ältere Kinder oder laute Umgebungen (Flugzeug). Für Kinder unter 6 Jahren empfehlen wir strikt 85 dB.",
+  "vergleichsKategorien": [
+    {
+      "key": "lautstaerkebegrenzung",
+      "label": "Lautstärkebegrenzung",
+      "einheit": "dB",
+      "sortierung": 1
+    },
+    {
+      "key": "verbindung",
+      "label": "Verbindung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "akkulaufzeit",
+      "label": "Akkulaufzeit",
+      "einheit": "Stunden",
+      "sortierung": 3
+    },
+    {
+      "key": "bauform",
+      "label": "Bauform",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 5
+    },
+    {
+      "key": "mikrofon",
+      "label": "Mikrofon",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Lautstärke ist für Kinder sicher?",
+      "antwort": "Die WHO empfiehlt für Kinder maximal 85 dB. Ab dieser Grenze können bei längerer Nutzung Gehörschäden entstehen. Alle Kinderkopfhörer in unserem Vergleich begrenzen die Lautstärke auf 85 dB, teilweise mit optionalem 94-dB-Modus."
+    },
+    {
+      "frage": "Ab welchem Alter sind Kopfhörer für Kinder geeignet?",
+      "antwort": "Die meisten Hersteller empfehlen Kinderkopfhörer ab 3 Jahren. Für jüngere Kinder sollte die Nutzung auf kurze Zeiträume beschränkt werden. Generell gilt: maximal 60 Minuten am Stück bei 60 % der maximalen Lautstärke."
+    },
+    {
+      "frage": "Sind Bluetooth-Kinderkopfhörer sicher?",
+      "antwort": "Ja, Bluetooth sendet mit sehr geringer Leistung und gilt als unbedenklich. Die Strahlung ist um ein Vielfaches geringer als bei einem Smartphone. Wenn du trotzdem Bedenken hast, nutze einfach den Kabelmodus."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "iClever BTH02",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B1BHKW1X?tag=janxsiegmann-21",
+      "werte": {
+        "lautstaerkebegrenzung": "85/94",
+        "verbindung": "Bluetooth 5.0 + Kabel",
+        "akkulaufzeit": "22",
+        "bauform": "Over-Ear",
+        "gewicht": "190",
+        "mikrofon": "Ja"
+      }
+    },
+    {
+      "name": "JBL JR 310BT",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08GY5NFHX?tag=janxsiegmann-21",
+      "werte": {
+        "lautstaerkebegrenzung": "85",
+        "verbindung": "Bluetooth 5.0 + Kabel",
+        "akkulaufzeit": "30",
+        "bauform": "On-Ear",
+        "gewicht": "115",
+        "mikrofon": "Ja"
+      }
+    },
+    {
+      "name": "Puro Sound Labs PuroQuiet Plus",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CWN6K3QZ?tag=janxsiegmann-21",
+      "werte": {
+        "lautstaerkebegrenzung": "85",
+        "verbindung": "Bluetooth 5.0 + Kabel",
+        "akkulaufzeit": "35",
+        "bauform": "Over-Ear",
+        "gewicht": "195",
+        "mikrofon": "Ja (ANC)"
+      }
+    },
+    {
+      "name": "OnanOff BuddyPhones Cosmos+",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B091DH78Y6?tag=janxsiegmann-21",
+      "werte": {
+        "lautstaerkebegrenzung": "75/85/94",
+        "verbindung": "Bluetooth 5.0 + Kabel",
+        "akkulaufzeit": "24",
+        "bauform": "Over-Ear",
+        "gewicht": "200",
+        "mikrofon": "Ja (ANC)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}
