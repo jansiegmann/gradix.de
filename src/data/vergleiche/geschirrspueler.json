@@ -1,0 +1,106 @@
+{
+  "slug": "geschirrspueler",
+  "kategorie": "kueche",
+  "titel": "Geschirrspüler",
+  "beschreibung": "Geschirrspüler Test 2026: Die 4 besten Spülmaschinen im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "geschirrspüler test",
+    "spülmaschine vergleich",
+    "geschirrspüler vollintegriert",
+    "beste spülmaschine 2026",
+    "geschirrspüler kaufberatung"
+  ],
+  "einleitung": "Du suchst einen neuen Geschirrspüler, aber die Auswahl überfordert dich? Kein Wunder — zwischen Energieeffizienzklassen, Trocknungssystemen und Lautstärkeangaben verliert man schnell den Überblick. Wir haben vier vollintegrierbare 60-cm-Geschirrspüler von Budget bis Profi verglichen und zeigen dir, welches Modell zu deinem Haushalt passt.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nNicht jeder braucht den teuersten Geschirrspüler. Singles und Paare, die hauptsächlich Teller und Gläser spülen, kommen mit dem Bauknecht BCIO 3T341 PLET bestens zurecht. Familien mit Kindern profitieren vom großzügigen Gorenje GV663A66 mit seinen 16 Maßgedecken. Wer eine offene Wohnküche hat und auf Stille angewiesen ist, greift zum Bosch Serie 6 mit nur 40 dB. Und Technikbegeisterte, die das Optimum aus ihrer Spülmaschine herausholen wollen, sind beim Siemens IQ700 richtig.\n\n### Worauf kommt es bei der Energieeffizienz wirklich an?\nSeit 2021 gelten die neuen EU-Energielabels von A bis G — das frühere A+++ entspricht heute oft nur noch C oder D. Die Energieeffizienzklasse bezieht sich immer auf das Eco-Programm. Im Alltag nutzt du aber auch andere Programme, die deutlich mehr verbrauchen. Ein Gerät der Klasse A wie der Gorenje oder Siemens spart über 10 Jahre gerechnet spürbar Strom gegenüber einem Gerät der Klasse C. Rechne mit etwa 20–40 Euro Unterschied pro Jahr je nach Nutzung.\n\n### Zeolith-Trocknung vs. automatische Türöffnung — was ist besser?\nBei der Trocknung gibt es zwei Lager: Günstigere Geräte wie Bauknecht und Gorenje setzen auf automatische Türöffnung am Programmende, damit die Feuchtigkeit entweichen kann. Das funktioniert ordentlich, aber Kunststoffteile bleiben oft noch feucht. Bosch Serie 6 und Siemens IQ700 nutzen hingegen Zeolith-Mineralien, die Feuchtigkeit aktiv absorbieren und in Wärme umwandeln. Ergebnis: auch Plastikgeschirr wird richtig trocken — ohne zusätzlichen Stromverbrauch.\n\n### Häufige Fehler beim Geschirrspülerkauf\nViele achten nur auf den Preis und übersehen die Betriebskosten. Ein günstiger Geschirrspüler der Klasse C kostet über seine Lebensdauer deutlich mehr Strom als ein teureres Klasse-A-Gerät. Außerdem unterschätzen viele die Lautstärke: In einer offenen Küche macht der Unterschied zwischen 40 und 44 dB einen hörbaren Unterschied — dB ist eine logarithmische Skala. Und: Achte darauf, ob eine Besteckschublade verbaut ist. Sie spart Platz im Unterkorb und sorgt für bessere Reinigung des Bestecks.\n\n### Geschirrspüler richtig nutzen — Tipps vom Profi\nVerwende immer das Eco-Programm für normal verschmutztes Geschirr — es ist zwar langsamer, aber deutlich sparsamer. Geschirr muss nicht vorgespült werden, grobe Essensreste abkratzen reicht. Starte die Maschine möglichst erst, wenn sie voll beladen ist. Reinige regelmäßig das Sieb und lasse einmal im Monat einen Maschinenreiniger durchlaufen. Und: Stelle Schüsseln und Tassen immer schräg nach unten, damit das Wasser ablaufen kann.\n\n### Brauche ich wirklich Smart-Home-Anbindung?\nHome Connect bei Bosch und Siemens klingt fancy, ist aber tatsächlich nützlich: Du bekommst eine Push-Benachrichtigung, wenn der Spülgang fertig ist, kannst den Startvorgang von unterwegs steuern und bei manchen Modellen zusätzliche Programme herunterladen. Für den Alltag ist es kein Muss — aber wer es einmal hat, will es nicht mehr missen.",
+  "vergleichsKategorien": [
+    { "key": "energieeffizienz", "label": "Energieeffizienzklasse", "einheit": "", "sortierung": 1 },
+    { "key": "massgedecke", "label": "Maßgedecke", "einheit": "Stück", "sortierung": 2 },
+    { "key": "lautstaerke", "label": "Lautstärke", "einheit": "dB", "sortierung": 3 },
+    { "key": "wasserverbrauch", "label": "Wasserverbrauch (Eco)", "einheit": "l", "sortierung": 4 },
+    { "key": "programme", "label": "Anzahl Programme", "einheit": "", "sortierung": 5 },
+    { "key": "trocknung", "label": "Trocknungssystem", "einheit": "", "sortierung": 6 },
+    { "key": "bedienkomfort", "label": "Bedienkomfort", "einheit": "", "sortierung": 7 }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher vollintegrierbare Geschirrspüler hat das beste Preis-Leistungs-Verhältnis?",
+      "antwort": "Der Gorenje GV663A66 bietet mit Energieeffizienzklasse A, 16 Maßgedecken und automatischer Türöffnung das stärkste Gesamtpaket in der Mittelklasse. Für rund 500 Euro bekommt man hier Topeffizienz und viel Platz — das schafft kein anderes Modell in dieser Preisklasse."
+    },
+    {
+      "frage": "Ist ein Geschirrspüler mit Zeolith-Trocknung wirklich besser?",
+      "antwort": "Ja, spürbar. Die Zeolith-Technologie in Geräten wie dem Bosch Serie 6 oder Siemens IQ700 trocknet Geschirr deutlich gründlicher als die automatische Türöffnung günstigerer Modelle. Besonders bei Kunststoffgeschirr und Tupper macht sich der Unterschied bemerkbar — alles kommt trocken aus der Maschine."
+    },
+    {
+      "frage": "Wie laut ist ein Geschirrspüler mit 40 dB im Vergleich zu 43 dB?",
+      "antwort": "Der Unterschied klingt gering, ist aber wahrnehmbar. 40 dB entspricht etwa einem leisen Gespräch, 43 dB einer ruhigen Bibliothek mit Hintergrundgeräuschen. In einer offenen Wohnküche ist der Bosch Serie 6 mit 40 dB die beste Wahl, wenn du abends noch in Ruhe fernsehen möchtest."
+    },
+    {
+      "frage": "Kann ich einen vollintegrierbaren Geschirrspüler selbst einbauen?",
+      "antwort": "Grundsätzlich ja, wenn ein Wasseranschluss und ein Stromanschluss vorhanden sind. Die meisten Hersteller liefern Einbauanleitungen mit QR-Codes zu Videoanleitungen. Wichtig: Achte auf die Nischenmaße deiner Küche — Standard ist 60 cm Breite und 81,5–82 cm Höhe. Im Zweifel lohnt sich die Montage durch einen Fachmann."
+    },
+    {
+      "frage": "Lohnt sich der Aufpreis vom Siemens IQ700 gegenüber dem Bosch Serie 6?",
+      "antwort": "Beide nutzen Zeolith-Trocknung und Home Connect. Der Siemens IQ700 bietet zusätzlich die bessere Energieeffizienzklasse A (statt B), die glassZone für empfindliche Gläser, openAssist zum Öffnen per Klopfen und das lernfähige intelligentProgramm. Wer diese Extras nutzt, bekommt für den Aufpreis echten Mehrwert — er ist aber kein Muss."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Bauknecht BCIO 3T341 PLET",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08LDHVY4L?tag=janxsiegmann-21",
+      "werte": {
+        "energieeffizienz": "C",
+        "massgedecke": "14",
+        "lautstaerke": "41",
+        "wasserverbrauch": "9,5",
+        "programme": "11",
+        "trocknung": "ActiveDry (autom. Türöffnung)",
+        "bedienkomfort": "gut"
+      }
+    },
+    {
+      "name": "Gorenje GV663A66",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0DV9WST6M?tag=janxsiegmann-21",
+      "werte": {
+        "energieeffizienz": "A",
+        "massgedecke": "16",
+        "lautstaerke": "43",
+        "wasserverbrauch": "9,5",
+        "programme": "8",
+        "trocknung": "TotalDry (autom. Türöffnung)",
+        "bedienkomfort": "gut"
+      }
+    },
+    {
+      "name": "Bosch SMV6ZCX16E Serie 6",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0CHSGG9K2?tag=janxsiegmann-21",
+      "werte": {
+        "energieeffizienz": "B",
+        "massgedecke": "14",
+        "lautstaerke": "40",
+        "wasserverbrauch": "9",
+        "programme": "8",
+        "trocknung": "PerfectDry (Zeolith)",
+        "bedienkomfort": "sehr gut"
+      }
+    },
+    {
+      "name": "Siemens SN87TX00CE IQ700",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CN3DZKZB?tag=janxsiegmann-21",
+      "werte": {
+        "energieeffizienz": "A",
+        "massgedecke": "14",
+        "lautstaerke": "43",
+        "wasserverbrauch": "9,5",
+        "programme": "8",
+        "trocknung": "Zeolith-Trocknung",
+        "bedienkomfort": "sehr gut"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-14",
+  "aktualisiertAm": "2026-03-14"
+}

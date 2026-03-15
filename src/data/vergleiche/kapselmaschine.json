@@ -1,0 +1,101 @@
+{
+  "slug": "kapselmaschine",
+  "kategorie": "kueche",
+  "titel": "Kapselmaschine",
+  "beschreibung": "Kapselmaschine Test 2026: Die 4 besten Modelle im Vergleich ✓ Nespresso & Tassimo ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "kapselmaschine test",
+    "nespresso maschine vergleich",
+    "beste kapselmaschine 2026",
+    "kapselmaschine kaufberatung",
+    "kapselmaschine mit milchaufschäumer"
+  ],
+  "einleitung": "Du willst schnell guten Kaffee auf Knopfdruck, ohne Bohnen mahlen oder Filter wechseln zu müssen? Dann ist eine Kapselmaschine genau dein Ding. Wir haben vier Modelle von der 35-Euro-Einsteigermaschine bis zur 430-Euro-Barista-Maschine verglichen und zeigen dir, welche sich für deinen Alltag lohnt.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nWer morgens einfach nur schnell einen Kaffee braucht und die Getränkevielfalt liebt — Kaffee, Kakao, Tee, Latte Macchiato — der ist mit dem Bosch Tassimo Style bestens bedient. Espresso-Puristen greifen zur Krups Essenza Mini: kompakt, 19 bar Druck und das riesige Nespresso-Kapselsortiment. Willst du Cappuccino und Latte auf Knopfdruck, ohne externen Milchaufschäumer? Dann führt kein Weg an der De'Longhi Lattissima One vorbei. Und wenn du Latte Art zuhause machen willst wie im Café, ist die Sage Creatista Plus die einzige Kapselmaschine, die das wirklich kann.\n\n### Nespresso, Tassimo oder Dolce Gusto — welches System?\nDas Kapselsystem ist die wichtigste Entscheidung, denn du bindest dich langfristig daran. Nespresso (Original) bietet die größte Auswahl an hochwertigen Kaffees und Drittanbieter-Kapseln, auch von Lavazza, Jacobs und Starbucks. Der Preis pro Kapsel liegt bei 0,25–0,45 €. Tassimo nutzt T-Discs mit Barcode-Erkennung — die Maschine stellt automatisch Temperatur und Wassermenge ein. Die Getränkevielfalt ist riesig (Kakao, Tee, Milchgetränke), aber die Sortenauswahl pro Kategorie kleiner. Dolce Gusto liegt dazwischen, hat aber weniger Drittanbieter. Unser Rat: Für Espresso-Fokus → Nespresso. Für Vielfalt → Tassimo.\n\n### Brauche ich einen eingebauten Milchaufschäumer?\nWenn du regelmäßig Cappuccino oder Latte Macchiato trinkst — ja. Ein externer Milchaufschäumer ist zwar günstiger, aber der Komfort einer One-Touch-Lösung wie bei der Lattissima One ist im Alltag unschlagbar. Du drückst einen Knopf, und der Kaffee mit perfekt aufgeschäumter Milch läuft direkt in die Tasse. Die Milchkanne ist spülmaschinenfest — kein Aufwand.\n\n### Kapselkosten im Vergleich — was kostet eine Tasse wirklich?\nDie Maschinenkosten sind nur die halbe Wahrheit. Entscheidend sind die laufenden Kapselkosten. Bei fünf Tassen pro Woche und 0,35 € pro Kapsel zahlst du rund 90 € pro Jahr nur für Kapseln. Tassimo-T-Discs kosten oft nur 0,20–0,30 €, Nespresso-Originale 0,35–0,45 €, Nespresso-kompatible Drittanbieter ab 0,20 €. Zum Vergleich: Filterkaffee kostet etwa 0,14 € pro Tasse. Wer Geld sparen will, kann bei Nespresso auch wiederverwendbare Kapseln nutzen.\n\n### Pflege und Entkalkung — so bleibt der Kaffee gut\nAlle Kapselmaschinen brauchen regelmäßiges Entkalken — je nach Wasserhärte alle 2–3 Monate. Nespresso-Maschinen zeigen per Lichtanzeige, wann es soweit ist. Tassimo nutzt dafür eine spezielle Service-T-Disc. Milchsysteme wie bei der Lattissima One oder Creatista Plus brauchen zusätzlich Pflege: Die Milchkanne nach jedem Gebrauch ausspülen und regelmäßig im Geschirrspüler reinigen. Bei der Creatista Plus reinigt sich die Dampfdüse automatisch.\n\n### Nachhaltigkeit — wie schlimm sind Kapseln wirklich?\nKapseln stehen wegen des Verpackungsmülls in der Kritik: Rund 8.000 Tonnen Kapselmüll fallen jährlich in Deutschland an. Nespresso-Alukapseln lassen sich über das Nespresso-Recyclingprogramm zurückgeben. Tassimo-T-Discs gehören in den Gelben Sack. Wer den ökologischen Fußabdruck reduzieren will, kann bei Nespresso auf kompostierbare Kapseln von Drittanbietern oder wiederverwendbare Edelstahlkapseln umsteigen.",
+  "vergleichsKategorien": [
+    { "key": "kapselsystem", "label": "Kapselsystem", "einheit": "", "sortierung": 1 },
+    { "key": "pumpendruck", "label": "Pumpendruck", "einheit": "bar", "sortierung": 2 },
+    { "key": "wassertank", "label": "Wassertank", "einheit": "l", "sortierung": 3 },
+    { "key": "aufheizzeit", "label": "Aufheizzeit", "einheit": "Sek.", "sortierung": 4 },
+    { "key": "milchsystem", "label": "Milchsystem", "einheit": "", "sortierung": 5 },
+    { "key": "getraenkeauswahl", "label": "Getränkevielfalt", "einheit": "", "sortierung": 6 }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Kapselmaschine hat das beste Preis-Leistungs-Verhältnis?",
+      "antwort": "Für reinen Kaffeegenuss bietet die Krups Nespresso Essenza Mini das beste Preis-Leistungs-Verhältnis. Für rund 80 Euro bekommst du 19 bar Druck, eine Aufheizzeit von 25 Sekunden und Zugang zum riesigen Nespresso-Sortiment. Wer Milchgetränke mit integriertem Aufschäumer will, greift zur De'Longhi Lattissima One."
+    },
+    {
+      "frage": "Kann ich in einer Nespresso-Maschine auch Kapseln anderer Hersteller verwenden?",
+      "antwort": "Ja, alle Nespresso-Original-Maschinen (Essenza Mini, Lattissima, Creatista) sind kompatibel mit Drittanbieter-Kapseln von Jacobs, Lavazza, Starbucks, Aldi und vielen weiteren. Diese sind oft deutlich günstiger als Nespresso-Originalkapseln. Bei Tassimo funktionieren ausschließlich originale T-Discs."
+    },
+    {
+      "frage": "Wie laut ist eine Kapselmaschine im Betrieb?",
+      "antwort": "Kapselmaschinen sind beim Brühvorgang relativ laut — vergleichbar mit einem Mixer auf niedriger Stufe. Der Vorgang dauert aber nur 20–30 Sekunden. Die Sage Creatista Plus ist durch ihre Thermojet-Technik etwas leiser als günstigere Modelle. Frühmorgens in einer offenen Küche kann das relevant sein."
+    },
+    {
+      "frage": "Lohnt sich die Sage Creatista Plus gegenüber günstigeren Nespresso-Maschinen?",
+      "antwort": "Die Creatista Plus ist die einzige Kapselmaschine mit echter Dampfdüse für Mikroschaum — perfekt für Latte Art. Dazu kommt ein TFT-Display, 3 Sekunden Aufheizzeit und Edelstahl-Verarbeitung. Wenn du nur schwarzen Kaffee trinkst, ist sie Overkill. Für Milchkaffee-Enthusiasten und Design-Fans ist sie aber eine echte Investition."
+    },
+    {
+      "frage": "Wie viel Strom verbraucht eine Kapselmaschine pro Jahr?",
+      "antwort": "Sehr wenig. Laut Stiftung Warentest verbraucht eine Kapselmaschine bei fünf Tassen pro Woche nur 12–16 kWh im Jahr. Das entspricht etwa 5–7 Euro Stromkosten. Alle getesteten Modelle schalten sich nach wenigen Minuten automatisch ab, was den Verbrauch auf ein Minimum reduziert."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Bosch Tassimo Style TAS1102",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08D9PGC9P?tag=janxsiegmann-21",
+      "werte": {
+        "kapselsystem": "Tassimo T-Disc",
+        "pumpendruck": "3,3 (Intellibrew)",
+        "wassertank": "0,7",
+        "aufheizzeit": "ca. 30",
+        "milchsystem": "Über spezielle Milch-T-Discs",
+        "getraenkeauswahl": "Über 70 (Kaffee, Kakao, Tee)"
+      }
+    },
+    {
+      "name": "Krups Nespresso Essenza Mini XN1108",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B06XJ4G828?tag=janxsiegmann-21",
+      "werte": {
+        "kapselsystem": "Nespresso Original",
+        "pumpendruck": "19",
+        "wassertank": "0,6",
+        "aufheizzeit": "25",
+        "milchsystem": "Keines (extern nachrüstbar)",
+        "getraenkeauswahl": "30+ Kaffeesorten (Espresso, Lungo)"
+      }
+    },
+    {
+      "name": "De'Longhi Nespresso Lattissima One EN510",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08VCXM3VH?tag=janxsiegmann-21",
+      "werte": {
+        "kapselsystem": "Nespresso Original",
+        "pumpendruck": "19",
+        "wassertank": "1,0",
+        "aufheizzeit": "25 (40 für Milch)",
+        "milchsystem": "Integriert (One-Touch-Milchkanne)",
+        "getraenkeauswahl": "30+ Kaffeesorten + Cappuccino, Latte"
+      }
+    },
+    {
+      "name": "Sage Nespresso Creatista Plus SNE800",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07KR5MPWK?tag=janxsiegmann-21",
+      "werte": {
+        "kapselsystem": "Nespresso Original",
+        "pumpendruck": "19",
+        "wassertank": "1,5",
+        "aufheizzeit": "3",
+        "milchsystem": "Profi-Dampfdüse (8 Schaumstufen, 11 Temperaturen)",
+        "getraenkeauswahl": "30+ Kaffeesorten + Barista-Milchgetränke"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-14",
+  "aktualisiertAm": "2026-03-14"
+}

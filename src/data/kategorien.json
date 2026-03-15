@@ -8,8 +8,8 @@
   },
   {
     "slug": "kueche",
-    "name": "Küche",
-    "beschreibung": "Vergleiche für Küchengeräte und Küchenhelfer",
+    "name": "Küche & Kochen",
+    "beschreibung": "Vergleiche für Küchengeräte, Kochzubehör und Küchenhelfer",
     "icon": "🍳",
     "sortierung": 2
   },
@@ -124,13 +124,6 @@
     "beschreibung": "Vergleiche für Kinderausstattung und Spielzeug",
     "icon": "👶",
     "sortierung": 20
-  },
-  {
-    "slug": "kochen",
-    "name": "Kochen",
-    "beschreibung": "Vergleiche für Kochgeschirr, Grills und Kochzubehör",
-    "icon": "👨‍🍳",
-    "sortierung": 21
   },
   {
     "slug": "reinigung",

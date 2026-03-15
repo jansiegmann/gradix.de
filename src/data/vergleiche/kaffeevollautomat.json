@@ -2,99 +2,105 @@
   "slug": "kaffeevollautomat",
   "kategorie": "kueche",
   "titel": "Kaffeevollautomat",
-  "beschreibung": "Kaffeevollautomat Test 2026: Die 4 besten Vollautomaten im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
-  "keywords": ["kaffeevollautomat", "kaffeevollautomat test", "kaffeemaschine vollautomat", "bester kaffeevollautomat", "kaffeevollautomat mit milchsystem"],
-  "einleitung": "Du willst morgens auf Knopfdruck richtig guten Kaffee — Espresso, Cappuccino, Latte Macchiato — ohne erst einen Barista-Kurs zu machen? Dann ist ein Kaffeevollautomat genau das Richtige. Wir haben vier Modelle von Budget bis Profi verglichen und zeigen dir, welcher Vollautomat wirklich zu dir passt.",
-  "kaufberatung": "### Für wen eignet sich welches Modell?\nNicht jeder braucht den teuersten Kaffeevollautomaten. Wer hauptsächlich schwarzen Kaffee oder Espresso trinkt und nur gelegentlich Milchschaum will, ist mit einem Einsteigergerät wie der De'Longhi Magnifica S bestens bedient. Trinkst du dagegen täglich Cappuccino oder Latte Macchiato und möchtest das Milchsystem nicht jedes Mal mühsam reinigen, lohnt sich ein Modell mit automatischem Milchsystem — hier punktet die Philips 5400 LatteGo mit ihrem zweiteiligen System, das in Sekunden sauber ist. Wer Schweizer Qualität und ein besonders aromatisches Mahlwerk schätzt, greift zur Jura E6. Und die Siemens EQ.900 Plus ist das Rundum-Sorglos-Paket für Familien und Kaffee-Enthusiasten, die keine Kompromisse eingehen wollen.\n\n### Worauf kommt es beim Milchsystem an?\nDas Milchsystem ist der größte Unterschied zwischen den Preisklassen. Die einfachste Variante ist eine manuelle Dampfdüse: Du schäumst die Milch selbst auf, wie bei der De'Longhi Magnifica S. Das erfordert Übung, liefert aber gute Ergebnisse. Automatische Milchsysteme machen es bequemer — du drückst einen Knopf und bekommst Cappuccino. Hier gibt es Schlauch-Systeme (Jura, Siemens) und schlauchloses LatteGo (Philips). Der Vorteil schlauchloser Systeme: Die Reinigung geht deutlich schneller. Die Schlauch-Systeme liefern dafür oft den cremigeren Milchschaum.\n\n### Häufige Fehler beim Kauf\nDer teuerste Fehler: Einen Vollautomaten kaufen, nur weil er viele Getränke kann. Die meisten Menschen nutzen regelmäßig drei bis vier Spezialitäten. 36 programmierte Rezepte klingen beeindruckend, sind aber für die meisten Overkill. Zweiter Fehler: Die Folgekosten ignorieren. Wasserfilter kosten je nach Hersteller 40 bis über 100 Euro pro Jahr. Jura-Geräte akzeptieren ausschließlich herstellereigene Pflegeprodukte — das geht ins Geld. Dritter Fehler: Die Reinigung unterschätzen. Ein Vollautomat braucht regelmäßige Pflege. Wer das scheut, sollte auf einfach zu reinigende Modelle achten.\n\n### Kaffeevollautomat richtig einstellen — Tipps vom Profi\nDie meisten Vollautomaten liefern ab Werk nicht den besten Kaffee. Stiftung Warentest bestätigt: Selbst teure Modelle brauchen individuelle Anpassungen. Faustregel für Espresso: Mahlgrad feiner stellen, Kaffeemenge erhöhen, Wassermenge reduzieren. Für Caffè Crema: Mahlgrad etwas gröber, mehr Wasser. Probiere verschiedene Bohnen — ein Vollautomat reagiert sehr empfindlich auf die Bohnenqualität. Supermarkt-Bohnen können funktionieren, Spezialröster-Bohnen bringen aber oft spürbar besseren Geschmack.\n\n### Brauche ich wirklich Cold Brew und App-Steuerung?\nCold Brew aus dem Vollautomaten ist ein nettes Feature für den Sommer, aber kein Must-have. Die Siemens EQ.900 Plus bietet es, die günstigeren Modelle nicht. Lohnt sich der Aufpreis dafür allein? Eher nicht. App-Steuerung klingt praktisch, ist im Alltag aber weniger revolutionär als gedacht — die Tasse muss trotzdem noch selbst unter den Auslauf gestellt werden. Nützlicher ist die App für individuelle Profile: Jedes Familienmitglied speichert seinen Lieblingskaffee und bekommt ihn auf Knopfdruck.\n\n### Pflege und Wartung\nJeder Kaffeevollautomat braucht regelmäßige Pflege. Täglich: Milchsystem nach Gebrauch durchspülen. Wöchentlich: Tropfschale und Tresterbehälter leeren und reinigen, Brühgruppe wenn möglich herausnehmen und unter fließendem Wasser abspülen. Monatlich: Entkalkungsprogramm durchlaufen lassen, sofern kein Wasserfilter genutzt wird. De'Longhi-Geräte haben den Vorteil einer herausnehmbaren Brühgruppe, die sich leicht säubern lässt. Bei Jura ist die Brühgruppe fest verbaut — hier empfiehlt der Hersteller alle ein bis zwei Jahre eine professionelle Wartung.",
+  "beschreibung": "Kaffeevollautomat Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "kaffeevollautomat",
+    "kaffeevollautomat test",
+    "kaffeevollautomat vergleich",
+    "bester kaffeevollautomat",
+    "kaffeevollautomat kaufberatung",
+    "kaffeevollautomat mit milchsystem",
+    "kaffeevollautomat guenstig",
+    "kaffeevollautomat fuer zuhause",
+    "vollautomat test",
+    "kaffeemaschine mit mahlwerk"
+  ],
+  "einleitung": "Du willst morgens auf Knopfdruck richtig guten Kaffee — Espresso, Cappuccino oder Latte Macchiato wie im Café? Wir haben vier Kaffeevollautomaten von De'Longhi, Siemens und Jura verglichen: vom günstigen Einsteigermodell bis zur Schweizer Premium-Maschine. So findest du den Vollautomaten, der zu deinem Kaffeegeschmack und Budget passt.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nWer hauptsächlich schwarzen Kaffee oder Espresso trinkt und ein überschaubares Budget hat, ist mit dem De'Longhi Magnifica S bestens bedient. Für Milchgetränke-Fans, die Wert auf Komfort legen, ist der Siemens EQ.6 mit seinem integrierten Milchsystem die richtige Wahl. Die Rivelia von De'Longhi richtet sich an experimentierfreudige Genießer, die gerne zwischen verschiedenen Bohnensorten wechseln. Und die Jura E8 ist für alle, die beim Kaffee keine Kompromisse eingehen und bereit sind, dafür zu investieren.\n\n### Milchsystem: Düse, Schlauch oder Karaffe?\nDas Milchsystem macht oft den größten Unterschied im Alltag. Die einfachste Variante ist die manuelle Dampfdüse wie beim Magnifica S — du schäumst die Milch selbst auf, was Übung erfordert, aber volle Kontrolle bietet. Automatische Milchsysteme mit Schlauch (wie beim Siemens EQ.6) oder integrierter Karaffe (wie LatteCrema bei De'Longhi) liefern Milchschaum per Knopfdruck. Die Reinigung ist bei Karaffen-Systemen wie dem LatteCrema etwas einfacher als bei Schlauchsystemen.\n\n### Mahlwerk: Keramik oder Stahl?\nDas Mahlwerk beeinflusst Geschmack, Lautstärke und Langlebigkeit. Keramikmahlwerke (Siemens, Jura) sind leiser, erzeugen weniger Wärme beim Mahlen und sind langlebiger. Stahlmahlwerke (De'Longhi) sind robuster gegen Fremdkörper wie kleine Steinchen in den Bohnen, können aber etwas lauter sein. Für den Alltagsgebrauch merkst du den Unterschied vor allem bei der Lautstärke.\n\n### Reinigung und Pflege: Darauf musst du achten\nEin Kaffeevollautomat will gepflegt werden — sonst schmeckt der Kaffee irgendwann nicht mehr und die Maschine geht kaputt. Wichtig: herausnehmbare Brühgruppe (De'Longhi, Siemens) oder automatische Reinigung (Jura). Bei Jura ist die Brühgruppe nicht herausnehmbar — dafür läuft die Reinigung automatisch. Das klappt gut, solange du die Reinigungsprogramme regelmäßig laufen lässt. Bei De'Longhi und Siemens solltest du die Brühgruppe wöchentlich entnehmen und unter Wasser abspülen. Entkalken ist bei allen Geräten Pflicht — je nach Wasserhärte alle vier bis acht Wochen.\n\n### Brauche ich wirklich 40 Kaffeespezialitäten?\nEhrliche Antwort: Nein. Die meisten Nutzer trinken zwei bis drei verschiedene Getränke. Entscheidender als die Anzahl der Rezepte ist, wie gut Espresso und Milchschaum schmecken. Ein Gerät mit fünf Spezialitäten, die alle hervorragend gelingen, schlägt eine Maschine mit 40 Optionen, bei der der Basis-Espresso mittelmäßig ist.\n\n### Laufende Kosten: Das vergessen viele\nNeben dem Anschaffungspreis fallen laufende Kosten an: Kaffeebohnen (~20 Cent pro Tasse), Wasserfilter (alle zwei Monate, ~10 Euro), Entkalker und Reinigungstabletten. Bei Jura kommen spezielle Pflegeprodukte dazu, die teurer sind als Drittanbieter-Produkte für andere Marken. Rechne mit 50 bis 100 Euro Pflegekosten pro Jahr, je nach Modell und Nutzungsintensität.",
   "vergleichsKategorien": [
     { "key": "kaffeespezialitaeten", "label": "Kaffeespezialitäten", "einheit": "Stück", "sortierung": 1 },
-    { "key": "wassertank", "label": "Wassertank", "einheit": "L", "sortierung": 2 },
-    { "key": "gewicht", "label": "Gewicht", "einheit": "kg", "sortierung": 3 },
-    { "key": "mahlwerk", "label": "Mahlwerk", "einheit": "", "sortierung": 4 },
-    { "key": "milchsystem", "label": "Milchsystem", "einheit": "", "sortierung": 5 },
-    { "key": "reinigungsaufwand", "label": "Reinigungsaufwand", "einheit": "", "sortierung": 6 },
-    { "key": "bedienkomfort", "label": "Bedienkomfort", "einheit": "", "sortierung": 7 }
+    { "key": "milchsystem", "label": "Milchsystem", "einheit": "", "sortierung": 2 },
+    { "key": "mahlwerk", "label": "Mahlwerk", "einheit": "", "sortierung": 3 },
+    { "key": "wassertank", "label": "Wassertank", "einheit": "L", "sortierung": 4 },
+    { "key": "display", "label": "Display/Bedienung", "einheit": "", "sortierung": 5 },
+    { "key": "reinigung", "label": "Reinigungskomfort", "einheit": "", "sortierung": 6 }
   ],
   "faq": [
     {
-      "frage": "Welcher Kaffeevollautomat macht den besten Milchschaum?",
-      "antwort": "In Tests liefern die Siemens EQ.900 Plus und die Jura E6 den cremigsten und feinporigsten Milchschaum. Das liegt am Schlauch-Milchsystem, das Milch und Luft besonders gleichmäßig vermischt. Die Philips 5400 LatteGo produziert heißeren, etwas festeren Schaum — dafür ist die Reinigung deutlich einfacher."
+      "frage": "Welcher Kaffeevollautomat macht den besten Cappuccino?",
+      "antwort": "Für cremigen Cappuccino per Knopfdruck empfehlen wir den Siemens EQ.6 plus s700 oder die De'Longhi Rivelia. Beide haben automatische Milchsysteme, die feinporigen Milchschaum erzeugen, ohne dass du selbst aufschäumen musst. Die Jura E8 liefert den besten Milchschaum im Vergleich, ist aber auch deutlich teurer."
     },
     {
-      "frage": "Wie oft muss ich einen Kaffeevollautomaten entkalken?",
-      "antwort": "Das hängt von der Wasserhärte ab. Ohne Wasserfilter solltest du etwa alle vier bis acht Wochen entkalken. Mit Wasserfilter verlängert sich das Intervall deutlich — bei Philips zum Beispiel auf bis zu 5.000 Tassen. Die meisten Vollautomaten zeigen an, wann eine Entkalkung fällig ist."
+      "frage": "Wie laut ist ein Kaffeevollautomat beim Mahlen?",
+      "antwort": "Die Lautstärke beim Mahlvorgang liegt bei den meisten Vollautomaten zwischen 60 und 70 Dezibel — vergleichbar mit einer normalen Unterhaltung. Geräte mit Keramikmahlwerk wie der Siemens EQ.6 und die Jura E8 sind tendenziell etwas leiser. Wer frühmorgens niemanden wecken will, sollte auf die Mahlwerksart achten."
+    },
+    {
+      "frage": "Muss ich bei einem Jura Kaffeevollautomaten spezielle Pflegeprodukte verwenden?",
+      "antwort": "Jura empfiehlt die eigenen Reinigungstabletten und Entkalkungsmittel. Technisch gesehen erkennen neuere Jura-Modelle per RFID-Chip, ob ein Jura-Wasserfilter eingesetzt ist. Bei Reinigungstabletten und Entkalker gibt es aber kompatible Drittanbieter-Produkte, die deutlich günstiger sind. Achte darauf, dass sie für Kaffeevollautomaten geeignet sind."
     },
     {
       "frage": "Lohnt sich ein Kaffeevollautomat für eine Person?",
-      "antwort": "Ja, wenn du regelmäßig Kaffee trinkst. Ab etwa zwei Tassen pro Tag ist ein Vollautomat günstiger als Kapselkaffee und schmeckt in der Regel besser. Für Singles eignet sich ein kompaktes Modell wie die De'Longhi Magnifica S besonders gut — kleiner Stellplatz, einfache Bedienung, niedriger Preis."
+      "antwort": "Wenn du täglich mindestens zwei Tassen trinkst, lohnt sich ein Vollautomat auch für eine Person — der Kaffee ist günstiger als Kapseln und schmeckt besser als aus der Filtermaschine. Der De'Longhi Magnifica S ist der ideale Einstieg: kompakt, günstig und unkompliziert. Bei nur einer Tasse am Tag sind die Anschaffungs- und Pflegekosten allerdings schwer zu rechtfertigen."
     },
     {
-      "frage": "Was ist besser: Keramikmahlwerk oder Stahlmahlwerk?",
-      "antwort": "Keramikmahlwerke (Philips, Siemens) sind leiser und langlebiger — sie halten laut Herstellern für rund 20.000 Tassen. Stahlmahlwerke (De'Longhi, Jura) sind robust und präzise, können aber etwas lauter sein. Für den Geschmack im Alltag ist der Unterschied gering. Wichtiger ist der richtige Mahlgrad."
-    },
-    {
-      "frage": "Kann ich Hafermilch im Kaffeevollautomaten verwenden?",
-      "antwort": "Ja, die meisten Vollautomaten kommen mit Hafermilch und anderen Pflanzendrinks zurecht. Besonders gut funktionieren Barista-Editionen, die speziell für Aufschäumen konzipiert sind. Wichtig: Das Milchsystem nach der Verwendung sofort reinigen, da Pflanzendrinks schneller Rückstände bilden als Kuhmilch."
+      "frage": "Was ist der Unterschied zwischen herausnehmbarer und fester Brühgruppe?",
+      "antwort": "Bei De'Longhi und Siemens kannst du die Brühgruppe wöchentlich herausnehmen und unter fließendem Wasser reinigen — das ist hygienischer und gibt dir Kontrolle. Bei Jura ist die Brühgruppe fest verbaut und wird automatisch per Reinigungsprogramm gespült. Das ist komfortabler, aber du musst den Programmen vertrauen und sie regelmäßig laufen lassen."
     }
   ],
   "produkte": [
     {
-      "name": "De'Longhi Magnifica S ECAM 22.110.B",
+      "name": "De'Longhi Magnifica S ECAM11.112.B",
       "preisklasse": "Budget",
-      "amazonLink": "https://www.amazon.de/dp/B00400OMU0?tag=janxsiegmann-21",
+      "amazonLink": "https://www.amazon.de/dp/B0BWSFGQ49?tag=janxsiegmann-21",
       "werte": {
-        "kaffeespezialitaeten": "4",
-        "wassertank": "1,8",
-        "gewicht": "9,0",
-        "mahlwerk": "Kegelmahlwerk (Stahl), 13 Stufen",
+        "kaffeespezialitaeten": "5",
         "milchsystem": "Manuelle Dampfdüse",
-        "reinigungsaufwand": "gut — herausnehmbare Brühgruppe, ca. 12 Min./Woche",
-        "bedienkomfort": "befriedigend — Tasten + Drehregler, kein Display"
+        "mahlwerk": "Stahl-Kegelmahlwerk, 13 Stufen",
+        "wassertank": "1,8",
+        "display": "Tasten + Drehregler",
+        "reinigung": "Herausnehmbare Brühgruppe, automatische Spülung"
       }
     },
     {
-      "name": "Philips 5400 Series LatteGo EP5447/90",
+      "name": "Siemens EQ.6 plus s700 TE657503DE",
       "preisklasse": "Mittelklasse",
-      "amazonLink": "https://www.amazon.de/dp/B08CBJ8W9W?tag=janxsiegmann-21",
+      "amazonLink": "https://www.amazon.de/dp/B074QL4W4K?tag=janxsiegmann-21",
       "werte": {
         "kaffeespezialitaeten": "12",
-        "wassertank": "1,8",
-        "gewicht": "7,5",
-        "mahlwerk": "Keramik-Scheibenmahlwerk, 12 Stufen",
-        "milchsystem": "LatteGo (automatisch, schlauchlos, 2 Teile)",
-        "reinigungsaufwand": "sehr gut — LatteGo in 15 Sek. gereinigt, spülmaschinenfest",
-        "bedienkomfort": "gut — TFT-Touchscreen, 4 Benutzerprofile"
+        "milchsystem": "Automatisch (Milchschlauch, autoClean)",
+        "mahlwerk": "Keramik-Scheibenmahlwerk, leise",
+        "wassertank": "1,7",
+        "display": "coffeeSelect Touch-Display",
+        "reinigung": "Herausnehmbare Brühgruppe, autoMilk Clean, calc'nClean"
       }
     },
     {
-      "name": "Jura E6 (EC) Piano Black",
+      "name": "De'Longhi Rivelia EXAM440.55.B",
       "preisklasse": "Premium",
-      "amazonLink": "https://www.amazon.de/dp/B0CJJVVZWH?tag=janxsiegmann-21",
+      "amazonLink": "https://www.amazon.de/dp/B0CL517KQ3?tag=janxsiegmann-21",
       "werte": {
-        "kaffeespezialitaeten": "11",
-        "wassertank": "1,9",
-        "gewicht": "10,2",
-        "mahlwerk": "Professional Aroma Grinder (Stahl), stufenlos",
-        "milchsystem": "Automatisch (Milchschlauch, Easy Cappuccino)",
-        "reinigungsaufwand": "befriedigend — fest verbaute Brühgruppe, nur Jura-Pflegemittel",
-        "bedienkomfort": "sehr gut — 2,8\" Farbdisplay, App-Steuerung (J.O.E.)"
+        "kaffeespezialitaeten": "16",
+        "milchsystem": "LatteCrema Hot (Karaffe, automatisch)",
+        "mahlwerk": "Stahl-Kegelmahlwerk, 13 Stufen",
+        "wassertank": "1,4",
+        "display": "3,5\" Full-Touch-Farbdisplay, 4 Nutzerprofile",
+        "reinigung": "Herausnehmbare Brühgruppe, automatische Milchreinigung"
       }
     },
     {
-      "name": "Siemens EQ.900 Plus TQ907D03",
+      "name": "Jura E8 Piano Black (EB)",
       "preisklasse": "Profi",
-      "amazonLink": "https://www.amazon.de/dp/B0BB8QRZ8T?tag=janxsiegmann-21",
+      "amazonLink": "https://www.amazon.de/dp/B015P1NVL8?tag=janxsiegmann-21",
       "werte": {
-        "kaffeespezialitaeten": "36",
-        "wassertank": "2,3",
-        "gewicht": "12,3",
-        "mahlwerk": "2× Keramik-Scheibenmahlwerk, autom. Anpassung",
-        "milchsystem": "Automatisch (Milchschlauch, baristaMode)",
-        "reinigungsaufwand": "gut — autom. Dampfreinigung, viele Teile spülmaschinenfest",
-        "bedienkomfort": "sehr gut — 6,8\" Full-Touch-Display, App, Alexa-kompatibel"
+        "kaffeespezialitaeten": "17",
+        "milchsystem": "Fine Foam (Milchschlauch, One-Touch-Reinigung)",
+        "mahlwerk": "P.A.G.2 Profi-Aroma-Mahlwerk",
+        "wassertank": "1,9",
+        "display": "3,5\" TFT-Farbdisplay mit 6 Tasten",
+        "reinigung": "Feste Brühgruppe, vollautomatische Reinigung + Entkalkung"
       }
     }
   ],
-  "erstelltAm": "2026-03-10",
-  "aktualisiertAm": "2026-03-10"
+  "erstelltAm": "2026-03-14",
+  "aktualisiertAm": "2026-03-14"
 }

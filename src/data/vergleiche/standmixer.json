@@ -1,0 +1,111 @@
+{
+  "slug": "standmixer",
+  "kategorie": "kueche",
+  "titel": "Standmixer",
+  "beschreibung": "Standmixer Test 2026: Die 4 besten Modelle im Vergleich ✓ Smoothies, Suppen & Eis ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "standmixer",
+    "standmixer test",
+    "hochleistungsmixer",
+    "standmixer vergleich",
+    "bester standmixer",
+    "smoothie maker",
+    "standmixer kaufberatung",
+    "mixer fuer smoothies",
+    "standmixer leise",
+    "blender test"
+  ],
+  "einleitung": "Du suchst einen Standmixer für cremige Smoothies, Suppen oder Crushed Ice — aber das Angebot ist riesig? Wir haben vier der beliebtesten Modelle verglichen: vom günstigen Philips für unter 60 Euro bis zum KitchenAid Artisan K400 für Küchenliebhaber. So findest du den Mixer, der zu deinen Ansprüchen und deinem Budget passt.",
+  "kaufberatung": "### Wie viel Watt brauche ich wirklich?\nDie Wattzahl allein sagt wenig über die Mixqualität aus — entscheidend ist das Zusammenspiel von Motor, Messerdesign und Behälterform. Trotzdem gibt es Orientierungswerte: Unter 600 Watt reicht für weiches Obst und einfache Smoothies. Ab 1.000 Watt werden auch gefrorene Früchte, Nüsse und faseriges Gemüse wie Grünkohl cremig. Ab 1.400 Watt bist du im Hochleistungsbereich und kannst sogar Nussmus oder heiße Suppen direkt im Mixer zubereiten.\n\n### Glas oder Kunststoff — welcher Behälter ist besser?\nGlasbehälter sind kratzfest, geruchsneutral und hitzebeständig — perfekt für heiße Suppen. Dafür sind sie schwer und können brechen. Tritan-Kunststoff ist leicht, bruchsicher und BPA-frei, nimmt aber mit der Zeit Gerüche und Verfärbungen an. Im Vergleich hat der WMF Kult Pro einen Glasbehälter, der Bosch VitaBoost und der Philips setzen auf Tritan. Der KitchenAid K400 hat einen speziellen Kunststoffbehälter mit Rippen für bessere Durchmischung.\n\n### Automatikprogramme: Praktisch oder überflüssig?\nFür Gelegenheitsnutzer reichen manuelle Stufen und eine Pulsfunktion völlig aus. Wer aber regelmäßig Smoothies, Suppen oder Crushed Ice macht, spart mit Automatikprogrammen Zeit und bekommt konstantere Ergebnisse. Der Bosch VitaBoost hat sechs Programme inklusive Reinigung — das ist im Alltag Gold wert. Der KitchenAid setzt auf drei Programme plus einen smarten Intelli-Speed-Motor, der die Geschwindigkeit automatisch an die Zutaten anpasst.\n\n### Lautstärke: Der unterschätzte Faktor\nStandmixer sind laut — das ist physikalisch unvermeidbar, wenn Messer mit Zehntausenden Umdrehungen arbeiten. Günstige Modelle erreichen oft über 85 Dezibel, das entspricht etwa Straßenverkehr. Hochleistungsmixer wie der Bosch VitaBoost sind auf höchster Stufe sogar noch lauter. Wer morgens niemanden wecken will, sollte auf den Testberichten die dB-Angaben vergleichen und den Mixer möglichst kurz laufen lassen.\n\n### Reinigung: Worauf du achten musst\nDie meisten modernen Standmixer haben eine Selbstreinigungsfunktion: Wasser und einen Tropfen Spülmittel rein, kurz laufen lassen, fertig. Das funktioniert bei allen vier Modellen im Vergleich. Wichtig: Prüfe, ob die Messereinheit abnehmbar ist — das erleichtert die gründliche Reinigung deutlich. Beim Philips und beim WMF lassen sich die Messer abnehmen, beim Bosch und KitchenAid sind sie fest verbaut.\n\n### Für wen lohnt sich ein Hochleistungsmixer?\nWenn du nur gelegentlich einen Frucht-Smoothie machst, reicht ein Modell unter 100 Euro. Sobald du regelmäßig grüne Smoothies mit faserigem Gemüse, Nussmus, Suppen oder gefrorene Zutaten verarbeitest, lohnt sich ein Hochleistungsmixer ab 1.000 Watt. Der Unterschied ist spürbar: cremigere Konsistenz, keine Fasern, bessere Nährstoffaufnahme.",
+  "vergleichsKategorien": [
+    { "key": "leistung", "label": "Leistung", "einheit": "W", "sortierung": 1 },
+    { "key": "umdrehungen", "label": "Max. Umdrehungen", "einheit": "U/min", "sortierung": 2 },
+    { "key": "behaelter", "label": "Behälter", "einheit": "", "sortierung": 3 },
+    { "key": "fassungsvermoegen", "label": "Fassungsvermögen", "einheit": "L", "sortierung": 4 },
+    { "key": "programme", "label": "Automatikprogramme", "einheit": "", "sortierung": 5 },
+    { "key": "reinigung", "label": "Reinigungskomfort", "einheit": "", "sortierung": 6 },
+    { "key": "lautstaerke", "label": "Lautstärke", "einheit": "", "sortierung": 7 }
+  ],
+  "faq": [
+    {
+      "frage": "Welcher Standmixer ist der beste für grüne Smoothies?",
+      "antwort": "Für cremige grüne Smoothies ohne Fasern brauchst du mindestens 1.000 Watt und ein hochwertiges Messer. Der Bosch VitaBoost mit 1.600 Watt und 45.000 Umdrehungen zerkleinert selbst Grünkohl und Sellerie restlos. Auch der KitchenAid Artisan K400 liefert dank seines asymmetrischen Messers und Intelli-Speed hervorragende Ergebnisse bei grünen Smoothies."
+    },
+    {
+      "frage": "Kann ich mit einem Standmixer auch heiße Suppen zubereiten?",
+      "antwort": "Ja, aber nur wenn der Behälter hitzebeständig ist. Glasbehälter wie beim WMF Kult Pro und Tritan-Behälter wie beim Bosch VitaBoost sind dafür geeignet. Du kannst vorgekochtes Gemüse direkt im Mixer pürieren. Einige Hochleistungsmixer erzeugen durch die hohe Drehzahl sogar genug Reibungswärme, um Suppen leicht zu erwärmen."
+    },
+    {
+      "frage": "Wie laut sind Standmixer wirklich?",
+      "antwort": "Die meisten Standmixer erreichen auf höchster Stufe 80 bis 90 Dezibel — das ist vergleichbar mit einem vorbeifahrenden LKW. Besonders Hochleistungsmixer wie der Bosch VitaBoost sind auf voller Leistung sehr laut. Der Vorteil: Durch die hohe Leistung ist der Mixvorgang in wenigen Sekunden erledigt, sodass die Lärmbelastung kurz bleibt."
+    },
+    {
+      "frage": "Was ist der Unterschied zwischen Standmixer und Smoothie Maker?",
+      "antwort": "Ein Smoothie Maker ist eine kompakte Version des Standmixers mit kleinerem Behälter, der oft als Trinkflasche dient. Er eignet sich für einzelne Portionen und ist günstig und platzsparend. Ein klassischer Standmixer hat einen größeren Behälter (1,5 bis 2,5 Liter), mehr Leistung und ist vielseitiger einsetzbar — von Suppen über Crushed Ice bis hin zu Nussmus."
+    },
+    {
+      "frage": "Lohnt sich ein Standmixer für über 300 Euro?",
+      "antwort": "Wenn du den Mixer täglich nutzt und Wert auf cremige Ergebnisse bei harten Zutaten legst, ja. Hochwertige Modelle wie der KitchenAid Artisan K400 bieten bessere Motoren, langlebigere Messer und eine robustere Verarbeitung, die sich über Jahre bezahlt macht. Für gelegentliche Frucht-Smoothies reicht aber auch der Philips für unter 60 Euro."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Philips HR2291/41 Series 3000",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09CTWKTH7?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "600",
+        "umdrehungen": "k.A.",
+        "behaelter": "Kunststoff (inkl. Trinkflasche)",
+        "fassungsvermoegen": "2,0",
+        "programme": "2 Stufen + Pulse",
+        "reinigung": "Spülmaschinengeeignet, Messer abnehmbar",
+        "lautstaerke": "Laut"
+      }
+    },
+    {
+      "name": "WMF Kult Pro Standmixer",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07GSTF6DT?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1400",
+        "umdrehungen": "25000",
+        "behaelter": "Glas (1,8 L Krug)",
+        "fassungsvermoegen": "1,8",
+        "programme": "3 (Crushed Ice, Smoothie, Püree) + stufenlos",
+        "reinigung": "Spülmaschinengeeignet, Messer abnehmbar",
+        "lautstaerke": "Laut (ca. 90 dB)"
+      }
+    },
+    {
+      "name": "Bosch VitaBoost MMBH6P6BDE",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B074KN35QX?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1600",
+        "umdrehungen": "45000",
+        "behaelter": "Tritan-Kunststoff (BPA-frei)",
+        "fassungsvermoegen": "2,5",
+        "programme": "6 (Smoothie, Shake, Suppe, Sauce, Eis, Reinigung)",
+        "reinigung": "Reinigungsprogramm, Teile spülmaschinengeeignet",
+        "lautstaerke": "Sehr laut"
+      }
+    },
+    {
+      "name": "KitchenAid Artisan K400 5KSB4026",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B085ZCNVZ5?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1200",
+        "umdrehungen": "k.A.",
+        "behaelter": "Kunststoff mit Rippen (BPA-frei)",
+        "fassungsvermoegen": "1,4",
+        "programme": "3 (Ice Crush, Ice Drinks, Smoothie) + Intelli-Speed",
+        "reinigung": "Selbstreinigungsprogramm, spülmaschinengeeignet",
+        "lautstaerke": "Mittel"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-14",
+  "aktualisiertAm": "2026-03-14"
+}
