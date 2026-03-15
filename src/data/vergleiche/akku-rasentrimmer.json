@@ -1,0 +1,118 @@
+{
+  "slug": "akku-rasentrimmer",
+  "kategorie": "garten",
+  "titel": "Akku-Rasentrimmer",
+  "beschreibung": "Akku-Rasentrimmer Test 2026: Die 4 besten Freischneider im Vergleich ✓ Für Rasenkanten & Wildwuchs ✓ Kabellos",
+  "keywords": [
+    "akku rasentrimmer",
+    "rasentrimmer akku test",
+    "akku rasentrimmer test 2026",
+    "bester akku rasentrimmer",
+    "rasentrimmer kabellos",
+    "bosch rasentrimmer akku",
+    "einhell rasentrimmer",
+    "rasentrimmer für rasenkanten",
+    "akku freischneider",
+    "rasentrimmer vergleich"
+  ],
+  "einleitung": "Rasenkanten, verwinkelte Ecken und Stellen, an die kein Mäher kommt — hier glänzt ein Akku-Rasentrimmer. Wir vergleichen vier Modelle vom leichten Kantenschneider bis zum kraftvollen Freischneider und zeigen dir, welcher Trimmer deinen Garten in Form bringt.",
+  "kaufberatung": "### Fadentrimmer oder Messertrimmer?\nFadentrimmer arbeiten mit einem rotierenden Nylonfaden. Sie sind flexibel und schonend an Hindernissen — wenn der Faden auf Stein trifft, reißt er einfach ab. Messertrimmer schneiden sauberer, können aber Schäden an Bäumen und Zäunen verursachen. Für die meisten Gärten ist ein Fadentrimmer die bessere Wahl.\n\n### Schnittbreite — mehr ist nicht immer besser\nEine größere Schnittbreite (28-33 cm) ist schneller, verbraucht aber mehr Akku und ist weniger präzise an engen Stellen. Für reine Kantenarbeit reichen 23-26 cm. Der Sweet Spot liegt bei 26-30 cm — damit kommst du überall hin und bist trotzdem zügig.\n\n### Teleskopstiel und Drehkopf — Komfort zählt\nEin verstellbarer Stiel spart Rückenschmerzen, besonders bei großen Personen. Ein drehbarer Kopf ist Gold wert für Rasenkanten entlang von Wegen. Der Bosch UniversalGrassCut hat z.B. einen 90°-Drehkopf, der aus dem Trimmer eine Kantenschere macht.\n\n### Fadenspule wechseln — Automatik vs. manuell\nAutomatische Fadennachführung (Tap & Go) spart Zeit: Einfach auf den Boden tippen und der Faden wird nachgeführt. Manuelles Aufwickeln ist nervig, aber die Spulen sind günstiger. Prüfe vor dem Kauf, ob Ersatzspulen leicht erhältlich und bezahlbar sind.",
+  "vergleichsKategorien": [
+    {
+      "key": "schnittbreite",
+      "label": "Schnittbreite",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht mit Akku",
+      "einheit": "kg",
+      "sortierung": 2
+    },
+    {
+      "key": "drehzahl",
+      "label": "Leerlaufdrehzahl",
+      "einheit": "min⁻¹",
+      "sortierung": 3
+    },
+    {
+      "key": "kantenfunktion",
+      "label": "Kantenschneidfunktion",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "fadensystem",
+      "label": "Fadensystem",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange hält der Faden eines Rasentrimmers?",
+      "antwort": "Eine Fadenspule reicht je nach Einsatz für 30-60 Minuten Arbeit. Steinige Untergründe und dickes Gras verkürzen die Lebensdauer. Halte immer 2-3 Ersatzspulen bereit. Bei den meisten Marken kosten Nachfüllspulen 5-10 Euro für ein 3er-Pack."
+    },
+    {
+      "frage": "Kann ich mit einem Rasentrimmer auch Unkraut entfernen?",
+      "antwort": "Ja, ein Akku-Rasentrimmer eignet sich hervorragend für Unkraut an Zäunen, Mauern und Beeträndern. Für hohes, verholztes Unkraut brauchst du aber einen stärkeren Trimmer mit höherer Drehzahl. Der Makita DUR181 schafft mit seinem kräftigen Motor auch robustes Gestrüpp."
+    },
+    {
+      "frage": "Sind Akku-Rasentrimmer laut?",
+      "antwort": "Deutlich leiser als Benzin-Trimmer. Die meisten Akku-Modelle liegen bei 80-86 dB(A), Benziner bei 95-100 dB(A). Trotzdem empfehlen wir Gehörschutz bei längeren Einsätzen, da die Frequenz unangenehm sein kann."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell GE-CT 18 Li-Solo",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01KWDN32W?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "24",
+        "gewicht": "1,9",
+        "drehzahl": "8500",
+        "kantenfunktion": "Nein",
+        "fadensystem": "Tap & Go Automatik"
+      }
+    },
+    {
+      "name": "Bosch UniversalGrassCut 18V-26-500",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BTZ2PVLQ?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "26",
+        "gewicht": "2,3",
+        "drehzahl": "9000",
+        "kantenfunktion": "Ja (90° Drehkopf)",
+        "fadensystem": "Spulenwechsel"
+      }
+    },
+    {
+      "name": "Gardena PowerCut Li-40/30",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01H39FFHE?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "30",
+        "gewicht": "3,0",
+        "drehzahl": "9500",
+        "kantenfunktion": "Ja",
+        "fadensystem": "Tap & Go Automatik"
+      }
+    },
+    {
+      "name": "Makita DUR181Z",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00CPXHQUC?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "26",
+        "gewicht": "2,8",
+        "drehzahl": "10000",
+        "kantenfunktion": "Nein",
+        "fadensystem": "Tap & Go Automatik"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

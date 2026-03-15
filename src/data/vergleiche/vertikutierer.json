@@ -1,0 +1,118 @@
+{
+  "slug": "vertikutierer",
+  "kategorie": "garten",
+  "titel": "Vertikutierer",
+  "beschreibung": "Vertikutierer Test 2026: Die 4 besten Geräte im Vergleich ✓ Elektro & Akku ✓ Für einen gesunden, dichten Rasen",
+  "keywords": [
+    "vertikutierer",
+    "vertikutierer test",
+    "vertikutierer test 2026",
+    "bester vertikutierer",
+    "elektro vertikutierer",
+    "akku vertikutierer",
+    "vertikutierer vergleich",
+    "rasen vertikutieren",
+    "vertikutierer kaufberatung",
+    "vertikutierer für moos"
+  ],
+  "einleitung": "Dein Rasen ist verfilzt, voller Moos und sieht trotz regelmäßigem Mähen müde aus? Dann wird es Zeit zum Vertikutieren. Wir vergleichen vier Vertikutierer — vom günstigen Kombigerät bis zum Premium-Akku-Modell — und erklären, wie du deinen Rasen wieder in Topform bringst.",
+  "kaufberatung": "### Wann und wie oft vertikutieren?\nDer beste Zeitpunkt ist im Frühjahr (April/Mai), wenn der Rasen aktiv wächst. Ein zweites Mal im September kann sinnvoll sein. Nie bei Trockenheit oder Frost vertikutieren. Vor dem Vertikutieren den Rasen auf 2-3 cm kürzen und ein paar Tage vorher düngen.\n\n### Elektro, Akku oder Benzin?\nFür Gärten bis 300 m² reicht ein Elektro-Vertikutierer — günstig und wartungsarm. Akku-Modelle bieten Flexibilität ohne Kabel, sind aber teurer und schwächer. Benzin lohnt sich nur für sehr große Flächen über 500 m². Der Einhell GC-SA 1231/1 ist ein günstiges Kombigerät mit Vertikutier- und Lüfterwalze.\n\n### Arbeitsbreite und Tiefeneinstellung\nBreitere Geräte (35-40 cm) sind schneller, aber schwerer zu manövrieren. Für die meisten Gärten reicht 30-35 cm. Die Arbeitstiefe muss einstellbar sein — zu tief zerstört die Grasnarbe, zu flach bringt nichts. Die Messer sollten den Boden maximal 2-3 mm einritzen.\n\n### Vertikutierer mit Lüfterfunktion — das Kombigerät\nViele Modelle bieten eine austauschbare Lüfterwalze. Der Lüfter kratzt sanfter über die Oberfläche und entfernt Rasenfilz, ohne die Grasnarbe zu verletzen. Ideal für pflegende Zwischendurchgänge. Empfehlenswert: Ein Kombigerät mit beiden Walzen.",
+  "vergleichsKategorien": [
+    {
+      "key": "arbeitsbreite",
+      "label": "Arbeitsbreite",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 2
+    },
+    {
+      "key": "tiefeneinstellung",
+      "label": "Tiefeneinstellung",
+      "einheit": "Stufen",
+      "sortierung": 3
+    },
+    {
+      "key": "fangkorb",
+      "label": "Fangkorb",
+      "einheit": "l",
+      "sortierung": 4
+    },
+    {
+      "key": "luefterfunktion",
+      "label": "Lüfterfunktion",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Soll ich vor oder nach dem Düngen vertikutieren?",
+      "antwort": "Erst vertikutieren, dann düngen und nachsäen. Durch das Vertikutieren wird der Boden aufgeritzt, sodass Dünger und Saatgut besser in den Boden gelangen. Idealerweise 2-3 Tage vorher den Rasen mähen und nach dem Vertikutieren direkt düngen und bei Bedarf nachsäen."
+    },
+    {
+      "frage": "Kann zu viel Vertikutieren dem Rasen schaden?",
+      "antwort": "Ja, definitiv. Mehr als 2 Mal pro Jahr ist kontraproduktiv und schwächt die Grasnarbe. Bei jedem Vertikutieren werden Graswurzeln beschädigt — der Rasen braucht danach 2-4 Wochen zur Erholung. Im ersten Jahr nach der Neuanlage gar nicht vertikutieren."
+    },
+    {
+      "frage": "Was mache ich mit dem ausvertikutierten Material?",
+      "antwort": "Moos und Rasenfilz auf den Kompost geben. Die Masse ist überraschend groß — bei einem stark verfilzten Rasen können pro 100 m² leicht 50-80 Liter anfallen. Alternativ kannst du das Material als Mulch unter Sträuchern verwenden, sofern es frei von Unkrautsamen ist."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell GC-SA 1231/1",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07CQHXM1T?tag=janxsiegmann-21",
+      "werte": {
+        "arbeitsbreite": "31",
+        "leistung": "1200",
+        "tiefeneinstellung": "3",
+        "fangkorb": "28",
+        "luefterfunktion": "Ja (Wechselwalze)"
+      }
+    },
+    {
+      "name": "Bosch UniversalVerticut 1100",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B08XBR6RK3?tag=janxsiegmann-21",
+      "werte": {
+        "arbeitsbreite": "32",
+        "leistung": "1100",
+        "tiefeneinstellung": "4",
+        "fangkorb": "50",
+        "luefterfunktion": "Ja (Jet-Collect-System)"
+      }
+    },
+    {
+      "name": "Gardena EVC 1000",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09BFKHXBS?tag=janxsiegmann-21",
+      "werte": {
+        "arbeitsbreite": "30",
+        "leistung": "1000",
+        "tiefeneinstellung": "4",
+        "fangkorb": "35",
+        "luefterfunktion": "Ja"
+      }
+    },
+    {
+      "name": "Einhell GE-SC 36/35 Li Kit",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0C1KN9JC5?tag=janxsiegmann-21",
+      "werte": {
+        "arbeitsbreite": "35",
+        "leistung": "Akku 2x18V",
+        "tiefeneinstellung": "4",
+        "fangkorb": "45",
+        "luefterfunktion": "Ja (Wechselwalze, Akku)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

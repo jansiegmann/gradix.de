@@ -1,0 +1,118 @@
+{
+  "slug": "unkrautvernichter-rasenduenger",
+  "kategorie": "garten",
+  "titel": "Unkrautvernichter/Rasen-Langzeitdünger",
+  "beschreibung": "Rasendünger Test 2026: 4 Produkte im Vergleich ✓ Langzeitwirkung & Unkrautvernichter ✓ Sattgrüner Rasen",
+  "keywords": [
+    "rasendünger",
+    "unkrautvernichter rasen",
+    "rasen langzeitdünger",
+    "rasendünger test 2026",
+    "rasendünger mit unkrautvernichter",
+    "rasen düngen",
+    "compo rasendünger",
+    "wolf garten rasendünger",
+    "rasendünger vergleich",
+    "unkraut im rasen bekämpfen"
+  ],
+  "einleitung": "Dein Rasen ist gelb, voller Unkraut und wächst nur in Flecken? Mit dem richtigen Dünger und Unkrautvernichter wird er wieder sattgrün und dicht. Wir vergleichen vier Rasendünger — vom reinen Langzeitdünger bis zum Kombi-Produkt mit Unkrautvernichter — und erklären, wann du was anwenden solltest.",
+  "kaufberatung": "### Reiner Dünger oder Kombi mit Unkrautvernichter?\nWenn dein Rasen nur blass und dünn ist, reicht ein guter Langzeitdünger. Bei Unkrautproblemen (Klee, Löwenzahn, Gänseblümchen) brauchst du ein Kombi-Produkt mit Herbizid. Wichtig: Kombi-Produkte nie auf frisch gesätem Rasen oder bei Temperaturen über 25 °C anwenden.\n\n### Langzeitwirkung — was bedeutet das?\nLangzeitdünger geben ihre Nährstoffe über 2-3 Monate langsam ab. So wird der Rasen gleichmäßig versorgt statt kurzzeitig überdüngt. NPK-Verhältnis beachten: Stickstoff (N) für Wachstum, Phosphor (P) für Wurzeln, Kalium (K) für Widerstandskraft.\n\n### Richtig düngen — Timing ist alles\nErste Düngung im April nach dem Vertikutieren. Zweite Düngung Ende Juni. Dritte Düngung September mit kaliumbetontem Herbstdünger (stärkt gegen Frost). Nie bei Trockenheit oder praller Sonne düngen — Verbrennungsgefahr. Idealerweise vor Regen oder nach dem Bewässern.\n\n### Unkrautvernichter richtig anwenden\nKombi-Produkte (z. B. Compo Floranid mit Unkrautvernichter) müssen auf feuchtes Unkraut aufgebracht werden. 2-3 Tage vor und nach der Anwendung nicht mähen. Kinder und Haustiere 2-3 Tage von der behandelten Fläche fernhalten. Nicht an Gewässern verwenden.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Produkttyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "wirkungsdauer",
+      "label": "Wirkungsdauer",
+      "einheit": "Wochen",
+      "sortierung": 2
+    },
+    {
+      "key": "ergiebigkeit",
+      "label": "Ergiebigkeit",
+      "einheit": "m²",
+      "sortierung": 3
+    },
+    {
+      "key": "npk",
+      "label": "NPK-Verhältnis",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "anwendung",
+      "label": "Anwendungsart",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wann soll ich meinen Rasen düngen?",
+      "antwort": "Drei Mal pro Jahr ist ideal: Im April nach dem Vertikutieren, Ende Juni/Anfang Juli und im September mit Herbstdünger. Immer bei bewölktem Himmel oder abends düngen, danach wässern. Bei Trockenheit oder Temperaturen über 30 °C nicht düngen — der Rasen verbrennt."
+    },
+    {
+      "frage": "Ist Rasendünger mit Unkrautvernichter gefährlich für Kinder und Haustiere?",
+      "antwort": "Die enthaltenen Herbizide sind bei sachgemäßer Anwendung unbedenklich, sobald der Dünger eingewässert und getrocknet ist (ca. 24-48 Stunden). Trotzdem: Kinder und Haustiere in den ersten 2-3 Tagen von der behandelten Fläche fernhalten. Die Packungsbeilage genau beachten."
+    },
+    {
+      "frage": "Hilft Dünger gegen Moos im Rasen?",
+      "antwort": "Indirekt ja. Moos breitet sich aus, wenn der Rasen schwach und der Boden sauer (niedriger pH) ist. Ein guter Dünger stärkt das Gras, sodass es das Moos verdrängt. Gegen akuten Moosbefall hilft Eisendünger (z. B. Compo Moos-frei). Langfristig den pH-Wert mit Rasenkalk auf 5,5-6,5 bringen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Wolf-Garten Rasen-Langzeitdünger LP 100",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00PJ265L2?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Langzeitdünger (rein)",
+        "wirkungsdauer": "12",
+        "ergiebigkeit": "100",
+        "npk": "22-5-5",
+        "anwendung": "Streuwagen oder Hand"
+      }
+    },
+    {
+      "name": "Compo Rasen-Langzeitdünger",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00JMBBUHC?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Langzeitdünger (rein)",
+        "wirkungsdauer": "12",
+        "ergiebigkeit": "100",
+        "npk": "20-5-8",
+        "anwendung": "Streuwagen oder Hand"
+      }
+    },
+    {
+      "name": "Compo Floranid Rasendünger mit Unkrautvernichter",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00IP3LP68?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Dünger + Unkrautvernichter",
+        "wirkungsdauer": "12",
+        "ergiebigkeit": "100",
+        "npk": "14-5-5 + Herbizid",
+        "anwendung": "Streuwagen oder Hand"
+      }
+    },
+    {
+      "name": "Substral 3-in-1 Komplett-Rasendünger",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07BZBMFJ3?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Dünger + Unkraut + Moos",
+        "wirkungsdauer": "12",
+        "ergiebigkeit": "100",
+        "npk": "14-5-5 + Fe + Herbizid",
+        "anwendung": "Streuwagen oder Hand"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

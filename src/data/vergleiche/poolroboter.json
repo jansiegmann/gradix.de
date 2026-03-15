@@ -1,0 +1,118 @@
+{
+  "slug": "poolroboter",
+  "kategorie": "reinigung",
+  "titel": "Poolroboter",
+  "beschreibung": "Poolroboter Test 2026: 4 Modelle im Vergleich ✓ Boden, Wand & Wasserlinie ✓ Kristallklares Poolwasser",
+  "keywords": [
+    "poolroboter",
+    "poolroboter test",
+    "poolreiniger automatisch",
+    "poolroboter test 2026",
+    "poolsauger automatisch",
+    "bester poolroboter",
+    "poolroboter vergleich",
+    "pool reinigungsroboter",
+    "poolroboter kaufberatung",
+    "poolroboter für aufstellpool"
+  ],
+  "einleitung": "Ein Pool macht Spaß — die Reinigung weniger. Ein Poolroboter übernimmt das automatisch: Er saugt den Boden ab, schrubbt die Wände und filtert feinen Schmutz aus dem Wasser. Wir vergleichen vier Modelle vom günstigen Bodensauger bis zum Premium-Roboter mit App-Steuerung.",
+  "kaufberatung": "### Welchen Pooltyp habe ich?\nFür Aufstellpools und kleine Einbaupools (bis 30 m²) reichen einfache Bodenroboter. Für größere Pools (30-60 m²) braucht man Modelle, die auch Wände und Wasserlinie reinigen. Pools über 60 m² benötigen professionelle Geräte mit großem Filter und langer Laufzeit.\n\n### Boden, Wand oder beides?\nGünstige Poolroboter reinigen nur den Boden — für Folienpools oft ausreichend. Mittelklasse-Modelle schaffen auch die Wände. Premium-Roboter reinigen zusätzlich die Wasserlinie, wo sich der meiste Schmutz sammelt. Für Fliesenpools lohnt sich die Wandreinigung besonders.\n\n### Filterart und Schmutzaufnahme\nRoboter mit eigenen Filterkartuschen belasten die Pool-Filteranlage nicht. Die Maschenweite des Filters bestimmt, wie fein gefiltert wird: 50 Mikron für groben Schmutz, 2-5 Mikron für Feinsand und Algen. Premium-Modelle haben mehrstufige Filter.\n\n### Kabellänge und Kabelmanagement\nDas Kabel muss lang genug sein, um jeden Winkel des Pools zu erreichen. Faustregel: Kabellänge = Poollänge + Poolbreite + 3 Meter. Kabellose Akku-Poolroboter sind bequemer, haben aber kürzere Laufzeiten und schwächere Saugkraft.",
+  "vergleichsKategorien": [
+    {
+      "key": "poolgroesse",
+      "label": "Max. Poolgröße",
+      "einheit": "m²",
+      "sortierung": 1
+    },
+    {
+      "key": "reinigung",
+      "label": "Reinigungsbereiche",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "filtersystem",
+      "label": "Filtersystem",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "zyklusdauer",
+      "label": "Reinigungszyklusdauer",
+      "einheit": "h",
+      "sortierung": 4
+    },
+    {
+      "key": "steuerung",
+      "label": "Steuerung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte ich den Poolroboter laufen lassen?",
+      "antwort": "Im Sommer bei täglicher Nutzung 2-3 Mal pro Woche. Bei wenig Nutzung oder Abdeckung reicht einmal pro Woche. Nach Unwettern oder starkem Pollenflug einen Extralauf einplanen. Die meisten Roboter haben eine Timer-Funktion für automatische Reinigungszyklen."
+    },
+    {
+      "frage": "Kann ich einen Poolroboter im Aufstellpool verwenden?",
+      "antwort": "Ja, aber nicht jeden. Für Aufstellpools mit Folienboden brauchst du einen Roboter mit sanften Bürsten, der die Folie nicht beschädigt. Der Intex ZX300 ist speziell für Aufstellpools konzipiert. Wandreinigung funktioniert bei Aufstellpools mit flexiblen Wänden in der Regel nicht."
+    },
+    {
+      "frage": "Poolroboter mit Kabel oder Akku?",
+      "antwort": "Kabelroboter sind leistungsstärker und haben keine Laufzeitbegrenzung — ideal für größere Pools. Akku-Roboter sind bequemer (kein Kabelsalat) und einfacher zu handhaben, haben aber kürzere Laufzeiten und schwächere Saugkraft. Für Pools über 40 m² empfehlen wir Kabelmodelle."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Intex ZX300 Poolsauger",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0C1RDFXWJ?tag=janxsiegmann-21",
+      "werte": {
+        "poolgroesse": "30",
+        "reinigung": "Boden",
+        "filtersystem": "Integrierter Filterbeutel",
+        "zyklusdauer": "1,5",
+        "steuerung": "Automatisch (programmierbar)"
+      }
+    },
+    {
+      "name": "Steinbach Poolrunner S63",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B098DYMY2M?tag=janxsiegmann-21",
+      "werte": {
+        "poolgroesse": "32",
+        "reinigung": "Boden + Wand",
+        "filtersystem": "Filterkartusche",
+        "zyklusdauer": "2",
+        "steuerung": "Automatisch"
+      }
+    },
+    {
+      "name": "Dolphin E25 Poolroboter",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07M81JPFH?tag=janxsiegmann-21",
+      "werte": {
+        "poolgroesse": "50",
+        "reinigung": "Boden + Wand + Wasserlinie",
+        "filtersystem": "Dual-Filterkorb (fein + grob)",
+        "zyklusdauer": "2",
+        "steuerung": "Automatisch (CleverClean)"
+      }
+    },
+    {
+      "name": "Dolphin M600 Poolroboter",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08RBCFVF9?tag=janxsiegmann-21",
+      "werte": {
+        "poolgroesse": "60",
+        "reinigung": "Boden + Wand + Wasserlinie",
+        "filtersystem": "Multi-Filterkorb (ultra-fein)",
+        "zyklusdauer": "2,5",
+        "steuerung": "App (Wi-Fi) + Programmierbar"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

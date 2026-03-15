@@ -1,0 +1,118 @@
+{
+  "slug": "astschere-teleskop",
+  "kategorie": "garten",
+  "titel": "Astschere/Teleskop-Astschere",
+  "beschreibung": "Astschere Test 2026: 4 Modelle im Vergleich ✓ Bypass & Amboss ✓ Teleskop für hohe Äste ✓ Kraftsparend",
+  "keywords": [
+    "astschere",
+    "astschere test",
+    "teleskop astschere",
+    "astschere bypass",
+    "astschere test 2026",
+    "baumschere",
+    "astschere vergleich",
+    "fiskars astschere",
+    "gardena astschere",
+    "astschere für dicke äste"
+  ],
+  "einleitung": "Dicke Äste, hohe Bäume und verwachsene Sträucher — hier reicht die Gartenschere nicht mehr. Wir vergleichen vier Astscheren von der kompakten Bypass-Schere bis zur Teleskop-Amboss-Variante für Äste bis 50 mm und zeigen, welches Modell den besten Hebel ansetzt.",
+  "kaufberatung": "### Bypass oder Amboss — wann was?\nBypass für lebende, grüne Äste bis 35 mm — sauberer Schnitt, bessere Wundheilung. Amboss für totes, trockenes Holz — mehr Kraft bei weniger Aufwand. Für den Obstbaumschnitt unbedingt Bypass wählen. Für das Ausholzen alter Sträucher ist Amboss besser.\n\n### Getriebe und Ratsche — kraftsparend schneiden\nAstscheren mit Getriebe (z. B. Fiskars PowerGear) übersetzen deine Kraft bis zu 3-fach. Ratschen-Mechanismen erlauben schrittweises Schneiden. Beides spart enorm Kraft, besonders bei dickeren Ästen. Ohne diese Techniken wird jeder Schnitt ab 25 mm zur Quälerei.\n\n### Teleskopstiele — für hohe Äste ohne Leiter\nTeleskop-Astscheren reichen je nach Modell 2-4 Meter hoch. Vorteil: Kein wackeliges Arbeiten auf der Leiter. Nachteil: Je länger die Stiele, desto ungenauer der Schnitt. Für präzise Obstbaumschnitte lieber mit kürzeren Griffen und stabiler Leiter arbeiten.\n\n### Material und Gewicht\nAluminium-Griffe sind leicht und rostfrei. Stahl ist stabiler, aber schwerer. Für lange Einsätze sind 500-700 g pro Griffseite das Maximum, bevor die Arme ermüden. Gummierte Griffe dämpfen die Schnittvibration und verhindern Blasen.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Schneidtyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "schnittstaerke",
+      "label": "Max. Schnittstärke",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "laenge",
+      "label": "Gesamtlänge",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 4
+    },
+    {
+      "key": "getriebe",
+      "label": "Kraftübersetzung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Bis zu welcher Aststärke kann ich mit einer Astschere schneiden?",
+      "antwort": "Die meisten Astscheren schaffen 35-50 mm Durchmesser. Äste über 50 mm solltest du besser mit einer Säge bearbeiten. Versuch nicht, mit Gewalt dickere Äste zu schneiden — das beschädigt die Klinge und ist gefährlich. PowerGear-Modelle von Fiskars schaffen dank Getriebe bis zu 55 mm."
+    },
+    {
+      "frage": "Wie schärfe ich eine Astschere?",
+      "antwort": "Die Klinge mit einer Diamantfeile in gleichmäßigen Zügen nachschärfen — immer in einer Richtung, nicht hin und her. Die Gegenklinge (Amboss) nicht schärfen, nur reinigen. Danach Gelenk ölen. Alternativ gibt es spezielle Klingenschärfer von Fiskars und Gardena."
+    },
+    {
+      "frage": "Wann ist der beste Zeitpunkt zum Baumschnitt?",
+      "antwort": "Obstbäume idealerweise im Februar/März vor dem Austrieb schneiden. Steinobst (Kirsche, Pflaume) besser im Sommer nach der Ernte. Ziersträucher je nach Art im Frühjahr oder Herbst. Nie bei Frost schneiden — offene Schnittstellen können erfrieren und die Pflanze schädigen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Gardena EnergyCut 750 A",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09BFMMJRP?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Amboss mit Getriebe",
+        "schnittstaerke": "42",
+        "laenge": "75",
+        "gewicht": "1200",
+        "getriebe": "Ja (Hebelmechanismus)"
+      }
+    },
+    {
+      "name": "Fiskars SingleStep Bypass L L28",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0002BGNUI?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Bypass",
+        "schnittstaerke": "38",
+        "laenge": "70",
+        "gewicht": "850",
+        "getriebe": "Nein"
+      }
+    },
+    {
+      "name": "Fiskars PowerGear X Bypass L LX98",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00HV7J0HA?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Bypass mit Getriebe",
+        "schnittstaerke": "50",
+        "laenge": "80",
+        "gewicht": "1060",
+        "getriebe": "Ja (PowerGear, 3,5x Kraft)"
+      }
+    },
+    {
+      "name": "Fiskars SmartFit Teleskop-Bypass L86",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B008HDHPR2?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Bypass (Teleskop)",
+        "schnittstaerke": "50",
+        "laenge": "68–92 (verstellbar)",
+        "gewicht": "1200",
+        "getriebe": "Ja (Getriebe + Teleskop)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

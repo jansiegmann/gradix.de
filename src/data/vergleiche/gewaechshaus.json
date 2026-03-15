@@ -1,0 +1,118 @@
+{
+  "slug": "gewaechshaus",
+  "kategorie": "garten",
+  "titel": "Gewächshaus",
+  "beschreibung": "Gewächshaus Test 2026: 4 Modelle im Vergleich ✓ Alu & Polycarbonat ✓ Für Tomaten, Gurken & mehr",
+  "keywords": [
+    "gewächshaus",
+    "gewächshaus kaufen",
+    "gewächshaus test",
+    "gewächshaus vergleich 2026",
+    "gewächshaus garten",
+    "tomatengewächshaus",
+    "gewächshaus aluminium",
+    "kleines gewächshaus",
+    "gewächshaus polycarbonat",
+    "gewächshaus kaufberatung"
+  ],
+  "einleitung": "Tomaten, die nach Tomate schmecken, Gurken ohne Mehltau und eine verlängerte Gartensaison — mit einem Gewächshaus holst du das Maximum aus deinem Garten. Wir vergleichen vier Modelle vom kompakten Tomatenzelt bis zum geräumigen Aluminiumgewächshaus.",
+  "kaufberatung": "### Glas, Polycarbonat oder Folie?\nHohlkammerplatten aus Polycarbonat sind der beste Kompromiss: Leicht, bruchsicher, gute Isolierung. Echtglas sieht edel aus und hält ewig, ist aber schwer und bruchempfindlich. Foliengewächshäuser sind am günstigsten, halten aber nur 2-3 Saisons.\n\n### Wie groß muss mein Gewächshaus sein?\nFür 4-6 Tomatenpflanzen plus Gurken reichen 4-6 m². Wer auch überwintern und vorziehen will, braucht 8-12 m². Wichtig: Mindesthöhe 2 m in der Mitte, sonst kannst du im Sommer nicht aufrecht stehen. Stelle immer eine Nummer größer auf — du wirst den Platz nutzen.\n\n### Standort und Fundament\nOst-West-Ausrichtung bringt das meiste Licht im Frühjahr und Herbst. Ein Fundament aus Beton oder Rasenkanten ist Pflicht — ohne Fundament hebt der Wind das Gewächshaus weg. Mindestens 1 Meter Abstand zu Bäumen halten, wegen Schattenwurf und herabfallendem Laub.\n\n### Belüftung ist das A und O\nOhne ausreichende Belüftung wird es im Sommer über 50 °C heiß — das tötet Pflanzen. Mindestens ein automatisches Dachfenster mit Wachsöffner ist Pflicht. Seitliche Lüftungsöffnungen sind ideal für Querlüftung. Der Zelsius bietet z. B. bereits ein integriertes Dachfenster.",
+  "vergleichsKategorien": [
+    {
+      "key": "grundflaeche",
+      "label": "Grundfläche",
+      "einheit": "m²",
+      "sortierung": 1
+    },
+    {
+      "key": "material_rahmen",
+      "label": "Rahmenmaterial",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "verglasung",
+      "label": "Verglasung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "hoehe",
+      "label": "Firsthöhe",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "lueftung",
+      "label": "Belüftung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich eine Baugenehmigung für ein Gewächshaus?",
+      "antwort": "Das hängt vom Bundesland und der Größe ab. In den meisten Bundesländern sind Gewächshäuser bis 10-20 m² genehmigungsfrei. Trotzdem Bebauungsplan und Abstandsregeln prüfen. Im Kleingarten gelten die Regeln des Bundeskleingartengesetzes — hier maximal 24 m² Laube inklusive Gewächshaus."
+    },
+    {
+      "frage": "Wie heize ich ein Gewächshaus im Winter?",
+      "antwort": "Für frostfreies Überwintern reicht oft ein elektrischer Frostwächter (ab 80 W). Für aktives Heizen auf 10-15 °C braucht man stärkere Heizungen. Alternativ: Doppelstegplatten und Noppenfolie als Innenisolierung reduzieren den Wärmeverlust erheblich und senken die Heizkosten."
+    },
+    {
+      "frage": "Wie oft muss ich im Gewächshaus lüften?",
+      "antwort": "Im Sommer täglich, am besten den ganzen Tag über. Automatische Fensteröffner mit Wachszylinder sind ideal — sie öffnen ab ca. 25 °C automatisch und schließen bei Abkühlung. Im Frühjahr und Herbst reicht stundenweises Lüften bei Sonnenschein."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Zelsius Foliengewächshaus 6 m²",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B3MVXG16?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "6",
+        "material_rahmen": "Stahlrohr pulverbeschichtet",
+        "verglasung": "PE-Folie 140g/m²",
+        "hoehe": "200",
+        "lueftung": "Aufrollbare Seitenwände"
+      }
+    },
+    {
+      "name": "Zelsius Aluminium Gewächshaus 5,9 m²",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B015GIRBUG?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "5,9",
+        "material_rahmen": "Aluminium",
+        "verglasung": "Polycarbonat-Hohlkammerplatten 4 mm",
+        "hoehe": "195",
+        "lueftung": "1 Dachfenster"
+      }
+    },
+    {
+      "name": "Palram Harmony 6×8 (4,6 m²)",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0D2GH9KPL?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "4,6",
+        "material_rahmen": "Aluminium verstärkt",
+        "verglasung": "Polycarbonat-Hohlkammerplatten 6 mm",
+        "hoehe": "208",
+        "lueftung": "1 Dachfenster + Regenrinne"
+      }
+    },
+    {
+      "name": "Vitavia Venus 5000 (5,0 m²)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00P8UJ8FC?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "5,0",
+        "material_rahmen": "Aluminium eloxiert",
+        "verglasung": "Einscheibensicherheitsglas 3 mm",
+        "hoehe": "232",
+        "lueftung": "2 Dachfenster + Seitenfenster"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

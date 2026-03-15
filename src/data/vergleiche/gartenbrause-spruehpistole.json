@@ -1,0 +1,104 @@
+{
+  "slug": "gartenbrause-spruehpistole",
+  "kategorie": "garten",
+  "titel": "Gartenbrause/Sprühpistole",
+  "beschreibung": "Gartenbrause Test 2026: 4 Sprühpistolen im Vergleich ✓ Mehrere Strahlarten ✓ Robust & bequem",
+  "keywords": [
+    "gartenbrause",
+    "sprühpistole garten",
+    "gartenbrause test",
+    "gießbrause",
+    "gartenbrause vergleich",
+    "gardena sprühpistole",
+    "wasserbrause garten",
+    "gartenspritze",
+    "sprühpistole test 2026",
+    "gartenschlauch brause"
+  ],
+  "einleitung": "Ob sanftes Beregnen empfindlicher Setzlinge oder kräftiger Strahl zum Terrassereinigen — mit der richtigen Gartenbrause hast du für jede Aufgabe den passenden Wasserstrahl. Wir vergleichen vier Sprühpistolen von günstig bis premium.",
+  "kaufberatung": "### Sprühpistole oder Brauseaufsatz?\nSprühpistolen haben einen Abzug, der den Wasserfluss steuert — ergonomischer für längeres Gießen. Brauseaufsätze werden einfach aufgesteckt und laufen dauerhaft — weniger ermüdend bei großen Beeten. Für vielseitige Nutzung ist die Sprühpistole besser.\n\n### Wie viele Strahlarten brauche ich?\nDrei bis fünf Strahlarten reichen für den Garten: Brause (Gießen), Flat (Reinigen), Jet (kräftiger Punktstrahl), Mist (feiner Nebel für Setzlinge). Modelle mit 7-10 Strahlarten klingen beeindruckend, aber die Unterschiede sind oft kaum spürbar.\n\n### Material und Langlebigkeit\nMetall-Sprühpistolen halten deutlich länger als reine Kunststoffmodelle. Gardena und Kärcher verwenden Glasfaser-verstärkten Kunststoff, der ein guter Kompromiss aus Gewicht und Haltbarkeit ist. Dichtungen aus Silikon oder EPDM halten länger als Gummi.",
+  "vergleichsKategorien": [
+    {
+      "key": "strahlarten",
+      "label": "Anzahl Strahlarten",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "regulierung",
+      "label": "Durchflussregulierung",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "anschluss",
+      "label": "Anschlusssystem",
+      "einheit": "",
+      "sortierung": 4
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welches Anschlusssystem ist Standard in Deutschland?",
+      "antwort": "Gardena-Schnellkupplung ist der De-facto-Standard. Fast alle Brausen und Pistolen sind mit dem Gardena-System kompatibel. Kärcher hat ein eigenes System, bietet aber Adapter an. Tipp: Gleich bei der ersten Brause das Kupplungssystem festlegen und dabei bleiben."
+    },
+    {
+      "frage": "Warum tropft meine Gartenbrause?",
+      "antwort": "Meistens sind verschlissene Dichtungen die Ursache. Bei hochwertigen Modellen wie Gardena lassen sich die O-Ringe einfach austauschen. Kalkablagerungen können das Ventil am Schließen hindern — über Nacht in Essigwasser einlegen hilft. Bei billigen Brausen lohnt sich die Reparatur meist nicht."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Gardena Classic Sprühpistole",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B000LNQKHI?tag=janxsiegmann-21",
+      "werte": {
+        "strahlarten": "1 (stufenlos)",
+        "material": "Kunststoff",
+        "regulierung": "Stufenlos am Abzug",
+        "anschluss": "Gardena-System"
+      }
+    },
+    {
+      "name": "Gardena Premium Multibrause 5-Funktionen",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09BFJX8FB?tag=janxsiegmann-21",
+      "werte": {
+        "strahlarten": "5",
+        "material": "Metall/Kunststoff",
+        "regulierung": "Stufenlos + Arretierung",
+        "anschluss": "Gardena-System"
+      }
+    },
+    {
+      "name": "Gardena Premium Sprühpistole",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B000LNT55W?tag=janxsiegmann-21",
+      "werte": {
+        "strahlarten": "Stufenlos regulierbar",
+        "material": "Metall-Gehäuse",
+        "regulierung": "Stufenlos + Soft-Spray",
+        "anschluss": "Gardena-System"
+      }
+    },
+    {
+      "name": "Kärcher Premium Multifunction Spray Gun",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CHQW3VVT?tag=janxsiegmann-21",
+      "werte": {
+        "strahlarten": "5",
+        "material": "Metall + Softgrip",
+        "regulierung": "Stufenlos + Arretierung + Frostschutz",
+        "anschluss": "Universal (Gardena-kompatibel)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

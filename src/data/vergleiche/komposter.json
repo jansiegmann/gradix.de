@@ -1,0 +1,118 @@
+{
+  "slug": "komposter-thermokomposter",
+  "kategorie": "garten",
+  "titel": "Komposter (Schnellkomposter/Thermokomposter)",
+  "beschreibung": "Komposter Test 2026: 4 Thermokomposter im Vergleich ✓ Schneller Kompost ✓ Platzsparend & geruchsarm",
+  "keywords": [
+    "komposter",
+    "thermokomposter test",
+    "schnellkomposter",
+    "komposter kaufen",
+    "thermokomposter vergleich 2026",
+    "komposter garten",
+    "bester komposter",
+    "kompost schnell herstellen",
+    "komposter 300 liter",
+    "gartenkomposter test"
+  ],
+  "einleitung": "Gartenabfälle und Küchenreste einfach in wertvollen Kompost verwandeln — mit einem Thermokomposter geht das doppelt so schnell wie im offenen Haufen. Wir vergleichen vier Modelle vom günstigen Einstieg bis zum Premium-Komposter und zeigen, wie du in wenigen Monaten nährstoffreiche Erde bekommst.",
+  "kaufberatung": "### Thermokomposter vs. offener Komposthaufen\nEin Thermokomposter erzeugt durch seine isolierten Wände höhere Temperaturen (bis 70 °C), was den Zersetzungsprozess auf 6-8 Wochen beschleunigt. Im offenen Haufen dauert es 6-12 Monate. Außerdem hält der geschlossene Komposter Ratten und Mäuse fern und stinkt weniger.\n\n### Welche Größe brauche ich?\n200-300 Liter reichen für einen kleinen Garten und 2-Personen-Haushalt. 400-600 Liter für Familien mit Garten. Über 600 Liter für große Gärten mit viel Grünschnitt. Lieber etwas größer kaufen — ein halbvoller Komposter funktioniert besser als ein überfüllter.\n\n### Material und Belüftung\nKunststoff-Komposter sind leicht und langlebig. Achte auf UV-beständiges Material und ausreichend Belüftungsschlitze. Ein Bodengitter hält Nagetiere fern. Die Entnahmeklappe am Boden sollte groß genug sein, um bequem fertigen Kompost herauszuholen.\n\n### Was darf rein, was nicht?\nRein: Obst- und Gemüsereste, Eierschalen, Kaffeesatz, Laub, Grasschnitt, zerkleinerte Äste. Nicht rein: Fleisch, Fisch, gekochte Speisereste (ziehen Ratten an), kranke Pflanzen, Plastik, Asche von behandeltem Holz.",
+  "vergleichsKategorien": [
+    {
+      "key": "volumen",
+      "label": "Volumen",
+      "einheit": "l",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "kompostierzeit",
+      "label": "Kompostierzeit",
+      "einheit": "Wochen",
+      "sortierung": 3
+    },
+    {
+      "key": "entnahme",
+      "label": "Entnahmesystem",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "belueftung",
+      "label": "Belüftung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange dauert es, bis der Kompost fertig ist?",
+      "antwort": "Im Thermokomposter bei richtiger Befüllung 6-12 Wochen, im offenen Haufen 6-12 Monate. Voraussetzung: Eine gute Mischung aus grünem (Küchenabfälle, Gras) und braunem Material (Laub, Häckselgut), regelmäßiges Umsetzen und ausreichend Feuchtigkeit."
+    },
+    {
+      "frage": "Stinkt ein Thermokomposter?",
+      "antwort": "Bei richtiger Befüllung minimal. Unangenehmer Geruch entsteht nur bei Sauerstoffmangel (zu nass, zu wenig Strukturmaterial) oder wenn ungeeignete Abfälle wie Fleisch eingefüllt werden. Regelmäßig lockern und auf eine ausgewogene Mischung achten."
+    },
+    {
+      "frage": "Kann ich einen Komposter im Winter nutzen?",
+      "antwort": "Ja, aber der Zersetzungsprozess verlangsamt sich bei Kälte stark. Thermokomposter mit doppelwandiger Isolierung halten die Temperatur auch im Winter einigermaßen hoch. Tipp: Im Herbst noch eine dicke Schicht Laub und Grasschnitt einfüllen, damit genug Material zum Verrotten vorhanden ist."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Deuba Schnellkomposter 380L",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B004ISU1AE?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "380",
+        "material": "Kunststoff (PP)",
+        "kompostierzeit": "8–12",
+        "entnahme": "Bodenklappe",
+        "belueftung": "Seitliche Schlitze"
+      }
+    },
+    {
+      "name": "Graf Thermo-King 600L",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B001E0ZPZ6?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "600",
+        "material": "Kunststoff (doppelwandig)",
+        "kompostierzeit": "6–10",
+        "entnahme": "Große Bodenklappe",
+        "belueftung": "Integriertes Belüftungssystem"
+      }
+    },
+    {
+      "name": "Neudorff DuoTherm 530L",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0030UHJXO?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "530",
+        "material": "Recycling-Kunststoff (isoliert)",
+        "kompostierzeit": "6–8",
+        "entnahme": "2 große Entnahmeklappen",
+        "belueftung": "Innenliegendes Belüftungssystem"
+      }
+    },
+    {
+      "name": "UPP Trommelkomposter 2-Kammer 140L",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07DGHRL32?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "140 (2 Kammern)",
+        "material": "BPA-freier Kunststoff + Stahlrahmen",
+        "kompostierzeit": "4–6",
+        "entnahme": "Schiebetür je Kammer",
+        "belueftung": "Drehbar (360°) für optimale Belüftung"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

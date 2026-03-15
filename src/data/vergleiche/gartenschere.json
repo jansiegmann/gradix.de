@@ -1,0 +1,118 @@
+{
+  "slug": "gartenschere",
+  "kategorie": "garten",
+  "titel": "Gartenschere (Bypass/Amboss)",
+  "beschreibung": "Gartenschere Test 2026: 4 Modelle im Vergleich ✓ Bypass & Amboss ✓ Für saubere Schnitte an Rosen & Sträuchern",
+  "keywords": [
+    "gartenschere",
+    "gartenschere test",
+    "bypass gartenschere",
+    "amboss gartenschere",
+    "beste gartenschere",
+    "gartenschere test 2026",
+    "rosenschere",
+    "gartenschere vergleich",
+    "gartenschere kaufberatung",
+    "felco gartenschere"
+  ],
+  "einleitung": "Eine gute Gartenschere ist das wichtigste Werkzeug im Garten — damit schneidest du Rosen, Sträucher und kleine Äste sauber und pflanzenschonend. Wir vergleichen vier Modelle vom günstigen Allrounder bis zur legendären Felco-Schere und erklären den Unterschied zwischen Bypass und Amboss.",
+  "kaufberatung": "### Bypass oder Amboss — was ist besser?\nBypass-Scheren haben zwei aneinander vorbeigleitende Klingen wie eine Schere — sie schneiden sauber und schonen lebendes Gewebe. Perfekt für Rosen, frische Triebe und lebende Äste. Amboss-Scheren drücken eine Klinge auf eine flache Fläche — sie brauchen weniger Kraft, quetschen aber das Gewebe. Ideal für totes Holz und trockene Äste.\n\n### Handgröße und Griffweite\nDie Schere muss zu deiner Hand passen. Zu große Scheren ermüden kleine Hände, zu kleine schneiden nicht kraftvoll genug. Viele Hersteller bieten verschiedene Griffgrößen an. Die Gardena B/S-XL z. B. hat breitere Griffe für große Hände.\n\n### Klinge und Beschichtung\nHochwertige Klingen aus geschmiedetem Stahl halten jahrelang und lassen sich nachschärfen. Antihaftbeschichtungen verhindern das Verkleben mit Pflanzensäften. Felco und Fiskars verwenden gehärteten Stahl, der selbst nach hunderten Schnitten scharf bleibt.\n\n### Ersatzteile — das vergessene Kaufkriterium\nBei hochwertigen Scheren wie Felco sind alle Teile einzeln austauschbar — Klingen, Federn, Griffe. Eine Felco 2 hält bei guter Pflege ein Gärtnerleben lang. Bei günstigen Scheren lohnt sich die Reparatur meist nicht.",
+  "vergleichsKategorien": [
+    {
+      "key": "typ",
+      "label": "Schneidtyp",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "schnittstaerke",
+      "label": "Max. Schnittstärke",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "g",
+      "sortierung": 3
+    },
+    {
+      "key": "klingenmaterial",
+      "label": "Klingenmaterial",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "ersatzteile",
+      "label": "Ersatzteile verfügbar",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie pflege ich meine Gartenschere richtig?",
+      "antwort": "Nach jedem Einsatz Pflanzenreste und Saft von den Klingen wischen. Regelmäßig mit Ballistol oder Kamelienöl ölen. Die Klinge einmal pro Saison mit einem Schleifstein nachschärfen. Bei Krankheitsbefall der Pflanzen die Klinge mit Alkohol desinfizieren, um Übertragung zu verhindern."
+    },
+    {
+      "frage": "Lohnt sich eine teure Gartenschere?",
+      "antwort": "Ja, wenn du regelmäßig im Garten arbeitest. Eine Felco 2 kostet zwar 40-50 Euro, hält aber bei guter Pflege 20+ Jahre und lässt sich komplett zerlegen und reparieren. Günstige Scheren für 10 Euro werden nach 1-2 Saisons stumpf und landen im Müll. Auf die Lebenszeit gerechnet ist die Felco günstiger."
+    },
+    {
+      "frage": "Bypass oder Amboss für Rosen?",
+      "antwort": "Definitiv Bypass. Die saubere Schnittfläche heilt schneller und minimiert das Risiko von Pilzinfektionen. Amboss-Scheren quetschen den Trieb, was die Wundheilung verzögert. Für lebende Pflanzen immer Bypass wählen, Amboss nur für totes Holz."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Gardena B/S-M Bypass-Gartenschere",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09BFJ81FV?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Bypass",
+        "schnittstaerke": "22",
+        "gewicht": "185",
+        "klingenmaterial": "Stahl mit Antihaftbeschichtung",
+        "ersatzteile": "Teilweise"
+      }
+    },
+    {
+      "name": "Fiskars SingleStep Bypass P26",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0002BGOO2?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Bypass",
+        "schnittstaerke": "22",
+        "gewicht": "190",
+        "klingenmaterial": "Gehärteter Stahl",
+        "ersatzteile": "Ja"
+      }
+    },
+    {
+      "name": "Felco 2 Bypass-Schere",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00004R9ZK?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Bypass",
+        "schnittstaerke": "25",
+        "gewicht": "245",
+        "klingenmaterial": "Geschmiedeter Stahl (gehärtet)",
+        "ersatzteile": "Ja (alle Teile einzeln)"
+      }
+    },
+    {
+      "name": "Felco 8 Bypass-Schere",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00004R9ZP?tag=janxsiegmann-21",
+      "werte": {
+        "typ": "Bypass",
+        "schnittstaerke": "25",
+        "gewicht": "245",
+        "klingenmaterial": "Geschmiedeter Stahl (gehärtet + verchromt)",
+        "ersatzteile": "Ja (alle Teile einzeln)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

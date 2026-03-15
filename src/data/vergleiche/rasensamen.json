@@ -1,0 +1,118 @@
+{
+  "slug": "rasensamen",
+  "kategorie": "garten",
+  "titel": "Rasensamen",
+  "beschreibung": "Rasensamen Test 2026: 4 Mischungen im Vergleich ✓ Sport-, Schatten- & Nachsaat-Rasen ✓ Dichter, grüner Rasen",
+  "keywords": [
+    "rasensamen",
+    "rasensamen test",
+    "bester rasensamen",
+    "rasensamen test 2026",
+    "rasensamen vergleich",
+    "rasen nachsäen",
+    "rasensamen schattenrasen",
+    "sport rasensamen",
+    "rasensamen kaufberatung",
+    "rasensaat"
+  ],
+  "einleitung": "Ein sattgrüner, dichter Rasen beginnt mit der richtigen Saatgutmischung. Aber welche Rasensamen sind die besten? Wir vergleichen vier Mischungen vom robusten Spielrasen bis zum Premium-Schattenrasen und zeigen dir, worauf du bei Aussaat und Pflege achten musst.",
+  "kaufberatung": "### RSM-Mischungen — das Qualitätsmerkmal\nRSM steht für Regel-Saatgut-Mischung und ist ein Qualitätssiegel. RSM-zertifizierte Mischungen enthalten geprüfte Sorten, die in Deutschland getestet wurden. Ohne RSM-Label weißt du nicht, was drin ist — oft sind es billige Futtergräser, die keinen dichten Rasen bilden.\n\n### Welche Mischung für welchen Garten?\nSpiel- und Sportrasen (RSM 2.3): Robust, belastbar, ideal für Familien mit Kindern. Zierrasen (RSM 1.1): Dicht und fein, aber empfindlich. Schattenrasen: Spezielle Gräser, die mit weniger Licht auskommen. Nachsaat: Schnell keimende Mischung zum Auffüllen kahler Stellen.\n\n### Aussaat-Zeitpunkt und Bodenvorbereitung\nBeste Zeit: April bis Mai oder September. Der Boden muss feinkrümelig, eben und leicht feucht sein. Vor der Aussaat vertikutieren, Unebenheiten ausgleichen und eine dünne Schicht Rasenerde aufbringen. 20-25 g/m² Saatgut gleichmäßig verteilen und leicht einwalzen.\n\n### Die ersten 4 Wochen — so keimt es richtig\nNach der Aussaat den Boden 3-4 Wochen konstant feucht halten — 2-3 Mal täglich kurz beregnen. Nicht betreten! Erst mähen, wenn das Gras 8-10 cm hoch ist, dann auf 5 cm kürzen. Erst nach dem dritten Mähen normal belasten.",
+  "vergleichsKategorien": [
+    {
+      "key": "einsatzbereich",
+      "label": "Einsatzbereich",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "rsm_zertifiziert",
+      "label": "RSM-zertifiziert",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "keimzeit",
+      "label": "Keimzeit",
+      "einheit": "Tage",
+      "sortierung": 3
+    },
+    {
+      "key": "ergiebigkeit",
+      "label": "Ergiebigkeit",
+      "einheit": "m²/kg",
+      "sortierung": 4
+    },
+    {
+      "key": "packungsgroesse",
+      "label": "Packungsgröße",
+      "einheit": "kg",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie viel Rasensamen brauche ich pro Quadratmeter?",
+      "antwort": "Für Neuanlage 20-25 g/m², für Nachsaat 10-15 g/m². Zu wenig Saatgut ergibt einen lückigen Rasen, zu viel führt zu Konkurrenz und schwachen Halmen. Am besten die Menge mit einer Waage abwiegen und die Fläche in zwei Richtungen (längs und quer) besäen."
+    },
+    {
+      "frage": "Kann ich Rasensamen auf bestehenden Rasen säen?",
+      "antwort": "Ja, das nennt sich Nachsaat. Vorher den Rasen kurz mähen und vertikutieren, damit die Samen Bodenkontakt bekommen. Eine dünne Schicht Rasenerde darüber sieben und 3-4 Wochen feucht halten. Spezielle Nachsaat-Mischungen keimen schneller als Neuanlage-Mischungen."
+    },
+    {
+      "frage": "Warum wächst mein Rasen lückig?",
+      "antwort": "Häufigste Ursachen: Zu wenig Saatgut, schlechter Bodenkontakt (Samen nicht eingewalzt), zu wenig Wasser in der Keimphase oder minderwertige Saatgutmischung ohne RSM-Siegel. Auch Vögel fressen gerne Rasensamen — ein leichtes Vlies über der Fläche hilft."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Wolf-Garten Sport- und Spielrasen LG 125",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00PJ27Q6S?tag=janxsiegmann-21",
+      "werte": {
+        "einsatzbereich": "Sport- und Spielrasen",
+        "rsm_zertifiziert": "Ja",
+        "keimzeit": "7–14",
+        "ergiebigkeit": "50",
+        "packungsgroesse": "2,5"
+      }
+    },
+    {
+      "name": "Compo Saat Nachsaat-Rasen",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B01MUA1D37?tag=janxsiegmann-21",
+      "werte": {
+        "einsatzbereich": "Nachsaat / Reparatur",
+        "rsm_zertifiziert": "Ja",
+        "keimzeit": "7–10",
+        "ergiebigkeit": "50",
+        "packungsgroesse": "2"
+      }
+    },
+    {
+      "name": "Compo Saat Schattenrasen",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B01MF6KQZF?tag=janxsiegmann-21",
+      "werte": {
+        "einsatzbereich": "Schattenlagen",
+        "rsm_zertifiziert": "Ja",
+        "keimzeit": "10–18",
+        "ergiebigkeit": "33",
+        "packungsgroesse": "2"
+      }
+    },
+    {
+      "name": "Kiepenkerl RSM 2.3 Spielrasen",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B001B2ELIO?tag=janxsiegmann-21",
+      "werte": {
+        "einsatzbereich": "Premium Spiel- und Sportrasen",
+        "rsm_zertifiziert": "Ja (RSM 2.3)",
+        "keimzeit": "10–21",
+        "ergiebigkeit": "40",
+        "packungsgroesse": "10"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

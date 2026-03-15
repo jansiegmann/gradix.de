@@ -1,0 +1,132 @@
+{
+  "slug": "maehroboter",
+  "kategorie": "garten",
+  "titel": "Mähroboter",
+  "beschreibung": "Mähroboter Test 2026: 4 Modelle ohne Begrenzungskabel im Vergleich ✓ Von günstig bis High-End ✓ Ehrliche Kaufberatung",
+  "keywords": [
+    "mähroboter",
+    "mähroboter test",
+    "mähroboter ohne begrenzungskabel",
+    "rasenroboter test 2026",
+    "mähroboter vergleich",
+    "bester mähroboter",
+    "mähroboter kaufberatung",
+    "rasenroboter ohne draht",
+    "mähroboter mit app",
+    "roboter rasenmäher"
+  ],
+  "einleitung": "Du willst deinen Rasen automatisch mähen lassen, aber die Auswahl an Mährobotern ist überwältigend? Wir haben vier Modelle ohne Begrenzungskabel verglichen — vom günstigen Einstieg bis zum Premium-Gerät für große Gärten. So findest du den Mähroboter, der wirklich zu deinem Grundstück passt.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nKleine Gärten bis 500 m² sind mit dem ECOVACS GOAT O500 bestens bedient — günstig und ohne RTK-Antenne. Der Segway Navimow i105E bietet mit RTK+Vision die beste Präzision in der Mittelklasse. Wer über 1.000 m² hat, braucht ein Gerät wie den Dreame A2 mit LiDAR und KI-Kamera. Und für Hanglagen ab 45 % Steigung kommt nur ein Allradmodell wie der Mammotion LUBA 3 AWD infrage.\n\n### Navigation: RTK, LiDAR oder Kamera — was ist besser?\nRTK-Systeme (wie beim Segway Navimow) arbeiten per Satellit zentimetergenau, brauchen aber guten GPS-Empfang. LiDAR-Systeme (wie beim Dreame A2) funktionieren auch unter Bäumen zuverlässig. Reine Kamerasysteme sind günstig, aber bei schlechtem Licht eingeschränkt. Die beste Kombination: RTK + Vision oder LiDAR + KI-Kamera.\n\n### Begrenzungskabel vs. kabellos — lohnt sich der Aufpreis?\nKabellose Mähroboter sparen dir stundenlange Installation und machen spätere Gartenumgestaltungen viel einfacher. Die Technologie ist 2026 so ausgereift, dass wir nur noch drahtlose Modelle empfehlen — außer du hast ein extrem verwinkeltes Grundstück mit vielen Engstellen.\n\n### Häufige Fehler beim Kauf\nDer größte Fehler: Ein Modell für zu kleine Flächen kaufen, weil es günstiger ist. Die angegebene Maximalfläche schafft der Roboter nur unter Idealbedingungen. Plane 20-30 % Reserve ein. Zweiter Fehler: GPS-Empfang am Aufstellort nicht prüfen — bei starker Baumabschattung versagen RTK-Modelle.\n\n### Sicherheit: Igelschutz und Kindersicherung\nAlle modernen Mähroboter haben Hebesensoren und Stoßsensoren. Hochwertige Modelle wie der Dreame A2 erkennen per KI-Kamera sogar Igel und kleine Tiere. Trotzdem gilt: Nachts nicht mähen lassen und den Roboter nie unbeaufsichtigt mit kleinen Kindern im Garten laufen lassen.",
+  "vergleichsKategorien": [
+    {
+      "key": "max_flaeche",
+      "label": "Max. Rasenfläche",
+      "einheit": "m²",
+      "sortierung": 1
+    },
+    {
+      "key": "navigation",
+      "label": "Navigationsart",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "schnittbreite",
+      "label": "Schnittbreite",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "steigung",
+      "label": "Max. Steigung",
+      "einheit": "%",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB(A)",
+      "sortierung": 5
+    },
+    {
+      "key": "app_steuerung",
+      "label": "App-Steuerung",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Braucht ein Mähroboter ohne Begrenzungskabel trotzdem eine Antenne?",
+      "antwort": "Das kommt auf das Navigationssystem an. RTK-Modelle wie der Segway Navimow brauchen eine externe GNSS-Antenne, die am Gartenrand aufgestellt wird. LiDAR-basierte Modelle wie der Dreame A2 oder ECOVACS GOAT O500 kommen komplett ohne externe Antenne aus — sie navigieren per Laser und Kamera."
+    },
+    {
+      "frage": "Wie oft muss ein Mähroboter mähen?",
+      "antwort": "Im Frühling und Sommer empfehlen sich 3-5 Mähvorgänge pro Woche. Der Roboter schneidet nur wenige Millimeter ab, was den Rasen dichter und gesünder macht. Im Herbst reichen 1-2 Durchgänge. Über die App lässt sich ein automatischer Zeitplan einstellen."
+    },
+    {
+      "frage": "Was passiert bei Regen mit dem Mähroboter?",
+      "antwort": "Alle empfohlenen Modelle haben einen Regensensor und fahren bei Regen automatisch zur Ladestation zurück. Der ECOVACS GOAT O500 ist sogar IPX6-zertifiziert. Trotzdem sollte man bei Starkregen den Roboter lieber in der Station lassen — nasses Gras verstopft die Klingen schneller."
+    },
+    {
+      "frage": "Kann ein Mähroboter Igel verletzen?",
+      "antwort": "Leider ja, besonders in der Dämmerung. Hochwertige Modelle mit KI-Kamera wie der Dreame A2 erkennen Igel und weichen aus. Grundregel: Den Mähroboter nie nach Einbruch der Dunkelheit fahren lassen und im Herbst besonders vorsichtig sein, wenn Igel Winterquartiere suchen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "ECOVACS GOAT O500 Panorama",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0DPW56QYY?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "500",
+        "navigation": "LiDAR + Dual-Kamera",
+        "schnittbreite": "22",
+        "steigung": "45",
+        "lautstaerke": "58",
+        "app_steuerung": "Ja (ECOVACS Home)"
+      }
+    },
+    {
+      "name": "Segway Navimow i105E",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CXDNFZLL?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "600",
+        "navigation": "RTK + Vision (EFLS 2.0)",
+        "schnittbreite": "18",
+        "steigung": "45",
+        "lautstaerke": "58",
+        "app_steuerung": "Ja (Navimow App)"
+      }
+    },
+    {
+      "name": "Dreame A2 3000",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DWFW56NX?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "3000",
+        "navigation": "360° 3D-LiDAR + KI-Kamera",
+        "schnittbreite": "22",
+        "steigung": "50",
+        "lautstaerke": "55",
+        "app_steuerung": "Ja (Dreamehome App + 4G)"
+      }
+    },
+    {
+      "name": "Mammotion LUBA 3 AWD 5000",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0DZ7BCJHQ?tag=janxsiegmann-21",
+      "werte": {
+        "max_flaeche": "5000",
+        "navigation": "RTK + LiDAR + KI Vision",
+        "schnittbreite": "40",
+        "steigung": "80",
+        "lautstaerke": "57",
+        "app_steuerung": "Ja (Mammotion App + 4G)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

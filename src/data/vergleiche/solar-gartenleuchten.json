@@ -1,0 +1,118 @@
+{
+  "slug": "solar-gartenleuchten",
+  "kategorie": "beleuchtung",
+  "titel": "Solar-Gartenleuchten",
+  "beschreibung": "Solar-Gartenleuchten Test 2026: 4 Sets im Vergleich ✓ Warmweiß & stimmungsvoll ✓ Kabellos & wetterfest",
+  "keywords": [
+    "solar gartenleuchten",
+    "solarleuchten garten",
+    "solar gartenlampen test",
+    "solarleuchten test 2026",
+    "solar wegeleuchten",
+    "led solarleuchten garten",
+    "solar gartenbeleuchtung",
+    "solarleuchten vergleich",
+    "solar gartenleuchten warmweiß",
+    "solarlampen außen"
+  ],
+  "einleitung": "Stimmungsvolle Beleuchtung im Garten ohne Stromkabel und ohne Stromkosten — Solar-Gartenleuchten machen es möglich. Wir vergleichen vier Sets vom dezenten Wegeleuchten-Pack bis zur Premium-Solarlaterne und zeigen, welche Leuchten wirklich die ganze Nacht durchhalten.",
+  "kaufberatung": "### LED-Helligkeit — wie viel Lumen brauche ich?\nFür dezente Wegmarkierungen reichen 5-20 Lumen pro Leuchte. Für echte Beleuchtung von Einfahrten oder Terrassen brauchst du 50-200 Lumen. Zum Vergleich: Eine 40W-Glühbirne hat etwa 400 Lumen. Warmweiß (2700-3000 K) wirkt gemütlich, kaltweiß (4000-6000 K) ist sachlich.\n\n### Akkukapazität und Leuchtdauer\nDie meisten Solarleuchten laden tagsüber 6-8 Stunden und leuchten dann 6-12 Stunden. Entscheidend ist die Akkugröße: 600-800 mAh für Deko-Leuchten, 1200-2000 mAh für Wegbeleuchtung. Im Winter reicht die Sonnenenergie oft nicht für die ganze Nacht.\n\n### IP-Schutzklasse — wetterfest ist Pflicht\nMindestens IP44 (spritzwassergeschützt) für den Garten. Besser IP65 (strahlwassergeschützt) für den Winter. Leuchten am Teichrand oder in Bodennähe sollten IP67 haben (kurzzeitiges Untertauchen).\n\n### Montage: Erdspieß, Wandmontage oder frei stehend\nErdspieße sind am einfachsten — einstecken und fertig. Wandleuchten brauchen Schrauben, leuchten aber gezielter. Frei stehende Laternen sind dekorativ, aber windanfällig. Achte darauf, dass die Solarzelle nicht durch Bäume oder Gebäude verschattet wird.",
+  "vergleichsKategorien": [
+    {
+      "key": "helligkeit",
+      "label": "Helligkeit pro Leuchte",
+      "einheit": "Lumen",
+      "sortierung": 1
+    },
+    {
+      "key": "leuchtdauer",
+      "label": "Leuchtdauer",
+      "einheit": "h",
+      "sortierung": 2
+    },
+    {
+      "key": "schutzklasse",
+      "label": "IP-Schutzklasse",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "stueckzahl",
+      "label": "Stückzahl im Set",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "lichtfarbe",
+      "label": "Lichtfarbe",
+      "einheit": "K",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Funktionieren Solar-Gartenleuchten auch im Winter?",
+      "antwort": "Ja, aber mit deutlich kürzerer Leuchtdauer. Im Winter sind die Tage kürzer und die Sonneneinstrahlung schwächer, sodass die Akkus nur teilweise geladen werden. Hochwertige Modelle mit großen Akkus (1500+ mAh) und effizienten Solarzellen halten auch im Winter 4-6 Stunden durch."
+    },
+    {
+      "frage": "Wie lange halten die Akkus von Solarleuchten?",
+      "antwort": "Die eingebauten NiMH- oder Li-Ion-Akkus halten typischerweise 2-3 Jahre, danach sinkt die Kapazität merklich. Bei vielen Modellen lassen sich die Akkus einfach austauschen — achte beim Kauf auf Standard-Akkugrößen (AA oder AAA). Leuchten mit fest verbauten Akkus sind nach dem Akkutod Elektroschrott."
+    },
+    {
+      "frage": "Warum leuchtet meine Solarlampe nicht?",
+      "antwort": "Die häufigsten Ursachen: 1) Schutzfolie auf der Solarzelle nicht entfernt. 2) Standort zu schattig — die Solarzelle braucht direkte Sonneneinstrahlung. 3) Akku leer oder defekt — bei neuen Leuchten erst einen vollen Sonnentag laden lassen. 4) Dämmerungssensor durch Straßenlicht gestört — die Leuchte denkt, es ist noch hell."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Linkind 12er-Pack Solar Wegeleuchten",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B09N8WKHWM?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "15",
+        "leuchtdauer": "8",
+        "schutzklasse": "IP44",
+        "stueckzahl": "12",
+        "lichtfarbe": "3000 (warmweiß)"
+      }
+    },
+    {
+      "name": "Philips Solar Pedestal 6er-Set",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CQ5FD2W5?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "30",
+        "leuchtdauer": "10",
+        "schutzklasse": "IP44",
+        "stueckzahl": "6",
+        "lichtfarbe": "2700 (warmweiß)"
+      }
+    },
+    {
+      "name": "Steinel XSolar GL-S Solar-Wegeleuchte",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00KRBQN3K?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "150",
+        "leuchtdauer": "5",
+        "schutzklasse": "IP44",
+        "stueckzahl": "1",
+        "lichtfarbe": "3000 (warmweiß)"
+      }
+    },
+    {
+      "name": "Lutec Solar-LED Außenleuchte DRACO",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09WDVHKZJ?tag=janxsiegmann-21",
+      "werte": {
+        "helligkeit": "300",
+        "leuchtdauer": "8",
+        "schutzklasse": "IP54",
+        "stueckzahl": "1",
+        "lichtfarbe": "3000 (warmweiß)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

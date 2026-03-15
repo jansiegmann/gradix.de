@@ -1,0 +1,118 @@
+{
+  "slug": "regentonne-regenwassertank",
+  "kategorie": "garten",
+  "titel": "Regentonne/Regenwassertank",
+  "beschreibung": "Regentonne Test 2026: 4 Modelle im Vergleich ✓ 200–500 Liter ✓ Geld sparen mit Regenwasser",
+  "keywords": [
+    "regentonne",
+    "regenwassertank",
+    "regentonne 300 liter",
+    "regentonne test",
+    "regenwasser sammeln",
+    "regentonne vergleich 2026",
+    "regenwassertonne garten",
+    "regentonne kaufen",
+    "regensammler",
+    "regentonne mit hahn"
+  ],
+  "einleitung": "Trinkwasser für den Garten verschwenden? Das muss nicht sein. Eine Regentonne sammelt kostenloses Regenwasser — perfekt zum Gießen, und deine Pflanzen mögen es sogar lieber als kalkhaltiges Leitungswasser. Wir vergleichen vier Modelle vom klassischen Fass bis zum eleganten Wandtank.",
+  "kaufberatung": "### Wie groß muss meine Regentonne sein?\nFaustregel: Pro 10 m² Dachfläche fallen pro Jahr etwa 700-900 Liter Regenwasser an. Für eine Regenperiode reichen 200-300 Liter als Puffer. Wer durch Trockenperioden kommen will, braucht 500+ Liter. Mehrere kleinere Tonnen lassen sich mit Verbindungssets koppeln.\n\n### Anschluss an das Fallrohr\nDu brauchst einen Regensammler (auch Regendieb genannt), der in das Fallrohr deiner Dachrinne eingesetzt wird. Die meisten passen in DN 70/100 Fallrohre. Der Regensammler leitet das Wasser in die Tonne und stoppt automatisch, wenn sie voll ist.\n\n### Form und Optik — Tonne, Amphore oder Wandtank?\nKlassische Tonnen sind günstig und fassen viel, sehen aber nicht schön aus. Amphoren und Säulentanks sind dekorativ und platzsparend. Wandtanks nutzen die Hauswand als Stellfläche. Für den Vorgarten empfehlen sich optisch ansprechende Modelle wie die Garantia Regenwasser-Amphore.\n\n### Kindersicherung und Mückenabwehr\nEin geschlossener Deckel ist Pflicht — offene Tonnen sind eine Ertrinkungsgefahr für Kinder und ein Brutplatz für Mücken. Wer keine geschlossene Tonne hat, sollte ein engmaschiges Netz drüberlegen. Ein paar Tropfen Neemöl im Wasser halten Mückenlarven fern.",
+  "vergleichsKategorien": [
+    {
+      "key": "volumen",
+      "label": "Fassungsvermögen",
+      "einheit": "l",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "form",
+      "label": "Bauform",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "hahn",
+      "label": "Auslaufhahn",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "deckel",
+      "label": "Kindersicherer Deckel",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Muss ich meine Regentonne im Winter leeren?",
+      "antwort": "Ja, unbedingt. Gefrorenes Wasser dehnt sich aus und kann die Tonne sprengen — selbst dickwandige Kunststofftonnen. Im Herbst das Wasser ablassen, den Regensammler abtrennen und die Tonne umgedreht oder mit offenem Deckel lagern. So kann kein Regenwasser reinlaufen und gefrieren."
+    },
+    {
+      "frage": "Kann ich Regenwasser auch zum Wäschewaschen nutzen?",
+      "antwort": "Theoretisch ja, aber nur mit einer Regenwassernutzungsanlage mit Filter und separatem Leitungssystem. Eine einfache Regentonne reicht dafür nicht — das Wasser enthält Schmutzpartikel, Pollen und möglicherweise Vogelkot vom Dach. Für den Garten ist es hingegen unbedenklich und sogar vorteilhaft."
+    },
+    {
+      "frage": "Was kostet Regenwasser im Vergleich zu Leitungswasser?",
+      "antwort": "Leitungswasser kostet in Deutschland durchschnittlich 4-5 Euro pro Kubikmeter (1000 Liter) inklusive Abwasser. Regenwasser ist kostenlos. Eine 300-Liter-Tonne spart bei 10 Füllungen pro Saison etwa 12-15 Euro Wasserkosten. Die Tonne amortisiert sich also nach 2-3 Jahren — und danach sparst du dauerhaft."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Ondis24 Regentonne 220L",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B087M6KPY6?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "220",
+        "material": "Kunststoff (PE)",
+        "form": "Klassische Tonne",
+        "hahn": "Ja (Kunststoff)",
+        "deckel": "Ja"
+      }
+    },
+    {
+      "name": "Garantia Regenwasser-Amphore 360L",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0DHXCV5SP?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "360",
+        "material": "Kunststoff (Terracotta-Optik)",
+        "form": "Amphore dekorativ",
+        "hahn": "Ja (Messing-Optik)",
+        "deckel": "Ja (kindersicher)"
+      }
+    },
+    {
+      "name": "Garantia Säulentank 500L",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B001CK8KQM?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "500",
+        "material": "Kunststoff (steingrau)",
+        "form": "Säule (platzsparend)",
+        "hahn": "Ja (Messing)",
+        "deckel": "Ja (kindersicher)"
+      }
+    },
+    {
+      "name": "Graf Wandtank Slim 650L",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00PXUOMLO?tag=janxsiegmann-21",
+      "werte": {
+        "volumen": "650",
+        "material": "Kunststoff (UV-stabil)",
+        "form": "Wandtank (flach)",
+        "hahn": "Ja (Messing)",
+        "deckel": "Ja (kindersicher)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

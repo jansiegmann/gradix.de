@@ -1,0 +1,118 @@
+{
+  "slug": "gartenmoebel-set",
+  "kategorie": "garten",
+  "titel": "Gartenmöbel-Set (Lounge/Sitzgruppe)",
+  "beschreibung": "Gartenmöbel-Set Test 2026: 4 Lounge-Sets im Vergleich ✓ Polyrattan & Aluminium ✓ Wetterfest & bequem",
+  "keywords": [
+    "gartenmöbel set",
+    "lounge set garten",
+    "gartenmöbel test",
+    "polyrattan lounge",
+    "gartenmöbel set vergleich 2026",
+    "sitzgruppe garten",
+    "gartenmöbel kaufen",
+    "gartenmöbel wetterfest",
+    "gartenlounge",
+    "gartenmöbel kaufberatung"
+  ],
+  "einleitung": "Entspannen im eigenen Garten braucht die richtigen Möbel — bequem, wetterfest und schick. Wir vergleichen vier Gartenmöbel-Sets von der günstigen Polyrattan-Lounge bis zum Premium-Aluminium-Set und zeigen, was bei Wind und Wetter wirklich hält.",
+  "kaufberatung": "### Polyrattan, Aluminium oder Holz?\nPolyrattan sieht aus wie echtes Rattan, ist aber wetterfest und pflegeleicht. Aluminium ist leicht, rostfrei und modern. Holz (Teak, Akazie) ist natürlich schön, braucht aber Pflege. Für den besten Kompromiss aus Optik, Haltbarkeit und Preis empfehlen wir Polyrattan-Sets mit Aluminium-Gestell.\n\n### Polster und Bezüge\nAußenpolster sollten aus schmutz- und wasserabweisendem Polyester bestehen (mindestens 180 g/m²). Oeko-Tex-zertifizierte Bezüge sind hautfreundlich. Abnehmbare, waschbare Bezüge sind ein großes Plus. Im Winter Polster unbedingt trocken lagern — sie schimmeln sonst.\n\n### Platzbedarf und Personenzahl\nEine 4-Personen-Ecklounge braucht mindestens 4 m² Stellfläche. Für 6 Personen am Esstisch rechne mit 6-8 m². Tipp: Modulare Sets lassen sich flexibel umstellen und an unterschiedliche Anlässe anpassen.\n\n### Wie erkenne ich Qualität?\nStabiles Aluminiumgestell (nicht dünner Stahl). Dichtes, gleichmäßiges Flechtwerk ohne Lücken. UV-beständiges Polyrattan (PE, nicht PVC). Edelstahl-Verschraubungen statt Eisenschrauben. Sitzprobe: Knarzt oder wackelt der Rahmen? Finger weg.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "personen",
+      "label": "Personenzahl",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "polster",
+      "label": "Polster inklusive",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "wetterfest",
+      "label": "Wetterfest",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "aufbau",
+      "label": "Aufbauzeit",
+      "einheit": "min",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich Polyrattan-Möbel im Winter draußen lassen?",
+      "antwort": "Das Gestell und Flechtwerk vertragen Frost und Nässe. Aber: Die Polster müssen rein — sie schimmeln sonst. Am besten eine Abdeckplane über die Möbel ziehen und auf Füße stellen, damit kein Wasser von unten eindringt. Ideal ist ein trockener Stellplatz unter einem Vordach oder in der Garage."
+    },
+    {
+      "frage": "Wie reinige ich Polyrattan-Gartenmöbel?",
+      "antwort": "Regelmäßig mit warmem Wasser und mildem Spülmittel abwischen. Für hartnäckigen Schmutz eine weiche Bürste verwenden. Keinen Hochdruckreiniger direkt auf das Flechtwerk richten — das löst die Fasern. Einmal pro Saison mit Polyrattan-Pflegemittel behandeln, das hält das Material geschmeidig."
+    },
+    {
+      "frage": "Wie schwer muss ein Gartenmöbel-Set sein, damit es nicht wegfliegt?",
+      "antwort": "Ein leichtes Aluminium-Set kann bei Sturm tatsächlich wegfliegen. Ab 30 kg Gesamtgewicht ist das Set bei normalem Wind stabil. Bei Sturmwarnung trotzdem sichern oder einräumen. Schwere Holz- oder Stein-Sets bleiben von alleine stehen, sind dafür schwerer zu bewegen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Juskys Polyrattan Lounge Nassau 4-teilig",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07VCL8H8C?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Polyrattan + Stahlgestell",
+        "personen": "4",
+        "polster": "Ja (Polyester)",
+        "wetterfest": "Ja (außer Polster)",
+        "aufbau": "60–90"
+      }
+    },
+    {
+      "name": "ArtLife Polyrattan Sitzgruppe Punta Cana M",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BFRWTZV3?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Polyrattan + Stahlgestell pulverbesch.",
+        "personen": "4–5",
+        "polster": "Ja (Polyester, abnehmbar)",
+        "wetterfest": "Ja (außer Polster)",
+        "aufbau": "45–60"
+      }
+    },
+    {
+      "name": "Keter Rosalie 5-teilige Lounge",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B084J6RG6F?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Polyrattan (PE) + Stahl",
+        "personen": "5",
+        "polster": "Ja (wetterfest)",
+        "wetterfest": "Ja (komplett)",
+        "aufbau": "30–45"
+      }
+    },
+    {
+      "name": "Allibert by Keter Monaco Lounge Set",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B07JMWQX96?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Hochwertiges Polyrattan + Aluminium",
+        "personen": "5",
+        "polster": "Ja (Premium Polyester)",
+        "wetterfest": "Ja (komplett)",
+        "aufbau": "20–30"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

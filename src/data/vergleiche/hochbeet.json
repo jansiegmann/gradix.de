@@ -1,0 +1,118 @@
+{
+  "slug": "hochbeet",
+  "kategorie": "garten",
+  "titel": "Hochbeet",
+  "beschreibung": "Hochbeet Test 2026: 4 Modelle im Vergleich ✓ Holz, Metall & Kunststoff ✓ Rückenschonendes Gärtnern",
+  "keywords": [
+    "hochbeet",
+    "hochbeet kaufen",
+    "hochbeet test",
+    "hochbeet vergleich 2026",
+    "hochbeet holz",
+    "hochbeet metall",
+    "bestes hochbeet",
+    "hochbeet für balkon",
+    "hochbeet bepflanzen",
+    "hochbeet kaufberatung"
+  ],
+  "einleitung": "Gärtnern ohne Bücken, besserer Boden und weniger Schnecken — ein Hochbeet macht vieles einfacher. Wir vergleichen vier Modelle aus Holz, Metall und Kunststoff und zeigen dir, welches Hochbeet zu deinem Garten und deinem Budget passt.",
+  "kaufberatung": "### Holz, Metall oder Kunststoff — welches Material?\nHolz (Lärche, Douglasie) sieht natürlich aus und isoliert gut, verrottet aber nach 5-8 Jahren. Metall (Cortenstahl, verzinkter Stahl) ist extrem langlebig (15+ Jahre) und modern, leitet aber Wärme und Kälte stärker. Kunststoff ist günstig und pflegeleicht, wirkt aber weniger hochwertig.\n\n### Die richtige Höhe und Größe\nStandard-Höhe ist 70-80 cm — ideal für rückenschonendes Arbeiten. Breite maximal 120 cm, damit du von beiden Seiten die Mitte erreichst. Länge nach Bedarf, aber mindestens 100 cm für sinnvolles Gärtnern. Auf dem Balkon auf das Gewicht achten: Ein befülltes Hochbeet wiegt schnell 200-400 kg.\n\n### Die richtige Befüllung — das Schichtsystem\nVon unten nach oben: 1) Grobe Äste und Strauchschnitt (20 cm) für Drainage. 2) Laub und Grasschnitt (15 cm). 3) Grober Kompost (20 cm). 4) Feine Pflanzerde/Kompost-Mischung (25 cm). Dieses Schichtsystem erzeugt Verrottungswärme und liefert jahrelang Nährstoffe.\n\n### Wühlmausgitter nicht vergessen\nOhne Bodengitter werden Wühlmäuse im Hochbeet zum Albtraum. Verzinktes Drahtgitter (Maschenweite max. 12 mm) unter das Hochbeet legen, mit Überstand an den Seiten hochbiegen. Die meisten Bausätze liefern kein Gitter mit — separat kaufen!",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "masse",
+      "label": "Maße (L×B×H)",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "volumen",
+      "label": "Füllvolumen",
+      "einheit": "l",
+      "sortierung": 3
+    },
+    {
+      "key": "aufbau",
+      "label": "Aufbau",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "haltbarkeit",
+      "label": "Haltbarkeit",
+      "einheit": "Jahre (ca.)",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange hält ein Hochbeet aus Holz?",
+      "antwort": "Unbehandeltes Nadelholz (Fichte/Kiefer) hält 3-5 Jahre, Lärche und Douglasie 6-10 Jahre. Innen mit Noppenfolie auskleiden verlängert die Lebensdauer deutlich. Kesseldruckimprägniertes Holz hält am längsten, ist aber für den Gemüseanbau umstritten wegen der Chemikalien."
+    },
+    {
+      "frage": "Muss ich die Erde im Hochbeet jedes Jahr austauschen?",
+      "antwort": "Nein, aber jedes Jahr 5-10 cm oben nachfüllen, da die Erde durch Verrottung absackt. Nach 5-6 Jahren lohnt sich ein kompletter Tausch der Befüllung, da die Nährstoffe dann erschöpft sind. Dazwischen mit Kompost und organischem Dünger auffrischen."
+    },
+    {
+      "frage": "Was kann ich in einem Hochbeet anbauen?",
+      "antwort": "Im ersten Jahr nährstoffhungrige Pflanzen wie Tomaten, Kürbis und Zucchini (Starkzehrer). Im zweiten Jahr Salat, Kohlrabi, Fenchel (Mittelzehrer). Ab dem dritten Jahr Kräuter, Erbsen und Bohnen (Schwachzehrer). Diese Fruchtfolge nutzt die absinkenden Nährstoffe optimal."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Keter Easy Grow 120",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B07D94MLK1?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Kunststoff (Polypropylene)",
+        "masse": "120×60×75",
+        "volumen": "270",
+        "aufbau": "Stecksystem (werkzeugfrei)",
+        "haltbarkeit": "10+"
+      }
+    },
+    {
+      "name": "Habau Hochbeet Lärche 120×80",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B09N1FH9RC?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Lärchenholz (unbehandelt)",
+        "masse": "120×80×78",
+        "volumen": "420",
+        "aufbau": "Schraubmontage (30–45 min)",
+        "haltbarkeit": "6–10"
+      }
+    },
+    {
+      "name": "Vitavia Hochbeet Zinkalume 120×80",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B084DFPG2Y?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Verzinkter Stahl (Zinkalume)",
+        "masse": "120×80×86",
+        "volumen": "480",
+        "aufbau": "Stecksystem (20 min)",
+        "haltbarkeit": "15+"
+      }
+    },
+    {
+      "name": "GFP Cortenstahl Hochbeet 150×80",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CYV2QGX1?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Cortenstahl (Edelrost)",
+        "masse": "150×80×77",
+        "volumen": "580",
+        "aufbau": "Schraubmontage (30 min)",
+        "haltbarkeit": "20+"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "gartenhaus-geraeteschuppen",
+  "kategorie": "garten",
+  "titel": "Gartenhaus/Geräteschuppen",
+  "beschreibung": "Gartenhaus Test 2026: 4 Geräteschuppen im Vergleich ✓ Metall, Holz & Kunststoff ✓ Wetterfest & sicher",
+  "keywords": [
+    "gartenhaus",
+    "geräteschuppen",
+    "geräteschuppen test",
+    "gartenhaus kaufen",
+    "geräteschuppen metall",
+    "gerätehaus garten",
+    "gartenhaus vergleich 2026",
+    "geräteschuppen holz",
+    "kleines gartenhaus",
+    "geräteschuppen kaufberatung"
+  ],
+  "einleitung": "Rasenmäher, Gartenmöbel und Werkzeug brauchen ein Zuhause — ein Geräteschuppen schützt deine Gartengeräte vor Wind und Wetter. Wir vergleichen vier Modelle aus Metall, Holz und Kunststoff und zeigen, welcher Schuppen zu deinem Garten und Budget passt.",
+  "kaufberatung": "### Metall, Holz oder Kunststoff — welches Material?\nMetallschuppen (verzinkter Stahl) sind günstig, wetterfest und praktisch wartungsfrei. Holzschuppen sehen natürlich aus und bieten besseres Raumklima, brauchen aber regelmäßigen Anstrich. Kunststoffschuppen sind leicht und pflegefrei, wirken aber weniger stabil.\n\n### Größe richtig planen\nFaustregel: Mindestens 3 m² für Rasenmäher und Basics. 5-8 m² für den kompletten Gerätepark inklusive Fahrräder. Über 10 m² wenn du auch eine Werkbank aufstellen willst. Tipp: Regal- und Wandhaken-Systeme nutzen den vertikalen Raum.\n\n### Fundament und Aufbau\nJeder Schuppen braucht ein ebenes, tragfähiges Fundament. Optionen: Gehwegplatten (einfach), Betonfundament (aufwändig aber perfekt) oder ein Holzrahmen mit Terrassendielen. Ohne Fundament steht der Schuppen schief und Bodenfeuchte zerstört das Material.\n\n### Baugenehmigung — vorher prüfen!\nIn den meisten Bundesländern sind Geräteschuppen bis 10 m² Grundfläche genehmigungsfrei. Aber: Abstandsregeln zum Nachbarn (meist 3 m) und Bebauungsplan müssen eingehalten werden. Im Zweifelsfall beim Bauamt nachfragen — sonst droht Abriss.",
+  "vergleichsKategorien": [
+    {
+      "key": "grundflaeche",
+      "label": "Grundfläche",
+      "einheit": "m²",
+      "sortierung": 1
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "hoehe",
+      "label": "Höhe (innen)",
+      "einheit": "cm",
+      "sortierung": 3
+    },
+    {
+      "key": "tueroeffnung",
+      "label": "Türöffnung (B×H)",
+      "einheit": "cm",
+      "sortierung": 4
+    },
+    {
+      "key": "schneelast",
+      "label": "Schneelast",
+      "einheit": "kg/m²",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich eine Baugenehmigung für einen Geräteschuppen?",
+      "antwort": "In den meisten Bundesländern sind Schuppen bis 10 m² genehmigungsfrei. In NRW sogar bis 30 m³. Aber Vorsicht: Der Bebauungsplan und Abstandsregeln (meist 3 m zur Grundstücksgrenze) müssen trotzdem eingehalten werden. Im Kleingartenverein gelten die Regeln des Bundeskleingartengesetzes."
+    },
+    {
+      "frage": "Wie pflege ich einen Metallschuppen?",
+      "antwort": "Verzinkter Stahl ist praktisch wartungsfrei. Einmal im Jahr auf Kratzer und Roststellen prüfen, bei Bedarf mit Zinkspray nachbessern. Die Dachrinne frei halten und darauf achten, dass keine Pflanzen direkt am Schuppen wachsen — das hält die Feuchtigkeit fern."
+    },
+    {
+      "frage": "Kann ich einen Geräteschuppen isolieren?",
+      "antwort": "Ja, aber das lohnt sich nur bei Holzschuppen und wenn du empfindliche Geräte (Akkus, Elektronik) überwintern willst. Styrodur-Platten an den Innenwänden sind die einfachste Methode. Für Metallschuppen gibt es selbstklebende Isoliermatten. Beachte: Ohne Belüftung führt Isolierung zu Kondenswasser und Schimmel."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Arrow Geräteschuppen 4,3 m²",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0D6JD6F3Q?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "4,3",
+        "material": "Verzinkter Stahl",
+        "hoehe": "192",
+        "tueroeffnung": "140×170",
+        "schneelast": "65"
+      }
+    },
+    {
+      "name": "Keter Manor 46 S (3,4 m²)",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B00OGTMUYY?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "3,4",
+        "material": "Duro-Kunststoff (UV-beständig)",
+        "hoehe": "198",
+        "tueroeffnung": "130×178",
+        "schneelast": "100"
+      }
+    },
+    {
+      "name": "Karibu Gerätehaus Dahme 3 (5,4 m²)",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07YR6VFMY?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "5,4",
+        "material": "Fichtenholz (19 mm Wandstärke)",
+        "hoehe": "211",
+        "tueroeffnung": "155×175",
+        "schneelast": "75"
+      }
+    },
+    {
+      "name": "Biohort AvantGarde A5 (5,4 m²)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0732DXGVX?tag=janxsiegmann-21",
+      "werte": {
+        "grundflaeche": "5,4",
+        "material": "Verzinkter Stahl (0,5 mm) + Polyamid-Beschichtung",
+        "hoehe": "218",
+        "tueroeffnung": "170×200 (Doppeltür)",
+        "schneelast": "150"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

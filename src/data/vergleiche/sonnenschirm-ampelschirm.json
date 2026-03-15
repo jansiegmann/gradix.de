@@ -1,0 +1,118 @@
+{
+  "slug": "sonnenschirm-ampelschirm",
+  "kategorie": "garten",
+  "titel": "Sonnenschirm (Ampelschirm)",
+  "beschreibung": "Ampelschirm Test 2026: 4 Modelle im Vergleich ✓ Bis 3,5m Durchmesser ✓ UV-Schutz 50+ ✓ Windstabil",
+  "keywords": [
+    "ampelschirm",
+    "sonnenschirm",
+    "ampelschirm test",
+    "sonnenschirm groß",
+    "ampelschirm test 2026",
+    "sonnenschirm vergleich",
+    "ampelschirm 300",
+    "sonnenschirm terrasse",
+    "ampelschirm kaufberatung",
+    "sonnenschirm mit ständer"
+  ],
+  "einleitung": "Schatten, wo du ihn brauchst — ein Ampelschirm beschattet Terrasse und Gartentisch, ohne dass der Mast im Weg steht. Wir vergleichen vier Modelle vom günstigen Freiarm-Schirm bis zum Premium-Ampelschirm mit Drehfunktion.",
+  "kaufberatung": "### Ampelschirm oder klassischer Mittelmastschirm?\nAmpelschirme haben den Mast seitlich, sodass der gesamte Schattenbereich nutzbar ist — ideal für Tische und Liegen. Mittelmastschirme sind stabiler und günstiger, der Mast steht aber mitten im Schatten. Für die Terrasse klar Ampelschirm, für den Strandkorb reicht ein Mittelmast.\n\n### UV-Schutz — UPF ist entscheidend\nUPF 50+ bedeutet, dass nur 1/50 der UV-Strahlung durchdringt — das ist der Goldstandard. Dunkle Stoffe schützen besser als helle. Polyester mit Beschichtung schützt besser als unbehandeltes Polyester. Achte auf das UV-Standard-801-Siegel.\n\n### Standfestigkeit bei Wind\nDer Schirmständer ist mindestens so wichtig wie der Schirm selbst. Für einen 3-m-Ampelschirm brauchst du mindestens 80-100 kg Gewicht am Fuß. Kreuzständer mit Betonplatten oder wasserbefüllbare Ständer sind die gängigsten Lösungen. Bei Windstärke 4+ den Schirm schließen.\n\n### Kurbel, Drehfunktion und Neigung\nEine Kurbel zum Öffnen und Schließen ist Standard. Hochwertige Modelle haben eine 360°-Drehfunktion und eine stufenlose Neigung — damit folgt der Schatten der Sonne, ohne den Schirm umzustellen. Diese Features machen einen deutlichen Unterschied im Alltag.",
+  "vergleichsKategorien": [
+    {
+      "key": "durchmesser",
+      "label": "Schirmdurchmesser",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "uv_schutz",
+      "label": "UV-Schutz",
+      "einheit": "UPF",
+      "sortierung": 2
+    },
+    {
+      "key": "drehbar",
+      "label": "360° drehbar",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "neigbar",
+      "label": "Neigbar",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "staender_inkl",
+      "label": "Ständer inklusive",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie schwer muss der Schirmständer für einen Ampelschirm sein?",
+      "antwort": "Faustregel: Mindestens 25-30 kg pro Meter Schirmdurchmesser. Ein 3-m-Schirm braucht also 75-90 kg. Lieber mehr als weniger — ein umkippender Ampelschirm kann Menschen verletzen und Möbel zerstören. Kreuzständer mit 4 Betonplatten à 25 kg sind die sicherste Lösung."
+    },
+    {
+      "frage": "Kann ich meinen Ampelschirm im Winter draußen lassen?",
+      "antwort": "Den Schirm im geschlossenen Zustand mit Schutzhülle draußen lassen ist möglich, wenn der Ständer stabil genug ist. Besser: Schirmbespannung abnehmen und trocken lagern, der Mast kann draußen bleiben. UV-Strahlung im Sommer und Feuchtigkeit im Winter verkürzen die Lebensdauer des Stoffes erheblich."
+    },
+    {
+      "frage": "Welche Farbe schützt am besten vor UV?",
+      "antwort": "Dunkle Farben (Anthrazit, Dunkelgrau, Navy) blocken mehr UV-Strahlung als helle. Aber: Unter dunklen Schirmen wird es auch wärmer, weil sie mehr Wärme abstrahlen. Ein guter Kompromiss sind mittlere Töne in Taupe oder Oliv. Wichtiger als die Farbe ist eine UV-Beschichtung des Stoffes — achte auf UPF 50+."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Schneider Ampelschirm Rhodos 300×300 cm",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B1DJPWG7?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "300×300 (eckig)",
+        "uv_schutz": "50+",
+        "drehbar": "Ja (360°)",
+        "neigbar": "Ja",
+        "staender_inkl": "Nein (separat)"
+      }
+    },
+    {
+      "name": "Schneider Ampelschirm Rhodos Grande 300×300",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07CVLF48C?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "300×300 (eckig)",
+        "uv_schutz": "50+",
+        "drehbar": "Ja (360°)",
+        "neigbar": "Ja (stufenlos)",
+        "staender_inkl": "Nein (separat)"
+      }
+    },
+    {
+      "name": "Doppler Active Auto Tilt 300 cm",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B07PGBVBQD?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "300 (rund)",
+        "uv_schutz": "50+",
+        "drehbar": "Ja (360°)",
+        "neigbar": "Ja (Auto-Tilt)",
+        "staender_inkl": "Nein"
+      }
+    },
+    {
+      "name": "Glatz Sombrano S+ 350×350 cm",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08W3NC5K4?tag=janxsiegmann-21",
+      "werte": {
+        "durchmesser": "350×350 (eckig)",
+        "uv_schutz": "50+",
+        "drehbar": "Ja (360°)",
+        "neigbar": "Ja (Easy-Glide)",
+        "staender_inkl": "Nein (verschiedene Optionen)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

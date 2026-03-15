@@ -1,0 +1,118 @@
+{
+  "slug": "akku-heckenschere",
+  "kategorie": "garten",
+  "titel": "Akku-Heckenschere",
+  "beschreibung": "Akku-Heckenschere Test 2026: 4 Modelle im Vergleich ✓ Leicht & leistungsstark ✓ Für jeden Heckenschnitt",
+  "keywords": [
+    "akku heckenschere",
+    "akku heckenschere test",
+    "beste akku heckenschere",
+    "heckenschere akku test 2026",
+    "akku heckenschere vergleich",
+    "heckenschere kabellos",
+    "bosch akku heckenschere",
+    "einhell heckenschere akku",
+    "makita heckenschere",
+    "akku heckenschere kaufberatung"
+  ],
+  "einleitung": "Deine Hecke wächst schneller als du sie schneiden kannst? Eine Akku-Heckenschere macht Schluss mit Kabelsalat und Benzingestank. Wir haben vier Modelle getestet — vom günstigen Einstieg bis zum Profi-Gerät — und verraten, welche Schere deiner Hecke gewachsen ist.",
+  "kaufberatung": "### Schwertlänge — wie lang muss die Heckenschere sein?\nFür schmale Hecken bis 50 cm Tiefe reicht ein 45-50 cm Schwert. Breite Hecken über 60 cm brauchen mindestens 55-60 cm. Längere Schwerter sind schwerer und unhandlicher — also nicht überdimensionieren. Die goldene Mitte für die meisten Gartenhecken liegt bei 50-55 cm.\n\n### Schnittstärke — welche Äste schafft die Schere?\nDie Schnittstärke gibt an, wie dicke Äste die Schere durchtrennt. Für regelmäßig geschnittene Liguster- oder Thujahecken reichen 16-18 mm. Verwilderte Hecken oder Hartholz wie Buche brauchen 20-26 mm. Der Makita DUH523 schafft bis zu 26 mm — damit geht fast alles.\n\n### Gewicht und Ergonomie — stundenlang schneiden ohne Schmerzen\nEine Akku-Heckenschere wiegt mit Akku 2,5-4 kg. Das klingt leicht, wird aber nach 30 Minuten über Kopf zur Herausforderung. Achte auf einen Drehgriff, der verschiedene Schnittwinkel ermöglicht, und einen gummierten Griff gegen Vibrationen.\n\n### Akkulaufzeit und Systemkompatibilität\nMit einem 2,0-Ah-Akku schneidest du ca. 30-45 Minuten, mit 4,0 Ah entsprechend länger. Prüfe, ob der Akku zu deinen anderen Gartengeräten passt — Einhell Power X-Change, Bosch Power for All und Makita LXT sind die gängigsten Systeme.",
+  "vergleichsKategorien": [
+    {
+      "key": "schwertlaenge",
+      "label": "Schwertlänge",
+      "einheit": "cm",
+      "sortierung": 1
+    },
+    {
+      "key": "schnittstaerke",
+      "label": "Max. Schnittstärke",
+      "einheit": "mm",
+      "sortierung": 2
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht mit Akku",
+      "einheit": "kg",
+      "sortierung": 3
+    },
+    {
+      "key": "hubzahl",
+      "label": "Hubzahl",
+      "einheit": "min⁻¹",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB(A)",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie oft sollte ich meine Hecke schneiden?",
+      "antwort": "Die meisten Hecken brauchen 2-3 Schnitte pro Jahr: den Formschnitt im Juni nach dem Hauptaustrieb und einen Nachschnitt im August/September. Schnellwachsende Hecken wie Liguster vertragen auch einen dritten Schnitt. Zwischen März und September nicht radikal zurückschneiden — das Bundesnaturschutzgesetz verbietet das wegen brütender Vögel."
+    },
+    {
+      "frage": "Kann ich mit einer Akku-Heckenschere auch dicke Äste schneiden?",
+      "antwort": "Akku-Heckenscheren sind für den regelmäßigen Formschnitt gedacht, nicht für Rückschnitte von dicken Ästen. Äste über 20 mm Durchmesser solltest du besser mit einer Astschere oder Kettensäge bearbeiten. Die Schere wird sonst stumpf und der Akku leidet."
+    },
+    {
+      "frage": "Wie pflege ich die Messer meiner Heckenschere?",
+      "antwort": "Nach jedem Einsatz Pflanzenreste von den Klingen entfernen und mit Harzlöser reinigen. Dann dünn mit Pflegeöl einsprühen. Einmal pro Saison die Messer mit einer Flachfeile nachschärfen oder schärfen lassen. Stumpfe Messer quetschen die Zweige statt sie zu schneiden — das schadet der Hecke."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell GE-CH 18/60 Li-Solo",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B06XKP8WQC?tag=janxsiegmann-21",
+      "werte": {
+        "schwertlaenge": "52",
+        "schnittstaerke": "18",
+        "gewicht": "2,7",
+        "hubzahl": "2600",
+        "lautstaerke": "73"
+      }
+    },
+    {
+      "name": "Bosch UniversalHedgeCut 18V-55",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BTZZHL2Q?tag=janxsiegmann-21",
+      "werte": {
+        "schwertlaenge": "55",
+        "schnittstaerke": "20",
+        "gewicht": "3,0",
+        "hubzahl": "2800",
+        "lautstaerke": "74"
+      }
+    },
+    {
+      "name": "Gardena ComfortCut 60/18V P4A",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B08NP3MV8K?tag=janxsiegmann-21",
+      "werte": {
+        "schwertlaenge": "60",
+        "schnittstaerke": "22",
+        "gewicht": "3,2",
+        "hubzahl": "3000",
+        "lautstaerke": "76"
+      }
+    },
+    {
+      "name": "Makita DUH523Z",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B00FDN4VIS?tag=janxsiegmann-21",
+      "werte": {
+        "schwertlaenge": "52",
+        "schnittstaerke": "26",
+        "gewicht": "3,3",
+        "hubzahl": "3200",
+        "lautstaerke": "77"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

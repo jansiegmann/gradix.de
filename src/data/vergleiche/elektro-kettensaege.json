@@ -1,0 +1,118 @@
+{
+  "slug": "elektro-kettensaege",
+  "kategorie": "garten",
+  "titel": "Elektro-Kettensäge",
+  "beschreibung": "Elektro-Kettensäge Test 2026: 4 Modelle im Vergleich ✓ Akku & Kabel ✓ Für Brennholz & Baumschnitt",
+  "keywords": [
+    "elektro kettensäge",
+    "kettensäge test",
+    "akku kettensäge",
+    "kettensäge test 2026",
+    "elektro kettensäge vergleich",
+    "kettensäge für brennholz",
+    "akku kettensäge test",
+    "bosch kettensäge",
+    "stihl kettensäge elektrisch",
+    "kettensäge kaufberatung"
+  ],
+  "einleitung": "Brennholz sägen, Bäume fällen oder Sturmschäden beseitigen — eine Elektro-Kettensäge erledigt das sauber und ohne Benzingestank. Wir vergleichen vier Modelle vom günstigen Kabelgerät bis zur professionellen Akku-Kettensäge und zeigen, worauf es bei Sicherheit und Leistung ankommt.",
+  "kaufberatung": "### Akku oder Kabel — was ist besser?\nKabel-Kettensägen sind günstiger und haben konstante Leistung, brauchen aber eine Steckdose in der Nähe. Akku-Modelle bieten volle Bewegungsfreiheit, sind aber teurer und haben begrenzte Laufzeit. Für den Hausgarten ist Kabel oft die praktischere Wahl, im Wald oder auf dem Grundstück ohne Strom gewinnt der Akku.\n\n### Schwertlänge und Leistung\nFür Gartenarbeiten und Brennholz bis 30 cm Durchmesser reichen 30-35 cm Schwert und 1800-2000 W. Dickere Stämme brauchen 40+ cm und mehr Power. Faustregel: Die Schwertlänge sollte mindestens dem doppelten Durchmesser des dicksten zu sägenden Holzes entsprechen.\n\n### Sicherheitsfeatures — nicht verhandelbar\nEine gute Kettensäge braucht: Kettenbremse (stoppt die Kette in Sekundenbruchteilen bei Rückschlag), Krallenanschlag (für sicheres Eintauchen ins Holz), Handschutz (gegen fliegende Späne) und einen Kettenfangbolzen (fängt gerissene Kette ab). Alle vier empfohlenen Modelle haben diese Features.\n\n### Kette spannen und ölen\nModerne Kettensägen haben werkzeuglose Kettenspannung — ein großes Plus. Die automatische Kettenschmierung ist Standard, aber prüfe regelmäßig den Ölstand. Verwende nur spezielles Kettenöl, kein Motoröl. Und vergiss nicht: Eine stumpfe Kette ist gefährlicher als eine scharfe, weil du mehr Druck ausüben musst.",
+  "vergleichsKategorien": [
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 1
+    },
+    {
+      "key": "schwertlaenge",
+      "label": "Schwertlänge",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "kettengeschwindigkeit",
+      "label": "Kettengeschwindigkeit",
+      "einheit": "m/s",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "antrieb",
+      "label": "Antriebsart",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Brauche ich für eine Elektro-Kettensäge einen Kettensägenschein?",
+      "antwort": "Für die private Nutzung auf dem eigenen Grundstück ist in Deutschland kein Schein nötig. Wer gewerblich oder im Wald arbeitet, braucht einen Motorsägenführerschein. Wir empfehlen aber dringend, einen Einführungskurs zu machen — Kettensägen sind die gefährlichsten Gartengeräte überhaupt."
+    },
+    {
+      "frage": "Welche Schutzausrüstung brauche ich?",
+      "antwort": "Minimum: Schnittschutzhandschuhe, Schnittschutzhose oder -stiefel, Gehörschutz und Schutzbrille. Idealerweise auch einen Helm mit Visier und Gehörschutz-Kombination. Die Investition von 100-200 Euro für gute Schutzausrüstung kann im Ernstfall Gliedmaßen retten."
+    },
+    {
+      "frage": "Wie lange hält eine Sägekette?",
+      "antwort": "Eine Kette hält je nach Nutzung 3-5 Schärfzyklen, danach sollte sie ersetzt werden. Profis schärfen nach jeder Tankfüllung. Im Hobbybetrieb reicht einmal nach 2-3 Stunden Arbeit. Stumpfe Ketten erkennt man daran, dass die Säge feines Sägemehl statt grober Späne produziert."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell GH-EC 2040",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B00BFKR7FO?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "2000",
+        "schwertlaenge": "40",
+        "kettengeschwindigkeit": "13,5",
+        "gewicht": "5,0",
+        "antrieb": "Kabel 230V"
+      }
+    },
+    {
+      "name": "Bosch UniversalChain 35",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B084ZKZ8Y4?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "1800",
+        "schwertlaenge": "35",
+        "kettengeschwindigkeit": "12",
+        "gewicht": "4,2",
+        "antrieb": "Kabel 230V"
+      }
+    },
+    {
+      "name": "Makita DUC353Z (Akku)",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B015FQG7DK?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "2x18V (36V)",
+        "schwertlaenge": "35",
+        "kettengeschwindigkeit": "20",
+        "gewicht": "5,2",
+        "antrieb": "Akku (2x18V LXT)"
+      }
+    },
+    {
+      "name": "Stihl MSA 220 C-B (Akku)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B097QKDDDV?tag=janxsiegmann-21",
+      "werte": {
+        "leistung": "36V AP-System",
+        "schwertlaenge": "35",
+        "kettengeschwindigkeit": "24",
+        "gewicht": "3,9",
+        "antrieb": "Akku (Stihl AP-System)"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

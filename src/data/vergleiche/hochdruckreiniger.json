@@ -1,0 +1,128 @@
+{
+  "slug": "hochdruckreiniger",
+  "kategorie": "reinigung",
+  "titel": "Hochdruckreiniger",
+  "beschreibung": "Hochdruckreiniger Test 2026: Die 4 besten Geräte im Vergleich ✓ Von Kärcher bis Bosch ✓ Für Terrasse, Auto & Fassade",
+  "keywords": [
+    "hochdruckreiniger",
+    "hochdruckreiniger test",
+    "kärcher hochdruckreiniger",
+    "hochdruckreiniger vergleich 2026",
+    "bester hochdruckreiniger",
+    "hochdruckreiniger für terrasse",
+    "hochdruckreiniger kaufberatung",
+    "hochdruckreiniger auto",
+    "hochdruckreiniger test 2026",
+    "hochdruckreiniger günstig"
+  ],
+  "einleitung": "Terrasse vermoost, Auto verdreckt oder Fassade vergraut? Ein Hochdruckreiniger erledigt in Minuten, wofür du mit dem Schrubber Stunden bräuchtest. Wir vergleichen vier Modelle von Budget bis Profi und zeigen, welcher Hochdruckreiniger für deine Anforderungen der richtige ist.",
+  "kaufberatung": "### Welche Leistung brauche ich wirklich?\nFür die gelegentliche Autowäsche und Terrassenreinigung reichen 100-120 bar völlig aus. Wer regelmäßig hartnäckigen Grünbelag, Moos oder Ölflecken entfernen will, sollte zu 130-150 bar greifen. Über 150 bar ist Profi-Niveau — hier muss man aufpassen, empfindliche Oberflächen nicht zu beschädigen.\n\n### Kärcher, Bosch oder Nilfisk — welche Marke?\nKärcher ist Marktführer mit dem größten Zubehörsortiment. Bosch punktet mit dem Home & Garden Akkusystem. Nilfisk bietet solide Industriequalität. Am Ende zählt das Gesamtpaket aus Druck, Fördermenge und Zubehör — nicht der Markenname.\n\n### Fördermenge — das unterschätzte Kriterium\nViele schauen nur auf den Druck, aber die Fördermenge (Liter pro Stunde) bestimmt, wie schnell du fertig wirst. Ein Gerät mit 120 bar und 500 l/h reinigt in der Praxis schneller als eines mit 140 bar und nur 350 l/h.\n\n### Das richtige Zubehör macht den Unterschied\nEin Flächenreiniger ist für Terrassen ein Muss — er arbeitet spritzfrei und gleichmäßig. Eine Schaumdüse macht die Autowäsche zum Kinderspiel. Achte beim Kauf darauf, ob wichtiges Zubehör im Lieferumfang ist oder teuer dazugekauft werden muss.\n\n### Pflege und Winterlagerung\nVor dem Winter das Restwasser komplett ablassen — gefrorenes Wasser zerstört die Pumpe. Schlauch und Düsen nach jedem Einsatz reinigen. Bei Kalkhaltigem Wasser regelmäßig entkalken.",
+  "vergleichsKategorien": [
+    {
+      "key": "druck",
+      "label": "Max. Druck",
+      "einheit": "bar",
+      "sortierung": 1
+    },
+    {
+      "key": "foerdermenge",
+      "label": "Fördermenge",
+      "einheit": "l/h",
+      "sortierung": 2
+    },
+    {
+      "key": "leistung",
+      "label": "Leistung",
+      "einheit": "W",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "schlauchlange",
+      "label": "Schlauchlänge",
+      "einheit": "m",
+      "sortierung": 5
+    },
+    {
+      "key": "zubehoer",
+      "label": "Zubehör im Lieferumfang",
+      "einheit": "",
+      "sortierung": 6
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich mit einem Hochdruckreiniger mein Auto waschen?",
+      "antwort": "Ja, aber mit Vorsicht. Verwende den Niederdruckmodus oder eine breite Flachstrahldüse und halte mindestens 30 cm Abstand. Direkt auf Dichtungen, Reifen oder Lack mit Rotationsdüse zu gehen, kann Schäden verursachen. Ideal ist eine spezielle Autowaschbürste als Zubehör."
+    },
+    {
+      "frage": "Wie viel bar brauche ich für Terrassenplatten?",
+      "antwort": "Für normale Terrassenreinigung reichen 100-130 bar. Bei starkem Moos- und Algenbelag sind 130-150 bar besser. Wichtig: Einen Flächenreiniger verwenden, der gleichmäßig reinigt und nicht spritzt. Den Hochdruckreiniger nie direkt in die Fugen richten — das spült den Sand aus."
+    },
+    {
+      "frage": "Welcher Hochdruckreiniger ist am leisesten?",
+      "antwort": "Kärcher-Modelle mit wassergekühltem Motor sind tendenziell leiser. Der Kärcher K 5 Power Control liegt bei etwa 73 dB(A). Generell gilt: Je höher die Leistungsklasse, desto lauter das Gerät. Für lärmempfindliche Nachbarschaften empfiehlt sich ein Mittelklasse-Modell mit guter Schallisolierung."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Kärcher K 2 Power Control",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0B1DQBCYP?tag=janxsiegmann-21",
+      "werte": {
+        "druck": "110",
+        "foerdermenge": "360",
+        "leistung": "1400",
+        "gewicht": "4,5",
+        "schlauchlange": "5",
+        "zubehoer": "Vario-Power-Düse, Dreckfräser"
+      }
+    },
+    {
+      "name": "Bosch UniversalAquatak 130",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B084ZLRPZH?tag=janxsiegmann-21",
+      "werte": {
+        "druck": "130",
+        "foerdermenge": "380",
+        "leistung": "1700",
+        "gewicht": "6,8",
+        "schlauchlange": "7",
+        "zubehoer": "3-in-1-Düse, Hochdruckpistole, Reinigungsmitteldüse"
+      }
+    },
+    {
+      "name": "Kärcher K 5 Power Control",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09MDFJ3FW?tag=janxsiegmann-21",
+      "werte": {
+        "druck": "145",
+        "foerdermenge": "500",
+        "leistung": "2100",
+        "gewicht": "13,1",
+        "schlauchlange": "8",
+        "zubehoer": "Vario-Power-Düse, Dreckfräser, Home Kit mit Flächenreiniger"
+      }
+    },
+    {
+      "name": "Kärcher K 7 Premium Smart Control",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09MD8J5DQ?tag=janxsiegmann-21",
+      "werte": {
+        "druck": "180",
+        "foerdermenge": "600",
+        "leistung": "3000",
+        "gewicht": "17,4",
+        "schlauchlange": "10",
+        "zubehoer": "Vario-Power-Jet, Dreckfräser, Schlauchtrommel, Bluetooth-App"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "pflanzkuebel-blumentoepfe",
+  "kategorie": "garten",
+  "titel": "Pflanzkübel/Blumentöpfe",
+  "beschreibung": "Pflanzkübel Test 2026: 4 Modelle im Vergleich ✓ Frostfest & stilvoll ✓ Für Balkon, Terrasse & Garten",
+  "keywords": [
+    "pflanzkübel",
+    "blumentopf groß",
+    "pflanzkübel außen",
+    "pflanzkübel frostfest",
+    "pflanzkübel test 2026",
+    "blumentopf terrasse",
+    "pflanzkübel vergleich",
+    "pflanztopf groß",
+    "übertopf außen",
+    "pflanzkübel kaufberatung"
+  ],
+  "einleitung": "Ob Olivenbaum auf der Terrasse, Buchsbaum vor der Haustür oder Kräuter auf dem Balkon — der richtige Pflanzkübel gibt deinen Pflanzen ein Zuhause mit Stil. Wir vergleichen vier Modelle aus verschiedenen Materialien und Preisklassen.",
+  "kaufberatung": "### Welches Material ist wetterfest?\nFiberglas und Polyrattan sind frostfest, UV-beständig und leicht. Terracotta sieht toll aus, ist aber frostempfindlich — im Winter reinräumen. Beton/Stein ist schwer und frostfest, aber unbeweglich. Kunststoff ist günstig, verblasst aber schnell in der Sonne.\n\n### Drainage — das A und O\nJeder Pflanzkübel braucht Abflusslöcher, sonst faulen die Wurzeln. Ohne Löcher eine 5 cm hohe Drainageschicht aus Blähton einbauen. Auf dem Balkon Untersetzer verwenden, damit kein Wasser auf den Nachbar-Balkon tropft.\n\n### Größe richtig wählen\nDer Topf sollte mindestens 5 cm größer sein als der Wurzelballen (Durchmesser). Zu große Töpfe führen zu Staunässe, zu kleine hemmen das Wachstum. Für Bäume und große Sträucher mindestens 40 cm Durchmesser und 40 cm Tiefe.",
+  "vergleichsKategorien": [
+    {
+      "key": "material",
+      "label": "Material",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "durchmesser",
+      "label": "Durchmesser",
+      "einheit": "cm",
+      "sortierung": 2
+    },
+    {
+      "key": "frostfest",
+      "label": "Frostfest",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht (leer)",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "drainage",
+      "label": "Drainage",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Welche Pflanzkübel sind wirklich frostfest?",
+      "antwort": "Fiberglas, Polyrattan und hochwertiger Kunststoff sind dauerhaft frostfest. Terracotta und Keramik nur mit Frostfest-Siegel, und auch dann besser an die Hauswand stellen. Stein und Beton halten Frost aus, können aber bei stehendem Wasser reißen — immer für gute Drainage sorgen."
+    },
+    {
+      "frage": "Muss ich im Winter den Pflanzkübel einwickeln?",
+      "antwort": "Bei empfindlichen Pflanzen und nicht-frostfesten Töpfen ja. Den Topf mit Noppenfolie oder Kokosmatten umwickeln und auf Styroporplatten stellen. Das schützt die Wurzeln vor Durchfrieren. Immergrüne Pflanzen an frostfreien Tagen leicht gießen — sie verdursten im Winter häufiger als sie erfrieren."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Prosperplast Urbi Square Anthrazit 40cm",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B01FTN5KP2?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Kunststoff (PP)",
+        "durchmesser": "40",
+        "frostfest": "Ja",
+        "gewicht": "1,5",
+        "drainage": "Einsatz mit Überlauf"
+      }
+    },
+    {
+      "name": "Lechuza Cubeto Stone 40",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B07N1JY2C5?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Kunststoff (Stein-Optik)",
+        "durchmesser": "40",
+        "frostfest": "Ja",
+        "gewicht": "3,8",
+        "drainage": "Ja + Bewässerungssystem"
+      }
+    },
+    {
+      "name": "Vivanno Pflanzkübel ELEMENTO Fiberglas",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B00FHS5VCA?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Fiberglas",
+        "durchmesser": "40",
+        "frostfest": "Ja",
+        "gewicht": "5,0",
+        "drainage": "Abflussloch mit Stopfen"
+      }
+    },
+    {
+      "name": "Lechuza Cube Premium 50",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B01E6UQSMQ?tag=janxsiegmann-21",
+      "werte": {
+        "material": "Kunststoff (lackiert) + Edelstahl",
+        "durchmesser": "50",
+        "frostfest": "Bedingt (nicht bei Dauerfrost)",
+        "gewicht": "8,5",
+        "drainage": "Lechuza Bewässerungssystem"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

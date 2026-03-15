@@ -1,0 +1,118 @@
+{
+  "slug": "gartenschlauch-dehnbar",
+  "kategorie": "garten",
+  "titel": "Gartenschlauch (dehnbar/flexibel)",
+  "beschreibung": "Flexibler Gartenschlauch Test 2026: Die 4 besten dehnbaren Schläuche ✓ Leicht & kompakt ✓ Kein Knicken & Verheddern",
+  "keywords": [
+    "flexibler gartenschlauch",
+    "dehnbarer gartenschlauch test",
+    "flexischlauch garten",
+    "gartenschlauch dehnbar test 2026",
+    "flexi schlauch",
+    "gartenschlauch leicht",
+    "dehnschlauch garten",
+    "gartenschlauch ohne knicken",
+    "bester flexibler gartenschlauch",
+    "gartenschlauch kaufberatung"
+  ],
+  "einleitung": "Schwere, kinkende Gartenschläuche nerven? Flexible Dehnschläuche wiegen nur einen Bruchteil und lassen sich auf Handtaschengröße zusammenfalten. Wir haben vier dehnbare Gartenschläuche verglichen — von günstig bis langlebig — und zeigen dir, worauf du beim Kauf achten musst.",
+  "kaufberatung": "### Wie funktioniert ein dehnbarer Gartenschlauch?\nDehnbare Gartenschläuche bestehen aus einem Latexkern, der sich bei Wasserdruck auf das 2-3-fache seiner Länge ausdehnt. Ohne Druck zieht er sich wieder zusammen. Die äußere Hülle aus Polyester schützt vor mechanischen Schäden. Das Ergebnis: Ein 30-Meter-Schlauch passt zusammengefaltet in eine Schublade.\n\n### Worauf kommt es bei der Haltbarkeit an?\nDer Latexkern ist die Schwachstelle. Doppellagiger Latex hält deutlich länger als einlagiger. Die Anschlüsse sollten aus Messing statt Plastik sein — Plastikverschraubungen brechen nach einer Saison. UV-beständige Außenhülle ist Pflicht, wenn der Schlauch in der Sonne liegt.\n\n### Welche Länge brauche ich?\nMiss die Entfernung vom Wasserhahn bis zur entferntesten Gartenecke. Dehnbare Schläuche verlieren im gedehnten Zustand etwas an Wasserdruck — plane also 20 % mehr Länge ein als bei einem starren Schlauch. Für die meisten Gärten reichen 15-22,5 Meter.\n\n### Häufige Probleme und Lösungen\nProblem Nummer 1: Der Schlauch platzt nach wenigen Monaten. Lösung: Nicht in praller Sonne unter Druck liegen lassen und vor dem Winter komplett entleeren. Problem Nummer 2: Zu wenig Wasserdruck. Dehnschläuche brauchen mindestens 3 bar Eingangsdruck — bei schwachem Hauswasserdruck nicht ideal.",
+  "vergleichsKategorien": [
+    {
+      "key": "laenge_gedehnt",
+      "label": "Länge (gedehnt)",
+      "einheit": "m",
+      "sortierung": 1
+    },
+    {
+      "key": "material_kern",
+      "label": "Kernmaterial",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "anschluesse",
+      "label": "Anschlüsse",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "brause_inkl",
+      "label": "Brause inklusive",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange hält ein flexibler Gartenschlauch?",
+      "antwort": "Günstige Modelle halten 1-2 Saisons, hochwertige Schläuche mit doppellagigem Latex und Messinganschlüssen 3-5 Jahre. Entscheidend ist die Pflege: Nicht unter Druck in der Sonne liegen lassen, im Winter frostfrei lagern und regelmäßig auf Risse prüfen."
+    },
+    {
+      "frage": "Kann ich einen Dehnschlauch an jeden Wasserhahn anschließen?",
+      "antwort": "Ja, die meisten Modelle kommen mit Standard-Adapter für 1/2-Zoll und 3/4-Zoll Anschlüsse. Ein Gardena-kompatibler Schnellkupplungsadapter ist bei vielen Modellen im Lieferumfang. Bei ungewöhnlichen Hahnformaten brauchst du eventuell einen separaten Adapter."
+    },
+    {
+      "frage": "Ist der Wasserdruck bei Dehnschläuchen schwächer?",
+      "antwort": "Leicht, ja. Durch die Elastizität des Schlauchs geht etwas Druck verloren, besonders bei langen Schläuchen über 20 Meter. Für normales Gießen und Rasensprengen reicht es aber problemlos. Nur bei anspruchsvolleren Anwendungen wie Hochdruckreiniger-Anschluss sind starre Schläuche besser geeignet."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Kesser Flexibler Gartenschlauch 30m",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0C1J5XQZF?tag=janxsiegmann-21",
+      "werte": {
+        "laenge_gedehnt": "30",
+        "material_kern": "Latex (einlagig)",
+        "anschluesse": "Kunststoff mit Messing-Inlay",
+        "gewicht": "1,8",
+        "brause_inkl": "Ja, 10-Funktionen"
+      }
+    },
+    {
+      "name": "Gardena Liano Xtreme 22,5m",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BYF6B1NR?tag=janxsiegmann-21",
+      "werte": {
+        "laenge_gedehnt": "22,5",
+        "material_kern": "Textilgewebe (kein Latex)",
+        "anschluesse": "Gardena-System (Kunststoff)",
+        "gewicht": "1,5",
+        "brause_inkl": "Ja, 3-Funktionen"
+      }
+    },
+    {
+      "name": "Kärcher PrimoFlex Premium 25m",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B09WDNZ13K?tag=janxsiegmann-21",
+      "werte": {
+        "laenge_gedehnt": "25",
+        "material_kern": "3-Schicht Premium-Gewebe",
+        "anschluesse": "Messing",
+        "gewicht": "2,1",
+        "brause_inkl": "Nein"
+      }
+    },
+    {
+      "name": "Hozelock Superhoze 30m",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08QMK6SMC?tag=janxsiegmann-21",
+      "werte": {
+        "laenge_gedehnt": "30",
+        "material_kern": "Doppellagiger Latex",
+        "anschluesse": "Messing",
+        "gewicht": "2,3",
+        "brause_inkl": "Ja, 7-Funktionen"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "bewaesserungscomputer",
+  "kategorie": "garten",
+  "titel": "Bewässerungscomputer",
+  "beschreibung": "Bewässerungscomputer Test 2026: 4 smarte Modelle im Vergleich ✓ WLAN & App-Steuerung ✓ Nie mehr vergessen zu gießen",
+  "keywords": [
+    "bewässerungscomputer",
+    "bewässerungscomputer test",
+    "bewässerungscomputer wlan",
+    "gardena bewässerungscomputer",
+    "smarte bewässerung garten",
+    "bewässerungscomputer app",
+    "bewässerungssteuerung test 2026",
+    "automatische bewässerung garten",
+    "bewässerungscomputer vergleich",
+    "rasen bewässerung automatisch"
+  ],
+  "einleitung": "Dein Garten verdurstet im Urlaub und du vergisst ständig das Gießen? Ein Bewässerungscomputer übernimmt das automatisch — und smarte Modelle passen sich sogar dem Wetter an. Wir vergleichen vier Geräte vom einfachen Timer bis zur intelligenten WLAN-Lösung.",
+  "kaufberatung": "### Einfacher Timer oder smarter Bewässerungscomputer?\nEin klassischer Timer schaltet das Wasser zu festgelegten Zeiten ein und aus — simpel und zuverlässig. Smarte Modelle mit WLAN lassen sich per App steuern, reagieren auf Wettervorhersagen und sparen so bis zu 50 % Wasser. Für einen kleinen Garten reicht der Timer, bei mehreren Zonen lohnt sich die smarte Variante.\n\n### Wie viele Bewässerungszonen brauche ich?\nRasen, Beete und Topfpflanzen haben unterschiedlichen Wasserbedarf. Jede Zone braucht einen eigenen Ausgang am Computer. Für die meisten Gärten reichen 2-4 Zonen. Der Gardena smart Water Control steuert einen Ausgang, kann aber mit weiteren Einheiten erweitert werden.\n\n### Bodenfeuchtesensor — sinnvoll oder überflüssig?\nEin Bodenfeuchtesensor verhindert, dass gegossen wird, wenn der Boden noch feucht genug ist. Das spart Wasser und schützt Pflanzen vor Staunässe. Besonders bei automatisierten Systemen empfehlen wir dringend einen Sensor — er amortisiert sich über die Wasserrechnung.\n\n### Installation — so schließt du den Computer an\nDer Bewässerungscomputer wird direkt am Außenwasserhahn angeschlossen (3/4-Zoll Gewinde ist Standard). Dahinter kommen Verteiler und Schläuche zu den einzelnen Zonen. Wichtig: Im Winter abbauen und frostfrei lagern, sonst platzt das Ventil.",
+  "vergleichsKategorien": [
+    {
+      "key": "zonenanzahl",
+      "label": "Anzahl Zonen",
+      "einheit": "",
+      "sortierung": 1
+    },
+    {
+      "key": "steuerung",
+      "label": "Steuerung",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "bewaesserungsdauer",
+      "label": "Bewässerungsdauer",
+      "einheit": "min",
+      "sortierung": 3
+    },
+    {
+      "key": "display",
+      "label": "Display",
+      "einheit": "",
+      "sortierung": 4
+    },
+    {
+      "key": "stromversorgung",
+      "label": "Stromversorgung",
+      "einheit": "",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Kann ich einen Bewässerungscomputer auch für Tropfschläuche nutzen?",
+      "antwort": "Ja, das funktioniert sogar besonders gut. Der Bewässerungscomputer steuert einfach das Wasser zum Tropfschlauch. Achte nur darauf, dass der Wasserdruck zum Tropfsystem passt — einige Computer haben einen integrierten Druckminderer, was bei Tropfbewässerung ideal ist."
+    },
+    {
+      "frage": "Wie genau sind die Zeitprogramme?",
+      "antwort": "Digitale Bewässerungscomputer sind auf die Minute genau. Analoge Drehregler haben eine Toleranz von 5-10 Minuten. Für die meisten Garten-Anwendungen ist das ausreichend. Smarte Modelle mit Wetteranbindung passen die Zeiten automatisch an — das ist deutlich besser als jede feste Programmierung."
+    },
+    {
+      "frage": "Funktioniert ein WLAN-Bewässerungscomputer auch ohne Internet?",
+      "antwort": "Ja, die gespeicherten Programme laufen lokal weiter. Ohne Internet funktionieren nur die Fernsteuerung per App und die Wetteranpassung nicht. Der Gardena smart Water Control speichert alle Zeitpläne im Gerät selbst."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Gardena Bewässerungssteuerung Flex",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B0CQN8Y9NZ?tag=janxsiegmann-21",
+      "werte": {
+        "zonenanzahl": "1",
+        "steuerung": "Drehregler + Display",
+        "bewaesserungsdauer": "1–120",
+        "display": "LCD",
+        "stromversorgung": "1x 9V Batterie"
+      }
+    },
+    {
+      "name": "Gardena Bewässerungssteuerung Select",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0CQN2YBP9?tag=janxsiegmann-21",
+      "werte": {
+        "zonenanzahl": "1",
+        "steuerung": "Tasten + Display",
+        "bewaesserungsdauer": "1–360",
+        "display": "LCD mit Zeitanzeige",
+        "stromversorgung": "1x 9V Batterie"
+      }
+    },
+    {
+      "name": "Gardena smart Water Control",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B0DFM6TQT9?tag=janxsiegmann-21",
+      "werte": {
+        "zonenanzahl": "1 (erweiterbar)",
+        "steuerung": "App (WLAN/Bluetooth)",
+        "bewaesserungsdauer": "1–360",
+        "display": "LED-Statusanzeige",
+        "stromversorgung": "3x AA Batterien"
+      }
+    },
+    {
+      "name": "Eve Aqua (Apple HomeKit)",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B0CP64MBQV?tag=janxsiegmann-21",
+      "werte": {
+        "zonenanzahl": "1",
+        "steuerung": "Apple Home / Siri / Thread",
+        "bewaesserungsdauer": "1–360",
+        "display": "LED-Statusanzeige",
+        "stromversorgung": "2x AA Batterien"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

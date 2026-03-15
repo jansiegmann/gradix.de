@@ -1,0 +1,118 @@
+{
+  "slug": "laubsauger-laubblaeser",
+  "kategorie": "garten",
+  "titel": "Laubsauger/Laubbläser",
+  "beschreibung": "Laubbläser Test 2026: 4 Akku-Modelle im Vergleich ✓ Blasen, Saugen & Häckseln ✓ Leise & kabellos",
+  "keywords": [
+    "laubsauger",
+    "laubbläser",
+    "laubsauger test",
+    "akku laubbläser",
+    "laubbläser test 2026",
+    "laubsauger vergleich",
+    "bester laubbläser",
+    "laubbläser akku",
+    "laubbläser leise",
+    "laubsauger mit häcksler"
+  ],
+  "einleitung": "Herbstlaub, Rasenschnitt und leichter Schmutz — ein Akku-Laubbläser räumt in Minuten auf, wofür du mit dem Rechen Stunden brauchst. Wir vergleichen vier Modelle mit Blas- und Saugfunktion und zeigen, welcher Laubbläser Kraft und Lautstärke am besten ausbalanciert.",
+  "kaufberatung": "### Bläser, Sauger oder Kombigerät?\nReine Laubbläser sind leichter und kräftiger beim Blasen. Kombigeräte mit Saug- und Häckselfunktion sammeln das Laub gleich ein und zerkleinern es auf 1/10 des Volumens. Für die meisten Gartenbesitzer ist das Kombigerät die beste Wahl.\n\n### Luftgeschwindigkeit und Luftvolumen\nDie Luftgeschwindigkeit (km/h) bestimmt, wie schwere Gegenstände bewegt werden. Das Luftvolumen (m³/h) bestimmt, wie breit der Luftstrom ist. Für nasses, schweres Laub brauchst du hohe Geschwindigkeit (über 250 km/h). Für trockenes Laub auf großen Flächen zählt das Volumen mehr.\n\n### Lautstärke — ein echtes Thema\nLaubbläser sind laut und nerven Nachbarn. Akku-Modelle sind deutlich leiser als Benziner (80-95 dB vs. 100-115 dB). Trotzdem gelten in vielen Gemeinden Einschränkungen: Werktags 9-13 und 15-17 Uhr, Samstags 9-13 Uhr. An Sonn- und Feiertagen ist der Einsatz verboten.\n\n### Ergonomie und Gewicht\nMit Saugfunktion und vollem Fangsack wiegt ein Kombigerät schnell 5-6 kg. Achte auf einen gepolsterten Tragegurt und einen ergonomischen Griff. Der Bosch UniversalGardenTidy hat z. B. einen besonders komfortablen Griff mit Softgrip.",
+  "vergleichsKategorien": [
+    {
+      "key": "luftgeschwindigkeit",
+      "label": "Max. Luftgeschwindigkeit",
+      "einheit": "km/h",
+      "sortierung": 1
+    },
+    {
+      "key": "saugfunktion",
+      "label": "Saugfunktion",
+      "einheit": "",
+      "sortierung": 2
+    },
+    {
+      "key": "haeckselfunktion",
+      "label": "Häckselfunktion",
+      "einheit": "",
+      "sortierung": 3
+    },
+    {
+      "key": "gewicht",
+      "label": "Gewicht",
+      "einheit": "kg",
+      "sortierung": 4
+    },
+    {
+      "key": "lautstaerke",
+      "label": "Lautstärke",
+      "einheit": "dB(A)",
+      "sortierung": 5
+    }
+  ],
+  "faq": [
+    {
+      "frage": "Wann darf ich einen Laubbläser benutzen?",
+      "antwort": "Laut der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) dürfen Laubbläser in Wohngebieten nur werktags von 9 bis 13 Uhr und 15 bis 17 Uhr verwendet werden. Samstags gelten dieselben Zeiten. An Sonn- und Feiertagen ist der Einsatz verboten. Einige Gemeinden haben strengere Regelungen — informiere dich bei deiner Kommune."
+    },
+    {
+      "frage": "Kann ich mit einem Laubbläser auch nasses Laub entfernen?",
+      "antwort": "Im Blasmodus nur eingeschränkt — nasses Laub klebt am Boden. Im Saugmodus funktioniert es besser, allerdings verstopft der Häcksler schneller. Am besten wartest du, bis das Laub angetrocknet ist. Modelle mit hoher Luftgeschwindigkeit (über 250 km/h) wie der Einhell GE-CL 36/230 Li schaffen auch leicht feuchtes Laub."
+    },
+    {
+      "frage": "Sind Laubbläser schlecht für die Umwelt?",
+      "antwort": "Benzin-Laubbläser ja — sie stoßen mehr Schadstoffe aus als Autos. Akku-Modelle sind deutlich umweltfreundlicher. Aus ökologischer Sicht ist aber auch der Einsatz von Akku-Laubbläsern umstritten, da sie Kleinstlebewesen und Insekten aufwirbeln. Experten empfehlen, Laubhaufen in Gartenecken als Winterquartier für Igel und Insekten liegen zu lassen."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell GE-CL 18/1 Li E-Solo",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B08CJHH3Y2?tag=janxsiegmann-21",
+      "werte": {
+        "luftgeschwindigkeit": "210",
+        "saugfunktion": "Ja",
+        "haeckselfunktion": "Ja (10:1)",
+        "gewicht": "3,2",
+        "lautstaerke": "83"
+      }
+    },
+    {
+      "name": "Bosch UniversalGardenTidy 2300",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B084ZLXMKS?tag=janxsiegmann-21",
+      "werte": {
+        "luftgeschwindigkeit": "285",
+        "saugfunktion": "Ja",
+        "haeckselfunktion": "Ja (12:1)",
+        "gewicht": "3,4",
+        "lautstaerke": "83"
+      }
+    },
+    {
+      "name": "Makita DUB187Z (Akku)",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B075RZJ72X?tag=janxsiegmann-21",
+      "werte": {
+        "luftgeschwindigkeit": "252",
+        "saugfunktion": "Ja",
+        "haeckselfunktion": "Ja",
+        "gewicht": "3,5",
+        "lautstaerke": "86"
+      }
+    },
+    {
+      "name": "Einhell GE-CL 36/230 Li E Kit",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B09LCG9SQJ?tag=janxsiegmann-21",
+      "werte": {
+        "luftgeschwindigkeit": "230",
+        "saugfunktion": "Ja",
+        "haeckselfunktion": "Ja (10:1)",
+        "gewicht": "4,0",
+        "lautstaerke": "85"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}

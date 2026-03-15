@@ -1,0 +1,96 @@
+{
+  "slug": "akku-rasenmaeher",
+  "kategorie": "garten",
+  "titel": "Akku-Rasenmäher",
+  "beschreibung": "Akku-Rasenmäher Test 2026: Die 4 besten Modelle im Vergleich ✓ Budget bis Profi ✓ Ehrliche Kaufberatung für jede Gartengröße",
+  "keywords": ["akku-rasenmäher", "akku rasenmäher test", "bester akku rasenmäher", "akku rasenmäher vergleich", "rasenmäher akku test 2026", "akku rasenmäher für großen garten", "akku rasenmäher mit mulchfunktion", "kabelloser rasenmäher", "akku rasenmäher kaufberatung", "rasenmäher ohne kabel"],
+  "einleitung": "Du suchst einen Akku-Rasenmäher, der zu deinem Garten passt — aber die Auswahl ist riesig? Wir haben vier Modelle vom günstigen Einstieg bis zum Profi-Gerät verglichen und zeigen dir, worauf es beim Kauf wirklich ankommt. So findest du den Akku-Rasenmäher, der Leistung, Laufzeit und Preis am besten unter einen Hut bringt.",
+  "kaufberatung": "### Für wen eignet sich welches Modell?\nKleine Gärten bis 200 m² kommen mit einem kompakten 18V-Mäher wie dem Einhell GE-CM 18/33 Li bestens zurecht. Für mittelgroße Flächen bis 500 m² empfiehlt sich ein Doppel-Akku-System wie beim Bosch UniversalRotak. Wer über 500 m² mäht oder dichtes Gras hat, braucht die Power eines 36V-Mähers wie dem Makita DLM432. Und für große Gärten mit Hanglage ist der EGO Power+ mit Radantrieb die erste Wahl.\n\n### Schnittbreite und Rasenfläche — so findest du die richtige Größe\nDie Schnittbreite bestimmt, wie viele Bahnen du brauchst. Bei 33 cm Schnittbreite mähst du einen 200-m²-Garten gemütlich in 20 Minuten. Mit 43 cm geht es deutlich schneller — bei 500 m² merkst du den Unterschied sofort. Faustregel: Pro 100 m² zusätzlicher Fläche sollte die Schnittbreite um etwa 3-5 cm steigen.\n\n### Akkulaufzeit — das unterschätzte Kriterium\nDie Herstellerangaben zur Flächenleistung gelten für trockenen, kurzen Rasen. Bei feuchtem oder hohem Gras kann die Laufzeit um 30-50 % sinken. Wer auf Nummer sicher gehen will, kauft direkt einen Zweitakku. Besonders praktisch: Systemakkus von Einhell (Power X-Change), Bosch (Power for All) oder Makita (LXT) passen in viele andere Gartengeräte.\n\n### Mulchen oder Fangen — was ist besser?\nMulchen spart Zeit und düngt den Rasen gleichzeitig. Nicht jeder Akku-Rasenmäher kann das ab Werk — beim Makita DLM432 ist der Mulchkeil separat erhältlich. Wer einen gepflegten englischen Rasen will, fängt besser auf. Für naturnahe Gärten ist Mulchen die bessere Wahl.\n\n### Häufige Fehler beim Kauf eines Akku-Rasenmähers\nDer häufigste Fehler: Ein zu kleines Modell für den Garten kaufen. Der zweitgrößte: Vergessen, dass Akku und Ladegerät oft separat kosten. Beim Bosch UniversalRotak etwa macht das Set mit Akkus rund 100 € mehr aus als die Solo-Version. Prüfe auch die Ladezeit — manche Akkus brauchen über zwei Stunden.\n\n### Pflege und Wartung — so hält dein Mäher lange\nNach jedem Mähen die Unterseite mit einem feuchten Tuch abwischen. Das Messer einmal pro Saison schärfen oder tauschen. Akkus niemals komplett entladen und im Winter frostfrei bei etwa 40 % Ladung lagern. So hält ein guter Akku locker 5-8 Jahre.",
+  "vergleichsKategorien": [
+    { "key": "schnittbreite", "label": "Schnittbreite", "einheit": "cm", "sortierung": 1 },
+    { "key": "akkulaufzeit_flaeche", "label": "Max. Rasenfläche", "einheit": "m²", "sortierung": 2 },
+    { "key": "fangkorb", "label": "Fangkorbvolumen", "einheit": "l", "sortierung": 3 },
+    { "key": "gewicht", "label": "Gewicht (mit Akku)", "einheit": "kg", "sortierung": 4 },
+    { "key": "schnitthoehe", "label": "Schnitthöhe", "einheit": "mm", "sortierung": 5 },
+    { "key": "radantrieb", "label": "Radantrieb", "einheit": "", "sortierung": 6 },
+    { "key": "lautstaerke", "label": "Lautstärke", "einheit": "dB(A)", "sortierung": 7 }
+  ],
+  "faq": [
+    {
+      "frage": "Wie lange hält der Akku eines Akku-Rasenmähers?",
+      "antwort": "Das hängt stark von der Akkukapazität, der Rasenbeschaffenheit und der Schnitthöhe ab. Ein 4,0-Ah-Akku bei 18V reicht typischerweise für 200-300 m² trockenen Rasen. Doppel-Akku-Systeme mit 36V schaffen 400-600 m². Der EGO Power+ mit 56V und 5,0 Ah kommt auf bis zu 800 m²."
+    },
+    {
+      "frage": "Kann ein Akku-Rasenmäher nasses Gras mähen?",
+      "antwort": "Grundsätzlich ja, aber die Leistung sinkt deutlich. Nasses Gras verklebt das Mähwerk schneller, der Akku wird stärker beansprucht und das Schnittbild leidet. Wir empfehlen, nach Möglichkeit bei trockenem Rasen zu mähen — das schont Gerät und Akku gleichermaßen."
+    },
+    {
+      "frage": "Sind Akku-Rasenmäher leiser als Benziner?",
+      "antwort": "Ja, deutlich. Ein typischer Akku-Rasenmäher erzeugt 75-85 dB(A), ein Benziner kommt auf 90-100 dB(A). Das klingt nach wenig Unterschied, bedeutet aber in der Praxis eine Halbierung der wahrgenommenen Lautstärke. Damit kannst du auch am Wochenende mähen, ohne die Nachbarn zu verärgern."
+    },
+    {
+      "frage": "Lohnt sich ein Akku-Rasenmäher mit Radantrieb?",
+      "antwort": "Bei flachem Gelände und kleinen Flächen ist ein Radantrieb unnötig. Sobald du aber Hanglagen hast oder der Garten über 400 m² groß ist, macht er das Mähen deutlich bequemer. Der EGO Power+ LM1903E-SP bietet einen variablen Radantrieb, der sich stufenlos regeln lässt — ideal für hügeliges Gelände."
+    }
+  ],
+  "produkte": [
+    {
+      "name": "Einhell GE-CM 18/33 Li Kit",
+      "preisklasse": "Budget",
+      "amazonLink": "https://www.amazon.de/dp/B083X2T3MD?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "33",
+        "akkulaufzeit_flaeche": "200",
+        "fangkorb": "30",
+        "gewicht": "11,1",
+        "schnitthoehe": "25–65",
+        "radantrieb": "Nein",
+        "lautstaerke": "75"
+      }
+    },
+    {
+      "name": "Bosch UniversalRotak 2x18V-37-550",
+      "preisklasse": "Mittelklasse",
+      "amazonLink": "https://www.amazon.de/dp/B0BTZWQD49?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "37",
+        "akkulaufzeit_flaeche": "500",
+        "fangkorb": "40",
+        "gewicht": "13,7",
+        "schnitthoehe": "25–70",
+        "radantrieb": "Nein",
+        "lautstaerke": "79"
+      }
+    },
+    {
+      "name": "Makita DLM432PT2",
+      "preisklasse": "Premium",
+      "amazonLink": "https://www.amazon.de/dp/B087XPSFT8?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "43",
+        "akkulaufzeit_flaeche": "575",
+        "fangkorb": "50",
+        "gewicht": "17,5",
+        "schnitthoehe": "20–75",
+        "radantrieb": "Nein",
+        "lautstaerke": "81"
+      }
+    },
+    {
+      "name": "EGO Power+ LM1903E-SP",
+      "preisklasse": "Profi",
+      "amazonLink": "https://www.amazon.de/dp/B08GSPPZFK?tag=janxsiegmann-21",
+      "werte": {
+        "schnittbreite": "47",
+        "akkulaufzeit_flaeche": "800",
+        "fangkorb": "55",
+        "gewicht": "25,0",
+        "schnitthoehe": "20–80",
+        "radantrieb": "Ja, variabel",
+        "lautstaerke": "80"
+      }
+    }
+  ],
+  "erstelltAm": "2026-03-15",
+  "aktualisiertAm": "2026-03-15"
+}
